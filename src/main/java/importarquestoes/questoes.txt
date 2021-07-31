@@ -1,0 +1,93 @@
+GRUPO:
+1
+
+MODELO:
+1
+
+ENUNCIADO: 
+Os rins são órgãos responsáveis pela filtração do sangue e da formação de urina. Internamente, sua anatomia é composta por uma camada fibrosa de textura fina, uma camada formada por estruturas triangulares que coletam a urina formada nos néfrons e, por estruturas que recebem os ductos e convergem entre si, direcionando a urina para os ureteres. Com base nas informações e em seus conhecimentos, analise a imagem abaixo e relacione as alternativas correspondentes por meio de toques nos pares.
+
+IMAGEM: 
+img1m1uri
+
+LEGENDA DA IMAGEM: 
+Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS:
+I = Córtex: onde se localizam os néfrons
+II = Medula: agrupamento de pirâmides (ductos)
+III = Pelve: ponto de convergência dos cálices
+
+FEEDBACK IMAGEM: 
+img1m1uri
+
+LEGENDA DA IMAGEM DE FEEDBACK: 
+Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO: 
+Os rins são órgãos responsáveis pela filtração do sangue e da formação de urina. Internamente, sua anatomia é composta por uma camada fibrosa de textura fina, onde se localizam os néfrons, denominada córtex renal (representado em I). 
+Abaixo do córtex, há uma camada formada por estruturas triangulares (pirâmides renais), que consistem em agrupamentos de ductos, os quais coletam a urina formada nos néfrons, constituindo a medula renal (representado em II).  
+Na parte final das pirâmides renais, a urina sai da medula renal para estruturas denominadas cálices renais, que se reúnem em forma de funil formando a pelve renal (representada por III), que direciona a urina aos ureteres.
+fim
+
+GRUPO:
+1
+
+MODELO
+1
+
+ENUNCIADO: 
+Os néfrons são unidades funcionais dos rins, que consistem em estruturas tubulares compostas pelas estruturas I e II na figura abaixo, cujo líquido (filtrado) produzido desemboca na estrutura III. Analise a figura e relacione as alternativas correspondentes por meio de toques nos pares.
+
+IMAGEM: 
+img2m1uri
+
+LEGENDA DA IMAGEM: 
+Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS:
+I = Corpúsculo renal: filtragem do sangue
+II = Túbulo néfrico: reabsorção e secreção de substâncias
+III = Ducto coletor: condução da urina
+
+FEEDBACK IMAGEM: 
+img2m1uri
+
+LEGENDA DA IMAGEM DE FEEDBACK: 
+Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO: 
+Os néfrons são unidades funcionais dos rins, que consistem em estruturas tubulares compostas por duas partes: o corpúsculo renal (representado em I), formado pela cápsula renal (uma expansão em forma de taça) e, interiormente, pelo glomérulo renal onde o sangue é filtrado; e outra parte que consiste no túbulo renal ou néfrico (representado em II), pelo qual passa o filtrado, desembocando no ducto coletor (representado por III).
+fim
+
+GRUPO:
+1
+
+MODELO
+1
+
+ENUNCIADO: 
+O corpúsculo renal é a primeira porção do néfron, sendo responsável pela filtragem do sangue para posterior produção da urina. A figura abaixo representa um corpúsculo renal com identificação de algumas de suas estruturas. Com base em seus conhecimentos sobre a anatomia dos néfrons, analise a figura e relacione as alternativas correspondentes por meio de toques nos pares.
+
+IMAGEM: 
+img3m1uri
+
+LEGENDA DA IMAGEM: 
+Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS:
+I = Arteríola: vasos sanguíneos que se comunicam com o néfron
+II = Glomérulo: novelo de capilares sanguíneos
+III = Cápsula renal: expansão externa do corpúsculo
+
+FEEDBACK IMAGEM: 
+img3m1uri
+
+LEGENDA DA IMAGEM DE FEEDBACK: 
+Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO: 
+O sangue entre e sai dos néfrons por meio de arteríolas (representadas por I). As arteríolas que entram no néfron, levando o sangue a ser filtrado, são chamadas de arteríolas aferentes, enquanto as que saem, confluindo para vasos de maior calibre, são chamadas de arteríolas eferentes.
+O glomérulo (representado por II) consiste em um enovelado de capilares sanguíneos, onde o sangue passa por alta pressão, forçando a saída de líquido sanguíneo, filtrando-o e direcionando-o para a cápsula renal.
+A cápsula renal (representada por III) consiste em uma estrutura epitelial de parede dupla em forma de taça, que circunda o glomérulo, pelo qual o filtrado glomerular é direcionado, confluindo para o túbulo néfrico. 
+fim
