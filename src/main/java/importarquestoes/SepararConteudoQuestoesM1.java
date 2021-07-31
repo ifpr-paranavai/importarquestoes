@@ -63,7 +63,7 @@ public class SepararConteudoQuestoesM1 {
 				JsonArray arrayPares = new JsonArray();
 				Boolean temPar = true;
 				int idPar = 1;
-				while (temPar) {				
+				while (temPar) {			
 					
 					if (linha.trim().length() > 5) {
 					
@@ -94,9 +94,8 @@ public class SepararConteudoQuestoesM1 {
 						temPar = false;
 					}
 				}
-				Gson gson = new Gson();
-				String a=gson.toJson(arrayPares);
-				System.out.println(a);
+				
+				System.out.println(arrayPares);
 				questao.add("pares", arrayPares);
 			
 				linha = lerArq.readLine();
@@ -135,8 +134,7 @@ public class SepararConteudoQuestoesM1 {
 
 		    gravarArq.printf(questoes.toString());
 		    
-		    gravarArq.printf("fim!!");
-		 
+		  
 		    gravarArq.close();
 
 		
