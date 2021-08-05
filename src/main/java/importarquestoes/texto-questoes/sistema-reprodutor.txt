@@ -1,0 +1,661 @@
+GRUPO
+5
+
+MODELO
+1
+
+ENUNCIADO
+O sistema genital humano é composto de órgãos externos e internos. Na figura abaixo, encontra-se representada a anatomia externa da genitália masculina. Sob este aspecto, analise a figura e, com base em seus conhecimentos, determine as estruturas I, II e III por meio de toques nos pares com as alternativas correspondentes.
+
+IMAGEM
+img1m1repro
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Wumingbai, Domínio Público, via Wikimedia Commons. Disponível aqui.
+
+PARES CORRETOS
+I =  Glande: extremidade do pênis com grande sensibilidade
+II = Corpo do pênis: formado pelos corpos esponjoso e cavernoso
+III = Escroto: bolsa onde se localizam os testículos
+
+FEEDBACK IMAGEM
+img1m1repro
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Wumingbai, Domínio Público, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+A glande do pênis (representada em I) está localizada em sua extremidade, e consiste em uma região aumentada com grande sensibilidade ao estímulo sexual. O corpo do pênis possui três massas de tecido erétil: dois corpos cavernosos, localizados nas laterais, e um corpo esponjoso, localizado medialmente ao redor da uretra. O escroto consiste em um saco musculocutâneo situado na base do pênis, entre as coxas, que contém os testículos (gônadas masculinas) e o epidídimo.
+fim
+
+GRUPO
+5
+
+MODELO
+1
+
+ENUNCIADO
+O pudendo feminino (anteriormente chamado de vulva) consiste na parte externa do sistema genital feminino, conforme representado na figura abaixo. Sob este aspecto, analise a figura e as indicações numeradas, e determine as estruturas I, II e III, por meio de toques nos pares com as alternativas.
+
+IMAGEM
+img2m1repro
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Fyrstinnen, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
+
+PARES CORRETOS
+I =  Clitóris: órgão com sensibilidade ao estímulo sexual
+II = Lábios vaginais: pregas que delimitam a entrada vaginal
+III = Óstio vaginal: abertura da vagina
+
+FEEDBACK IMAGEM
+img2m1repro
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Fyrstinnen, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+O clitóris (representado em I) consiste em um órgão de cerca de 1 centímetro composto por tecido erétil e diversos nervos e vasos sanguíneos, sensível o estímulo sexual, sendo capaz de aumentar e se encher de sangue, ficando intumescido durante a excitação da mulher. 
+Os lábios – maiores e menores – (representado em II), são dobras/pregas que delimitam a entrada vaginal. Os lábios maiores, localizados mais externamente, se estendem paralelamente desde a região inferior do púbis até as proximidades do períneo e ânus. Internamente, os lábios menores são duas pregas mais delicadas que delimitam a entrada da vagina.
+O óstio vaginal, consiste na abertura da vagina, localizado no vestíbulo vaginal. Internamente, se a mulher ainda for virgem, o orifício da vagina é parcialmente recoberto pelo hímen, uma membrana mucosa que se rompe no primeiro ato sexual, até então com função desconhecida.
+fim
+
+GRUPO
+5
+
+MODELO
+1
+
+ENUNCIADO
+O sistema genital feminino compõe-se de órgãos e estruturas situados internamente e externamente ao corpo da mulher. Na figura abaixo, encontra-se representado o aparelho genital interno da mulher. Sob este aspecto, analise a figura e as indicações, e determine as estruturas I, II e III por meio de toque nos pares com as alternativas correspondentes.
+
+IMAGEM
+img3m1repro
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Jmarchn, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponível aqui.
+
+PARES CORRETOS
+I = Ovário: gônada feminina
+II = Útero: local de implantação do óvulo e gestação
+III = Vagina: tubo de comunicação entre pudendo e útero
+
+FEEDBACK IMAGEM
+img3m1repro
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Jmarchn, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+Os ovários (representado em I) são duas estruturas do sistema genital feminino, consistindo em gônadas, que consistem em estruturas ovoides com cerca de 3 cm. São responsáveis pela produção de gametas (ovócitos secundários) e hormônios femininos.
+O útero (representado em II) é um órgão muscular oco serve como parte da via para o espermatozoide depositado na vagina alcance a tuba uterina. Além disso, também é o local de implantação de um óvulo fertilizado, desenvolvimento do feto durante a gestação e trabalho de parto.
+A vagina (representada em III) é um tubo de paredes fibromusculares, como cerca de 10 cm de comprimento, que vai do pudendo até o cérvix uterino (base do útero). É o receptáculo do pênis durante o ato sexual, bem como a saída para o fluxo menstrual e da passagem do bebê no parto normal.
+fim
+
+GRUPO
+5
+
+MODELO
+2
+
+ENUNCIADO
+Os ovários são estruturas ovoides localizados na cavidade abdominal, na região das virilhas. Nos ovários, ocorre o processo de formação dos óvulos, a ovulogênese, e sua liberação, chamada ovulação. Sob este aspecto, analise as alternativas e, com base em seus conhecimentos, assinale todas as proposições que julgar como corretas.
+
+ALTERNATIVAS
+A ovulogênese tem início antes do nascimento da mulher, em sua vida intrauterina, quando as células precursoras dos gametas, as ovogônias, se transformam em ovócitos primários, que permanecem estacionados até a puberdade.
+Ao nascer, em cada um de seus ovários, a mulher possui cerca de 500 mil folículos ovarianos, contudo a maioria deles degenera antes mesmo da puberdade.
+A ovulogênese tem início na puberdade, quando as ovogônias sofrem meiose e liberam o ovócito secundário nas tubas uterinas, onde serão fecundados ou degeneração.
+Após a menarca, na puberdade, em média a cada 28 dias um dos ovócitos primários sofre maturação, produzindo duas células de tamanho diferente: uma grande, o ovócito secundário, e outra pequena, o glóbulo polar, que se degenera.
+Após a menarca, no final da fase adulta, os ovócitos primários cessam sua maturação, de modo que os óvulos passam a ser produzidos pelas ovogônias e sendo liberados no útero pelos folículos ovarianos.
+Ao ser formado, o ovócito secundário inicia a segunda divisão da meiose, mas estaciona. O acúmulo de líquido no interior do folículo causa sua ruptura e libertação do ovócito secundário, processo denominado ovulação. 
+
+ALTERNATIVAS CORRETAS
+1,2,4,6
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+A ovulogênese tem início antes do nascimento da mulher, em sua vida intrauterina, quando as células precursoras dos gametas, as ovogônias, se transformam em ovócitos primários, que permanecem estacionados até a puberdade.
+Ao nascer, em cada um de seus ovários, a mulher possui cerca de 500 mil folículos ovarianos, contudo a maioria deles degenera antes mesmo da puberdade.
+Após a menarca (primeira menstruação) na puberdade, em média a cada 28 dias um dos ovócitos primários sofre maturação, produzindo duas células de tamanho diferente: uma grande, o ovócito secundário, e outra pequena, o glóbulo polar, que se degenera.
+Ao ser formado, o ovócito secundário inicia a segunda divisão da meiose, mas estaciona. O acúmulo de líquido no interior do folículo causa sua ruptura e libertação do ovócito secundário, processo denominado ovulação. 
+fim
+
+GRUPO
+5
+
+MODELO
+2
+
+ENUNCIADO
+A espermatogênese é o processo de formação de gametas masculinos, os espermatozoides. Nos homens, esse processo ocorre da puberdade até o fim da vida do indivíduo. Sob este aspecto, com base em seus conhecimentos, analise as alternativas abaixo e assinale todas as proposições que julgar como corretas.
+
+ALTERNATIVAS
+A espermatogênese ocorre a partir de células precursoras denominadas espermátides, que se multiplicam ativamente, por meiose, até a puberdade, quando então desaceleram sua multiplicação.
+A espermatogênese ocorre a partir de células precursoras denominadas espermatogônias, que se multiplicam lentamente, por mitose, até a puberdade, quando passam a se multiplicar com intensidade, até o fim da vida do homem.
+Após a puberdade, enquanto algumas espermatogônias se multiplicam, outras se transformam em espermatócitos primários, que passam pela primeira divisão meiótica e origina dois espermatócitos secundários.
+Após a puberdade, enquanto alguns espermatozoides se multiplicam, outros se transformam em espermatogônias, que passam por diversas mitoses, formando um liquido viscoso secretado pelas glândulas bulbouretrais.
+Cada espermatócito secundário se divide por meiose, formando duas espermátides, que passam por um processo chamado espermiogênese, transformando-se em espermatozoides.
+Os gametas masculinos são formados por um processo denominado espermatogênese e sua liberação é chamada ovulação.
+
+ALTERNATIVAS CORRETAS
+2,3,5
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+A espermatogênese ocorre a partir de células precursoras denominadas espermatogônias, que se multiplicam lentamente, por mitose, até a puberdade, quando passam a se multiplicar com intensidade, até o fim da vida do homem.
+Após a puberdade, enquanto algumas espermatogônias se multiplicam, outras se transformam em espermatócitos primários, que passam pela primeira divisão meiótica e origina dois espermatócitos secundários.
+Cada espermatócito secundário se divide por meiose, formando duas espermátides, que passam por um processo chamado espermiogênese, transformando-se em espermatozoides.
+fim
+
+GRUPO
+5
+
+MODELO
+2
+
+ENUNCIADO
+No ciclo ovariano, após a ovulação, as células que constituem a “cicatriz” do folículo rompido se desenvolvem, formando uma estrutura amarelada denominada corpo-lúteo. Com base em seus conhecimentos sobre o corpo-lúteo, analise as alternativas propostas e assinale todas as proposições que julgar verdadeiras. 
+
+ALTERNATIVAS
+O corpo-lúteo atua na produção de hormônios sexuais (pouco estrógeno e bastante progesterona), que atuam sobre o endométrio na preparação para uma eventual gravidez.
+O corpo lúteo atua no desenvolvimento do folículo, que se torna rico em nutrientes, tendo em vista armazenar o ovócito secundário novamente, variadas vezes após a ovulação.
+A presença de hormônios sexuais produzidos pelo corpo-lúteo estimula a produção de FSH e LH. Caso não haja fecundação, o LH é responsável por manter o corpo-lúteo em atividade, o que desencadeia a menstruação.
+Caso haja fecundação, é liberado o hormônio FSH, que inibe o desenvolvimento do folículo, regredindo as quantidades de estrogênio e progesterona, impedindo a menstruação e possibilitando uma nova ovulação.
+A presença de hormônios sexuais produzidos pelo corpo-lúteo inibe a produção de FSH e LH. Caso não haja fecundação, a queda do LH faz com que o corpo-lúteo degenere, o que desencadeia a menstruação.
+Caso haja fecundação, é liberado o hormônio HCG, que estimula o corpo-lúteo a continuar em atividade, mantendo elevadas as taxas hormonais, impedindo a menstruação e mantendo o endométrio durante a gravidez.
+
+ALTERNATIVAS CORRETAS
+1,5,6
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+O corpo-lúteo atua na produção de hormônios sexuais (pouco estrógeno e bastante progesterona), que atuam sobre o endométrio na preparação para uma eventual gravidez.
+A presença de hormônios sexuais produzidos pelo corpo-lúteo inibe a produção de FSH e LH. Caso não haja fecundação, a queda do LH faz com que o corpo-lúteo degenere, deixando de produzir hormônios estrógeno e progesterona, o que faz com que a mucosa uterina se desprenda e seja eliminada na menstruação.
+Caso haja fecundação, é liberado o hormônio HCG (gonadotrofina coriônica), que estimula o corpo-lúteo a continuar em atividade, mantendo elevadas as taxas hormonais de estrogênio e progesterona, impedindo a menstruação e mantendo o endométrio durante os primeiros quatro meses de gravidez. A partir de então, o corpo-lúteo degenera e a placenta se torna responsável pela manutenção dos níveis hormonais, que mantém a proliferação da mucosa uterina até o final da gravidez.
+Fim
+
+GRUPO
+5
+
+MODELO
+2
+
+ENUNCIADO
+Os métodos contraceptivos consistem em formas de se evitar uma gravidez indesejada, podendo variar entre métodos comportamentais, de barreira, dispositivos intrauterinos, hormonais, de emergência ou cirúrgicos. Os métodos de barreira, por exemplo, são aqueles que impedem que os espermatozoides cheguem até o útero. Com base em seus conhecimentos, analise as alternativas propostas abaixo e assinale todas as alternativas que consistirem em somente métodos contraceptivos de barreira. 
+
+ALTERNATIVAS
+Preservativo (camisinha feminina e masculina).
+Tabelinha.
+Diafragma.
+Anel vaginal.
+Espermicida.
+Pílula de emergência.
+
+ALTERNATIVAS CORRETAS
+1,3,5
+
+FEEDBACK IMAGEM
+imgfeedback1m2repro
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Pikisuperstar, via Freepik.com. Disponível aqui.
+
+FEEDBACK TEXTO
+O preservativo (camisinha) masculino e feminino, o diafragma e os espermicidas podem ser considerados métodos contraceptivos de barreira, pois, ao formarem uma barreira física durante o ato sexual, impedem que os espermatozoides cheguem até o útero.
+Fim
+
+GRUPO
+5
+
+MODELO
+3
+ 
+ENUNCIADO
+O conhecimento científico sobre a reprodução humana vem garantindo às pessoas a possibilidade de controlar conscientemente sua reprodução. As alternativas abaixo remetem a diferentes métodos para se evitar uma gravidez indesejada. Com base em seus conhecimentos, analise as imagens e as informações e determine as correspondências por meio de toques nos pares.
+
+LEGENDA APÓS ENUNCIADO
+Imagens:  Adaptadas de Pikisuperstar, via Freepik.com. Disponíveis aqui.
+
+PARES CORRETOS
+img4m3arepro = DIU: ação inflamatória 
+img4m3brepro = Coito interrompido: ação natural de controle
+img4m3crepro = Pílula: ação hormonal
+
+FEEDBACK IMAGEM
+imgfeedback1m3repro
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem:  Adaptada de Pikisuperstar, via Freepik.com. Disponível aqui.
+
+FEEDBACK TEXTO
+O coito interrompido consiste em uma ação natural de controle, visando interromper o coito antes do momento da ejaculação (retirar o pênis da vagina). É um método pouco eficiente pois as secreções masculinas eliminadas antes da ejaculação podem conter espermatozoides.
+O Dispositivo Intrauterino (DIU) consiste em um dispositivo implantado no útero (por um médico), que comumente causa uma inflamação na região, atraindo macrófagos que destroem embriões que tentam se implantar na mucosa. 
+A pílula anticoncepcional consiste em um método contraceptivo oral de ação hormonal, contendo hormônios sintéticos (estrógeno e progesterona), que deve ser ingerido todos os dias em um período de 21 a cada ciclo menstrual, o que inibe a secreção de FSH e LH, impedindo a ovulação.
+Fim
+
+GRUPO
+5
+
+MODELO
+3
+ 
+ENUNCIADO
+As figuras e as alternativas abaixo remetem a algumas fases do ciclo ovariano, em que os folículos passam por estágios de desenvolvimento ao longo do ciclo, sob a ação hormonal. Com base em seus conhecimentos, analise as imagens e as alternativas e determine as correspondências, por meio de toques nos pares.
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+ 
+PARES CORRETOS
+img5m3arepro = Folículo maduro: contém o ovócito II pronto para ovulação
+img5m3brepro = Ovulação: ovócito II liberado para a tuba uterina
+img5m3crepro = Corpo-lúteo: folículo rompido que produz hormônios
+
+FEEDBACK IMAGEM
+imgfeedback2m3repro
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+Na puberdade feminina, a cada 28 dias (ciclo menstrual) um folículo primário (conjunto de ovócito primário e células foliculares) amadurece, de modo que o ovócito termina a meiose I e passa a ser chamado de ovócito secundário, constituindo o folículo maduro.
+Por volta do 14º dia do ciclo, o folículo maduro está cheio de líquido em seu interior, causando sua ruptura e a libertação do ovócito secundário, processo denominado ovulação.
+Após a ovulação, a “cicatriz” do folículo desenvolve-se, passando a ser chamada de corpo-lúteo, uma estrutura rica em luteína, um carotenoide de coloração amarela. O corpo-lúteo, então, passa a produzir hormônios, sobretudo progesterona, a fim de preparar a parede do útero para receber um possível embrião. 
+Fim
+
+GRUPO
+5
+
+MODELO
+4
+  
+ENUNCIADO
+A animação abaixo demonstra um importante processo para a reprodução humana, nos órgãos internos do sistema genital feminino. Analise a animação e as alternativas abaixo e, com base em seus conhecimentos, determine a alternativa que julgar como correta, acerca do processo demonstrado.
+
+IMAGEM
+imggif1m4repro
+ 
+LEGENDA DA IMAGEM
+Imagem: Via GIFER. Disponível aqui.
+ 
+ALTERNATIVAS
+O ovócito secundário é liberado do folículo ovariano (ovulação) e recolhido pelas fimbrias, para ser encaminhado para as tubas uterinas.
+O espermatozoide é produzido no testículo (espermatogênese) e resgatado pelo epidídimo, para ser encaminhado para as tubas uterinas.
+O óvocito primária é liberado do óvulo (ovulação) e capturado pelos alvéolos, para ser encaminhado para as tubas uterinas.
+O zigoto é liberado do folículo ovariano (ovulação) e capturado pelo epidídimo, para ser encaminhado para as tubas uterinas.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+imggif1m4repro
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Via GIFER. Disponível aqui.
+
+FEEDBACK TEXTO
+A animação demonstra a liberação do ovócito secundário do folículo ovariano, processo denominado ovulação. Ao ser liberado, o ovócito é “recolhido” pelas fimbrias, que são finas terminações das tubas uterinas, que direcionam o ovócito para o interior de uma das tubas, onde os espermatozoides o encontram para uma possível fecundação.
+fim
+
+GRUPO
+5
+
+MODELO
+4
+  
+ENUNCIADO
+A animação abaixo demonstra o calendário do ciclo menstrual, durante o período médio de 28 dias. As fases do ciclo uterino consistem em: menstruação (1º ao 5º dia), fase proliferativa (5º ao 13º dia), ovulação (13º ao 16º dia) e a fase luteínica (16º ao 28º dia). Com base na animação, nas informações e em seus conhecimentos, determine os processos ocorridos na fase de 1. menstruação, 2. fase proliferativa, 3. ovulação e 4. fase luteínica, respectivamente.
+
+IMAGEM
+imggif2m4repro
+
+LEGENDA DA IMAGEM
+Imagem: Malucia1003, via Tenor. Disponível aqui.
+ 
+ALTERNATIVAS
+1. manutenção e crescimento do revestimento do endométrio; 2. Eliminação do revestimento uterino; 3. formação do corpo lúteo; 4. liberação do ovócito secundário.
+1. liberação do ovócito secundário; 2. formação do corpo lúteo e manutenção do endométrio; 3. eliminação do revestimento do endométrio; 4. Crescimento do revestimento uterino.
+1. eliminação do revestimento do endométrio; 2. crescimento do revestimento uterino; 3. liberação do ovócito secundário; 4. formação do corpo lúteo e manutenção do endométrio.
+1. crescimento do revestimento uterino; 2. liberação do ovócito secundário; 3. eliminação do revestimento do endométrio; 4. formação do corpo lúteo e manutenção do endométrio.
+
+ALTERNATIVA CORRETA
+3
+
+FEEDBACK IMAGEM
+imggif2m4repro
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Malucia1003, via Tenor. Disponível aqui.
+
+FEEDBACK TEXTO
+A primeira fase do ciclo menstrual, a menstruação, ocorre entre os dias 1 e 5, e consiste na eliminação do revestimento do endométrio. A segunda fase, a fase proliferativa, ocorre entre os dias 5 e 13, e consiste no crescimento do revestimento uterino. Durante essas duas fases, ocorre o desenvolvimento e maturação do folículo ovariano, que passa a abrigar o ovócito secundário. 
+A terceira fase, a ovulação, ocorre geralmente no 14º dia do ciclo, podendo variar, conforme mostrado no GIF, entre os dias 13 e 16, aproximadamente. Essa fase consiste na liberação do ovócito secundário, que é direcionado para o interior das tubas uterinas.
+A quarta fase, denominada fase luteínica, ocorre após a ovulação, por volta dos dias 16 a 28, conforme demonstrado no GIF. Nessa fase, ocorre formação do corpo lúteo no ovário, produção de progesterona e a manutenção e preparação do endométrio uterino para uma possível nidação. 
+Se não houver fecundação, o ciclo se reinicia com uma nova menstruação. Se houver, inicia-se a gravidez. 
+fim
+
+GRUPO
+5
+
+MODELO
+4
+  
+ENUNCIADO
+Os conhecimentos científicos sobre a reprodução humana têm possibilitado a solução para algumas dificuldades para procriar. A animação abaixo demonstra uma técnica de reprodução denominada fecundação ou fertilização in vitro. Analise a animação e as alternativas e, com base em seus conhecimentos, determine a alternativa correta sobre essa técnica. 
+
+IMAGEM
+imggif3m4repro
+
+LEGENDA DA IMAGEM
+Imagem: Via Gfycat. Disponível aqui.
+
+ALTERNATIVAS
+Neste tipo de fertilização, hormônios são sintetizados em laboratório e indicados para uso oral ou injetável para a mulher, que passa a ovular com maior frequência, aumentando as chances de uma possível gravidez.
+São coletados e escolhidos os melhores espermatozoides do progenitor paterno e, após análise em laboratório, esses gametas são inseridos diretamente no útero da mulher, próximo do dia da ovulação.
+Neste tipo de fertilização, o casal ou a mulher interessada na gravidez que não possa gerar um embrião próprio, recorrem a materiais biológicos (gametas) doados por doadores anônimos para prosseguir com um processo de gravidez.
+São coletados os gametas femininos e masculinos dos progenitores e, em laboratório, o óvulo é fecundado pelo espermatozoide. Após a formação do embrião em meio nutritivo em incubadora, ocorre sua implantação no útero materno.
+
+ALTERNATIVA CORRETA
+4
+
+FEEDBACK IMAGEM
+imggif3m4repro
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Via Gfycat. Disponível aqui.
+
+FEEDBACK TEXTO
+Há variados métodos para auxiliar pessoas que tem o intuito de procriar, mas que, possuem dificuldade de gerar, naturalmente, o próprio embrião. Dentre eles, destaca-se a fecundação in vitro. 
+Nesse processo, primeiramente a mulher será estimulada hormonalmente para o desenvolvimento dos próprios folículo ovarianos. A partir de então, são coletados os gametas femininos e masculinos dos progenitores e, em laboratório, o óvulo é fecundado pelo espermatozoide. Após a formação do embrião em meio nutritivo em incubadora, ocorre sua implantação no útero materno.
+fim
+
+GRUPO
+5
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo ilustra um método contraceptivo cirúrgico (definitivo) realizado em homens, a partir do secionamento dos ductos deferentes. Esse procedimento gera receio em alguns homens acerca da possibilidade de perderem a libido ou deixarem de ejacular normalmente. Sobre essa afirmação, analise a figura e as alternativas, selecionando a proposição que julgar como correta.
+
+IMAGEM
+img6m5repro
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Timdwilliamson, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
+
+ALTERNATIVAS
+A laqueadura tubária não diminui o desejo sexual, apesar de alterar a secreção de testosterona pelos testículos. Porém, ao atingir o orgasmo, o homem com laqueadura nas tubas uterinas ejacula com déficit significativo de secreções.
+A vasectomia não diminui o desejo sexual, pois não altera a secreção de testosterona pelos testículos, hormônio responsável pela libido. Ao atingir o orgasmo, o homem vasectomizado ejacula normalmente, com a diferença que seu esperma não contém espermatozoides.
+A laqueadura tubária diminui o desejo sexual, pois inibe hormônios como o LH, FSH e, consequentemente, a testosterona, hormônio responsável pela libido em homens e mulheres. Ao atingir o orgasmo, o homem esterilizado ejacula normalmente, com a diferença que seu esperma não contém espermatozoides.
+A vasectomia diminui consideravelmente o desejo sexual, pois impede a produção de testosterona pelos testículos. Ao atingir o orgasmo, o homem vasectomizado ejacula normalmente, com a diferença que seu esperma não contém secreção prostática.
+
+ALTERNATIVA CORRETA
+2
+
+FEEDBACK IMAGEM
+img6m5repro
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Timdwilliamson, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+A figura demonstra o método contraceptivo cirúrgico (definitivo) em homens, denominado vasectomia. Esse procedimento não diminui o desejo sexual, pois não altera a secreção de testosterona pelos testículos, hormônio responsável pela libido. Ao atingir o orgasmo, o homem vasectomizado ejacula normalmente, com a diferença que seu esperma não contém espermatozoides produzidos nos testículos, sendo constituído apenas por secreções das glândulas acessórias.
+Nas mulheres, o procedimento contraceptivo cirúrgico (definitivo) é denominado laqueadura tubária, que consiste no secionamento das tubas uterinas, impedindo que os espermatozoides, no ato sexual desprotegido, cheguem até os ovócitos.
+Fim
+
+GRUPO
+5
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo ilustra os processos ocorridos ao longo do ciclo menstrual, nos ovários (ciclo ovariano) e no útero (ciclo uterino) da mulher. Analise a figura e as alternativas e, com base em seus conhecimentos, determina a proposição que julgar como INCORRETA, no que se refere às fases do ciclo. 
+
+IMAGEM
+img7m5repro
+ 
+LEGENDA DA IMAGEM
+Imagem: Own work, Domínio público, via Wikimedia Commons. Disponível aqui.
+ 
+ALTERNATIVAS
+Entre os dias 1-13, aproximadamente, ocorre estímulos hormonais que levam ao crescimento do folículo ovariano e o aumento contínuo do endométrio, devido à menstruação, caracterizando a fase luteínica.
+Entre os dias 5-13, aproximadamente, ocorre estímulos hormonais que levam ao crescimento do folículo ovariano e da espessura do endométrio, no útero, caracterizando a fase proliferativa.
+Entre os dias 13-16, aproximadamente, ocorre a expulsão do ovócito secundário do folículo ovariano e o endométrio atinge cerca de 4 milímetros de espessura e apresenta filamentos de muco, caracterizando a fase de ovulação.
+Entre os dias 16-28, aproximadamente, há formação do corpo lúteo, que secreta estrógeno e progesterona. No útero, esses hormônios promovem aumento adicional do endométrio, tornando-o ideal para a implantação de um possível embrião, caracterizando a fase luteínica.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+img7m5repro
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Own work, Domínio público, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+Entre os dias 1-5, aproximadamente, ocorre a descamação do endométrio, devido a redução das taxas hormonais, caracterizando a fase de menstruação.
+Entre os dias 5-13, aproximadamente, ocorre estímulos hormonais que levam ao crescimento do folículo ovariano e da espessura do endométrio, no útero, caracterizando a fase proliferativa.
+Entre os dias 13-16, aproximadamente, ocorre a expulsão do ovócito secundário do folículo ovariano e o endométrio atinge cerca de 4 milímetros de espessura e apresenta filamentos de muco, caracterizando a fase de ovulação.
+Entre os dias 16-28, aproximadamente, há formação do corpo lúteo, que secreta estrógeno e progesterona. No útero, esses hormônios promovem aumento adicional do endométrio, tornando-o ideal para a implantação de um possível embrião, caracterizando a fase luteínica.
+Portanto, afirmar que “entre os dias 1-13, aproximadamente, ocorre estímulos hormonais que levam ao crescimento do folículo ovariano e o aumento contínuo do endométrio, devido à menstruação, caracterizando a fase luteínica”, consiste em uma afirmação incorreta.
+Fim
+
+GRUPO
+5
+
+MODELO
+5
+ 
+ENUNCIADO 
+Após o ato sexual com ejaculação desprotegida, centenas de espermatozoides são atraídos para o ovócito secundário e, ao chegarem nele, os espermatozoides inserem-se pelos espaços entre as células foliculares. Por meio de ações enzimáticas, abre-se um canal na zona pelúcida por onde um espermatozoide bem-sucedido penetra e atinge a membrana plasmática. Sobre esse processo, analise e figura e as alternativas abaixo e seleciona uma proposição que julgar como verdadeira.
+
+IMAGEM
+img8m5repro
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de OpenStax College, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponível aqui.
+ 
+ALTERNATIVAS
+Ao entrar em contato, a corona radiata e a região intermediária do espermatozoide se fundem, impedindo a fecundação. Inicia-se a primeira divisão da meiose e núcleos masculino e feminino se desenvolvem, formando o feto. 
+Ao entrar em contato, a corona radiata e o acrossoma do espermatozoide se fundem, secretando enzimas digestivas que rompem a membrana plasmática do ovócito. Inicia-se a primeira divisão da mitose, que impede a fecundação e inicia o desenvolvimento do folículo ovariano. 
+Ao entrar em contato, membranas plasmáticas do ovócito e do espermatozoide se fundem, desencadeando reações que impedem a entrada de outro espermatozoide no citoplasma. Inicia-se a segunda divisão da meiose e núcleos masculino e feminino se unem, formando o zigoto. 
+Ao entrar em contato, membranas plasmáticas do ovócito e do espermatozoide se fundem, desencadeando reações que permitem a entrada de outros espermatozoides no citoplasma. Inicia-se a primeira divisão da mitose e núcleos masculino e feminino se unem, formando o ovócito secundário. 
+
+ALTERNATIVA CORRETA
+3
+
+FEEDBACK IMAGEM
+img8m5repro
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de OpenStax College, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+O gameta feminino exerce forte atração química sobre os espermatozoides, que nadam em direção a ele. Ao chegar ao ovócito, os espermatozoides inserem-se pelos espaços entre as células foliculares. Por meio de ações enzimáticas, abre-se um canal na zona pelúcida por onde o espermatozoide penetra e atinge a membrana plasmática.
+Ao entrar em contato, membrana plasmática do ovócito e do espermatozoide se fundem por meio da ação de proteínas, o que impede a entrada de outro espermatozoide. A cabeça e a cauda do espermatozoide penetram no citoplasma do ovócito, induzindo-o a completar a segunda divisão da meiose, formando o segundo corpúsculo polar e o pronúcleo do óvulo, que está pronto para encontrar o núcleo do espermatozoide, que aumenta de tamanho e passa a ser chamado pronúcleo masculino. Ao se unirem, os pronúcleos formam o zigoto, iniciando assim o desenvolvimento embrionário.
+Fim
+
+GRUPO
+5
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo ilustra a ovulogênese, processo de formação dos gametas femininos, que tem início antes do nascimento da mulher, e perdura ao longo de sua vida adulta, até a menopausa, que marca o encerramento da atividade reprodutiva da mulher. Analise a figura abaixo e as informações das alternativas e, com base em seus conhecimentos, determine a proposição que julgar como correta para a fase proliferativa (1), fase de crescimento (2) e fase de maturação (3), respectivamente.
+
+IMAGEM
+img9m5repro
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS
+1. as ovogônias se desenvolvem originando o ovócito I.  2. as células precursoras dos gametas aumentam em quantidade por mitose e originam as ovogônias. 3. na puberdade, os ovócitos II amadurecem mensalmente, finalizando a meiose e originando os ovócitos I.  
+1. na puberdade, os ovócitos I amadurecem mensalmente, finalizando a meiose e originando os ovócitos II.  . 2. as células precursoras dos gametas aumentam em quantidade por mitose e originam as ovogônias 3. as ovogônias se desenvolvem originando o ovócito I.  
+1. as células precursoras dos gametas aumentam em quantidade por mitose e originam as ovogônias. 2. na menopausa, os ovócitos I amadurecem mensalmente, finalizando a meiose e originando os ovócitos II.  3. as ovogônias se desenvolvem originando o ovócito I.
+1. as células precursoras dos gametas aumentam em quantidade por mitose e originam as ovogônias. 2. as ovogônias se desenvolvem originando o ovócito I. 3. na puberdade, os ovócitos I amadurecem mensalmente, finalizando a meiose e originando os ovócitos II.
+
+ALTERNATIVA CORRETA
+4
+
+FEEDBACK IMAGEM
+img9m5repro
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A ovulogênese pode ser dividida em três etapas básicas:
+- Fase proliferativa: esta fase ocorre no início da fase fetal, onde as células precursoras dos gametas femininos aumentam em quantidade e originam as ovogônias. Essas divisões, que acontecem no epitélio germinativo do ovário.
+- Fase de crescimento: ainda durante o desenvolvimento fetal, as ovogônias crescem, com aumento do citoplasma e acúmulo de substâncias nutritivas e entram em meiose, passando a ser chamadas de ovócitos primários, que permanecem estacionados na prófase I da meiose até a puberdade.
+- Fase de maturação: essa fase se inicia quando a menina atinge sua maturidade sexual (11 a 15 anos), quando a cada 28 dias (ciclo menstrual) um folículo (conjunto de ovócito primário e células foliculares) amadurece, terminando a meiose I e passando a ser chamado de ovócito secundário. 
+O ovócito secundário ovulado é impulsionado para dentro da tuba uterina e, se não for fecundado, ele degenera em cerca de 24 horas após ser liberado e não conclui a meiose II. Se houver espermatozoides na tuba uterina e um deles penetrar o ovócito secundário, no entanto, a meiose II é retomada e libera o segundo corpúsculo polar, que assim como o primeiro, degenera. Os núcleos de espermatozoide e óvulo então se unem, formando o zigoto.
+Fim
+
+GRUPO
+5
+
+MODELO
+5
+ 
+ENUNCIADO
+O sistema reprodutor masculino é formado por órgãos e estruturas internas (pênis e escroto) e externas (ductos e glândulas), conforme ilustrado na figura abaixo. Analise a figura e as alternativas e, com base em seus conhecimentos sobre a fisiologia do sistema genital masculino, determine a alternativa que julgar como correta.
+
+IMAGEM
+img10m5repro
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Tsaitgaist, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponível aqui.
+ 
+ALTERNATIVAS
+Os espermatozoides são produzidos no interior da próstata, armazenados nas glândulas seminais e passam pelos ductos deferentes. Durante a ejaculação, os testículos e a glândula bulbouretral lançam secreções no epididimo, que juntamente dos espermatozoides, constituem o sêmen.
+Os espermatozoides são produzidos no interior dos testículos, armazenados no epidídimo e passam pelos ductos deferentes. Durante a ejaculação, as glândulas seminais e a próstata lançam secreções no ducto ejaculatório, que juntamente dos espermatozoides, constituem o sêmen.
+Os espermatozoides são produzidos na glândula bulbouretral, armazenados nas glândulas seminais e passam pelo ducto ejaculatório. Durante a ejaculação, os testículos e a próstata lançam secreções no ovário, que juntamente dos espermatozoides, constituem o líquido intersticial.
+Os espermatozoides são produzidos no interior dos testículos, armazenados na próstata e passam pela glândula bulbouretral. Durante a ejaculação, a próstata e o epididimo lançam secreções nos testículos, que juntamente dos espermatozoides, constituem o sêmen.
+
+ALTERNATIVA CORRETA
+2
+
+FEEDBACK IMAGEM
+img10m5repro
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Tsaitgaist, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+Os espermatozoides são produzidos no interior dos testículos, em regiões denominadas túbulos seminíferos. Em um primeiro momento, os espermatozoides vão dos testículos e dos epidídimos para os ductos deferentes, que transporta os espermatozoides, durante a excitação sexual, do epidídimo em direção à uretra por contrações peristálticas. 
+Anteriormente à ejaculação, as glândulas bulbouretrais liberam um líquido que contribui para a limpeza da uretra, antes da passagem do esperma.
+Em um segundo momento, as glândulas seminais e a próstata lançam secreções no ducto ejaculatório, em direção à uretra, que constituem a maior parte do esperma. Durante a ejaculação, o esperma (espermatozoides e secreções das glândulas) é direcionado até a extremidade da uretra e é eliminado por meio de contrações espasmódicas dos músculos do corpo esponjoso do pênis.
+Fim
+
+GRUPO
+5
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo ilustra o interior da região pélvica feminina, onde se encontram os órgãos do sistema reprodutor. Sob este aspecto, analise a figura e as alternativas e, com base em seus conhecimentos, determine a alternativa que julgar correta sobre o sistema genital feminino.
+
+IMAGEM
+img11m5repro
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Tsaitgaist, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponível aqui.
+ 
+ALTERNATIVAS
+O pudendo consiste nas estruturas internas do sistema genital feminino, sendo composto por lábios maiores, lábios menores, clitóris, vestíbulo vaginal e vagina. 
+A vagina é a parte externa do sistema genital feminino, sendo composta por lábios maiores, lábios menores, clitóris e vestíbulo vaginal.
+O útero é um órgão interno oco e consiste no local de implantação de um óvulo fertilizado, desenvolvimento do feto durante a gestação e trabalho de parto.
+Os ovários consistem em um tecido rico em glândulas, vasos sanguíneos e vasos linfáticos, que se torna mais espesso periodicamente, descamando na menstruação.
+
+ALTERNATIVA CORRETA
+3
+
+FEEDBACK IMAGEM
+img11m5repro
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Tsaitgaist, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+O pudendo feminino consiste no sistema genital externo da mulher, sendo constituído de estruturas principais como: monte de púbis, lábios maiores, lábios menores, clitóris e vestíbulo vaginal. Na região do pudendo, também se encontram próximas outras estruturas, tais como: a abertura da uretra, o ânus e o períneo.
+A vagina é um tubo de paredes fibromusculares que vai do pudendo até o cérvix uterino (base do útero). A vagina é o receptáculo do pênis durante o ato sexual, bem como a saída para o fluxo menstrual e da passagem do bebê no parto normal. 
+O útero é um órgão interno, muscular e oco, cuja porção central consiste na cavidade uterina, com paredes são revestidas pelo endométrio, um tecido rico em glândulas, vasos sanguíneos e vasos linfáticos, que descama durante a menstruação. O útero consiste no local de implantação de um óvulo fertilizado, desenvolvimento do feto durante a gestação e trabalho de parto.
+As tubas uterinas são tubos que partem lateralmente do útero, e em suas extremidades encontram-se uma região alargada e com franjas (as fímbrias), situadas próximas aos ovários. As tubas uterinas fornecem uma via para os espermatozoides chegarem até o óvulo e transportam os oócitos secundários e óvulos fecundados dos ovários até o útero.
+Os ovários são as gônadas femininas, ou seja, são responsáveis pela produção de gametas (ovócitos secundários) e hormônios femininos.
+Fim
+
+GRUPO
+5
+
+MODELO
+6
+ 
+ENUNCIADO
+Os métodos contraceptivos atuam para evitar uma gravidez indesejada, podendo atuar de diversas formas e em diferentes etapas do processo reprodutivo. Contudo, são poucos os métodos que, além de evitar a concepção, previnem de Doenças Sexualmente Transmissíveis (DSTs). Sob este aspecto, analise as alternativas abaixo e determine a única proposição cujos métodos previnam contra as DSTs.
+
+ALTERNATIVAS
+A camisinha feminina ou masculina previne das DSTs por consistirem em métodos de barreira que impedem o contato direto e a troca de fluidos entre as regiões íntimas.
+O espermicida, por consistir em um método de barreira que evita que os espermatozoides cheguem ao óvulo, também protege contra DSTs.
+A pílula anticoncepcional, por atual mantendo os níveis de hormônios em taxas que impedem a ovulação, também protegem contra a transmissão de DSTs.
+O DIU, ao criar um processo inflamatório no útero impedindo a implantação de embriões no útero, impede a transmissão de DSTs.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+A camisinha feminina ou masculina, ou preservativo, é um protetor de látex que previne das DSTs por consistirem em métodos de barreira que impedem o contato direto e a troca de fluidos entre as regiões íntimas durante o ato sexual.
+fim
+
+GRUPO
+5
+
+MODELO
+6
+ 
+ENUNCIADO
+A camisinha (masculina e feminina) é um dos métodos contraceptivos mais indicados durante o ato sexual, uma vez que, além de evitar a gravidez, protege de possíveis contaminações por Doenças Sexualmente Transmissíveis (DST). Sob este aspecto, no que se refere à camisinha masculina, assinale a alternativa correta.
+
+ALTERNATIVAS
+A camisinha deve ser colocada no pênis anteriormente de que o órgão esteja ereto, preferencialmente após a penetração.
+A camisinha permite o contato entre fluidos genitais de parceiros durante o ato sexual, por isso, ela não protege contra DSTs.
+Ao retirar a camisinha masculina do pênis, é necessário que o órgão não esteja mais ereto.
+Ao inserir a camisinha no pênis, é necessário segurar sua ponta para retirar o ar, evitando que estoure durante a ejaculação.
+
+ALTERNATIVA CORRETA
+4
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO:
+Ao inserir a camisinha no pênis, é necessário segurar sua ponta para retirar o ar, evitando que estoure durante a ejaculação. 
+fim
+
