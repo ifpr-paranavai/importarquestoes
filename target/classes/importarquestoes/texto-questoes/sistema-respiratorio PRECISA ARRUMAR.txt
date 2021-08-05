@@ -1,0 +1,578 @@
+SISTEMA RESPIRATÓRIO
+
+Modelo 1
+(Enunciado + Imagem + Toque pares em texto)
+
+ID DA QUESTÃO: 
+
+ENUNCIADO: Durante o processo de respiração, o ar segue um trajeto específico no sistema respiratório, representado na figura abaixo. No que se refere à anatomia das estruturas que constituem os pulmões, analise as indicações I, II e III na figura e forme os pares corretos entre as estruturas indicadas e as alternativas propostas.
+
+
+IMAGEM: img1m1res
+
+LEGENDA DA IMAGEM: Imagem: Adaptada de LadyoHats, Domínio Público, via Wikimedia Commons. Disponível aqui. 
+
+ALTERNATIVAS:
+I
+II
+III
+Brônquios
+Alvéolos
+Bronquíolos
+
+PARES CORRETOS:
+I = Brônquios
+II = Alvéolos
+III = Bronquíolos
+
+FEEDBACK IMAGEM: img1m1res
+
+LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de LadyoHats, Domínio Público, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO: 
+A estrutura representada por I consiste nos brônquios, isto é, dois tubos de maior calibre respiratório que partem da traqueia, reforçados por cartilagem e que conduzem ar aos dois pulmões. A estrutura representada em II consiste nos alvéolos pulmonares, que são pequenos sacos de paredes finas, recobertos por capilares sanguíneos, onde ocorre a troca de gases entre o ar dos pulmões e o sangue. A estrutura III consiste nos bronquíolos, que consistem em ramificações dos brônquios (estrutura I), constituindo tubos mais finos, que, juntos, formam um conjunto chamado de árvore respiratória. É nas extremidades da árvore respiratória que se localizam os alvéolos (estrutura II).
+
+
+ID DA QUESTÃO: 
+
+ENUNCIADO: Durante a respiração, o ar entra pelas narinas, passa pelas cavidades nasais e faringe, seguindo seu trajeto e perpassando pela estrutura representada por I, II e III representadas na figura abaixo. Adiante, o ar segue por ramificações mais finas, até chegarem aos alvéolos pulmonares, onde ocorre a hematose. Com base nas informações e na figura abaixo, determine as estruturas anatômicas indicadas, formando pares com as alternativas propostas.
+
+IMAGEM: img2m1res
+
+LEGENDA DA IMAGEM: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui. 
+
+
+ALTERNATIVAS:
+I
+II
+III
+Laringe
+Traqueia
+Brônquios
+
+PARES CORRETOS:
+I = Laringe
+II = Traqueia
+III = Brônquios
+
+FEEDBACK IMAGEM: img2m1res
+
+LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO: 
+Durante a respiração, o ar entra pelas narinas, passa pelas cavidades nasais e faringe, seguindo seu trajeto e perpassando pela laringe (representada por I), traqueia (representada por II) e brônquios (representados por III). Adiante, o ar segue por ramificações mais finas, até chegarem aos alvéolos pulmonares, onde ocorre a hematose.
+
+
+ID DA QUESTÃO: 
+
+ENUNCIADO: O sistema respiratório pode ser estruturado em vias respiratórias superiores e inferiores. A figura abaixo demonstra parte das estruturas do trato respiratório superior, de modo que I consiste em um orifício por onde o ar é inalado, II em uma estrutura intracraniana por onde o ar passa, sendo filtrado, umedecido e aquecido, enquanto as estruturas III são orifícios nos ossos faciais reduzindo o peso, oferecendo proteção térmica e mecânica e servindo como câmaras de ressonância para o som da fala. Com base nas informações e na figura abaixo, determine as estruturas anatômicas representadas em I, II e III, formando pares com as alternativas propostas.
+
+IMAGEM: img3m1res
+
+LEGENDA DA IMAGEM: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS:
+I
+II
+III
+Narina
+Cavidade nasal
+Seios paranasais
+
+PARES CORRETOS:
+I = Narina
+II = Cavidade nasal
+III = Seios paranasais
+
+FEEDBACK IMAGEM: img3m1res
+
+LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO: 
+O trato respiratório superior é formado pelo nariz e cavidades nasais (incluindo os seios paranasais), faringe e laringe. A figura demonstra três dessas estruturas: as narinas, que consistem no orifício nasal para a inalação do ar atmosférico (representado por I), a cavidade nasal (representada por II), constituída por uma grande cavidade com projeções e canais para a passagem do ar, onde o ar é aquecido filtrado, umedecido, e duas estruturas que representam alguns dos seios paranasais (representados por III) que são orifícios nos ossos faciais que reduzem o peso craniano, oferecem proteção térmica e mecânica e atuam como câmaras de ressonância para o som da fala.
+
+
+
+Modelo 2
+(Enunciado + Várias alternativas corretas em texto)
+
+
+ID DA QUESTÃO:
+ 
+ENUNCIADO: No processo de respiração, destacam-se três momentos básicos: a ventilação pulmonar, a respiração interna (tecidual) e a respiração externa (pulmonar). Com base em seus conhecimentos sobre esses momentos, assinale todas as alternativas que considerar verdadeiras.
+
+ALTERNATIVAS
+Ventilação pulmonar: consiste na inspiração e expiração e envolve a troca de ar entre a atmosfera e os alvéolos pulmonares.
+Respiração externa: troca de gases entre os alvéolos pulmonares e o sangue nos capilares pulmonares através da membrana respiratória. O sangue dos capilares ganha oxigênio (O2) e perde gás carbônico (CO2).
+Respiração interna: troca de gases entre o sangue nos capilares sistêmicos com as células teciduais. O sangue dos capilares perde oxigênio (O2) e ganha gás carbônico (CO2).
+Ventilação pulmonar: troca de gases entre os alvéolos pulmonares e o sangue nos capilares pulmonares através da membrana respiratória. O sangue dos capilares ganha oxigênio (O2) e perde gás carbônico (CO2).
+Respiração externa: troca de gases entre o sangue nos capilares sistêmicos com as células teciduais. O sangue dos capilares perde oxigênio (O2) e ganha gás carbônico (CO2).
+Respiração interna: consiste na inspiração e expiração e envolve a troca de ar entre a atmosfera e os alvéolos pulmonares.
+
+
+ALTERNATIVAS CORRETAS
+Ventilação pulmonar: consiste na inspiração e expiração e envolve a troca de ar entre a atmosfera e os alvéolos pulmonares.
+Respiração externa: troca de gases entre os alvéolos pulmonares e o sangue nos capilares pulmonares através da membrana respiratória. O sangue dos capilares ganha oxigênio (O2) e perde gás carbônico (CO2).
+Respiração interna: troca de gases entre o sangue nos capilares sistêmicos com as células teciduais. O sangue dos capilares perde oxigênio (O2) e ganha gás carbônico (CO2).
+
+FEEDBACK IMAGEM: img4m1res
+
+LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+
+FEEDBACK TEXTO:
+A ventilação pulmonar consiste na inspiração (inalação do ar) e expiração (exalação do ar) e envolve a troca de ar entre a atmosfera e os alvéolos pulmonares. A respiração externa consiste na troca de gases entre os alvéolos pulmonares e o sangue nos capilares pulmonares através da membrana respiratória. O sangue dos capilares ganha oxigênio (O2) e perde gás carbônico (CO2). A respiração interna consiste na troca de gases entre o sangue nos capilares sistêmicos com as células teciduais. O sangue dos capilares perde oxigênio (O2) e ganha gás carbônico (CO2).
+
+
+ID DA QUESTÃO:
+ 
+ENUNCIADO
+A ventilação pulmonar consiste na inspiração (inalação do ar) e expiração (exalação do ar), possibilitando a troca de ar entre a atmosfera e os alvéolos pulmonares, possibilitando a entrada de ar rico em oxigênio no organismo e a saída de ar rico em gás carbônico. Com base nas informações e em seus conhecimentos sobre esse processo, assinale todas as alternativas que considerar verdadeiras.
+
+ALTERNATIVAS
+Durante a inspiração, o diafragma e os músculos intercostais contraem acarretando o aumento do volume da caixa torácica e a entrada de ar nos pulmões.
+Durante a expiração, o diafragma e os músculos intercostais relaxam resultando na diminuição do volume da caixa torácica e a saída de ar dos pulmões.
+O aumento do volume da caixa torácica torna a pressão interna menor que a externa, favorecendo a entrada de ar proveniente do ambiente.
+A diminuição do volume da caixa torácica torna a pressão interna maior que a externa, favorecendo a saída de ar dos pulmões.
+A contração do diafragma e dos músculos intercostais diminuem o volume da caixa torácica e a pressão interna, favorecendo a expulsão do ar dos pulmões ao ambiente.
+O relaxamento do diafragma e dos músculos intercostais aumentam o volume da caixa torácica e a pressão interna, favorecendo a entrada de ar proveniente do ambiente nos pulmões.
+
+
+ALTERNATIVAS CORRETAS
+Durante a inspiração, o diafragma e os músculos intercostais contraem acarretando o aumento do volume da caixa torácica e a entrada de ar nos pulmões.
+Durante a expiração, o diafragma e os músculos intercostais relaxam resultando na diminuição do volume da caixa torácica e a saída de ar dos pulmões.
+O aumento do volume da caixa torácica torna a pressão interna menor que a externa, favorecendo a entrada de ar proveniente do ambiente.
+A diminuição do volume da caixa torácica torna a pressão interna maior que a externa, favorecendo a saída de ar dos pulmões.
+
+FEEDBACK IMAGEM: img5m1res
+
+LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO:
+Durante a inspiração, o diafragma e os músculos intercostais contraem acarretando o aumento do volume da caixa torácica e a entrada de ar nos pulmões. O aumento do volume da caixa torácica torna a pressão interna menor que a externa, favorecendo a entrada de ar proveniente do ambiente. 
+Durante a expiração, o diafragma e os músculos intercostais relaxam resultando na diminuição do volume da caixa torácica e a saída de ar dos pulmões. A diminuição do volume da caixa torácica torna a pressão interna maior que a externa, favorecendo a saída de ar dos pulmões.
+
+
+
+ID DA QUESTÃO:
+ 
+ENUNCIADO
+O sistema respiratório é responsável pelos processos de trocas gasosas entre o ar atmosférico e o sangue, fornecendo oxigênio proveniente da atmosfera e retirando gás carbônico produzido pelas células do corpo. Sobre algumas características do processo de respiração, assinale todas as alternativas corretas.
+
+ALTERNATIVAS
+O número de movimentos respiratórios (inspiração e expiração) executados por minuto caracterizam a frequência respiratória, que em condições normais, situa-se entre 12 a 15 vezes por minuto.
+Os reforços de cartilagem presentes na traqueia e nos brônquios tem como função manter essas estruturas sempre abertas, permitindo que o ar possa fluir durante a inspiração e expiração.
+A cavidade nasal possui projeções denominadas conchas nasais, que formam canais para a passagem de ar, denominados meatos.
+A faringe é um órgão exclusivamente respiratório, uma vez que consiste em uma estrutura tubular responsável pela passagem de ar da laringe para os brônquios.
+A hematose consiste nas trocas gasosas onde o gás oxigênio difunde-se para os alvéolos pulmonares, sendo eliminado pelos pulmões no processo denominado expiração.
+O sistema respiratório humano envolve gases como o oxigênio e o gás carbônico, que transitam pelo corpo por meio de tubos respiratórios até chegarem às células, de modo que estes gases não interagem diretamente com o sistema circulatório.
+
+
+ALTERNATIVAS CORRETAS
+O número de movimentos respiratórios (inspiração e expiração) executados por minuto caracterizam a frequência respiratória, que em condições normais, situa-se entre 12 a 15 vezes por minuto.
+Os reforços de cartilagem presentes na traqueia e nos brônquios tem como função manter essas estruturas sempre abertas, permitindo que o ar possa fluir durante a inspiração e expiração.
+A cavidade nasal possui projeções denominadas conchas nasais, que formam canais para a passagem de ar, denominados meatos.
+
+FEEDBACK IMAGEM: 
+
+LEGENDA DA IMAGEM DE FEEDBACK: 
+
+FEEDBACK TEXTO:
+O número de movimentos respiratórios (inspiração e expiração) executados por minuto caracterizam a frequência respiratória, que em condições normais, situa-se entre 12 a 15 vezes por minuto.
+Os reforços de cartilagem presentes na traqueia e nos brônquios tem como função manter essas estruturas sempre abertas, permitindo que o ar possa fluir durante a inspiração e expiração.
+A cavidade nasal possui projeções denominadas conchas nasais, que formam canais para a passagem de ar, denominados meatos.
+A faringe é um órgão que abrange tanto o sistema respiratório como o digestório, uma vez que permite tanto a passagem de ar em direção aos pulmões, como de alimento em direção ao esôfago.
+A hematose consiste nas trocas gasosas onde o gás oxigênio presente no ar dos alvéolos difunde-se para os capilares sanguíneos e penetra nas hemácias, onde se combina com a hemoglobina. 
+Portanto, o sistema respiratório humano se relaciona com o sistema circulatório, pois é por meio deste que os gases são transportados pelo organismo.
+
+
+
+Modelo 3
+(Enunciado + Toque nos pares (alternativas com Imagens e Texto))
+
+
+ID DA QUESTÃO: 
+ 
+ENUNCIADO
+Assim como todos os outros sistemas do corpo humano, o sistema respiratório, em condições anormais, pode ser acometido por algumas doenças. As figuras nas alternativas abaixo demonstram os principais sintomas de três doenças distintas do trato respiratório humano. Sob esse aspecto, a partir de seus conhecimentos sobre o assunto, relacione as figuras com as informações mais adequadas, por meio de toque nos pares.
+
+
+LEGENDA APÓS ENUNCIADO: Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+ 
+ALTERNATIVAS
+Enfisema: destruição dos alvéolos, decorrente do hábito de fumar.
+Edema pulmonar: acúmulo de líquido no interior dos pulmões, geralmente associado à doença cardíaca.
+Bronquite: inflamação da mucosa dos brônquios e bronquíolos, geralmente causada por infecção viral.
+Imagem 1: img7m3ares
+Imagem 2: img7m3bres
+Imagem 3: img7m3bres
+
+PARES CORRETOS
+img7m3ares = Enfisema: destruição dos alvéolos, decorrente do hábito de fumar.
+img7m3bres = Edema pulmonar: acúmulo de líquido no interior dos pulmões, geralmente associado à doença cardíaca.
+img7m3cres = Bronquite: inflamação da mucosa dos brônquios e bronquíolos, geralmente causada por infecção viral.
+
+FEEDBACK IMAGEM: feedback7m3res
+
+LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO:
+A enfisema pulmonar é uma doença degenerativa, onde ocorre a destruição dos alvéolos em decorrência de muito tempo de agressão ao pulmão, sendo o cigarro sua causa principal. O edema pulmonar consiste em um acúmulo de líquido no interior dos pulmões, geralmente causado por uma doença cardíaca, quando o coração se encontra com dificuldade de bombear o sangue, aumentando a pressão no interior dos pequenos vasos sanguíneos dos pulmões. A bronquite consiste em uma inflamação da mucosa dos brônquios e bronquíolos, geralmente causada por uma infecção viral, na qual os bronquíolos secretam uma quantidade excessiva de muco, tornando-se comprimidos e inflamados. 
+
+
+ID DA QUESTÃO: 
+ 
+ENUNCIADO: O sistema respiratório pode ser estruturado em vias respiratórias superiores e inferiores. As figuras nas alternativas abaixo demonstram algumas das estruturas do trato respiratório superior e suas designações. Com base nas alternativas e em seus conhecimentos, associe as correspondências por meio de toques nos pares.
+
+LEGENDA APÓS ENUNCIADO: Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+ 
+ALTERNATIVAS
+Laringe: região dilatada de comunicação entre hipofaringe e traqueia
+Pregas vocais: estruturas envolvidas na produção de voz
+Epiglote: estrutura que regula a abertura e fechamento da laringe
+Imagem 1: img8m3ares
+Imagem 2: img8m3bres
+Imagem 3: img8m3cres
+
+PARES CORRETOS
+img8m3ares = Laringe: região dilatada de comunicação entre hipofaringe e traqueia
+img8m3bres = Pregas vocais: estruturas envolvidas na produção de voz
+img8m3cres = Epiglote: estrutura que regula a abertura e fechamento da laringe
+
+FEEDBACK IMAGEM: feedback8m3res
+
+LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO:
+A laringe é uma região dilatada de conexão entre a hipofaringe e a traqueia. É constituída por peças cartilaginosas que se movem por ação dos músculos e fecham a passagem de ar. 
+Na entrada da laringe, há uma estrutura de cartilagem denominada epiglote, que consiste em que se mantem aberta durante a passagem de ar, que vem da faringe, passa pela laringe e é direcionado à traqueia. Quando engolimos, essa estrutura fecha a entrada da laringe, o que impede o alimento ou líquido ingerido de entrar nas vias respiratórias e causar engasgamento. 
+Internamente à laringe, encontram-se as principais estruturas envolvidas na produção de voz: as pregas vocais. O ar que passa pela laringe vibra as pregas e produz som (fonação), de modo que a variação do som está relacionada com a tensão nas pregas vocais (quanto maior a tensão, mais alto o som).
+
+
+ID DA QUESTÃO: 
+ 
+ENUNCIADO: No processo de respiração, destacam-se três momentos básicos: a ventilação pulmonar, a respiração interna (tecidual) e a respiração externa (pulmonar). As alternativas abaixo ilustram esses três momentos e suas designações. Com base em seus conhecimentos e nas alternativas em imagem e texto, associe as correspondências por meio de toques nos pares.
+
+
+LEGENDA APÓS ENUNCIADO: Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+ 
+ALTERNATIVAS
+Ventilação pulmonar: entrada e saída de ar dos pulmões por meio da inspiração e expiração
+Respiração interna: troca de gases entre o sangue nos capilares sistêmicos com as células teciduais
+Respiração externa: troca de gases entre os alvéolos pulmonares e o sangue nos capilares pulmonares
+Imagem 1: img9m3ares
+Imagem 2: img9m3bres
+Imagem 3: img9m3cres
+
+PARES CORRETOS
+img9m3ares = Ventilação pulmonar: entrada e saída de ar dos pulmões por meio da inspiração e expiração
+img9m3bres = Respiração interna: troca de gases entre o sangue nos capilares sistêmicos com as células teciduais
+img9m3cres = Respiração externa: troca de gases entre os alvéolos pulmonares e o sangue nos capilares pulmonares
+
+FEEDBACK IMAGEM: feedback9m3res
+
+LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO:
+A ventilação pulmonar consiste na inspiração (inalação do ar) e expiração (exalação do ar) e envolve a troca de ar entre a atmosfera e os alvéolos pulmonares. A respiração externa consiste na troca de gases entre os alvéolos pulmonares e o sangue nos capilares pulmonares através da membrana respiratória. O sangue dos capilares ganha oxigênio (O2) e perde gás carbônico (CO2). A respiração interna consiste na troca de gases entre o sangue nos capilares sistêmicos com as células teciduais. O sangue dos capilares perde oxigênio (O2) e ganha gás carbônico (CO2).
+
+
+
+Modelo 4
+(Enunciado + GIF + 4 alternativas texto)
+ID DA QUESTÃO:
+ 
+ENUNCIADO: 
+Cada pulmão possui milhões de alvéolos, cada um com cerca de 0,2 mm de diâmetro. As paredes dos alvéolos são extremamente finas e revestidas internamente por um líquido e envolvidas externamente por capilares sanguíneos. O GIF abaixo representa, de forma simplificada, o processo ocorrido nos alvéolos, durante a respiração. Sob esse aspecto, com base no GIF e em seus conhecimentos, determine a alternativa correta.
+
+
+IMAGEM: gif1res
+ 
+LEGENDA DA IMAGEM: Imagem: GIFER, disponível aqui.
+ 
+ALTERNATIVAS:
+O ar proveniente da inspiração está representado em amarelo e é rico em gás oxigênio (O2), que ao chegar aos alvéolos se difunde aos capilares sanguíneos, entra nas hemácias e se combina com a hemoglobina viajando pelo corpo, chegando aos capilares de todos os tecidos.
+O ar proveniente da inspiração está representado em rosa e é rico em gás oxigênio (O2), que ao chegar aos capilares sanguíneos se difunde aos brônquios, entra na linfa e se combina com os macrófagos que viajam pelo corpo, chegando aos capilares de todos os tecidos. 
+O sangue que retorna dos tecidos do corpo aos pulmões está representado por rosa e é rico em gás oxigênio (O2), que é eliminado no processo de expiração.
+O sangue que retorna dos tecidos do corpo aos pulmões está representado por amarelo e é rico em gás carbônico (CO2), que se difunde para os capilares e penetra nas hemácias, sendo levado aos tecidos do corpo.
+
+ 
+ALTERNATIVA CORRETA:
+O ar proveniente da inspiração está representado em amarelo e é rico em gás oxigênio (O2), que ao chegar aos alvéolos se difunde aos capilares sanguíneos, entra nas hemácias e se combina com a hemoglobina viajando pelo corpo, chegando aos capilares de todos os tecidos.
+
+
+FEEDBACK IMAGEM: gif1res
+
+LEGENDA DA IMAGEM DE FEEDBACK: Imagem: GIFER, disponível aqui.
+
+FEEDBACK TEXTO:
+A animação representa de forma simplificada o processo de respiração, demonstrando à esquerda, o processo de ventilação pulmonar (inspiração e expiração) e à direita a respiração externa (trocas gasosas entre alvéolos e capilares sanguíneos pulmonares).
+O ar proveniente da inspiração está representado em amarelo e é rico em gás oxigênio (O2), que ao chegar aos alvéolos se difunde aos capilares sanguíneos, entra nas hemácias e se combina com a hemoglobina viajando pelo corpo, chegando aos capilares de todos os tecidos.
+Nos tecidos, ocorre a respiração celular, consumindo oxigênio e liberando gás carbônico, de modo que, após esse processo (respiração interna), o sangue proveniente dos tecidos do corpo chega aos pulmões rico em gás carbônico (CO2). Esse gás se difunde para os alvéolos pulmonares, sendo eliminado na expiração, conforme representado em rosa. 
+
+
+ID DA QUESTÃO:
+ 
+ENUNCIADO: O ar dos pulmões é constantemente renovado por meio da inspiração e expiração. Essa renovação de ar nos pulmões é chamada ventilação pulmonar, sendo auxiliada por músculos intercostais e pelo diafragma. Com base na animação e em seus conhecimentos, determine a alternativa correta.
+
+IMAGEM: gif2res
+ 
+LEGENDA DA IMAGEM: Imagem: Makeagif. Disponível aqui.
+ 
+ALTERNATIVAS:
+Durante a inspiração, o diafragma se contrai e desce, aumentando o volume da caixa torácica, forçando o ar a entrar nos pulmões. Durante a expiração, o diafragma relaxa e sobe, diminuindo o volume da caixa torácica, liberando o ar dos pulmões ao ambiente. 
+Durante a inspiração, o diafragma se contrai e sobe, diminuindo o volume da caixa torácica, liberando o ar dos pulmões. Durante a expiração, o diafragma relaxa e desce, aumentando o volume da caixa torácica, forçando o ar a entrar nos pulmões.
+O diafragma é uma membrana musculosa que não influencia no processo de ventilação pulmonar, uma vez que sua função é apenas separar a cavidade torácica da cavidade abdominal.
+Durante a expiração forçada, eliminamos todo o ar presente nos pulmões devido à contração do diafragma, não deixando nenhum ar residual, podendo acarretar na morte, pois a respiração é um processo totalmente voluntário.
+
+ 
+ALTERNATIVA CORRETA:
+Durante a inspiração, o diafragma se contrai e desce, aumentando o volume da caixa torácica, forçando o ar a entrar nos pulmões. Durante a expiração, o diafragma relaxa e sobe, diminuindo o volume da caixa torácica, liberando o ar dos pulmões ao ambiente. 
+
+
+FEEDBACK IMAGEM: gif2res
+
+LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Makeagif. Disponível aqui.
+
+FEEDBACK TEXTO:
+Na inspiração (entrada de ar nos pulmões), o diafragma se contrai e desce, aumentando o diâmetro vertical da cavidade torácica. Da mesma forma, os músculos intercostais externos se contraem, elevando as costelas, o que proporciona um aumento no diâmetro anteroposterior e lateral da cavidade torácica, forçando o ar a entrar nos pulmões. A contração do diafragma é responsável por 75% do ar que entra nos pulmões, enquanto a contração dos músculos intercostais externos é responsável por 25%.
+Na expiração (saída de ar dos pulmões), o processo é o oposto: diafragma relaxa e sobe, os músculos intercostais externos relaxam e abaixam as costelas, proporcionando uma diminuição do volume da caixa torácica e forçando o ar a sair dos pulmões.
+
+ 
+ID DA QUESTÃO:
+ 
+ENUNCIADO:
+As paredes dos alvéolos pulmonares são extremamente finas e recobertas por capilares sanguíneos, nos quais o sangue circula muito perto do ar, que penetra nos alvéolos. A proximidade entre os capilares e a parede fina dos alvéolos permite a difusão de gases entre o sangue e o ar, representada pelo GIF abaixo. Sobre este processo, com base na figura e em seus conhecimentos, determine a alternativa correta.
+
+
+IMAGEM: gif3res
+ 
+LEGENDA DA IMAGEM: Imagem: Makeagif. Disponível aqui.
+ 
+ALTERNATIVAS:
+O intercâmbio de gases respiratórios entre o sangue e o ar é denominado hematose e consiste na difusão de O2 do ar dos alvéolos para o sangue dos capilares, simultaneamente à difusão de CO2 dos capilares para os alvéolos.
+O intercâmbio de gases respiratórios entre o sangue e o ar é denominado hemodiálise e consiste na difusão de CO2 do ar dos alvéolos para o sangue dos capilares, simultaneamente à difusão de O2 dos capilares para os alvéolos.
+As hemácias e a hemoglobina não participam do processo de transporte de oxigênio pelo corpo, de modo que o O2 é carregado apenas pelo plasma sanguíneo.
+A difusão de gases entre os alvéolos pulmonares ocorre por osmose, ou seja, pelo transporte do líquido do ambiente de menor concentração para o de maior concentração.
+
+ 
+ALTERNATIVA CORRETA:
+
+O intercâmbio de gases respiratórios entre o sangue e o ar é denominado hematose e consiste na difusão de O2 do ar dos alvéolos para o sangue dos capilares, simultaneamente à difusão de CO2 dos capilares para os alvéolos.
+
+FEEDBACK IMAGEM: gif3res
+
+LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Makeagif. Disponível aqui.
+
+FEEDBACK TEXTO:
+O intercâmbio de gases respiratórios entre o sangue e o ar é denominado hematose e consiste na difusão de O2 do ar dos alvéolos para o sangue dos capilares, simultaneamente à difusão de CO2 dos capilares para os alvéolos. O gás carbônico é eliminado para o ar atmosférico por meio da expiração, enquanto o gás oxigênio se combina com a hemoglobina, no sangue, sendo transportado chegando aos capilares sanguíneos de todos os tecidos do corpo.
+
+ 
+
+Modelo 5
+(Enunciado + Imagem + 4 alternativas texto)
+
+ID DA QUESTÃO:
+ 
+ENUNCIADO: As vias respiratórias possuem epitélio de revestimento muco-ciliar, isto é, com cílios dispostos sobre as células epiteliais da mucosa que empurram o muco na mesma direção. A figura abaixo demonstra a presença de muco e de cílios, que se estendem das cavidades nasais aos brônquios. Com base em seus conhecimentos sobre o assunto, assinale a alternativa que corresponda à função muco-ciliar nas vias respiratórias.
+
+
+IMAGEM: img1m5res
+ 
+LEGENDA DA IMAGEM: Imagem: Adaptada de Equipe da Blausen.com, Creative Commons BY 3.0, via Wikimedia Commons. Disponível aqui. 
+ 
+ALTERNATIVAS:
+O muco produzido ajuda na retenção de microrganismos e partículas que são posteriormente “varridos” para fora graças aos movimentos dos cílios, sendo engolidos ou expelidos.
+O muco produzido destrói as partículas estranhas ao organismo e os cílios as englobam, mantendo-as no trato respiratório.
+O muco produzido tem função de umedecer as vias respiratórias e os cílios retém a umidade, não possuindo nenhuma função de proteção do organismo.
+O muco produzido ajuda no acúmulo de microrganismos e partículas que são posteriormente “varridos” para os alvéolos pulmonares graças aos movimentos dos cílios.
+
+ALTERNATIVA CORRETA:
+O muco produzido ajuda na retenção de microrganismos e partículas que são posteriormente “varridos” para fora graças aos movimentos dos cílios, sendo engolidos ou expelidos.
+
+FEEDBACK IMAGEM: img1m5res
+
+LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Equipe da Blausen.com, Creative Commons BY 3.0, via Wikimedia Commons. Disponível aqui.
+
+
+FEEDBACK TEXTO:
+As vias respiratórias possuem epitélio de revestimento muco-ciliar, isto é, com cílios dispostos sobre as células epiteliais da mucosa que empurram o muco na mesma direção. O muco produzido ajuda na retenção de microrganismos e partículas que são posteriormente “varridos” para fora graças aos movimentos dos cílios, sendo engolidos ou expelidos.
+
+ID DA QUESTÃO:
+ 
+ENUNCIADO: 
+A cavidade nasal tem um papel importante na preparação do ar, para que este chegue aos pulmões em boas condições. No nariz interno, encontramos estruturas denominadas conchas nasais, subdivididas em superior, média e inferior, formando canais denominados meatos, conforme representado na figura abaixo. Com base na figura e em seus conhecimentos, assinale a alternativa que corresponda as funções das conchas nasais no sistema respiratório.
+
+IMAGEM: img2m5res
+ 
+LEGENDA DA IMAGEM: Imagem: Adaptada de Rage against, Creative Commons - CC0 1.0, Domínio Público, via Wikimedia Commons. Disponível aqui.
+
+ 
+ALTERNATIVAS:
+As conchas nasais existem para aumentar a superfície mucosa e rotacionar o ar, para que ele seja devidamente filtrado, umedecido e aquecido.
+As conchas nasais existem para diminuir a superfície mucosa e rotacionar o ar, para que ele possa ser devidamente filtrado, ressecado e resfriado.
+As conchas nasais existem para transferir o ar da traqueia aos brônquios através de movimentos muco-ciliares.
+As conchas nasais existem para reter moléculas de CO2 e direcioná-las aos pulmões no instante da inspiração.
+
+ALTERNATIVA CORRETA:
+As conchas nasais existem para aumentar a superfície mucosa e rotacionar o ar, para que ele seja devidamente filtrado, umedecido e aquecido.
+
+FEEDBACK IMAGEM: img2m5res
+
+LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Rage against, Creative Commons - CC0 1.0, Domínio Público, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO:
+A cavidade nasal tem um papel importante na preparação do ar, para que este chegue aos pulmões em boas condições. No nariz interno, encontramos estruturas denominadas conchas nasais, subdivididas em superior, média e inferior, formando canais denominados meatos. As conchas nasais existem para aumentar a superfície mucosa e rotacionar o ar, para que ele seja devidamente filtrado, umedecido e aquecido.
+
+
+
+ID DA QUESTÃO:
+ 
+ENUNCIADO: 
+A figura abaixo representa o processo de hematose, isto é, trocas gasosas entre os alvéolos pulmonares e o sangue, envolvendo o gás oxigênio (O2) e gás carbônico (CO2). Sob esse aspecto, analise a figura e, com base em seus conhecimentos, assinale a alternativa mais adequada a respeito do gás oxigênio (O2).
+
+IMAGEM: img3m5res
+ 
+LEGENDA DA IMAGEM: Imagem: Adaptada de Domdomegg, Creative Commons BY 4.0, via Wikimedia Commons. Disponível aqui.
+ 
+ALTERNATIVAS:
+O O2 chega aos alvéolos por meio dos bronquíolos e, devido à proximidade dos capilares à parede fina dos alvéolos, o O2 difunde-se para o sangue e penetra nas hemácias, combinando-se com a hemoglobina e sendo levado aos tecidos do corpo. 
+O O2 chega aos bronquíolos por meio dos alvéolos e, devido à proximidade dos capilares à parede grossa dos alvéolos, o O2 difunde-se para o saco alveolar e penetra nos anticorpos, combinando-se com a hemocianina, sendo levado aos tecidos do corpo.
+O O2 chega aos alvéolos por meio dos capilares sanguíneos como produto da respiração celular e difunde-se para o ar alveolar e é encaminhado para as vias respiratórias, sendo eliminado na expiração.
+O O2 chega aos bronquíolos por meio dos alvéolos como produto da respiração celular, difunde-se para o sangue e penetra no ar alveolar, sendo expelido pelas hemácias no processo de inspiração.
+
+ALTERNATIVA CORRETA:
+O O2 chega aos alvéolos por meio dos bronquíolos e, devido à proximidade dos capilares à parede fina dos alvéolos, o O2 difunde-se para o sangue e penetra nas hemácias, combinando-se com a hemoglobina e sendo levado aos tecidos do corpo. 
+
+FEEDBACK IMAGEM: img3m5res
+
+LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Domdomegg, Creative Commons BY 4.0, via Wikimedia Commons. Disponível aqui.
+
+
+FEEDBACK TEXTO:
+O O2 chega aos alvéolos por meio dos bronquíolos (processo de inspiração) e, devido à proximidade dos capilares à parede fina dos alvéolos, o O2 difunde-se para o sangue e penetra nas hemácias, combinando-se com a hemoglobina e sendo levado aos tecidos do corpo. Ao mesmo tempo, o CO2 presente no sangue difunde-se para os alvéolos, sendo eliminado na expiração.
+
+
+ID DA QUESTÃO:
+ 
+ENUNCIADO: 
+A figura abaixo representa o processo de hematose, isto é, trocas gasosas entre os alvéolos pulmonares e o sangue, envolvendo o gás oxigênio (O2) e gás carbônico (CO2). Sob esse aspecto, analise a figura e, com base em seus conhecimentos, assinale a alternativa mais adequada a respeito do gás carbônico (CO2).
+
+IMAGEM: img4m5res
+ 
+LEGENDA DA IMAGEM: Imagem: Adaptada de Domdomegg, Creative Commons BY 4.0, via Wikimedia Commons. Disponível aqui.
+ 
+ALTERNATIVAS:
+O CO2 chega aos alvéolos por meio dos capilares sanguíneos como produto da respiração celular e, devido à proximidade dos capilares à parede fina dos alvéolos, difunde-se para o ar alveolar e é encaminhado para as vias respiratórias, sendo eliminado na expiração.
+O CO2 chega aos alvéolos por meio dos bronquíolos e, devido à proximidade dos capilares à parede fina dos alvéolos, o O2 difunde-se para o sangue e penetra nas hemácias, combinando-se com a hemoglobina e sendo levado aos tecidos do corpo.
+O CO2 chega às vias respiratórias por meio da inspiração e é levado aos tecidos do corpo para ser utilizado na respiração celular.
+O CO2 combina-se com a hemoglobina formando um complexo chamado oxiemoglobina e, dessa forma, viaja pelo corpo chegando aos capilares de todos os tecidos.
+
+ALTERNATIVA CORRETA:
+
+FEEDBACK IMAGEM: img4m5res
+
+LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Domdomegg, Creative Commons BY 4.0, via Wikimedia Commons. Disponível aqui.
+
+
+FEEDBACK TEXTO:
+O CO2 chega aos alvéolos por meio dos capilares sanguíneos como produto da respiração celular e, devido à proximidade dos capilares à parede fina dos alvéolos, difunde-se para o ar alveolar e é encaminhado para as vias respiratórias, sendo eliminado na expiração. Ao mesmo tempo, o oxigênio proveniente da inspiração é difundido dos alvéolos ao sangue capilares, penetrando nas hemácias e combinando-se com a hemoglobina, sendo levado para os tecidos do corpo, onde estes são oxigenados.
+
+ID DA QUESTÃO:
+ 
+ENUNCIADO: 
+Os pulmões humanos são dois órgãos esponjosos com aproximadamente 25 cm de altura e cerca de 700 gramas, localizados no interior da caixa torácica. Em seu interior, encontram-se cerca de 150 milhões de alvéolos pulmonares, onde ocorrem as trocas gasosas entre o sangue e o ar. A respeito dos pulmões, com base em seus conhecimentos e na figura abaixo, determine a alternativa correta.
+
+IMAGEM: img5m5res
+ 
+LEGENDA DA IMAGEM: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS:
+O pulmão direito possui três lobos enquanto o pulmão esquerdo possui apenas dois. Ambos são envoltos por duas membranas, a pleura interna (aderida à superfície pulmonar) e a pleura externa (aderida à caixa torácica).
+O pulmão direito possui dois lobos enquanto o pulmão esquerdo possui três. Apenas o pulmão direito é envolto por duas membranas, a pleura interna (aderida à superfície pulmonar) e a pleura externa (aderida à caixa torácica).
+O pulmão direito possui três lobos enquanto o pulmão esquerdo possui apenas dois. Apenas o pulmão esquerdo é envolto por duas membranas, a pleura interna (aderida à superfície pulmonar) e a pleura externa (aderida à caixa torácica).
+O pulmão direito possui dois lobos enquanto o pulmão esquerdo possui três. Ambos são envoltos por duas membranas, a pleura interna (aderida à caixa torácica) e a pleura externa (aderida à superfície pulmonar).
+
+ALTERNATIVA CORRETA:
+O pulmão direito possui três lobos enquanto o pulmão esquerdo possui apenas dois. Ambos são envoltos por duas membranas, a pleura interna (aderida à superfície pulmonar) e a pleura externa (aderida à caixa torácica).
+
+FEEDBACK IMAGEM: feedback5m5res
+
+LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0) e de Gtaf, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui e aqui.
+
+
+FEEDBACK TEXTO:
+O pulmão direito possui três lobos enquanto o pulmão esquerdo possui apenas dois. Ambos são envoltos por duas membranas, a pleura interna (aderida à superfície pulmonar) e a pleura externa (aderida à caixa torácica).
+
+
+Modelo 6
+(Enunciado + 4 alternativas texto)
+
+ID DA QUESTÃO:
+ 
+ENUNCIADO: Nas trocas gasosas do processo de hematose, o sangue recebe gás oxigênio dos alvéolos, que se combina à hemoglobina do sangue, sendo direcionado à corrente sanguínea para os tecidos de todo o corpo. Com base em seus conhecimentos, determine a alternativa que corresponda corretamente ao processo de transporte de oxigênio dos pulmões para os tecidos do corpo humano.
+
+ALTERNATIVAS:
+Moléculas de O2 se ligam a molécula de hemoglobina, cada uma delas em um grupo heme, formando um complexo instável chamado oxiemoglobina, onde o O2 viaja pelo corpo, chegando aos capilares dos tecidos.
+Moléculas de O2 se ligam a molécula de hemocianina, cada uma delas em um grupo heme, formando um complexo estável chamado carbaminoemoglobina, onde o O2 viaja pelo corpo, chegando aos alvéolos. 
+A hemoglobina não possui relação com o sistema respiratório, ela tem como única função a pigmentação vermelha do sangue.
+A hemoglobina é responsável pelo transporte de CO2, que se ligam a um grupo heme por meio do ferro. O CO2 então é levado aos tecidos de todo o corpo para ser utilizado na produção de ATP.
+
+ALTERNATIVA CORRETA:
+Moléculas de O2 se ligam a molécula de hemoglobina, cada uma delas em um grupo heme, formando um complexo instável chamado oxiemoglobina, onde o O2 viaja pelo corpo, chegando aos capilares dos tecidos.
+
+FEEDBACK IMAGEM:
+
+LEGENDA DA IMAGEM DE FEEDBACK:
+
+FEEDBACK TEXTO:
+Moléculas de O2 se ligam a molécula de hemoglobina, cada uma delas em um grupo heme, formando um complexo instável chamado oxiemoglobina, onde o O2 viaja pelo corpo, chegando aos capilares dos tecidos.
+
+ID DA QUESTÃO:
+ 
+ENUNCIADO:
+Ao deixarmos um estado de repouso para realizar uma atividade física intensa, os centros nervosos que controlam a respiração (localizados no bulbo encefálico e medula espinhal) identificam as condições em que o corpo se encontra, determinando maior ou menor ventilação pulmonar por meio de impulsos nervosos. Sob esse aspecto, determine e assinale a alternativa que corresponda a processos desencadeados pelo corpo durante atividade física intensa.
+
+ALTERNATIVAS:
+A taxa de CO2 aumenta devido à respiração celular, provocando redução no pH sanguíneo. A acidez do sangue é detectada pelo sistema nervoso, que promove a contração dos músculos respiratórios, aumentando a ventilação pulmonar.
+A taxa de O2 aumenta devido à respiração celular, provocando aumento no pH sanguíneo. O pH básico do sangue é detectado pelo sistema nervoso, que promove o relaxamento dos músculos respiratórios, diminuindo a ventilação pulmonar.
+A taxa de CO2 diminui devido à hematose, provocando diminuição do pH sanguíneo. O pH básico do sangue é detectado pelo sistema nervoso, que promove a contração dos músculos abdominais, diminuindo a ventilação pulmonar.
+A taxa de O2 diminui devido à hematose, provocando aumento do pH sanguíneo. O pH ácido do sangue é detectado pelo sistema nervoso, que promove a contração dos músculos abdominais, aumentando a ventilação pulmonar.
+
+ALTERNATIVA CORRETA:
+A taxa de CO2 aumenta devido à respiração celular, provocando redução no pH sanguíneo. A acidez do sangue é detectada pelo sistema nervoso, que promove a contração dos músculos respiratórios, aumentando a ventilação pulmonar.
+
+FEEDBACK IMAGEM:
+
+LEGENDA DA IMAGEM DE FEEDBACK:
+
+FEEDBACK TEXTO:
+Ao deixarmos um estado de repouso para realizar uma atividade física intensa, os centros nervosos que controlam a respiração (localizados no bulbo encefálico e medula espinhal) identificam as condições em que o corpo se encontra, determinando maior ou menor ventilação pulmonar por meio de impulsos nervosos.
+Assim, durante uma atividade física intensa, a taxa de CO2 aumenta devido à respiração celular, provocando redução no pH sanguíneo. A acidez do sangue é detectada pelo sistema nervoso, que promove a contração dos músculos respiratórios, aumentando a ventilação pulmonar.
+
+
+ID DA QUESTÃO:
+ 
+ENUNCIADO:
+As trocas gasosas entre os alvéolos e sangue (hematose) ocorrem por difusão, isto é, transporte passivo de moléculas, onde estas se movimentam do meio de maior concentração (maior pressão parcial) para o meio de menor concentração (menor pressão parcial). Sobre este processo, com base em seus conhecimentos sobre a respiração, determine e assinale a alternativa correta.
+
+ALTERNATIVAS:
+A pressão parcial de O2 é maior no ar que entra nos alvéolos do que no sangue dos capilares. A pressão parcial do CO2 é maior no sangue dos capilares do que no ar que entra nos alvéolos.
+A pressão parcial de O2 é menor no ar que entra nos alvéolos do que no sangue dos capilares. A pressão parcial do CO2 é menor no sangue dos capilares do que no ar que entra nos alvéolos.
+A pressão parcial do O2 é maior no sangue dos capilares do que no ar que entra nos alvéolos. A pressão parcial de CO2 é maior nos alvéolos do que no sangue dos capilares.
+A pressão parcial de O2 é menor no ar que entra nos alvéolos do que no sangue dos capilares. A pressão parcial do CO2 é maior no ar que entra nos alvéolos do que no sangue dos capilares.
+
+ALTERNATIVA CORRETA:
+A pressão parcial de O2 é maior no ar que entra nos alvéolos do que no sangue dos capilares. A pressão parcial do CO2 é maior no sangue dos capilares do que no ar que entra nos alvéolos.
+
+FEEDBACK IMAGEM:
+
+LEGENDA DA IMAGEM DE FEEDBACK:
+
+FEEDBACK TEXTO:
+As trocas gasosas entre os alvéolos e sangue (hematose) ocorrem por difusão, isto é, transporte passivo de moléculas, onde estas se movimentam do meio de maior concentração (maior pressão parcial) para o meio de menor concentração (menor pressão parcial). Assim, a pressão parcial de O2 é maior no ar que entra nos alvéolos do que no sangue dos capilares, enquanto a pressão parcial do CO2 é maior no sangue dos capilares do que no ar que entra nos alvéolos.
+
+
