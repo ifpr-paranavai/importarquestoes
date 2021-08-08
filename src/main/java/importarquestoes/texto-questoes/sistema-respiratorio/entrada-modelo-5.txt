@@ -1,0 +1,168 @@
+GRUPO
+3
+
+MODELO
+5
+ 
+ENUNCIADO
+As vias respiratórias possuem epitélio de revestimento muco-ciliar, isto é, com cílios dispostos sobre as células epiteliais da mucosa que empurram o muco na mesma direção. A figura abaixo demonstra a presença de muco e de cílios, que se estendem das cavidades nasais aos brônquios. Com base em seus conhecimentos sobre o assunto, assinale a alternativa que corresponda à função muco-ciliar nas vias respiratórias.
+
+IMAGEM
+img1m5res
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Equipe da Blausen.com, Creative Commons BY 3.0, via Wikimedia Commons. Disponível aqui. 
+ 
+ALTERNATIVAS
+O muco produzido ajuda na retenção de microrganismos e partículas que são posteriormente “varridos” para fora graças aos movimentos dos cílios, sendo engolidos ou expelidos.
+O muco produzido destrói as partículas estranhas ao organismo e os cílios as englobam, mantendo-as no trato respiratório.
+O muco produzido tem função de umedecer as vias respiratórias e os cílios retém a umidade, não possuindo nenhuma função de proteção do organismo.
+O muco produzido ajuda no acúmulo de microrganismos e partículas que são posteriormente “varridos” para os alvéolos pulmonares graças aos movimentos dos cílios.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+img1m5res
+
+LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Equipe da Blausen.com, Creative Commons BY 3.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+As vias respiratórias possuem epitélio de revestimento muco-ciliar, isto é, com cílios dispostos sobre as células epiteliais da mucosa que empurram o muco na mesma direção. O muco produzido ajuda na retenção de microrganismos e partículas que são posteriormente “varridos” para fora graças aos movimentos dos cílios, sendo engolidos ou expelidos.
+fim
+
+GRUPO
+3
+
+MODELO
+5
+ 
+ENUNCIADO
+A cavidade nasal tem um papel importante na preparação do ar, para que este chegue aos pulmões em boas condições. No nariz interno, encontramos estruturas denominadas conchas nasais, subdivididas em superior, média e inferior, formando canais denominados meatos, conforme representado na figura abaixo. Com base na figura e em seus conhecimentos, assinale a alternativa que corresponda as funções das conchas nasais no sistema respiratório.
+
+IMAGEM
+img2m5res
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Rage against, Creative Commons - CC0 1.0, Domínio Público, via Wikimedia Commons. Disponível aqui.
+ 
+ALTERNATIVAS
+As conchas nasais existem para aumentar a superfície mucosa e rotacionar o ar, para que ele seja devidamente filtrado, umedecido e aquecido.
+As conchas nasais existem para diminuir a superfície mucosa e rotacionar o ar, para que ele possa ser devidamente filtrado, ressecado e resfriado.
+As conchas nasais existem para transferir o ar da traqueia aos brônquios através de movimentos muco-ciliares.
+As conchas nasais existem para reter moléculas de CO2 e direcioná-las aos pulmões no instante da inspiração.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+img2m5res
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Rage against, Creative Commons - CC0 1.0, Domínio Público, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+A cavidade nasal tem um papel importante na preparação do ar, para que este chegue aos pulmões em boas condições. No nariz interno, encontramos estruturas denominadas conchas nasais, subdivididas em superior, média e inferior, formando canais denominados meatos. As conchas nasais existem para aumentar a superfície mucosa e rotacionar o ar, para que ele seja devidamente filtrado, umedecido e aquecido.
+fim
+
+GRUPO
+3
+
+MODELO
+5
+ 
+ENUNCIADO 
+A figura abaixo representa o processo de hematose, isto é, trocas gasosas entre os alvéolos pulmonares e o sangue, envolvendo o gás oxigênio (O2) e gás carbônico (CO2). Sob esse aspecto, analise a figura e, com base em seus conhecimentos, assinale a alternativa mais adequada a respeito do gás oxigênio (O2).
+
+IMAGEM
+img3m5res
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Domdomegg, Creative Commons BY 4.0, via Wikimedia Commons. Disponível aqui.
+ 
+ALTERNATIVAS
+O O2 chega aos alvéolos por meio dos bronquíolos e, devido à proximidade dos capilares à parede fina dos alvéolos, o O2 difunde-se para o sangue e penetra nas hemácias, combinando-se com a hemoglobina e sendo levado aos tecidos do corpo. 
+O O2 chega aos bronquíolos por meio dos alvéolos e, devido à proximidade dos capilares à parede grossa dos alvéolos, o O2 difunde-se para o saco alveolar e penetra nos anticorpos, combinando-se com a hemocianina, sendo levado aos tecidos do corpo.
+O O2 chega aos alvéolos por meio dos capilares sanguíneos como produto da respiração celular e difunde-se para o ar alveolar e é encaminhado para as vias respiratórias, sendo eliminado na expiração.
+O O2 chega aos bronquíolos por meio dos alvéolos como produto da respiração celular, difunde-se para o sangue e penetra no ar alveolar, sendo expelido pelas hemácias no processo de inspiração.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+img3m5res
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Domdomegg, Creative Commons BY 4.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+O O2 chega aos alvéolos por meio dos bronquíolos (processo de inspiração) e, devido à proximidade dos capilares à parede fina dos alvéolos, o O2 difunde-se para o sangue e penetra nas hemácias, combinando-se com a hemoglobina e sendo levado aos tecidos do corpo. Ao mesmo tempo, o CO2 presente no sangue difunde-se para os alvéolos, sendo eliminado na expiração.
+fim
+
+GRUPO
+3
+
+MODELO
+5
+
+ENUNCIADO
+A figura abaixo representa o processo de hematose, isto é, trocas gasosas entre os alvéolos pulmonares e o sangue, envolvendo o gás oxigênio (O2) e gás carbônico (CO2). Sob esse aspecto, analise a figura e, com base em seus conhecimentos, assinale a alternativa mais adequada a respeito do gás carbônico (CO2).
+
+IMAGEM
+img4m5res
+ 
+LEGENDA DA IMAGEM: Imagem
+Adaptada de Domdomegg, Creative Commons BY 4.0, via Wikimedia Commons. Disponível aqui.
+ 
+ALTERNATIVAS
+O CO2 chega aos alvéolos por meio dos capilares sanguíneos como produto da respiração celular e, devido à proximidade dos capilares à parede fina dos alvéolos, difunde-se para o ar alveolar e é encaminhado para as vias respiratórias, sendo eliminado na expiração.
+O CO2 chega aos alvéolos por meio dos bronquíolos e, devido à proximidade dos capilares à parede fina dos alvéolos, o O2 difunde-se para o sangue e penetra nas hemácias, combinando-se com a hemoglobina e sendo levado aos tecidos do corpo.
+O CO2 chega às vias respiratórias por meio da inspiração e é levado aos tecidos do corpo para ser utilizado na respiração celular.
+O CO2 combina-se com a hemoglobina formando um complexo chamado oxiemoglobina e, dessa forma, viaja pelo corpo chegando aos capilares de todos os tecidos.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+img4m5res
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Domdomegg, Creative Commons BY 4.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+O CO2 chega aos alvéolos por meio dos capilares sanguíneos como produto da respiração celular e, devido à proximidade dos capilares à parede fina dos alvéolos, difunde-se para o ar alveolar e é encaminhado para as vias respiratórias, sendo eliminado na expiração. Ao mesmo tempo, o oxigênio proveniente da inspiração é difundido dos alvéolos ao sangue capilares, penetrando nas hemácias e combinando-se com a hemoglobina, sendo levado para os tecidos do corpo, onde estes são oxigenados.
+fim
+
+GRUPO
+3
+
+MODELO
+5
+
+ENUNCIADO 
+Os pulmões humanos são dois órgãos esponjosos com aproximadamente 25 cm de altura e cerca de 700 gramas, localizados no interior da caixa torácica. Em seu interior, encontram-se cerca de 150 milhões de alvéolos pulmonares, onde ocorrem as trocas gasosas entre o sangue e o ar. A respeito dos pulmões, com base em seus conhecimentos e na figura abaixo, determine a alternativa correta.
+
+IMAGEM
+img5m5res
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS:
+O pulmão direito possui três lobos enquanto o pulmão esquerdo possui apenas dois. Ambos são envoltos por duas membranas, a pleura interna (aderida à superfície pulmonar) e a pleura externa (aderida à caixa torácica).
+O pulmão direito possui dois lobos enquanto o pulmão esquerdo possui três. Apenas o pulmão direito é envolto por duas membranas, a pleura interna (aderida à superfície pulmonar) e a pleura externa (aderida à caixa torácica).
+O pulmão direito possui três lobos enquanto o pulmão esquerdo possui apenas dois. Apenas o pulmão esquerdo é envolto por duas membranas, a pleura interna (aderida à superfície pulmonar) e a pleura externa (aderida à caixa torácica).
+O pulmão direito possui dois lobos enquanto o pulmão esquerdo possui três. Ambos são envoltos por duas membranas, a pleura interna (aderida à caixa torácica) e a pleura externa (aderida à superfície pulmonar).
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+feedback5m5res
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0) e de Gtaf, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui e aqui.
+
+FEEDBACK TEXTO
+O pulmão direito possui três lobos enquanto o pulmão esquerdo possui apenas dois. Ambos são envoltos por duas membranas, a pleura interna (aderida à superfície pulmonar) e a pleura externa (aderida à caixa torácica).
+fim

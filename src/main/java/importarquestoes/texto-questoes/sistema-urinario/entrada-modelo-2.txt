@@ -1,0 +1,91 @@
+GRUPO
+4
+
+MODELO
+2
+
+ENUNCIADO
+O conjunto de órgãos e estruturas responsáveis pela filtração do sangue, produção, armazenamento e eliminação de substâncias potencialmente tóxicas do organismo por meio da urina, constitui o sistema urinário. Analise as alternativas a seguir e assinale todas aquelas que correspondam aos órgãos e estruturas básicos deste sistema.
+
+ALTERNATIVAS
+Rins, ureteres, bexiga e uretra
+Rins, uretra, pâncreas e bexiga
+Rins, apêndice, útero e uretra
+Rins, ureteres, bexiga e útero
+
+ALTERNATIVAS CORRETAS
+1
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+O conjunto de órgãos e estruturas responsáveis pela filtração do sangue, produção, armazenamento e eliminação de substâncias potencialmente tóxicas do organismo por meio da urina, constitui o sistema urinário. Esse sistema é composto por dois rins, dois ureteres, uma bexiga urinária e uma uretra.
+
+GRUPO
+4
+
+MODELO
+2
+
+ENUNCIADO 
+Dentre as principais funções do sistema urinário, encontra-se a produção, armazenamento e eliminação de urina. Sobre a fisiologia do sistema urinário, com base em seus conhecimentos, assinale todas as alternativas que julgar corretas.
+
+ALTERNATIVAS
+O sangue a ser filtrado nos rins percorre os capilares do glomérulo sob alta pressão, forçando a saída de líquido sanguíneo para a cápsula renal.
+Ao passar pelo túbulo néfrico, o filtrado glomerular passa por um processo de reabsorção e secreção de substâncias, e ao final do túbulo transforma-se em urina.
+A urina produzida nos rins é encaminhada para os ureteres que desembocam na bexiga, onde é armazenada até ser eliminada pela uretra.
+A urina é armazenada na bexiga graças ao esfíncter uretral, localizado na união entre a bexiga e a uretra, e de músculos na parede da uretra que se mantém contraídos impedindo sua saída.
+O sangue chega aos néfrons por meio das arteríolas eferentes, proveniente da veia renal, passando pelo túbulo néfrico, onde é filtrado.
+Ao passar pelo glomérulo, o filtrado glomerular é reabsorvido, de modo que a formação da urina se dá na porção proximal do túbulo néfrico, contendo glicose, ureia, proteínas e sais.
+
+
+ALTERNATIVAS CORRETAS
+1,2,3,4
+
+FEEDBACK IMAGEM
+Sem 
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+O sangue chega aos néfrons por meio das arteríolas aferentes, proveniente da artéria renal, passando pelos capilares do glomérulo, sob alta pressão, onde é filtrado, forçando a saída de líquido sanguíneo para a cápsula renal.
+Ao passar pelo túbulo néfrico, o filtrado glomerular passa por um processo de reabsorção e secreção de substâncias, e ao final do túbulo transforma-se em urina, que em condições normais é composta de água (cerca de 95%), ureia, e menores quantidades de amônia, ácido úrico e sais.
+A urina produzida nos rins é encaminhada para os ureteres que desembocam na bexiga, onde é armazenada até ser eliminada pela uretra.
+A urina é armazenada na bexiga graças ao esfíncter uretral, localizado na união entre a bexiga e a uretra, e de músculos na parede da uretra que se mantém contraídos impedindo sua saída.
+fim
+
+GRUPO
+4
+
+MODELO
+2
+
+ENUNCIADO
+Os rins exercem controle sobre o sangue, mantendo diferentes substâncias em suas quantidades normais, atuando como um “controle de qualidade” do sangue. A quantidade de água e outras substâncias são controladas a partir da necessidade do corpo em retê-las ou eliminá-las. Sob esse aspecto, analise as alternativas abaixo assinale todas as proposições que julgar corretas.
+
+ALTERNATIVAS
+O principal agente fisiológico regulador do equilíbrio hídrico (água) no corpo é o hormônio antidiurético (ADH), sintetizado no hipotálamo e armazenado na hipófise.
+O hormônio antidiurético atua sobre os túbulos contorcidos distais dos néfrons e ductos coletores, aumentando ou diminuindo a reabsorção de água.
+A quantidade de sódio no sangue é controlada pelo hormônio aldosterona, secretado pelo córtex da glândula adrenal, localizada acima dos rins.
+Quando a quantidade de sódio no sangue está baixa, a aldosterona é secretada e atua sobre os túbulos contorcidos distais e ductos coletores, aumentando a reabsorção do sódio no filtrado glomerular.
+O principal agente fisiológico regulador do equilíbrio de sódio no corpo é o hormônio aldosterona, produzido e armazenado na glândula tireoide.
+A quantidade de sódio no sangue é controlada pelo hormônio progesterona, sintetizado no hipotálamo e armazenado pela tireoide.
+
+ALTERNATIVAS CORRETAS
+1,2,3,4
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+O principal agente fisiológico regulador do equilíbrio hídrico (água) no corpo é o hormônio antidiurético (ADH), sintetizado no hipotálamo e armazenado na hipófise. Esse hormônio atua sobre os túbulos contorcidos distais dos néfrons e ductos coletores, aumentando ou diminuindo a reabsorção de água.
+A quantidade de sódio no sangue é controlada pelo hormônio aldosterona, secretado pelo córtex da glândula adrenal, localizada acima dos rins. Quando a quantidade de sódio no sangue está baixa, a aldosterona é secretada e atua sobre os túbulos contorcidos distais e ductos coletores, aumentando a reabsorção do sódio no filtrado glomerular.
+fim

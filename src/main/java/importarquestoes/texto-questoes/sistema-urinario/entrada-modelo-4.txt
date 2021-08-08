@@ -1,0 +1,135 @@
+GRUPO
+4
+
+MODELO
+4
+ 
+ENUNCIADO
+O GIF abaixo representa o processo de micção, ou seja, eliminação da urina da bexiga para o meio externo. Analise a animação e, com base em seus conhecimentos, assinale a alternativa correta acerca desse processo.
+
+IMAGEM
+gif1m4uri
+ 
+LEGENDA DA IMAGEM: Imagem: Nemours KidsHealth, Via Makeagif. Disponível aqui.
+ 
+ALTERNATIVAS
+Quando a bexiga está cheia, receptores nervosos em sua parede transmitem a informação ao encéfalo, provocando vontade de urinar. Na micção, ocorre contração dos músculos da bexiga e relaxamento dos esfíncteres.
+Quando a bexiga está cheia, receptores nervosos dos rins transmitem a informação à bexiga, provocando vontade de urinar. Na micção, ocorre relaxamento dos músculos da bexiga e contração dos esfíncteres.
+A micção é um processo exclusivamente involuntário, controlado por hormônios como o ADH e aldosterona.
+A micção é um processo exclusivamente voluntário, controlado por hormônios como a angiotensina e o glucagon.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+gif1m4uri
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Nemours KidsHealth, Via Makeagif. Disponível aqui.
+
+FEEDBACK TEXTO
+Quando a bexiga está cheia, receptores nervosos em sua parede transmitem a informação ao encéfalo, provocando vontade de urinar. Na micção, ocorre contração dos músculos da bexiga e relaxamento dos esfíncteres. Os esfíncteres urinários são controlados involuntária e voluntariamente, por isso podemos interromper a micção se quisermos.
+fim
+
+GRUPO
+4
+
+MODELO
+4
+ 
+ENUNCIADO
+A animação abaixo demonstra um ureter em corte, bem como movimentos realizados por sua camada intermediaria de tecido muscular liso, denominados de peristaltismo. Sobre essa característica fisiológica dos ureteres, analise a animação e as alternativas e, com base em seus conhecimentos, assinale a alternativa que julgar correta. 
+
+IMAGEM
+gif2m4uri
+ 
+LEGENDA DA IMAGEM
+Imagem: CrashCourse, via Makeagif. Disponível aqui.
+ 
+ALTERNATIVAS
+O peristaltismo da musculatura dos ureteres facilita a condução da urina proveniente dos rins em direção à bexiga.
+O peristaltismo da musculatura dos ureteres facilita a reabsorção de substâncias no túbulo, as quais voltam para o sangue.
+O peristaltismo da musculatura dos ureteres facilita o extravasamento de fluidos dos néfrons, auxiliando na formação da urina.
+O peristaltismo da musculatura dos ureteres facilita a contração da musculatura uterina durante o período menstrual.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+gif2m4uri
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: CrashCourse, via Makeagif. Disponível aqui.
+
+FEEDBACK TEXTO
+A animação abaixo demonstra um ureter em corte, bem como movimentos realizados por sua camada intermediaria de tecido muscular liso, denominados de peristaltismo. O peristaltismo da musculatura dos ureteres facilita a condução da urina proveniente dos rins em direção à bexiga.
+fim
+
+GRUPO
+4
+
+MODELO
+4
+ 
+ENUNCIADO
+A animação abaixo representa o processo fisiológico que ocorre no interior dos néfrons, necessários para a formação da urina. Com base em seus conhecimentos sobre o tema, analise a animação e as alternativas propostas e assinale a proposição que julgar verdadeira.
+
+IMAGEM
+gif3m4uri
+ 
+LEGENDA DA IMAGEM
+Imagem: Nehasethi – Design Mate, via Makeagif. Disponível aqui.
+ 
+ALTERNATIVAS
+A animação demonstra a água e resíduos sendo extravasados dos capilares do glomérulo e, em seguida, o processo de reabsorção de água e sais importantes do túbulo néfrico pelos capilares.
+A animação demonstra a água e resíduos sendo reabsorvidos pelos capilares do glomérulo e, em seguida, o processo de extravasamento de água e sais importantes do glomérulo para a cápsula renal.
+A animação demonstra o processo de eliminação ativa de excretas do ducto coletor para o túbulo contorcido distal, que serão reabsorvidas pelo sangue.
+A animação demonstra o processo de eliminação ativa de excretas da cápsula renal para o novelo de capilares glomerulares, que são direcionados às arteríolas aferentes e sendo reabsorvidos pelo sangue.
+
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+gif3m4uri
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Nehasethi – Design Mate, via Makeagif. Disponível aqui.
+
+FEEDBACK TEXTO
+O processo fisiológico que ocorre no interior dos néfrons, necessários para a formação da urina é demonstrado na animação em dois momentos: no primeiro, ilustra-se a água e resíduos sendo extravasados dos capilares do glomérulo em direção à cápsula renal e, em seguida, para o túbulo néfrico. No segundo, é ilustrado o processo de reabsorção de água e sais importantes do túbulo néfrico pelos capilares, que voltam para o sangue. Assim, ao final do percurso pelo túbulo néfrico, o líquido denominado filtrado glomerular passa a ser chamado de urina, e está pronto para sair dos rins e ser eliminado por meio das vias uriníferas para o meio externo.
+fim
+
+GRUPO
+4
+
+MODELO
+4
+ 
+ENUNCIADO 
+A animação abaixo demonstra os órgãos e estruturas do sistema urinário masculino e o trajeto da urina, desde sua formação até sua eliminação pelo organismo. Sobre o sistema urinário, com base em seus conhecimentos, analise a figura e as alternativas e assinale a alternativa que julgar verdadeira.
+
+IMAGEM
+gif4m4uri 
+ 
+LEGENDA DA IMAGEM
+Imagem: Notselc – Voidaq, via Makeagif. Disponível aqui.
+ 
+ALTERNATIVAS
+A urina é formada nos rins, passa pela pelve renal, ureteres e chega à bexiga, onde fica armazenada até ser eliminada pela uretra.
+A urina é formada nos rins, passa pela uretra, pelve renal e chega à bexiga, onde fica armazenada até ser eliminada pelo ureter.
+A urina é formada na pelve renal, passa pelos rins, ureteres e chega à bexiga, onde fica armazenada até ser eliminada pela uretra.
+A urina é formada na pelve renal, passa pela uretra, rins e chega à bexiga, onde fica armazenada até ser eliminada pelo ureter.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+gif4m4uri
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Notselc – Voidaq, via Makeagif. Disponível aqui.
+
+FEEDBACK TEXTO
+A urina é formada nos rins, em estruturas funcionais denominadas néfrons, passa pela pelve renal, uma estrutura em forma de funil que direciona a urina para os ureteres, vias uriníferas que desembocam na bexiga, órgão onde a urina fica armazenada até ser eliminada pela uretra.
+fim

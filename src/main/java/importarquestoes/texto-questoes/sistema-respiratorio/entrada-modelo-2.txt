@@ -1,0 +1,96 @@
+GRUPO
+3
+
+MODELO
+2
+
+ENUNCIADO
+No processo de respiração, destacam-se três momentos básicos: a ventilação pulmonar, a respiração interna (tecidual) e a respiração externa (pulmonar). Com base em seus conhecimentos sobre esses momentos, assinale todas as alternativas que considerar verdadeiras.
+
+ALTERNATIVAS
+Ventilação pulmonar: consiste na inspiração e expiração e envolve a troca de ar entre a atmosfera e os alvéolos pulmonares.
+Respiração externa: troca de gases entre os alvéolos pulmonares e o sangue nos capilares pulmonares através da membrana respiratória. O sangue dos capilares ganha oxigênio (O2) e perde gás carbônico (CO2).
+Respiração interna: troca de gases entre o sangue nos capilares sistêmicos com as células teciduais. O sangue dos capilares perde oxigênio (O2) e ganha gás carbônico (CO2).
+Ventilação pulmonar: troca de gases entre os alvéolos pulmonares e o sangue nos capilares pulmonares através da membrana respiratória. O sangue dos capilares ganha oxigênio (O2) e perde gás carbônico (CO2).
+Respiração externa: troca de gases entre o sangue nos capilares sistêmicos com as células teciduais. O sangue dos capilares perde oxigênio (O2) e ganha gás carbônico (CO2).
+Respiração interna: consiste na inspiração e expiração e envolve a troca de ar entre a atmosfera e os alvéolos pulmonares.
+
+ALTERNATIVAS CORRETAS
+1,2,3
+
+FEEDBACK IMAGEM
+img4m1res
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A ventilação pulmonar consiste na inspiração (inalação do ar) e expiração (exalação do ar) e envolve a troca de ar entre a atmosfera e os alvéolos pulmonares. A respiração externa consiste na troca de gases entre os alvéolos pulmonares e o sangue nos capilares pulmonares através da membrana respiratória. O sangue dos capilares ganha oxigênio (O2) e perde gás carbônico (CO2). A respiração interna consiste na troca de gases entre o sangue nos capilares sistêmicos com as células teciduais. O sangue dos capilares perde oxigênio (O2) e ganha gás carbônico (CO2).
+fim
+
+GRUPO
+3
+
+MODELO
+2
+ 
+ENUNCIADO
+A ventilação pulmonar consiste na inspiração (inalação do ar) e expiração (exalação do ar), possibilitando a troca de ar entre a atmosfera e os alvéolos pulmonares, possibilitando a entrada de ar rico em oxigênio no organismo e a saída de ar rico em gás carbônico. Com base nas informações e em seus conhecimentos sobre esse processo, assinale todas as alternativas que considerar verdadeiras.
+
+ALTERNATIVAS
+Durante a inspiração, o diafragma e os músculos intercostais contraem acarretando o aumento do volume da caixa torácica e a entrada de ar nos pulmões.
+Durante a expiração, o diafragma e os músculos intercostais relaxam resultando na diminuição do volume da caixa torácica e a saída de ar dos pulmões.
+O aumento do volume da caixa torácica torna a pressão interna menor que a externa, favorecendo a entrada de ar proveniente do ambiente.
+A diminuição do volume da caixa torácica torna a pressão interna maior que a externa, favorecendo a saída de ar dos pulmões.
+A contração do diafragma e dos músculos intercostais diminuem o volume da caixa torácica e a pressão interna, favorecendo a expulsão do ar dos pulmões ao ambiente.
+O relaxamento do diafragma e dos músculos intercostais aumentam o volume da caixa torácica e a pressão interna, favorecendo a entrada de ar proveniente do ambiente nos pulmões.
+
+ALTERNATIVAS CORRETAS
+1,2,3,4
+
+FEEDBACK IMAGEM
+img5m1res
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+Durante a inspiração, o diafragma e os músculos intercostais contraem acarretando o aumento do volume da caixa torácica e a entrada de ar nos pulmões. O aumento do volume da caixa torácica torna a pressão interna menor que a externa, favorecendo a entrada de ar proveniente do ambiente. 
+Durante a expiração, o diafragma e os músculos intercostais relaxam resultando na diminuição do volume da caixa torácica e a saída de ar dos pulmões. A diminuição do volume da caixa torácica torna a pressão interna maior que a externa, favorecendo a saída de ar dos pulmões.
+fim
+
+GRUPO
+3
+
+MODELO
+2
+ 
+ENUNCIADO
+O sistema respiratório é responsável pelos processos de trocas gasosas entre o ar atmosférico e o sangue, fornecendo oxigênio proveniente da atmosfera e retirando gás carbônico produzido pelas células do corpo. Sobre algumas características do processo de respiração, assinale todas as alternativas corretas.
+
+ALTERNATIVAS
+O número de movimentos respiratórios (inspiração e expiração) executados por minuto caracterizam a frequência respiratória, que em condições normais, situa-se entre 12 a 15 vezes por minuto.
+Os reforços de cartilagem presentes na traqueia e nos brônquios tem como função manter essas estruturas sempre abertas, permitindo que o ar possa fluir durante a inspiração e expiração.
+A cavidade nasal possui projeções denominadas conchas nasais, que formam canais para a passagem de ar, denominados meatos.
+A faringe é um órgão exclusivamente respiratório, uma vez que consiste em uma estrutura tubular responsável pela passagem de ar da laringe para os brônquios.
+A hematose consiste nas trocas gasosas onde o gás oxigênio difunde-se para os alvéolos pulmonares, sendo eliminado pelos pulmões no processo denominado expiração.
+O sistema respiratório humano envolve gases como o oxigênio e o gás carbônico, que transitam pelo corpo por meio de tubos respiratórios até chegarem às células, de modo que estes gases não interagem diretamente com o sistema circulatório.
+
+
+ALTERNATIVAS CORRETAS
+1,2,3
+
+FEEDBACK IMAGEM
+Sem 
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+O número de movimentos respiratórios (inspiração e expiração) executados por minuto caracterizam a frequência respiratória, que em condições normais, situa-se entre 12 a 15 vezes por minuto.
+Os reforços de cartilagem presentes na traqueia e nos brônquios tem como função manter essas estruturas sempre abertas, permitindo que o ar possa fluir durante a inspiração e expiração.
+A cavidade nasal possui projeções denominadas conchas nasais, que formam canais para a passagem de ar, denominados meatos.
+A faringe é um órgão que abrange tanto o sistema respiratório como o digestório, uma vez que permite tanto a passagem de ar em direção aos pulmões, como de alimento em direção ao esôfago.
+A hematose consiste nas trocas gasosas onde o gás oxigênio presente no ar dos alvéolos difunde-se para os capilares sanguíneos e penetra nas hemácias, onde se combina com a hemoglobina. 
+Portanto, o sistema respiratório humano se relaciona com o sistema circulatório, pois é por meio deste que os gases são transportados pelo organismo.
+fim

@@ -1,0 +1,89 @@
+GRUPO
+3
+
+MODELO
+1
+ 
+ENUNCIADO: Durante o processo de respiração, o ar segue um trajeto específico no sistema respiratório, representado na figura abaixo. No que se refere à anatomia das estruturas que constituem os pulmões, analise as indicações I, II e III na figura e forme os pares corretos entre as estruturas indicadas e as alternativas propostas.
+
+
+IMAGEM
+img1m1res
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de LadyoHats, Domínio Público, via Wikimedia Commons. Disponível aqui. 
+
+PARES CORRETOS
+I = Brônquios
+II = Alvéolos
+III = Bronquíolos
+
+FEEDBACK IMAGEM
+img1m1res
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de LadyoHats, Domínio Público, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO 
+A estrutura representada por I consiste nos brônquios, isto é, dois tubos de maior calibre respiratório que partem da traqueia, reforçados por cartilagem e que conduzem ar aos dois pulmões. A estrutura representada em II consiste nos alvéolos pulmonares, que são pequenos sacos de paredes finas, recobertos por capilares sanguíneos, onde ocorre a troca de gases entre o ar dos pulmões e o sangue. A estrutura III consiste nos bronquíolos, que consistem em ramificações dos brônquios (estrutura I), constituindo tubos mais finos, que, juntos, formam um conjunto chamado de árvore respiratória. É nas extremidades da árvore respiratória que se localizam os alvéolos (estrutura II).
+fim
+
+GRUPO
+3
+
+MODELO
+1 
+
+ENUNCIADO
+Durante a respiração, o ar entra pelas narinas, passa pelas cavidades nasais e faringe, seguindo seu trajeto e perpassando pela estrutura representada por I, II e III representadas na figura abaixo. Adiante, o ar segue por ramificações mais finas, até chegarem aos alvéolos pulmonares, onde ocorre a hematose. Com base nas informações e na figura abaixo, determine as estruturas anatômicas indicadas, formando pares com as alternativas propostas.
+
+IMAGEM
+img2m1res
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui. 
+
+PARES CORRETOS
+I = Laringe
+II = Traqueia
+III = Brônquios
+
+FEEDBACK IMAGEM
+img2m1res
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+Durante a respiração, o ar entra pelas narinas, passa pelas cavidades nasais e faringe, seguindo seu trajeto e perpassando pela laringe (representada por I), traqueia (representada por II) e brônquios (representados por III). Adiante, o ar segue por ramificações mais finas, até chegarem aos alvéolos pulmonares, onde ocorre a hematose.
+fim
+
+GRUPO
+3
+
+MODELO
+1
+
+ENUNCIADO
+O sistema respiratório pode ser estruturado em vias respiratórias superiores e inferiores. A figura abaixo demonstra parte das estruturas do trato respiratório superior, de modo que I consiste em um orifício por onde o ar é inalado, II em uma estrutura intracraniana por onde o ar passa, sendo filtrado, umedecido e aquecido, enquanto as estruturas III são orifícios nos ossos faciais reduzindo o peso, oferecendo proteção térmica e mecânica e servindo como câmaras de ressonância para o som da fala. Com base nas informações e na figura abaixo, determine as estruturas anatômicas representadas em I, II e III, formando pares com as alternativas propostas.
+
+IMAGEM
+img3m1res
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS
+I = Narina
+II = Cavidade nasal
+III = Seios paranasais
+
+FEEDBACK IMAGEM
+img3m1res
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+O trato respiratório superior é formado pelo nariz e cavidades nasais (incluindo os seios paranasais), faringe e laringe. A figura demonstra três dessas estruturas: as narinas, que consistem no orifício nasal para a inalação do ar atmosférico (representado por I), a cavidade nasal (representada por II), constituída por uma grande cavidade com projeções e canais para a passagem do ar, onde o ar é aquecido filtrado, umedecido, e duas estruturas que representam alguns dos seios paranasais (representados por III) que são orifícios nos ossos faciais que reduzem o peso craniano, oferecem proteção térmica e mecânica e atuam como câmaras de ressonância para o som da fala.
+fim
