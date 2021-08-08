@@ -1,0 +1,54 @@
+GRUPO
+4
+
+MODELO
+3
+ 
+ENUNCIADO
+O conjunto de órgãos e estruturas responsáveis pela filtração do sangue, produção, armazenamento e eliminação de substâncias potencialmente tóxicas do organismo, constitui o sistema urinário. Sob este aspecto, analise as alternativas abaixo e relacione a informação acerca da função da estrutura com a figura mais adequada, por meio de de toques nos pares.
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+PARES CORRETOS
+img4m3uri = Filtração do sangue e produção de urina
+img5m3uri = Conduzir a urina dos rins à bexiga
+img6m3uri = Armazenar urina até sua eliminação
+
+FEEDBACK IMAGEM
+feedback1m3uri
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+O conjunto de órgãos e estruturas responsáveis pela filtração do sangue, produção, armazenamento e eliminação de substâncias potencialmente tóxicas do organismo, constitui o sistema urinário. Dentre as alternativas apresentadas, os rins constituem a função de filtração do sangue e produção de urina, realizada por estruturas denominadas néfrons; os ureteres possuem a função de via urinífera, isto é, conduzir a urina dos rins para a bexiga; e a bexiga possui função de armazenamento da urina, até o momento da sua eliminação, que ocorre pela via urinífera denominada uretra, que conduz a urina da bexiga para o meio externo.
+fim
+
+GRUPO
+4
+
+MODELO
+3 
+ 
+ENUNCIADO
+O corpúsculo renal é uma parte do néfron onde ocorre a filtração do sangue. As figuras presentes nas alternativas abaixo indicam, por meio de cores, estruturas presentes no corpúsculo. Analise as figuras e, com base em seus conhecimentos, relacione a estrutura destacada com a respectiva descrição, por meio de toques nos pares.
+
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+PARES CORRETOS
+img7m3uri = Arteríolas: entrada e saída de sangue do corpúsculo
+img8m3uri = Glomérulo: filtração e formação do filtrado glomerular
+img9m3uri = Cápsula renal: recebe o filtrado e direciona para o túbulo
+
+FEEDBACK IMAGEM
+feedback2m3uri
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+Sem
+fim

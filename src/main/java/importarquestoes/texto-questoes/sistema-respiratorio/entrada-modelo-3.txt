@@ -1,0 +1,82 @@
+GRUPO
+3
+
+MODELO
+3
+ 
+ENUNCIADO
+Assim como todos os outros sistemas do corpo humano, o sistema respiratório, em condições anormais, pode ser acometido por algumas doenças. As figuras nas alternativas abaixo demonstram os principais sintomas de três doenças distintas do trato respiratório humano. Sob esse aspecto, a partir de seus conhecimentos sobre o assunto, relacione as figuras com as informações mais adequadas, por meio de toque nos pares.
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+PARES CORRETOS
+img7m3ares = Enfisema: destruição dos alvéolos, decorrente do hábito de fumar.
+img7m3bres = Edema pulmonar: acúmulo de líquido no interior dos pulmões, geralmente associado à doença cardíaca.
+img7m3cres = Bronquite: inflamação da mucosa dos brônquios e bronquíolos, geralmente causada por infecção viral.
+
+FEEDBACK IMAGEM
+feedback7m3res
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A enfisema pulmonar é uma doença degenerativa, onde ocorre a destruição dos alvéolos em decorrência de muito tempo de agressão ao pulmão, sendo o cigarro sua causa principal. O edema pulmonar consiste em um acúmulo de líquido no interior dos pulmões, geralmente causado por uma doença cardíaca, quando o coração se encontra com dificuldade de bombear o sangue, aumentando a pressão no interior dos pequenos vasos sanguíneos dos pulmões. A bronquite consiste em uma inflamação da mucosa dos brônquios e bronquíolos, geralmente causada por uma infecção viral, na qual os bronquíolos secretam uma quantidade excessiva de muco, tornando-se comprimidos e inflamados. 
+fim
+
+GRUPO
+3
+
+MODELO
+3 
+ 
+ENUNCIADO
+O sistema respiratório pode ser estruturado em vias respiratórias superiores e inferiores. As figuras nas alternativas abaixo demonstram algumas das estruturas do trato respiratório superior e suas designações. Com base nas alternativas e em seus conhecimentos, associe as correspondências por meio de toques nos pares.
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+PARES CORRETOS
+img8m3ares = Laringe: região dilatada de comunicação entre hipofaringe e traqueia
+img8m3bres = Pregas vocais: estruturas envolvidas na produção de voz
+img8m3cres = Epiglote: estrutura que regula a abertura e fechamento da laringe
+
+FEEDBACK IMAGEM
+feedback8m3res
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A laringe é uma região dilatada de conexão entre a hipofaringe e a traqueia. É constituída por peças cartilaginosas que se movem por ação dos músculos e fecham a passagem de ar. 
+Na entrada da laringe, há uma estrutura de cartilagem denominada epiglote, que consiste em que se mantem aberta durante a passagem de ar, que vem da faringe, passa pela laringe e é direcionado à traqueia. Quando engolimos, essa estrutura fecha a entrada da laringe, o que impede o alimento ou líquido ingerido de entrar nas vias respiratórias e causar engasgamento. 
+Internamente à laringe, encontram-se as principais estruturas envolvidas na produção de voz: as pregas vocais. O ar que passa pela laringe vibra as pregas e produz som (fonação), de modo que a variação do som está relacionada com a tensão nas pregas vocais (quanto maior a tensão, mais alto o som).
+fim
+
+GRUPO
+3
+
+MODELO
+3
+ 
+ENUNCIADO
+No processo de respiração, destacam-se três momentos básicos: a ventilação pulmonar, a respiração interna (tecidual) e a respiração externa (pulmonar). As alternativas abaixo ilustram esses três momentos e suas designações. Com base em seus conhecimentos e nas alternativas em imagem e texto, associe as correspondências por meio de toques nos pares.
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+PARES CORRETOS
+img9m3ares = Ventilação pulmonar: entrada e saída de ar dos pulmões por meio da inspiração e expiração
+img9m3bres = Respiração interna: troca de gases entre o sangue nos capilares sistêmicos com as células teciduais
+img9m3cres = Respiração externa: troca de gases entre os alvéolos pulmonares e o sangue nos capilares pulmonares
+
+FEEDBACK IMAGEM
+feedback9m3res
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A ventilação pulmonar consiste na inspiração (inalação do ar) e expiração (exalação do ar) e envolve a troca de ar entre a atmosfera e os alvéolos pulmonares. A respiração externa consiste na troca de gases entre os alvéolos pulmonares e o sangue nos capilares pulmonares através da membrana respiratória. O sangue dos capilares ganha oxigênio (O2) e perde gás carbônico (CO2). A respiração interna consiste na troca de gases entre o sangue nos capilares sistêmicos com as células teciduais. O sangue dos capilares perde oxigênio (O2) e ganha gás carbônico (CO2).
+fim

@@ -1,0 +1,84 @@
+GRUPO
+3
+
+MODELO
+6
+ 
+ENUNCIADO
+Nas trocas gasosas do processo de hematose, o sangue recebe gás oxigênio dos alvéolos, que se combina à hemoglobina do sangue, sendo direcionado à corrente sanguínea para os tecidos de todo o corpo. Com base em seus conhecimentos, determine a alternativa que corresponda corretamente ao processo de transporte de oxigênio dos pulmões para os tecidos do corpo humano.
+
+ALTERNATIVAS
+Moléculas de O2 se ligam a molécula de hemoglobina, cada uma delas em um grupo heme, formando um complexo instável chamado oxiemoglobina, onde o O2 viaja pelo corpo, chegando aos capilares dos tecidos.
+Moléculas de O2 se ligam a molécula de hemocianina, cada uma delas em um grupo heme, formando um complexo estável chamado carbaminoemoglobina, onde o O2 viaja pelo corpo, chegando aos alvéolos. 
+A hemoglobina não possui relação com o sistema respiratório, ela tem como única função a pigmentação vermelha do sangue.
+A hemoglobina é responsável pelo transporte de CO2, que se ligam a um grupo heme por meio do ferro. O CO2 então é levado aos tecidos de todo o corpo para ser utilizado na produção de ATP.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+Moléculas de O2 se ligam a molécula de hemoglobina, cada uma delas em um grupo heme, formando um complexo instável chamado oxiemoglobina, onde o O2 viaja pelo corpo, chegando aos capilares dos tecidos.
+fim
+
+GRUPO
+3
+
+MODELO
+6
+ 
+ENUNCIADO
+Ao deixarmos um estado de repouso para realizar uma atividade física intensa, os centros nervosos que controlam a respiração (localizados no bulbo encefálico e medula espinhal) identificam as condições em que o corpo se encontra, determinando maior ou menor ventilação pulmonar por meio de impulsos nervosos. Sob esse aspecto, determine e assinale a alternativa que corresponda a processos desencadeados pelo corpo durante atividade física intensa.
+
+ALTERNATIVAS
+A taxa de CO2 aumenta devido à respiração celular, provocando redução no pH sanguíneo. A acidez do sangue é detectada pelo sistema nervoso, que promove a contração dos músculos respiratórios, aumentando a ventilação pulmonar.
+A taxa de O2 aumenta devido à respiração celular, provocando aumento no pH sanguíneo. O pH básico do sangue é detectado pelo sistema nervoso, que promove o relaxamento dos músculos respiratórios, diminuindo a ventilação pulmonar.
+A taxa de CO2 diminui devido à hematose, provocando diminuição do pH sanguíneo. O pH básico do sangue é detectado pelo sistema nervoso, que promove a contração dos músculos abdominais, diminuindo a ventilação pulmonar.
+A taxa de O2 diminui devido à hematose, provocando aumento do pH sanguíneo. O pH ácido do sangue é detectado pelo sistema nervoso, que promove a contração dos músculos abdominais, aumentando a ventilação pulmonar.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+Ao deixarmos um estado de repouso para realizar uma atividade física intensa, os centros nervosos que controlam a respiração (localizados no bulbo encefálico e medula espinhal) identificam as condições em que o corpo se encontra, determinando maior ou menor ventilação pulmonar por meio de impulsos nervosos.
+Assim, durante uma atividade física intensa, a taxa de CO2 aumenta devido à respiração celular, provocando redução no pH sanguíneo. A acidez do sangue é detectada pelo sistema nervoso, que promove a contração dos músculos respiratórios, aumentando a ventilação pulmonar.
+fim
+
+GRUPO
+3
+
+MODELO
+6
+ 
+ENUNCIADO
+As trocas gasosas entre os alvéolos e sangue (hematose) ocorrem por difusão, isto é, transporte passivo de moléculas, onde estas se movimentam do meio de maior concentração (maior pressão parcial) para o meio de menor concentração (menor pressão parcial). Sobre este processo, com base em seus conhecimentos sobre a respiração, determine e assinale a alternativa correta.
+
+ALTERNATIVAS
+A pressão parcial de O2 é maior no ar que entra nos alvéolos do que no sangue dos capilares. A pressão parcial do CO2 é maior no sangue dos capilares do que no ar que entra nos alvéolos.
+A pressão parcial de O2 é menor no ar que entra nos alvéolos do que no sangue dos capilares. A pressão parcial do CO2 é menor no sangue dos capilares do que no ar que entra nos alvéolos.
+A pressão parcial do O2 é maior no sangue dos capilares do que no ar que entra nos alvéolos. A pressão parcial de CO2 é maior nos alvéolos do que no sangue dos capilares.
+A pressão parcial de O2 é menor no ar que entra nos alvéolos do que no sangue dos capilares. A pressão parcial do CO2 é maior no ar que entra nos alvéolos do que no sangue dos capilares.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+As trocas gasosas entre os alvéolos e sangue (hematose) ocorrem por difusão, isto é, transporte passivo de moléculas, onde estas se movimentam do meio de maior concentração (maior pressão parcial) para o meio de menor concentração (menor pressão parcial). Assim, a pressão parcial de O2 é maior no ar que entra nos alvéolos do que no sangue dos capilares, enquanto a pressão parcial do CO2 é maior no sangue dos capilares do que no ar que entra nos alvéolos.
+fim
