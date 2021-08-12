@@ -1,18 +1,19 @@
-SISTEMA DIGESTÓRIO
+GRUPO 
+1
 
-Modelo 1
-(Enunciado + Imagem + Toque pares em texto)
+MODELO
+1
  
-ID DA QUESTÃO: 1
- 
-ENUNCIADO:
+ENUNCIADO
 As glândulas salivares são responsáveis por produzir a saliva, uma secreção que atua no processo de digestão e na garantia da saúde bucal. Dentre essas glândulas, algumas são maiores e outras menores. Os três principais pares de glândulas maiores estão representados na figura abaixo e sua nomenclatura remete à região em que elas se encontram na cavidade bucal. De acordo com os seus conhecimentos sobre o assunto e com base nas indicações da imagem, determine quais são estas glândulas por meio de toques nos pares.
 
-IMAGEM: img1m1sd
+IMAGEM 
+img1m1sd
 
-LEGENDA DA IMAGEM: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-ALTERNATIVAS:
+ALTERNATIVAS
 I
 II
 III
@@ -20,32 +21,38 @@ Glândula Parótida.
 Glândula Submandibular.
 Glândula Sublingual.
 
-PARES CORRETOS:
+PARES CORRETOS
 I = Glândula Parótida.
 II = Glândula Submandibular.
 III = Glândula Sublingual.
 
-FEEDBACK IMAGEM: img1m1sd
+FEEDBACK IMAGEM
+img1m1sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK 
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
 
-FEEDBACK TEXTO: 
+FEEDBACK TEXTO
 As glândulas salivares são responsáveis por produzir a saliva, uma secreção que atua no processo de digestão e na garantia da saúde bucal. Na imagem, encontram-se representadas as glândulas salivares maiores, que ocorrem em pares no corpo humano e são responsáveis pela maior parte da produção de saliva. São elas, as glândulas parótidas (representada em I), glândulas submandibulares (representada em II) e glândulas sublinguais (representada em III). 
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 2
+MODELO
+1
  
-
-ENUNCIADO:
+ENUNCIADO
 Durante a alimentação, o processo de digestão envolve estruturas distintas presentes ao longo do trato digestório. A figura abaixo representa os primeiros momentos deste processo. Na estrutura I, ocorre a desintegração mecânica dos alimentos, o início da digestão química e a deglutição. Na estrutura II, ocorre a passagem do bolo alimentar para a estrutura III, que por meio de peristaltismo levará o alimento ao estômago. Com base nessas informações, determine as estruturas indicadas na imagem, selecionando os respectivos pares.
 
-IMAGEM: img2m1sd
+IMAGEM
+img2m1sd
 
-LEGENDA DA IMAGEM:  Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-ALTERNATIVAS:
+ALTERNATIVAS
 I
 II
 III
@@ -53,30 +60,38 @@ Boca.
 Faringe.
 Esôfago. 
 
-PARES CORRETOS:
+PARES CORRETOS
 I = Boca.
 II = Faringe.
 III = Esôfago.
 
-FEEDBACK IMAGEM: img2m1sd
+FEEDBACK IMAGEM
+img2m1sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 Na boca (estrutura I), ocorre a desintegração mecânica dos alimentos (por meio da mastigação), o início da digestão química (por meio da amilase salivar) e a deglutição. Na faringe (estrutura II), ocorre a passagem do bolo alimentar para o esôfago (estrutura III), que por meio de peristaltismo (movimentos involuntários) levará o alimento ao estômago.
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 3 
+MODELO
+1
 
-ENUNCIADO:
+ENUNCIADO
 Na figura abaixo estão representadas estruturas consideradas anexas ao trato gastrointestinal, pois não entram em contato direto com o alimento ingerido. A estrutura I é a maior glândula do corpo humano, cuja principal função digestiva é a produção de bile, enquanto a estrutura II armazena esta substância. A estrutura III é responsável pela produção de substâncias como o suco pancreático, a insulina e o glucagon. Com base nas informações, determine quais são estas estruturas indicadas na imagem, selecionando os respectivos pares.
 
-IMAGEM: img3m1sd
+IMAGEM
+img3m1sd
 
-LEGENDA DA IMAGEM: Imagem: Adaptada de LadyofHats, Domínio público, via Wikimedia Commons.  Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de LadyofHats, Domínio público, via Wikimedia Commons.  Disponível aqui.
 
-ALTERNATIVAS:
+ALTERNATIVAS
 I
 II
 III
@@ -84,31 +99,38 @@ Fígado.
 Vesícula Biliar.
 Pâncreas.
 
-PARES CORRETOS: 
+PARES CORRETOS
 I = Fígado.
 II = Vesícula Biliar.
 III = Pâncreas.
 
-FEEDBACK IMAGEM: img3m1sd
+FEEDBACK IMAGEM
+img3m1sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de LadyofHats, Domínio público, via Wikimedia Commons.  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de LadyofHats, Domínio público, via Wikimedia Commons.  Disponível aqui.
 
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 As estruturas representadas na imagem consistem em órgãos anexos ao sistema digestório. O fígado (estrutura I) é a maior glândula do corpo humano, cuja principal função digestiva é a produção de bile, enquanto a vesícula biliar (estrutura II) armazena esta substância. O pâncreas (estrutura III) é responsável pela produção de substâncias como o suco pancreático (auxiliador na digestão), a insulina e o glucagon (hormônios envolvidos na regulação da taxa de glicose no sangue).
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 4
+MODELO
+1
  
-ENUNCIADO:
+ENUNCIADO
 Durante a alimentação, o alimento sofre o processo de mastigação e início da digestão na boca, deglutição, passagem da faringe ao esôfago e, por meio do peristaltismo, o alimento é levado à estrutura I, onde o bolo alimentar se converte em quimo por meio da digestão. Em seguida, na estrutura II o quimo passa por outro processo digestivo e se torna quilo. Na estrutura III, após a absorção de água e nutrientes restantes, o quilo é convertido em bolo fecal que será eliminado pelo ânus. De acordo com as informações, determine as estruturas I, II e III, selecionando os respectivos pares propostos nas alternativas.
 
-IMAGEM: img4m1sd
+IMAGEM
+img4m1sd
 
-LEGENDA DA IMAGEM: Imagem: Adaptada de LadyofHats, Domínio público, via Wikimedia Commons.  Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de LadyofHats, Domínio público, via Wikimedia Commons.  Disponível aqui.
 
-
-ALTERNATIVAS:
+ALTERNATIVAS
 I
 II
 III
@@ -116,30 +138,37 @@ Estômago.
 Intestino Delgado.
 Intestino Grosso.
 
-PARES CORRETOS:
+PARES CORRETOS
 I = Estômago.
 II = Intestino Delgado.
 III = Intestino Grosso.
 
-FEEDBACK IMAGEM: img4m1sd
+FEEDBACK IMAGEM
+img4m1sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de LadyofHats, Domínio público, via Wikimedia Commons.  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de LadyofHats, Domínio público, via Wikimedia Commons.  Disponível aqui.
 
-
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 Os órgãos representados na figura são locais fundamentais para o processo de digestão. No estômago (estrutura I), o bolo alimentar (alimento mastigado com saliva) se converte em quimo por meio da ação do suco gástrico no processo de digestão. Em seguida, o quimo é conduzido ao intestino delgado (estrutura II) e passa por outro processo digestivo, pela ação do suco entérico, suco pancreático e bile, e torna-se quilo, onde se inicia o processo de absorção de nutrientes. No intestino grosso (estrutura III), após a absorção de água e nutrientes restantes, o quilo é convertido em bolo fecal que será eliminado pelo ânus.
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 5
+MODELO
+1
  
-ENUNCIADO:
+ENUNCIADO
 As estruturas indicadas na imagem são importantes no trato gastrointestinal pois desempenham funções específicas, necessárias durante o processo digestivo. A estrutura I é responsável pela defecação. II produz uma secreção exócrina o suco pancreático que é liberado no duodeno e por secreção endócrina a insulina e glucagon, que entram no sangue. III realiza a quimificação do bolo alimentar, digerindo grande parte das proteínas e pequena quantidade de gordura. Sob esse aspecto, determine quais são essas estruturas, selecionando os pares propostos nas alternativas.
 
-IMAGEM: img5m1sd
+IMAGEM
+img5m1sd
 
-LEGENDA DA IMAGEM:  Imagem: Adaptada de LadyofHats, Domínio público, via Wikimedia Commons.  Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de LadyofHats, Domínio público, via Wikimedia Commons.  Disponível aqui.
 
-ALTERNATIVAS:
+ALTERNATIVAS
 I
 II
 III
@@ -147,30 +176,37 @@ III
 Pâncreas.
 Estômago.
 
-PARES CORRETOS:
+PARES CORRETOS
 I = Ânus.
 II = Pâncreas.
 III = Estômago.
 
-FEEDBACK IMAGEM: img5m1sd
+FEEDBACK IMAGEM
+img5m1sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de LadyofHats, Domínio público, via Wikimedia Commons.  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de LadyofHats, Domínio público, via Wikimedia Commons.  Disponível aqui.
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 O ânus (estrutura I) é responsável pela defecação, ou seja, eliminação das fezes. O pâncreas (estrutura II) produz uma secreção exócrina (ou seja, que é secretada em superfície livre no organismo por meio de ductos) o suco pancreático que é liberado no duodeno, e por secreção endócrina a insulina e glucagon, que entram na corrente sanguínea. O estômago (estrutura III) realiza a quimificação do bolo alimentar, digerindo grande parte das proteínas e pequena quantidade de gordura.
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 6
+MODELO
+1
  
-ENUNCIADO:
+ENUNCIADO
 A deglutição é o ato de engolir alimentos e ocorre em uma sequência de fatos, envolvendo estruturas presentes na cavidade oral. A figura abaixo representa algumas dessas estruturas. Neste processo, o bolo alimentar é colocado e pressionado entre a parte superior da língua com a estrutura I.  A estrutura II serve como sinalizador da passagem de alimento e a estrutura III se eleva, fechando a ligação com o nariz e facilitando a passagem do bolo alimentar através da faringe para o esôfago. Com base nas informações e em seus conhecimentos, determine quais são as estruturas I, II e III, formando os respectivos pares com as alternativas.
 
-IMAGEM: img6m1sd
+IMAGEM
+img6m1sd
 
-LEGENDA DA IMAGEM:  Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-ALTERNATIVAS:
+ALTERNATIVAS
 I
 II
 III
@@ -178,30 +214,38 @@ Palato duro.
 Úvula.
 Palato mole.
 
-PARES CORRETOS:
+PARES CORRETOS
 I = Palato duro.
 II = Úvula.
 III = Palato mole.
 
-FEEDBACK IMAGEM: img6m1sd
+FEEDBACK IMAGEM
+img6m1sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 O alimento, ao ser mastigado e misturado com a saliva, se torna o bolo alimentar, que para a deglutição (ato de engolir) é colocado e pressionado entre a parte superior da língua e o palato duro (estrutura I).  A úvula (estrutura II) serve como sinalizador da passagem de alimento e o palato mole (estrutura III) se eleva, fechando a ligação com o nariz e facilitando a passagem do bolo alimentar através da faringe para o esôfago.
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 7
+MODELO
+1
  
-ENUNCIADO:
+ENUNCIADO
 Na imagem abaixo estão identificadas algumas estruturas presentes na cavidade oral humana. I é uma estrutura que auxilia no processo de mastigação (guiando e moldando o alimento), deglutição (direcionando o alimento para ser engolido) e está relacionada ao paladar (percepção de sabores) e à fala. As estruturas representadas por II são ricas em linfócitos que auxiliam na defesa do organismo contra microrganismos causadores de doenças. A estrutura III é constituída por cartilagem e sua principal função é evitar a entrada de alimentos do sistema digestório no aparelho respiratório. A partir das informações e de seus conhecimentos, determine as estruturas I, II e III, formando pares com as alternativas. 
 
-IMAGEM: img7m1sd
+IMAGEM
+img7m1sd
 
-LEGENDA DA IMAGEM:  Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-ALTERNATIVAS:
+ALTERNATIVAS
 I
 II
 III
@@ -209,30 +253,38 @@ Língua.
 Tonsilas.
 Epiglote.
 
-PARES CORRETOS:
+PARES CORRETOS
 I = Língua.
 II = Tonsilas.
 III = Epiglote.
 
-FEEDBACK IMAGEM: img7m1sd
+FEEDBACK IMAGEM
+img7m1sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 A língua (estrutura I) é uma estrutura que auxilia no processo de mastigação (guiando e moldando o alimento), deglutição (direcionando o alimento para ser engolido) e está relacionada ao paladar (percepção de sabores) e à fala. As tonsilas, representadas por II são estruturas ricas em linfócitos que auxiliam na defesa do organismo contra microrganismos causadores de doenças. A epiglote (estrutura III) é constituída por cartilagem e sua principal função é evitar a entrada de alimentos do sistema digestório no aparelho respiratório, por meio de um mecanismo de “tampa” que “abre e fecha” a glote.
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 8
+MODELO
+1
  
-ENUNCIADO:
+ENUNCIADO
 Os mamíferos têm distintos tipos de dentes adaptados às diferentes formas de alimentação. Nos seres humanos, podemos encontrar dentes incisivos (cuja função é cortar alimentos), caninos (rasgar ou perfurar alimentos), pré-molares e molares (cortar, esmagar e triturar). Três deles estão indicados na figura abaixo. Como base nas informações e em seus conhecimentos, determine os tipos de dentes I, II e III representados na figura, selecionando os respectivos pares.
 
-IMAGEM: img8m1sd
+IMAGEM
+img8m1sd
 
-LEGENDA DA IMAGEM:  Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-ALTERNATIVAS: 
+ALTERNATIVAS
 I
 II
 III
@@ -240,30 +292,37 @@ Dentes incisivos.
 Dentes molares.
 Dentes pré-molares.
 
-PARES CORRETOS:
+PARES CORRETOS
 I = Dentes incisivos.
 II = Dentes molares.
 III = Dentes pré-molares.
 
-FEEDBACK IMAGEM: img8m1sd
+FEEDBACK IMAGEM
+img8m1sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 Nos seres humanos, podemos encontrar dentes incisivos (representados em I), cuja função é cortar alimentos; dentes caninos, que atuam ao rasgar ou perfurar alimentos (não indicados na figura, são as “presas” ao lado dos dentes incisivos); pré-molares (representados por III) e molares (representados por II), cujas funções são cortar, esmagar e triturar os alimentos.
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 9
+MODELO
+1
  
-ENUNCIADO:
+ENUNCIADO
 A estrutura destacada nas cores verde, azul e roxa na figura se refere à faringe, estrutura localizada na parte posterior às cavidades do nariz e da boca, estendendo-se para baixo atrás da laringe. A faringe pode ser dividida em três partes anatômicas. A primeira exerce função exclusivamente respiratória, enquanto a segunda e a terceira exercem tanto função respiratória como digestória, por compartilharem passagem comum para o ar e alimento. Com base nas informações e em seus conhecimentos, determine as partes anatômicas indicadas na figura, formando pares com as alternativas propostas.
 
-IMAGEM: img9m1sd
+IMAGEM
+img9m1sd
 
-LEGENDA DA IMAGEM:  Imagem: Adaptada de Patrick J. Lynch, ilustrador médico, Creative Commons BY 2.5, via Wikimedia Commons. Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Patrick J. Lynch, ilustrador médico, Creative Commons BY 2.5, via Wikimedia Commons. Disponível aqui.
 
-ALTERNATIVAS:
+ALTERNATIVAS
 I
 II
 III
@@ -271,30 +330,37 @@ Nasofaringe.
 Orofaringe.
 Hipofaringe.
 
-PARES CORRETOS:
+PARES CORRETOS
 I = Nasofaringe.
 II = Orofaringe.
 III = Hipofaringe.
 
-FEEDBACK IMAGEM: img9m1sd
+FEEDBACK IMAGEM
+img9m1sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: :  Imagem: Adaptada de Patrick J. Lynch, ilustrador médico, Creative Commons BY 2.5, via Wikimedia Commons. Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Patrick J. Lynch, ilustrador médico, Creative Commons BY 2.5, via Wikimedia Commons. Disponível aqui.
 
-
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 A faringe pode ser dividida em três partes anatômicas: A primeira, destacada em verde, exerce função exclusivamente respiratória e é chamada de nasofaringe. A segunda, destacada em azul, é chamada orofaringe. A terceira, destacada em roxa, é chamada hipofaringe ou laringofaringe. A orofaringe e a hipofaringe exercem tanto função respiratória como digestória, por compartilharem passagem comum para o ar e alimento.
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 10
- 
-ENUNCIADO:
+MODELO
+1
+
+ENUNCIADO
 O refluxo é um problema digestivo que se caracteriza pelo retorno do conteúdo gástrico para o esôfago e adjacências. Esse problema é ocasionado, sobretudo, devido ao mau fechamento dos esfíncteres esofágicos. Assim, as secreções refluem do estômago para o esôfago (refluxo gastresofágico) e do esôfago para estruturas como nariz, seios da face, garganta e ouvidos (refluxo laringofaríngeo). Até chegar à faringe, o conteúdo refluído passa pelas estruturas I, II e III, respectivamente, apresentadas na figura. Determine quais são tais estruturas, formando pares com as alternativas propostas.  
 
-IMAGEM: img10m1sd
+IMAGEM
+img10m1sd
 
-LEGENDA DA IMAGEM: Imagem: Adaptada de Olek Remesz, Creative Commons BY-SA 2.5, via Wikimedia Commons. Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Olek Remesz, Creative Commons BY-SA 2.5, via Wikimedia Commons. Disponível aqui.
  
-ALTERNATIVAS:
+ALTERNATIVAS
 I
 II
 III
@@ -302,30 +368,37 @@ Esfíncter esofágico inferior.
 Corpo do esôfago.
 Esfíncter esofágico superior.
 
-PARES CORRETOS:
+PARES CORRETOS
 I = Esfíncter esofágico inferior.
 II = Corpo do esôfago.
 III = Esfíncter esofágico superior.
 
-FEEDBACK IMAGEM: img10m1sd
+FEEDBACK IMAGEM
+img10m1sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Olek Remesz, Creative Commons BY-SA 2.5, via Wikimedia Commons. Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Olek Remesz, Creative Commons BY-SA 2.5, via Wikimedia Commons. Disponível aqui.
 
-
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 O refluxo é um problema digestivo onde as secreções retornam do estômago para o esôfago (refluxo gastresofágico) e do esôfago para estruturas como nariz, seios da face, garganta e ouvidos (refluxo laringofaríngeo), ocasionado por um mau funcionamento dos esfíncteres esofágicos. Até chegar à faringe, o conteúdo refluído que sai do estômago passa pelo esfíncter esofágico inferior (estrutura I), corpo do esôfago (estrutura II) e esfíncter esofágico superior (estrutura III).
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 11
+MODELO
+1
  
-ENUNCIADO:
+ENUNCIADO
 Após consultar um médico e receber o diagnóstico, um paciente é informado que possui gastrite autoimune, doença que provoca a destruição das células gástricas presentes nas regiões do fundo e corpo do estômago, poupando apenas a região do antro. Com base nas indicações I, II e III da figura e em seus conhecimentos sobre o assunto, determine as três regiões presentes no estômago, selecionando os pares nas alternativas propostas.
 
-IMAGEM: img11m1sd
+IMAGEM
+img11m1sd
 
-LEGENDA DA IMAGEM: Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
 
-ALTERNATIVAS:
+ALTERNATIVAS
 I
 II
 III
@@ -333,31 +406,37 @@ Fundo.
 Corpo.
 Antro.
 
-PARES CORRETOS:
+PARES CORRETOS
 I = Fundo.
 II = Corpo.
 III = Antro.
 
-FEEDBACK IMAGEM: img11m1sd
+FEEDBACK IMAGEM
+img11m1sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
 
-
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 A gastrite autoimune é um tipo de doença que provoca a destruição das células gástricas presentes nas regiões do fundo (parte I) e corpo (parte II) do estômago, poupando apenas a região do antro (parte III).
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 12
+MODELO
+1
  
-ENUNCIADO:
+ENUNCIADO
 Na porção inicial e final do estômago, são encontradas duas estruturas denominadas esfíncteres. O esfíncter é geralmente formado por um músculo de fibras circulares concêntricas, que controla o grau de amplitude de um determinado orifício. Com base nestas informações e em seus conhecimentos, determine as estruturas I, II e III selecionando os pares nas alternativas propostas.
 
-IMAGEM: img12m1sd
+IMAGEM
+img12m1sd
 
-LEGENDA DA IMAGEM:  Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-
-ALTERNATIVAS:
+ALTERNATIVAS
 I
 II
 III
@@ -365,31 +444,37 @@ Esfíncter esofágico inferior.
 Estômago.
 Esfíncter pilórico.
 
-PARES CORRETOS:
+PARES CORRETOS
 I = Esfíncter esofágico inferior.
 II = Estômago.
 III = Esfíncter pilórico.
 
-FEEDBACK IMAGEM: img12m1sd
+FEEDBACK IMAGEM
+img12m1sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 Os esfíncteres são estruturas geralmente formado por um músculo de fibras circulares concêntricas, que controla o grau de amplitude de um determinado orifício. Na porção inicial do estômago é encontrado o esfíncter esofágico inferior (representado por I), abertura por onde o bolo alimentar entra no estômago (representado por II). Ao ser digerido, o bolo alimentar passa a se chamar quimo e é conduzido ao duodeno pela abertura denominada esfíncter pilórico (representado por III). 
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 13
+MODELO
+1
  
-ENUNCIADO:
+ENUNCIADO
 O intestino delgado é um longo tubo encontrado no sistema digestório, sendo responsável pela maior parte da digestão e absorção de nutrientes da nossa alimentação. Sobre essa parte do sistema digestório, selecione os pares nas alternativas que indicam corretamente o nome das três porções do intestino delgado.
 
-IMAGEM: img13m1sd
+IMAGEM
+img13m1sd
 
-LEGENDA DA IMAGEM:  Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-
-ALTERNATIVAS:
+ALTERNATIVAS
 I
 II
 III
@@ -397,29 +482,37 @@ Duodeno.
 Jejuno.
 Íleo.
 
-PARES CORRETOS:
+PARES CORRETOS
 I = Duodeno.
 II = Jejuno.
 III = Íleo.
 
-FEEDBACK IMAGEM: img13m1sd
+FEEDBACK IMAGEM
+img13m1sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 O intestino delgado é um longo tubo encontrado no sistema digestório, dividido em três partes. A porção inicial corresponde aos primeiros 25 centímetros do intestino e é chamada de duodeno (representado por I); a segunda porção do intestino corresponde de três a cinco metros de comprimento e é denominada jejuno (representada por II) e a terceira e última porção é denominada íleo (representada por III) e mede cerca de 1 a 1,5 metro. 
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 14
+MODELO
+1
  
-ENUNCIADO:
+ENUNCIADO
 O intestino grosso consiste na parte final do tubo digestivo e tem como função principal a absorção de água e sais minerais determinando, assim, a consistência do bolo fecal. O intestino grosso é dividido anatômica e funcionalmente em três partes: ceco, cólon e reto. Na figura abaixo, as indicações I, II e III consistem nas subdivisões do colón, além da porção sigmóide, que não se encontra identificada. Com base na figura e em seus conhecimentos, determine tais estruturas por meio da formação de pares com as alternativas propostas.  
 
-IMAGEM: img14m1sd
+IMAGEM
+img14m1sd
 
-LEGENDA DA IMAGEM:  Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
-ALTERNATIVAS:
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS
 I
 II
 III
@@ -427,31 +520,38 @@ Cólon ascendente.
 Cólon transverso.
 Cólon descendente.
 
-PARES CORRETOS:
+PARES CORRETOS
 I = Cólon ascendente.
 II = Cólon transverso.
 III = Cólon descendente.
 
-FEEDBACK IMAGEM: img14m1sd
+FEEDBACK IMAGEM
+img14m1sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 O intestino grosso é dividido anatômica e funcionalmente em três partes: ceco, cólon e reto. O cólon, por sua vez, é segmentado em quatro frações:  O cólon ascendente (representado por I), o cólon transverso (representado por II), o cólon descendente (representado por III) e o cólon sigmóide (não indicado, mas localizado entre o cólon descendente e o reto).
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 15
+MODELO
+1
  
-ENUNCIADO:
+ENUNCIADO
 O intestino grosso consiste na parte final do tubo digestivo e tem como função principal a absorção de água e sais minerais. Na figura abaixo, estão representadas estruturas do intestino grosso sendo I um tubo vermiforme que parte da primeira parte do intestino grosso, II a porção que recebe o quilo do intestino delgado e III a porção final do cólon. Baseando-se na imagem e em seus conhecimentos, determine a nomenclatura das estruturas indicadas, formando pares com as alternativas propostas.
 
-IMAGEM: img15m1sd
+IMAGEM
+img15m1sd
 
-LEGENDA DA IMAGEM:  Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-
-ALTERNATIVAS:
+ALTERNATIVAS
 I
 II
 III
@@ -459,30 +559,37 @@ Apêndice.
 Ceco.
 Cólon sigmóide.
 
-PARES CORRETOS:
+PARES CORRETOS
 I = Apêndice.
 II = Ceco.
 III = Cólon sigmóide.
 
-FEEDBACK IMAGEM: img15m1sd
+FEEDBACK IMAGEM
+img15m1sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 Na figura, estão representadas estruturas do intestino grosso, sendo que o apêndice (representado por I) consiste em um tubo vermiforme que parte da primeira parte do intestino grosso. O ceco (representado por II) é a porção que recebe o quilo do intestino delgado e o cólon sigmóide (representado por III) a porção final do cólon.
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 16
+MODELO
+1
  
-ENUNCIADO:
+ENUNCIADO
 Na figura abaixo, encontram-se indicadas estruturas presentes no intestino grosso, de modo que I corresponde à sua última porção, responsável pela eliminação das fezes pelo esfíncter anal, II indica a segunda porção do cólon e III se refere à última porção do cólon.  Com base nas informações e em seus conhecimentos, determine a nomenclatura das estruturas indicadas, formando pares com as alternativas propostas.
 
-IMAGEM: img16m1sd
+IMAGEM
+img16m1sd
 
-LEGENDA DA IMAGEM:  Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-
-ALTERNATIVAS:
+ALTERNATIVAS
 I
 II
 III
@@ -490,32 +597,37 @@ Reto.
 Cólon transverso.
 Cólon sigmóide.
 
-PARES CORRETOS:
+PARES CORRETOS
 I = Reto.
 II = Cólon transverso.
 III = Cólon sigmóide.
 
-FEEDBACK IMAGEM: img16m1sd
+FEEDBACK IMAGEM
+img16m1sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-
-
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 O intestino grosso é dividido anatômica e funcionalmente em três partes: ceco, cólon e reto. O reto (representado em I) corresponde à sua última porção do intestino grosso, responsável pela eliminação das fezes pelo esfíncter anal. O cólon é dividido anatomicamente em cólon ascendente, transverso, descendente e sigmóide, de modo que a estrutura II consiste no cólon transverso, que indica a segunda porção do cólon, e III se refere ao cólon descendente, que é a última porção do cólon.
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 17
+MODELO
+1
  
-ENUNCIADO:
+ENUNCIADO
 A figura abaixo apresenta uma estrutura diretamente relacionada à bile, secreção produzida pelo fígado. Em I a secreção é recebida e direcionada à II, que então poderá seguir dois caminhos: a estrutura III onde será armazenada, ou diretamente ao duodeno para auxiliar a digestão de lipídios. Com base nas informações e em seus conhecimentos, determine as partes I, II e III da estrutura representada, formando pares com as alternativas propostas. 
 
-IMAGEM: img17m1sd
+IMAGEM
+img17m1sd
 
-LEGENDA DA IMAGEM:  Imagem: Adaptada de LukesAnatomy, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de LukesAnatomy, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponível aqui.
 
-ALTERNATIVAS:
+ALTERNATIVAS
 I
 II
 III
@@ -523,30 +635,37 @@ Ductos hepáticos.
 Colédoco.
 Vesícula.
 
-PARES CORRETOS:
+PARES CORRETOS
 I = Ductos hepáticos.
 II = Colédoco.
 III = Vesícula.
 
-FEEDBACK IMAGEM: img17m1sd
+FEEDBACK IMAGEM
+img17m1sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de LukesAnatomy, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de LukesAnatomy, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponível aqui.
 
-
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 A estrutura representada na imagem refere-se à vesícula biliar e seus ductos. Nos ductos hepáticos (representados por I), a secreção (bile) é recebida do fígado, onde é produzida, e direcionada ao colédoco (representado por II), que então poderá seguir dois caminhos: a vesícula (representada por III) onde será armazenada, ou diretamente ao duodeno para auxiliar a digestão de lipídios.
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 18
+MODELO
+1
  
-ENUNCIADO:
+ENUNCIADO
 O suco pancreático é uma substância de grande importância na digestão de proteínas, carboidratos, triglicerídeos e ácidos nucléicos e é produzido pela estrutura I indicada na figura. A estrutura II é conectada ao ducto colédoco da vesícula biliar e tem como função conduzir a secreção à estrutura III, onde ocorre, de fato, a digestão dos macronutrientes citados. Com base nas informações e em seus conhecimentos, determine as estruturas I, II e III por meio da formação de pares com as alternativas propostas.
 
-IMAGEM: img18m1sd
+IMAGEM
+img18m1sd
 
-LEGENDA DA IMAGEM: Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui e aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui e aqui.
 
-ALTERNATIVAS:
+ALTERNATIVAS
 I
 II
 III
@@ -554,30 +673,37 @@ Pâncreas.
 Ductos pancreáticos.
 Duodeno.
 
-PARES CORRETOS:
+PARES CORRETOS
 I = Pâncreas.
 II = Ductos pancreáticos.
 III = Duodeno.
 
-FEEDBACK IMAGEM: img18m1sd
+FEEDBACK IMAGEM
+img18m1sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui e aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui e aqui.
 
-
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 O suco pancreático é uma substância de grande importância na digestão de proteínas, carboidratos, triglicerídeos e ácidos nucléicos e é produzido pelo pâncreas (estrutura I). Os ductos pancreáticos (representados por II) se conectam ao ducto colédoco da vesícula biliar e tem como função conduzir a secreção ao duodeno (estrutura III), onde ocorre, de fato, a digestão dos macronutrientes citados.
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 19
+MODELO
+1
  
-ENUNCIADO:
+ENUNCIADO
 O paladar permite-nos reconhecer o gosto dos alimentos, bem como a sua textura. As estruturas que desempenham essas funções, encontradas principalmente na língua, são as saliências representadas em I na figura. Nessas saliências, situam-se as estruturas representadas por II, constituídas principalmente por células sensoriais quimiorreceptoras, que partem da abertura representada por III. Com base no enunciado e em seus conhecimentos, determine quais são as estruturas I, II e III, formando pares com as alternativas propostas.
 
-IMAGEM: img19m1sd
+IMAGEM
+img19m1sd
 
-LEGENDA DA IMAGEM:  Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-ALTERNATIVAS:
+ALTERNATIVAS
 I
 II
 III
@@ -585,30 +711,38 @@ Papila gustativa.
 Botão gustativo.
 Poro gustativo.
 
-PARES CORRETOS:
+PARES CORRETOS
 I = Papila gustativa.
 II = Botão gustativo.
 III = Poro gustativo.
 
-FEEDBACK IMAGEM: img19m1sd
+FEEDBACK IMAGEM
+img19m1sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 O paladar permite-nos reconhecer o gosto dos alimentos, bem como a sua textura. As estruturas que desempenham essas funções, encontradas principalmente na língua, são as papilas gustativas (representadas em I). Nessas saliências, situam-se os botões gustativos (representados por II), constituídas principalmente por células sensoriais quimiorreceptoras, que partem de aberturas denominadas poros gustativos (representados por III).
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 20
+MODELO
+1
  
-ENUNCIADO:
+ENUNCIADO
 Durante a digestão do quimo na primeira porção do intestino delgado, secreções são lançadas nesta região a fim de promover a digestão química. Na figura, encontram-se indicadas as estruturas que produzem estas substâncias. Assim, a secreção produzida em I tem como função a emulsificação de lipídeos, em II a digestão de proteínas, carboidratos, triglicerídeos e ácidos nucleicos e a secreção produzida em III completa a digestão de carboidratos, proteínas e lipídeos. Com base nas informações e em seus conhecimentos, determine as substâncias produzidas nas estruturas I, II e III por meio da seleção de pares nas alternativas propostas.
 
-IMAGEM: img20m1sd
+IMAGEM
+img20m1sd
 
-LEGENDA DA IMAGEM:  Imagem: Adaptada de LadyofHats, Domínio público, via Wikimedia Commons.  Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de LadyofHats, Domínio público, via Wikimedia Commons.  Disponível aqui.
 
 
-ALTERNATIVAS:
+ALTERNATIVAS
 I
 II
 III
@@ -616,26 +750,26 @@ Bile.
 Suco pancreático.
 Suco entérico.
 
-PARES CORRETOS:
+PARES CORRETOS
 I = Bile.
 II = Suco pancreático.
 III = Suco entérico.
 
-FEEDBACK IMAGEM: img20m1sd
+FEEDBACK IMAGEM
+img20m1sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de LadyofHats, Domínio público, via Wikimedia Commons.  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de LadyofHats, Domínio público, via Wikimedia Commons.  Disponível aqui.
 
-
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 A secreção produzida no fígado (estrutura I) é denominada bile tem como função, sobretudo, a emulsificação de lipídeos. No pâncreas (estrutura II), o suco pancreático é produzido, sendo responsável pela digestão de proteínas, carboidratos, triglicerídeos e ácidos nucleicos. A secreção produzida pelo duodeno (estrutura III) trata-se do suco entérico, que completa a digestão de carboidratos, proteínas e lipídeos.
+FIM
 
+GRUPO 
+1
 
-
-Modelo 2
-(Enunciado + Várias alternativas corretas em texto)
-
-
-ID DA QUESTÃO: 41
+MODELO
+2
  
 ENUNCIADO
 O sistema digestório é formado por diversos órgãos e estruturas que atuam juntos para conseguir retirar dos alimentos os nutrientes necessários para o nosso corpo. Contudo, cada um desses órgãos e estruturas são responsáveis por realizar funções específicas no sistema digestório. A respeito das funções desempenhadas no sistema digestório, determine todas as alternativas que julgar verdadeiras.
@@ -654,20 +788,25 @@ Digestão química e mecânica.
 Absorção de nutrientes, água e sais minerais.
 Eliminação de restos não aproveitados.
 
-FEEDBACK IMAGEM: imgfeedback41
+FEEDBACK IMAGEM
+imgfeedback41
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Olek Remesz, Creative Commons BY-SA 2.5, via Wikimedia Commons. Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Olek Remesz, Creative Commons BY-SA 2.5, via Wikimedia Commons. Disponível aqui.
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 Dentre as funções desempenhadas pelo sistema digestório, destacam-se:
 - Ingestão e trituração do alimento e liberação de substâncias no trato gastrointestinal.
 - Digestão química e mecânica.
 - Absorção de nutrientes, água e sais minerais.
 - Eliminação de restos não aproveitados.
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 42
+MODELO
+2
  
 ENUNCIADO
 Os seres humanos possuem quatro tipos de dentes. Os dentes localizados na frente da boca possuem formato que facilita cortar o alimento. Nas laterais destes, temos dentes pontiagudos que permitem com que o alimento seja “rasgado”. Os dentes localizados mais ao fundo da boca exercem uma função trituradora de alimentos. Sob esse aspecto, determine todas as alternativas corretas que correspondam à dentição humana.
@@ -686,16 +825,21 @@ Dente Canino.
 Dente Pré-molar.
 Dente Molar.
 
-FEEDBACK IMAGEM: imgfeedback42
+FEEDBACK IMAGEM
+imgfeedback42
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 Os dentes localizados na frente da boca possuem formato que facilita cortar o alimento e são denominados incisivos. Nas laterais destes, temos dentes pontiagudos que permitem com que o alimento seja “rasgado”, os quais são denominados caninos. Os dentes localizados mais ao fundo da boca exercem uma função trituradora de alimentos, sendo que os dois primeiros após os dentes caninos são chamados pré-molares, enquanto os três últimos são os molares.
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 43
+MODELO
+2
  
 ENUNCIADO
 As glândulas salivares maiores são exócrinas e responsáveis pela produção e secreção da saliva. Com base em seus conhecimentos, determine todas as alternativas que correspondam a estas glândulas e sua respectiva localização.
@@ -713,16 +857,21 @@ Parótida: localizada entre o ângulo da mandíbula e à base do crânio.
 Submandibular: localizada na parte inferior da mandíbula.
 Sublingual: localizada no assoalho da boca.
 
-FEEDBACK IMAGEM: imgfeedback43
+FEEDBACK IMAGEM
+imgfeedback43
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 As glândulas salivares maiores são exócrinas e responsáveis pela produção e secreção da saliva. São encontradas em três pares, sendo elas: Parótida: localizada entre o ângulo da mandíbula e à base do crânio. Submandibular: localizada na parte inferior da mandíbula. Sublingual: localizada no assoalho da boca.
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 44
+MODELO
+2
  
 ENUNCIADO
 A Síndrome de Sjögren é uma doença autoimune que pode afetar as glândulas salivares causando boca seca. Sabemos que a saliva desempenha funções específicas na cavidade oral, importantes para o processo digestivo. Sob esse aspecto, pacientes com esta doença poderão apresentar dificuldade na execução de que processos na cavidade oral? Assinale todas as alternativas que julgar verdadeiras.
@@ -741,20 +890,25 @@ Início da digestão do amido por meio da ptialina.
 Umedecimento de alimentos secos.
 Neutralização de substâncias ácidas.
 
-FEEDBACK IMAGEM: imgfeedback44
+FEEDBACK IMAGEM
+imgfeedback44
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 A Síndrome de Sjögren é uma doença autoimune que pode afetar as glândulas salivares causando boca seca, devido à baixa produção de saliva. Tendo em vista as importantes funções da saliva para o sistema digestório, pacientes com esta síndrome poderão apresentar dificuldades em processos como:
 - Umedecimento da cavidade oral e facilitação da deglutição.
 - Início da digestão do amido por meio da ptialina.
 - Umedecimento de alimentos secos.
 - Neutralização de substâncias ácidas.
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 45
+MODELO
+2
  
 ENUNCIADO
 Os sucos digestivos são substâncias secretadas por glândulas de vários órgãos do sistema digestivo que permitem a transformação de complexas moléculas alimentares em moléculas mais simples. Sob esse aspecto, assinale todas as alternativas que correspondam a estas substâncias.
@@ -773,27 +927,28 @@ Suco gástrico.
 Suco pancreático.
 Suco entérico.
 
-FEEDBACK IMAGEM:
+FEEDBACK IMAGEM
+SEM
 
-LEGENDA DA IMAGEM DE FEEDBACK:
+LEGENDA DA IMAGEM DE FEEDBACK
+SEM
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 Os sucos digestivos são substâncias secretadas por glândulas de vários órgãos do sistema digestivo que permitem a transformação de complexas moléculas alimentares em moléculas mais simples. São eles: a saliva, secretada pelas glândulas salivares; o suco gástrico, secretado pelas glândulas gástricas da parede estomacal; o suco pancreático, secretado pelo pâncreas; e o suco entérico, produzido e secretado pelas células do duodeno.
+FIM
 
+GRUPO 
+1
 
-
-Modelo 3
-(Enunciado + Toque nos pares (alternativas com Imagens e Texto))
-
-
-ID DA QUESTÃO: 21
+MODELO
+3
  
 ENUNCIADO
 Durante a alimentação, as três estruturas representadas e/ou destacadas por cores nas imagens abaixo realizam funções importantes no sistema digestório humano. Relacione-as com as alternativas propostas, por meio da formação de pares.
 
-LEGENDA APÓS ENUNCIADO: Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
 
- 
 ALTERNATIVAS
 Produção e secreção de saliva, que desemboca na cavidade oral.
 Trituração do alimento, início da digestão por amilase salivar e deglutição.
@@ -807,22 +962,27 @@ img21am3sd = Produção e secreção de saliva, que desemboca na cavidade oral.
 img21bm3sd = Trituração do alimento, início da digestão por amilase salivar e deglutição. 
 img21cm3sd = Fechamento da laringe permitindo a passagem do alimento para o esôfago. 
 
-FEEDBACK IMAGEM: imgfeedback21
+FEEDBACK IMAGEM
+imgfeedback21
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 As glândulas salivares são responsáveis pela produção e secreção de saliva, que desemboca na cavidade oral. Na boca, ocorre a trituração do alimento, início da digestão por amilase salivar e deglutição. A epiglote tem como função o fechamento da laringe permitindo a passagem do alimento para o esôfago (impedindo que o alimento entre no sistema respiratório).
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 22
+MODELO
+3
  
 ENUNCIADO
 Durante o processo de digestão, em condições normais, o alimento segue uma sequência anatômica definida: boca, faringe, esôfago, estômago, intestino delgado, intestino grosso, reto e ânus. Nas imagens, estão indicadas a faringe, esôfago e estômago. Sob esse aspecto, com base em seus conhecimentos, relacione em pares as estruturas representadas nas figuras com as informações que condizem à função de cada uma delas.
 
-LEGENDA APÓS ENUNCIADO: Imagens: Adaptadas de Olek Remesz, Creative Commons BY-SA 2.5, via Wikimedia Commons. Disponíveis aqui e aqui.
-
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Olek Remesz, Creative Commons BY-SA 2.5, via Wikimedia Commons. Disponíveis aqui e aqui.
 
 ALTERNATIVAS
 Peristaltismo e secreção de muco permitindo o transporte do alimento até o estômago.
@@ -837,21 +997,27 @@ img22am3sd = Peristaltismo e secreção de muco permitindo o transporte do alime
 img22bm3sd = Produção de suco gástrico, digestão química e mecânica dos alimentos e conversão de bolo alimentar em quimo.
 img22cm3sd = Passagem de ar e alimentos, se comunicando com boca, cavidade nasal, esôfago e laringe.
 
-FEEDBACK IMAGEM: imgfeedback22
+FEEDBACK IMAGEM
+imgfeedback22
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Olek Remesz, Creative Commons BY-SA 2.5, via Wikimedia Commons. Disponível aqui. 
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Olek Remesz, Creative Commons BY-SA 2.5, via Wikimedia Commons. Disponível aqui. 
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 Na faringe, ocorre a passagem de ar e alimentos, se comunicando com boca, cavidade nasal, esôfago e laringe. No esôfago, ocorre peristaltismo e secreção de muco permitindo o transporte do alimento até o estômago. No estômago, ocorre produção de suco gástrico, digestão química e mecânica dos alimentos e conversão de bolo alimentar em quimo.
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 23
+MODELO
+3
  
 ENUNCIADO
 Durante o processo de digestão, em condições normais, o alimento segue uma sequência anatômica definida: boca, faringe, esôfago, estômago, intestino delgado, intestino grosso, reto e ânus.  Nas imagens, estão indicados o intestino delgado, intestino grosso e ânus. Sob esse aspecto, com base em seus conhecimentos, relacione em pares as estruturas representadas nas figuras com as informações que condizem à função de cada uma delas.
  
-LEGENDA APÓS ENUNCIADO: Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
 
 ALTERNATIVAS
 Eliminação de fezes.
@@ -866,21 +1032,27 @@ img23am3sd = Eliminação de fezes.
 img23bm3sd = Produção e secreção de suco entérico, digestão do quimo e absorção de nutrientes.
 img23cm3sd = Armazenamento de resíduos não aproveitados, absorção de água e sais minerais.
 
-FEEDBACK IMAGEM: imgfeedback23
+FEEDBACK IMAGEM
+imgfeedback23
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 O intestino delgado é responsável pela produção e secreção de suco entérico, digestão do quimo e absorção de nutrientes. O intestino grosso realiza o armazenamento de resíduos não aproveitados, absorção de água e sais minerais. O ânus tem função de eliminação de fezes.
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 24
+MODELO
+3
  
 ENUNCIADO
 As glândulas salivares, a língua, os dentes, o fígado, o pâncreas e a vesícula biliar são considerados órgãos/estruturas acessórios ou anexos ao sistema digestório e desempenham importantes funções em nosso organismo. Nesse sentido, relacione em pares as figuras referentes às estruturas anexas com as informações que julgar mais adequadas, em relação à função de cada uma delas.
 
-LEGENDA APÓS ENUNCIADO: Imagens: Adaptadas de Macrovector, via Freepik.com. Disponíveis aqui.
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Macrovector, via Freepik.com. Disponíveis aqui.
 
 ALTERNATIVAS
 Produção de bile.
@@ -895,22 +1067,27 @@ img24am3sd = Produção de bile.
 img24bm3sd = Produção de suco pancreático.
 img24cm3sd = Armazenamento de bile.
 
-FEEDBACK IMAGEM: imgfeedback24
+FEEDBACK IMAGEM
+imgfeedback24
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 O fígado é um importante órgão no corpo humano que desempenha variadas funções e, no processo de digestão, atua mediante à produção de bile, responsável pela emulsificação de lipídios. A vesícula biliar tem como função o armazenamento da bile, produzida pelo fígado. O pâncreas tem como função no sistema digestório a produção de suco pancreático, responsável pela digestão de proteínas, carboidratos, triglicerídeos e ácidos nucleicos.  
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 25
+MODELO
+3
  
 ENUNCIADO
 Durante os processos digestivos, o alimento inicialmente digerido na boca e deglutido passa do esôfago ao estômago pelo esfíncter esofágico inferior. Após a digestão química inicial no estômago (proteínas), o conteúdo estomacal é conduzido ao duodeno, através da abertura do esfíncter pilórico. No duodeno, ocorre a digestão química de proteínas, carboidratos e lipídios, por meio da secreção de bile, suco pancreático e suco entérico. Com base nas informações, relacione cada imagem com a informação mais adequada, formando pares com as alternativas propostas.
 
-LEGENDA APÓS ENUNCIADO: Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
-
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
 
 ALTERNATIVAS
 Passagem de bolo alimentar.
@@ -925,801 +1102,972 @@ img25am3sd = Passagem de bolo alimentar.
 img25bm3sd = Passagem do quimo.
 img25cm3sd = Digestão química.
 
-FEEDBACK IMAGEM: imgfeedback25
+FEEDBACK IMAGEM
+imgfeedback25
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 No esfíncter esofágico inferior, ocorre a passagem de bolo alimentar. No esfíncter pilórico, ocorre a passagem do quimo. No duodeno, ocorre a digestão química duodenal.
+FIM
 
+GRUPO 
+1
 
-
-
-Modelo 4
-(Enunciado + GIF + 4 alternativas texto)
-ID DA QUESTÃO: 51
+MODELO
+4
  
-ENUNCIADO:
+ENUNCIADO
 No sistema digestório, após a passagem do alimento pelo esôfago por movimentos peristálticos, o bolo alimentar entra no estômago, passa por processos digestivos e é conduzido ao duodeno. No GIF, são representadas etapas desde a entrada do bolo alimentar no estômago até sua saída. Determine os fatores representados no GIF, respectivamente, e assinale a alternativa correspondente.
 
-IMAGEM: gif51m4sd
+IMAGEM
+gif51m4sd
  
-LEGENDA DA IMAGEM: Imagem: <http://cna.weebly.com/6-ano.html>
+LEGENDA DA IMAGEM
+Imagem: <http://cna.weebly.com/6-ano.html>
  
-ALTERNATIVAS:
+ALTERNATIVAS
 Abertura do esfíncter pilórico, abertura da cárdia, digestão no estômago e no duodeno.
 Abertura da cárdia, peristaltismo do estômago, secreção de suco gástrico, digestão e abertura do esfíncter pilórico.
 Digestão, liberação de suco entérico, peristaltismo no estômago, secreção de bile e abertura da cárdia.
 Digestão, formação de fezes, movimentos peristálticos no esôfago e eliminação de bolo fecal.
-
  
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 Abertura da cárdia, peristaltismo do estômago, secreção de suco gástrico, digestão e abertura do esfíncter pilórico.
 
+FEEDBACK IMAGEM
+imgfeedback51
 
-FEEDBACK IMAGEM: imgfeedback51
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: <http://cna.weebly.com/6-ano.html>
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: <http://cna.weebly.com/6-ano.html>
-
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 A animação demonstra, respectivamente, a abertura da cárdia, que consiste na região onde se localiza o esfíncter esofágico inferior, responsável por regular a passagem de bolo alimentar do esôfago para o estômago; o peristaltismo do estômago, que consiste em movimentos involuntários que auxiliam a digestão mecânica e na mistura do bolo alimentar no estômago com as substâncias secretadas por este órgão; a  secreção de suco gástrico, substância que contém enzimas (responsáveis pela digestão de proteínas) e uma secreção ácida (ácido clorídrico) capaz de amolecer e esterilizar o bolo alimentar e ativar as enzimas para que efetivem suas funções digestivas; a digestão, convertendo o bolo alimentar em quimo; e a abertura do esfíncter pilórico, que possibilita a passagem do quimo do estômago ao intestino delgado.
-
+FIM
  
+GRUPO 
+1
 
-ID DA QUESTÃO: 52
+MODELO
+4
  
-ENUNCIADO:
+ENUNCIADO
 O GIF abaixo representa o bolo alimentar sendo conduzido através de um trecho no corpo do esôfago. Este tipo de condução, permite que o alimento chegue ao estômago mesmo que uma pessoa esteja de cabeça para baixo. Determine que mecanismo possibilita a condução do alimento nesta estrutura e assinale a alternativa correta. 
 
-IMAGEM: gif52m4sd
+IMAGEM
+gif52m4sd
  
-LEGENDA DA IMAGEM: 
+LEGENDA DA IMAGEM 
 Imagem: <http://bioblogcuriosidades.blogspot.com/2010_09_03_archive.html>
  
-ALTERNATIVAS:
+ALTERNATIVAS
 Lei da gravidade.
 Contrações voluntárias no esôfago.
 Peristaltismo do esôfago.
 Refluxo gastroesofágico.
 
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 Peristaltismo do esôfago.
 
-FEEDBACK IMAGEM: imgfeedback52
+FEEDBACK IMAGEM
+imgfeedback52
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: <http://bioblogcuriosidades.blogspot.com/2010_09_03_archive.html>
-
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: <http://bioblogcuriosidades.blogspot.com/2010_09_03_archive.html>
 
 FEEDBACK TEXTO:
 A animação demonstra o peristaltismo do esôfago, que consiste em movimentos involuntários propulsivos no trato gastrointestinal, ou seja, que conduzem o alimento para adiante dentro do sistema digestório. 
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 53
+MODELO
+4
  
-ENUNCIADO:
+ENUNCIADO
 O GIF abaixo ilustra a secreção de três substâncias no duodeno, que são produzidas regiões específicas do sistema digestório. Tais secreções estão representadas por “pontinhos” verdes, amarelos e vermelhos. Outro processo que se observa é a conversão de moléculas maiores em moléculas menores. Sob esse aspecto, determine a alternativa que corresponda aos fatores representados pelo GIF.
 
-IMAGEM: gif53m4sd
+IMAGEM
+gif53m4sd
  
-LEGENDA DA IMAGEM: Imagem: <http://cnesds.blogspot.com/2015/05/>
+LEGENDA DA IMAGEM
+Imagem: <http://cnesds.blogspot.com/2015/05/>
  
-ALTERNATIVAS:
+ALTERNATIVAS
 Secreção de suco gástrico, bile, pepsina e digestão no estômago.
 Secreção de ptialina, suco entérico e suco pancreático e digestão no intestino grosso.
 Secreção de bile, suco pancreático e suco entérico, e digestão no intestino delgado.
 Secreção de bile, suco pancreático, suco gástrico e digestão no estômago.
 
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 Secreção de bile, suco pancreático e suco entérico, e digestão no intestino delgado.
 
+FEEDBACK IMAGEM
+imgfeedback53
 
-FEEDBACK IMAGEM: imgfeedback53
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: <http://cnesds.blogspot.com/2015/05/>
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: <http://cnesds.blogspot.com/2015/05/>
-
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 A animação demonstra, por meio dos “pontinhos” verdes, amarelos e vermelhos, respectivamente, a secreção de bile (produzida pelo fígado), suco pancreático (produzido pelo pâncreas) e suco entérico (produzido por células da mucosa do intestino delgado). Além disso, se evidencia na animação a digestão no intestino delgado, por meio da representação da conversão de moléculas maiores em moléculas menores.
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 54
+MODELO
+4
  
-ENUNCIADO:
+ENUNCIADO
 O GIF demonstra o processo de ingestão do bolo alimentar, que passa pela boca, faringe e é conduzido para o esôfago, facilitado por uma estrutura presente no início da laringe, acima da glote. Contudo, algumas vezes, essa estrutura pode falhar por algum motivo ocasionando o engasgo, causado pela obstrução da traqueia. Sob esse aspecto, determine a estrutura mencionada e sua função, assinalando a alternativa mais adequada.
  
-IMAGEM: gif54m4sd
+IMAGEM
+gif54m4sd
  
-LEGENDA DA IMAGEM: Imagem: <https://biopesquisa.wordpress.com/2016/08/>
+LEGENDA DA IMAGEM
+Imagem: <https://biopesquisa.wordpress.com/2016/08/>
  
-ALTERNATIVAS:
+ALTERNATIVAS
 Faringe: abertura da glote, evitando entrada de ar no esôfago.
 Laringe: fechamento do esôfago, evitando a passagem do alimento no sistema respiratório.
 Esfíncter: fechamento da glote, proporcionando a passagem de ar no sistema respiratório.
 Epiglote: fechamento da glote, evitando a entrada do bolo alimentar no sistema respiratório.
  
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 Epiglote: fechamento da glote, evitando a entrada do bolo alimentar no sistema respiratório.
 
-FEEDBACK IMAGEM: imgfeedback54
+FEEDBACK IMAGEM
+imgfeedback54
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: <https://biopesquisa.wordpress.com/2016/08/>
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: <https://biopesquisa.wordpress.com/2016/08/>
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 A animação demonstra o processo de ingestão do bolo alimentar, que passa pela boca, faringe e é conduzido para o esôfago, facilitado pela epiglote, cuja função é o fechamento da glote, evitando a entrada do bolo alimentar no sistema respiratório.
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 55
+MODELO
+4
  
-ENUNCIADO:
+ENUNCIADO
 O GIF abaixo ilustra de forma animada a ingestão de uma rosquinha, caindo diretamente no estômago (o que não ocorre dessa forma devido ao processo de mastigação e digestão inicial na boca). Porém, ao chegar no estômago, a animação demonstra que a rosquinha é imersa em um líquido, onde é parcialmente digerida. Assim, podemos afirmar que o líquido simulado na animação é um suco digestivo. Determine qual a nomenclatura estabelecida para esta substância e assinale a alternativa correta.
 
-IMAGEM: gif55m4sd
+IMAGEM
+gif55m4sd
  
-LEGENDA DA IMAGEM: Imagem: <https://wifflegif.com/gifs/477786-animation-domination-high-def-gif>
+LEGENDA DA IMAGEM
+Imagem: <https://wifflegif.com/gifs/477786-animation-domination-high-def-gif>
  
-ALTERNATIVAS:
+ALTERNATIVAS
 Suco gástrico.
 Suco entérico.
 Suco pancreático.
 Suco salivar.
  
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 Suco gástrico.
 
-FEEDBACK IMAGEM: imgfeedback55
+FEEDBACK IMAGEM
+imgfeedback55
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: <https://wifflegif.com/gifs/477786-animation-domination-high-def-gif>
-
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: <https://wifflegif.com/gifs/477786-animation-domination-high-def-gif>
 
 FEEDBACK TEXTO:
 A animação ilustra a ingestão de uma rosquinha, caindo diretamente no estômago (o que não ocorre dessa forma devido ao processo de mastigação e digestão inicial na boca). Porém, ao chegar no estômago, a animação demonstra que a rosquinha é imersa em um líquido, onde é parcialmente digerida. Esse líquido remete ao suco gástrico, secreção liberada no estômago com fins de digestão, constituído por ácido clorídrico e enzimas.
+FIM
 
+GRUPO 
+1
 
-
-
-Modelo 5
-(Enunciado + Imagem + 4 alternativas texto)
-
-ID DA QUESTÃO: 61
+MODELO
+5
  
-ENUNCIADO: 
+ENUNCIADO 
 A imagem abaixo representa uma estrutura pequena com o formato de uma pera, situada abaixo do fígado e ao lado direito do estômago. Trata-se de um tipo de saco onde é armazenado uma substância de grande importância para o processo digestivo. A respeito desta substância, determina a alternativa correta.
 
-IMAGEM: img61m5sd
+IMAGEM
+img61m5sd
  
-LEGENDA DA IMAGEM: Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
 
- 
-ALTERNATIVAS:
+ALTERNATIVAS
 Substância produzida pelo fígado, armazenada na vesícula biliar e secretada no duodeno para a emulsificação de lipídios.
 Substância produzida pelos rins, armazenada na vesícula biliar e secretada no pâncreas para a produção de toxinas.
 Substância produzida pelo pâncreas, armazenada no fígado e secretada no duodeno para a digestão de carboidratos.
 Substância produzida pelo duodeno, armazenada no estômago e secretada no fígado para a emulsificação de lipídios.
 
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 Substância produzida pelo fígado, armazenada na vesícula biliar e secretada no duodeno para a emulsificação de lipídios.
 
-FEEDBACK IMAGEM: img61m5sd
+FEEDBACK IMAGEM
+img61m5sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
-
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
 
 FEEDBACK TEXTO:
 A bile é uma substância produzida pelo fígado, armazenada na vesícula biliar (estrutura representada na imagem) e é secretada no duodeno para a emulsificação de lipídios.
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 62
+MODELO
+5
  
-ENUNCIADO:
+ENUNCIADO
 A estrutura representada abaixo corresponde a uma glândula que atua tanto de forma exócrina (produzindo suco pancreático, que contém enzimas digestivas) como endócrina (produzindo hormônios, como a insulina e glucagon). Sob este aspecto, com base em seus conhecimentos, determine a alternativa correta. 
 
 IMAGEM: img62m5sd
  
-LEGENDA DA IMAGEM: Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
  
-ALTERNATIVAS:
+ALTERNATIVAS
 Esta estrutura produz os hormônios FSH, estrógeno e progestina, responsáveis pelas características sexuais secundárias femininas.
 A secreção de bile é realizada por meio desta estrutura, tendo como função a emulsificação de lipídios.
 A secreção exócrina desta estrutura tem como função a digestão de proteínas, carboidratos, triglicerídeos e ácidos nucléicos.
 Pacientes com disfunção desta estrutura geralmente apresentam icterícia e hepatite.
  
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 A secreção exócrina desta estrutura tem como função a digestão de proteínas, carboidratos, triglicerídeos e ácidos nucléicos.
 
-FEEDBACK IMAGEM: img62m5sd
+FEEDBACK IMAGEM
+img62m5sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 A imagem representa o pâncreas. A secreção exócrina desta estrutura, o suco pancreático, é secretada no duodeno e atua no sistema digestório tendo como função a digestão de proteínas, carboidratos, triglicerídeos e ácidos nucléicos.
+FIM
 
+GRUPO 
+1
 
-
-
-ID DA QUESTÃO: 63
+MODELO
+5
  
-ENUNCIADO:
+ENUNCIADO
 O órgão representado na imagem produz e secreta substâncias que compõem o suco gástrico, sendo fundamental no processo digestivo. No suco gástrico, podemos encontrar enzimas (responsáveis pela digestão de proteínas) e uma secreção ácida capaz de amolecer e esterilizar o bolo alimentar e ativar as enzimas para que efetivem suas funções digestivas. No que se refere às substâncias digestivas produzidas e secretadas por este órgão, assinale a alternativa correta.
 
-IMAGEM: img63m5sd
+IMAGEM
+img63m5sd
  
-LEGENDA DA IMAGEM: Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui. 
-ALTERNATIVAS:
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui. 
+
+ALTERNATIVAS
 Produz as substâncias digestivas: maltase, sacarase e ptialina.
 Produz as substâncias digestivas: pepsina, renina e ácido clorídrico.
 Produz as substâncias digestivas: ácido clorídrico, lipase e ptialina.
 Produz as substâncias digestivas: amilase, protease e pepsina.
 
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 Produz as substâncias digestivas: pepsina, renina e ácido clorídrico.
 
-FEEDBACK IMAGEM: img63m5sd
+FEEDBACK IMAGEM
+img63m5sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
 
-
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 A figura representa o estômago. Esse órgão produz as substâncias digestivas: pepsina, renina e ácido clorídrico. A pepsina e a renina são enzimas que digerem proteínas, e o ácido clorídrico tem como função amolecer e esterilizar o bolo alimentar e ativar as enzimas para que efetivem suas funções digestivas.
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 64
+MODELO
+5
  
-ENUNCIADO:
+ENUNCIADO
 A estrutura representada na imagem tem como função exócrina a produção de suco pancreático que é conduzido até o duodeno, onde atua na digestão. Esta secreção contém enzimas para a digestão de moléculas de carboidratos, proteínas, gorduras e ácidos nucleicos. Sabendo disso, assinale a alternativa que corresponda corretamente às enzimas digestivas responsáveis pela digestão destas moléculas, produzidas por esta estrutura. 
 
-IMAGEM: img64m5sd
+IMAGEM
+img64m5sd
  
-LEGENDA DA IMAGEM: Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
  
-ALTERNATIVAS:
+ALTERNATIVAS
 Produz as substâncias digestivas: maltase, sacarase e lactase.
 Produz as substâncias digestivas: suco gástrico e ptialina.
 Produz as substâncias digestivas: pepsina, renina, sacarase e peptidase.
 Produz as substâncias digestivas: amilase pancreática, lipase, proteases e nucleases.
 
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 Produz as substâncias digestivas: amilase pancreática, lipase, proteases e nucleases.
 
-FEEDBACK IMAGEM: img64m5sd
+FEEDBACK IMAGEM
+img64m5sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
-
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
 
 FEEDBACK TEXTO:
 A figura representa o pâncreas. Essa glândula produz as substâncias digestivas: amilase pancreática, que quebra o amido que não foi digerido na boca; lipase pancreática, que digere as gorduras em ácidos graxos e glicerol; proteases, que digerem proteínas em polipeptídios e peptídios; e nucleases, que digerem DNA e RNA em nucleotídeos.
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 65
+MODELO
+5
  
-ENUNCIADO:
+ENUNCIADO
 Na primeira porção da estrutura ilustrada na figura abaixo, ocorre a secreção de substâncias que compõem o suco entérico, contendo enzimas que complementam a ação das enzimas pancreáticas.  No suco entérico, as enzimas digerem dissacarídeos em monossacarídeos, peptídeos em aminoácidos isolados e nucleotídeos em bases nitrogenadas, fosfatos e pentoses. Com base nestas informações, assinale a alternativa que corresponda corretamente às enzimas produzidas pela estrutura representada na imagem. 
 
-IMAGEM: img65m5sd
+IMAGEM
+img65m5sd
  
-LEGENDA DA IMAGEM: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
- 
-ALTERNATIVAS:
+ALTERNATIVAS
 Produz as substâncias digestivas: maltase, lactase, sacarase, peptidases e nucleotidases.
 Produz as substâncias digestivas: amilase pancreática, tripsina e nucleases.
 Produz as substâncias digestivas: maltase, amilase, renina e ácido clorídrico.
 Produz as substâncias digestivas: ptialina, pepsina e sacarase.
  
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 Produz as substâncias digestivas: maltase, lactase, sacarase, peptidases e nucleotidases.
 
-FEEDBACK IMAGEM: img65m5sd
+FEEDBACK IMAGEM
+img65m5sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 A imagem representa o intestino delgado. Este órgão produz as substâncias digestivas: maltase, lactase e sacarase, que são tipos de carboidrases (digerem os dissacarídeos em monossacarídeos), peptidases, que digerem peptídeos em aminoácidos isolados, e as nucleotidases, que digerem nucleotídeos em bases nitrogenadas, fosfatos e pentoses.
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 66
+MODELO
+5
  
-ENUNCIADO:
+ENUNCIADO
 A estrutura representada na imagem possui cerca de 1,5 m de comprimento e 6 cm de diâmetro e faz parte das porções finais do sistema digestivo, desempenhando funções importantes e possuindo características específicas. Nesse sentido, assinale a alternativa que contemple as características e funções deste órgão.
 
-IMAGEM: img66m5sd
+IMAGEM
+img66m5sd
  
-LEGENDA DA IMAGEM: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
  
-ALTERNATIVAS:
+ALTERNATIVAS
 Ausência de bactérias, produção de muco e digestão de proteínas. 
 Absorção de proteínas, produção de bile e suco entérico.
 Absorção de água e sais minerais, produção de muco e presença de bactérias.
 Armazenamento de fezes, ausência de bactérias e produção de ptialina.
  
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 Absorção de água e sais minerais, produção de muco e presença de bactérias.
 
-FEEDBACK IMAGEM: img66m5sd
+FEEDBACK IMAGEM
+img66m5sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 A imagem representa o intestino grosso. Este órgão tem como função a absorção de água e sais minerais, e a produção de muco. Uma característica do intestino grosso é a presença de bactérias, muitas das quais mantém relações de mútuo benefício com os hospedeiros humanos: produzem substâncias úteis ao nosso organismo (como algumas vitaminas) em troca de um habitat favorável ao seu desenvolvimento.
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 67
+MODELO
+5
  
-ENUNCIADO:
+ENUNCIADO
 A parede intestinal é composta por projeções da mucosa que se aparentam com “rugas” ou “pregas”. As células destas projeções, por sua vez, apresentam projeções microscópicas. Essas projeções, macroscópicas e microscópicas, possuem uma nomenclatura específica e desempenham uma função importante no processo digestivo. Com base neste contexto e em seus conhecimentos, determine a alternativa correta.
  
-IMAGEM: img67m5sd
+IMAGEM
+img67m5sd
  
-LEGENDA DA IMAGEM: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
  
-ALTERNATIVAS:
+ALTERNATIVAS
 Essas projeções são chamadas vilosidades e microvilosidades, e são capazes de aumentar a superfície de contato intestinal, ampliando a eficiência da absorção.
 Essas projeções são úlceras duodenais, que consistem em más formações das paredes intestinais e que requerem tratamento médico.
 Essas projeções são vilosidades e átomos capazes de diminuir a superfície de contato e a eficiência da absorção intestinal.
 Essas projeções são pregas estomacais macroscópicas e microscópicas responsáveis pela liberação amilase salivar, diminuindo a eficiência da digestão.
  
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 Essas projeções são chamadas vilosidades e microvilosidades, e são capazes de aumentar a superfície de contato intestinal, ampliando a eficiência da absorção.
 
-FEEDBACK IMAGEM: img67m5sd
+FEEDBACK IMAGEM
+img67m5sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 Essas projeções são chamadas vilosidades e microvilosidades, e são capazes de aumentar a superfície de contato intestinal, ampliando a eficiência da absorção.
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 68
+MODELO
+5
  
-ENUNCIADO:
+ENUNCIADO
 A digestão depende de fatores químicos importantes como, por exemplo, o pH, que consiste na escala dos níveis de acidez e alcalinidade de uma solução. Existem três locais do sistema digestório que ocorrem os processos de digestão, e em cada um deles o pH ideal para que estes processos ocorram é diferente. Com base neste contexto e em seus conhecimentos, determine a classificação do pH ideal para a digestão nas estruturas destacadas por cores na figura, na ordem de passagem do alimento pelo sistema digestivo.
 
-IMAGEM: img68m5sd
+IMAGEM
+img68m5sd
  
-LEGENDA DA IMAGEM: Imagem: Adaptada de Olek Remesz, Creative Commons BY-SA 2.5, via Wikimedia Commons. Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Olek Remesz, Creative Commons BY-SA 2.5, via Wikimedia Commons. Disponível aqui.
 
- 
-ALTERNATIVAS:
+ALTERNATIVAS
 Ácido, ácido e neutro.
 Neutro, ácido e básico.
 Básico, neutro e ácido.
 Neutro, básico e ácido.
 
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 Neutro, ácido e básico.
 
-FEEDBACK IMAGEM: img68m5sd
+FEEDBACK IMAGEM
+img68m5sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Olek Remesz, Creative Commons BY-SA 2.5, via Wikimedia Commons. Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Olek Remesz, Creative Commons BY-SA 2.5, via Wikimedia Commons. Disponível aqui.
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 A digestão depende de fatores químicos importantes como, por exemplo, o pH, que consiste na escala dos níveis de acidez e alcalinidade de uma solução. O pH ideal na boca (representada em rosa) é neutro, o pH ideal para o estômago (representado em laranja) é ácido e o pH ideal no intestino (representado em verde) é básico.
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 69
+MODELO
+5
  
-ENUNCIADO:
+ENUNCIADO
 O processo da digestão é controlado pelo sistema nervoso autônomo e também por hormônios. Dentre os quatro hormônios principais envolvidos, três são produzidos pela estrutura representada na imagem. Com base em seus conhecimentos sobre o controle da digestão, assinale a alternativa que corresponda aos hormônios produzidos pela estrutura representada na imagem.
 
-IMAGEM: img69m5sd
+IMAGEM
+img69m5sd
  
-LEGENDA DA IMAGEM: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
  
-ALTERNATIVAS:
+ALTERNATIVAS
 Produz os hormônios: gastrina, FSH e testosterona.
 Produz os hormônios: insulina e glucagon.
 Produz os hormônios: secretina, colecistoquinina e inibidor gástrico.
 Produz os hormônios: gastrina, colecistoquinina e insulina.
  
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 Produz os hormônios: secretina, colecistoquinina e inibidor gástrico.
 
-FEEDBACK IMAGEM: img69m5sd
+FEEDBACK IMAGEM
+img69m5sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 O processo da digestão é controlado pelo sistema nervoso autônomo e também por hormônios. Dentre os quatro hormônios envolvidos, três são produzidos pelo intestino delgado, sendo eles: secretina, colecistoquinina e inibidor gástrico. O quarto hormônio principal envolvido no controle da digestão é a gastrina, que é produzido por células do estômago.
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 70
+MODELO
+5
  
-ENUNCIADO:
+ENUNCIADO
 A estrutura representada na imagem produz e secreta de forma exócrina o suco pancreático, substância que contém enzimas digestivas. Em situações anormais, sobretudo desencadeadas por maus hábitos como o alcoolismo, o pâncreas pode sofrer de um distúrbio denominado pancreatite. Sobre esse distúrbio do sistema digestório, com base em seus conhecimentos, assinale a alternativa que julgar verdadeira.
 
-IMAGEM: img70m5sd
+IMAGEM
+img70m5sd
  
-LEGENDA DA IMAGEM: Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
  
-ALTERNATIVAS:
+ALTERNATIVAS
 As enzimas digestivas pancreáticas são produzidas em uma forma inativa, sendo ativadas apenas no intestino. Contudo, em condições anormais, o pâncreas retém o suco pancreático, cujas enzimas podem lesionar e inflamar o órgão, causando a pancreatite.
 As enzimas digestivas pancreáticas são produzidas em uma forma ativa, desempenhando sua função no intestino. Contudo, em condições anormais, o excesso de álcool pode ocasionar a formação de nódulos que bloqueiam a circulação sanguínea, causando a pancreatite.
 Em condições anormais, como no caso do alcoolismo, o pâncreas pode sofrer com a queda de leucócitos em seu interior, o que acarreta na multiplicação de placas bacterianas em seu interior, infeccionando o órgão e causando a pancreatite.
 Em condições anormais, como no caso do alcoolismo, o pâncreas pode sofrer com a deposição de substâncias insolúveis e minerais que se depositam nos ductos pancreáticos, que formam cristais conhecidos como cálculos, causando a pancreatite.
 
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 As enzimas digestivas pancreáticas são produzidas em uma forma inativa, sendo ativadas apenas no intestino. Contudo, em condições anormais, o pâncreas retém o suco pancreático, cujas enzimas podem lesionar e inflamar o órgão, causando a pancreatite.
 
-FEEDBACK IMAGEM: img70m5sd
+FEEDBACK IMAGEM
+img70m5sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
  
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 A estrutura representada na imagem é o pâncreas, que tem como uma de suas funções produzir e secretar de forma exócrina o suco pancreático, que contém enzimas digestivas. As enzimas digestivas pancreáticas são produzidas em uma forma inativa, sendo ativadas apenas no intestino. Contudo, em condições anormais, o pâncreas retém o suco pancreático, cujas enzimas podem lesionar e inflamar o órgão, causando a pancreatite.
-  
+FIM
 
-ID DA QUESTÃO: 101
+GRUPO 
+1
+
+MODELO
+5
  
-ENUNCIADO:
+ENUNCIADO
 O intestino delgado começa no esfíncter pilórico, que o comunica com o estômago, e termina na válvula íleocecal, que se comunica com o intestino grosso. Se esticássemos o intestino delgado de um ser humano em linha reta e o medíssemos, que medida teríamos, aproximadamente? Assinale a alternativa que considerar correta.
  
-IMAGEM: extra1m5sd
+IMAGEM
+extra1m5sd
  
-LEGENDA DA IMAGEM: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
  
-ALTERNATIVAS:
+ALTERNATIVAS
 2 metros
 7 metros
 15 metros
 20 metros
  
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 7 metros
 
-FEEDBACK IMAGEM: extra1m5sd
+FEEDBACK IMAGEM
+extra1m5sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 O intestino delgado começa no esfíncter pilórico, que o comunica com o estômago, e termina na válvula íleocecal, que se comunica com o intestino grosso. Se esticássemos o intestino delgado de um ser humano em linha reta e o medíssemos, ele totalizaria cerca de sete metros.
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 102
+MODELO
+5
  
-ENUNCIADO:
+ENUNCIADO
 Diariamente, em condições normais, produzimos entre 1000 a 2000 ml de saliva. Essa secreção é muito importante no processo digestivo, e atua no pH neutro da boca. Sob esse aspecto, com base nas informações e em seus conhecimentos, assinale a alternativa que melhor defina a saliva.
  
-IMAGEM: extra2m5sd
+IMAGEM
+extra2m5sd
  
-LEGENDA DA IMAGEM: Imagem: Adaptada de Pereru, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Pereru, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
  
-ALTERNATIVAS:
+ALTERNATIVAS
 Fluido transparente e viscoso de pH entre 6,8 e 7,2 que é produzido pelas glândulas salivares, mantendo a boca e os lábios constantemente umedecidos. Contém ptialina, um tipo de enzima que inicia a digestão de amido e glicogênio.
 Fluido transparente e líquido de pH entre 3,2 e 4,2 que é produzido pelas glândulas pituitárias, mantendo a boca e os lábios constantemente umedecidos. Contém pepsina, um tipo de enzima que inicia a digestão de lipídios.
 Fluido esverdeado e viscoso de pH entre 10,0 a 12,2 que é produzido pelas glândulas salivares, mantendo o esôfago umedecido. Contém ptialina, um tipo de enzima que inicia a digestão de proteínas.
 Fluido aquoso e transparente de pH entre 1,0 e 2,4 que é produzido pela glândula suprarrenal, mantendo a boca umedecida. Contém ácido clorídrico, um tipo de enzima que inicia a digestão de carboidratos simples.
 
- 
-ALTERNATIVA CORRETA: 
+ALTERNATIVA CORRETA
 Fluido transparente e viscoso de pH entre 6,8 e 7,2 que é produzido pelas glândulas salivares, mantendo a boca e os lábios constantemente umedecidos. Contém ptialina, um tipo de enzima que inicia a digestão de amido e glicogênio.
 
+FEEDBACK IMAGEM
+extra2m5sd
 
-FEEDBACK IMAGEM: extra2m5sd
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Pereru, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Pereru, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
-
-
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 A saliva é um fluido transparente e viscoso de pH entre 6,8 e 7,2 que é produzido pelas glândulas salivares, mantendo a boca e os lábios constantemente umedecidos. Contém ptialina, um tipo de enzima que inicia a digestão de amido e glicogênio.
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 103
+MODELO
+5
  
-ENUNCIADO:
+ENUNCIADO
 O refluxo gastroesofágico é uma patologia caracterizada pelo retorno do conteúdo gástrico para o esôfago e, muitas vezes, para outras estruturas adjacentes. Com base em seus conhecimentos, assinale a alternativa que corresponda ao mecanismo patológico relacionado ao refluxo gastroesofágico.
  
-IMAGEM: extra3m5sd
+IMAGEM
+extra3m5sd
  
-LEGENDA DA IMAGEM: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
- 
-ALTERNATIVAS:
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS
 Quando o esfíncter esofágico inferior não se fecha corretamente, o conteúdo estomacal pode retornar para o esôfago.
 Quando o esfíncter pilórico não se fecha corretamente, o conteúdo estomacal pode retornar para o esôfago.
 Quando o esfíncter esofágico superior não se fecha corretamente, o conteúdo estomacal pode retornar para o estômago.
 Quando o esfíncter pilórico não se fecha corretamente, o conteúdo estomacal pode retornar para o estômago.
  
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 Quando o esfíncter esofágico inferior não se fecha corretamente, o conteúdo estomacal pode retornar para o esôfago.
 
-FEEDBACK IMAGEM: extra3m5sd
+FEEDBACK IMAGEM
+extra3m5sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 O refluxo gastroesofágico é uma patologia caracterizada pelo retorno do conteúdo gástrico para o esôfago e, muitas vezes, para outras estruturas adjacentes. Isso ocorre quando o esfíncter esofágico inferior não se fecha corretamente, levando o conteúdo estomacal a retornar para o esôfago. 
+FIM
 
+GRUPO 
+1
 
-ID DA QUESTÃO: 104
+MODELO
+5
  
-ENUNCIADO:
+ENUNCIADO
 O engasgo é uma manifestação do organismo quando um alimento ou objeto toma um caminho errado em nosso corpo. Sob esse aspecto, responda como ocorre o engasgo e por que tossimos quando engasgamos, assinalando a alternativa correspondente.
 
-IMAGEM: extra4m5sd
+IMAGEM
+extra4m5sd
  
-LEGENDA DA IMAGEM: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
- 
-ALTERNATIVAS:
+ALTERNATIVAS
 Ocorre quando o alimento permanece no esôfago e tossimos para “empurrá-lo” para o estômago.
 Ocorre quando o alimento entra nas vias respiratórias e a tosse é um reflexo para expulsar o alimento.
 Ocorre quando o alimento entra na nasofaringe e tossimos voluntariamente para que o alimento retorne para a traqueia.
 Ocorre quando o esfíncter esofágico inferior não se abre e a tosse retorna o alimento ao esôfago.
 
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 Ocorre quando o alimento entra nas vias respiratórias e a tosse é um reflexo para expulsar o alimento.
 
-FEEDBACK IMAGEM: extra4m5sd
+FEEDBACK IMAGEM
+extra4m5sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 O engasgo é uma manifestação do organismo quando um alimento ou objeto toma um caminho errado em nosso corpo, ocorrendo quando o alimento entra nas vias respiratórias, de modo que a tosse é um reflexo para expulsar o alimento.
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 105
+MODELO
+5
  
-ENUNCIADO:
+ENUNCIADO
 Os dentes são estruturas acessórias ao sistema digestório e tem como função cortar, perfurar, prender e triturar os alimentos. A estrutura dentária é composta por três camadas, conforme indicado na imagem. Sob esse aspecto, com base no contexto e em seus conhecimentos, analise a figura e assinale a alternativa correspondente às camadas I, II e III, respectivamente.
  
-IMAGEM: extra5m5sd
+IMAGEM
+extra5m5sd
  
-LEGENDA DA IMAGEM: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
  
-ALTERNATIVAS:
+ALTERNATIVAS
 Esmalte, dentina e polpa. 
 Polpa, esmalte e dentina.
 Dentina, polpa e esmalte.
 Esmalte, polpa e dentina.
  
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 Esmalte, dentina e polpa.
 
-FEEDBACK IMAGEM: extra5m5sd
+FEEDBACK IMAGEM
+extra5m5sd
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 A estrutura dentária é composta por três camadas: esmalte (indicado em I), dentina (indicado em II) e polpa (indicado em III).
+FIM
 
+GRUPO 
+1
 
-
-Modelo 6
-(Enunciado + 4 alternativas texto)
-
-ID DA QUESTÃO: 91
+MODELO
+6
  
-ENUNCIADO:
+ENUNCIADO
 O processo da digestão é controlado pelo sistema nervoso autônomo e também por hormônios. Os hormônios envolvidos desempenham funções como o estímulo ou inibição da produção e secreção de substâncias, abertura ou fechamento de esfíncteres, aumento ou redução da motilidade dos órgãos, etc. Sob este contexto e com base em seus conhecimentos, assinale a alternativa que corresponda aos hormônios envolvidos no controle da digestão.
 
-ALTERNATIVAS:
+ALTERNATIVAS
 Gastrina, Secretina, Colecistoquinina e Inibidor Gástrico.
 Gastrina, Secretina, Estrógeno e Progestina.
 Colecistoquinina, Inibidor Gástrico, FSH e Testosterona.
 Gastrina, Inibidor Gástrico, Secretina e Estrógeno.
 
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 Gastrina, Secretina, Colecistoquinina e Inibidor Gástrico.
 
-FEEDBACK IMAGEM:
+FEEDBACK IMAGEM
+SEM
 
-LEGENDA DA IMAGEM DE FEEDBACK:
+LEGENDA DA IMAGEM DE FEEDBACK
+SEM
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 A Gastrina, Secretina, Colecistoquinina e Inibidor Gástrico são hormônios envolvidos no controle da digestão. A gastrina é responsável pelo aumento da motilidade gástrica, estímulo da secreção de suco gástrico (enzimas e ácido clorídrico) no estômago, relaxamento do esfíncter pilórico e contração do esfíncter esofágico inferior. A secretina é responsável por inibir a secreção de suco gástrico quando não há mais necessidade, a diminuição da motilidade intestinal, estimular a produção de bile, a secreção de bicarbonato (aumentando o pH e o tornando ideal para a digestão no intestino) pelo pâncreas e a secreção de suco entérico pelo intestino. A colecistoquinina estimula a secreção de bile e de enzimas do suco pancreático, e também a produção de outro hormônio, o inibidor gástrico, que é responsável pela diminuição das contrações da parede estomacal (para que a transição do quimo seja mais lenta e permaneça mais tempo no duodeno para a digestão).
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 92
+MODELO
+6
  
-ENUNCIADO:
+ENUNCIADO
 A gastrina é um hormônio envolvido no controle da digestão e sua secreção é estimulada pela presença de alimentos no interior do estômago.  Com relação ao seu local de produção e seus efeitos, assinale a alternativa correta.
 
-ALTERNATIVAS:
+ALTERNATIVAS
 É produzida no estômago, estimula a secreção de suco gástrico e a eliminação de fezes.
 É produzida no intestino grosso, contrai a cárdia e relaxa o esôfago.
 É produzida no estômago, estimula a secreção de suco gástrico, contrai o esfíncter esofágico inferior e relaxa o esfíncter pilórico.
 É produzida no pâncreas, estimula a secreção de ptialina e inibe a secreção de bile.
 
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 É produzida no estômago, estimula a secreção de suco gástrico, contrai o esfíncter esofágico inferior e relaxa o esfíncter pilórico.
 
-FEEDBACK IMAGEM:
+FEEDBACK IMAGEM
+SEM
 
-LEGENDA DA IMAGEM DE FEEDBACK:
+LEGENDA DA IMAGEM DE FEEDBACK
+SEM
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 A gastrina é um hormônio envolvido no controle da digestão e sua secreção é estimulada pela presença de alimentos no interior do estômago. É produzida no estômago, estimula a secreção de suco gástrico, contrai o esfíncter esofágico inferior e relaxa o esfíncter pilórico.
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 93
+MODELO
+6
  
-ENUNCIADO:
+ENUNCIADO
 A secretina é um hormônio envolvido no controle da digestão e sua secreção é estimulada pela acidez do quimo presente no interior do intestino delgado. Com relação ao seu local de produção e seus efeitos, assinale a alternativa correta.
 
-ALTERNATIVAS:
+ALTERNATIVAS
 É produzida no intestino delgado, inibe a secreção de suco gástrico e estimula a produção de bile e a secreção de suco pancreático e suco entérico.
 É produzida no esôfago, inibe a produção de suco gástrico e estimula a produção de suco pancreático.
 É produzida no pâncreas, inibe a secreção de bile e estimula a produção do hormônio FSH.
 É produzida no intestino grosso, estimula a secreção de suco gástrico e inibe a formação do quimo.
 
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 É produzida no intestino delgado, inibe a secreção de suco gástrico e estimula a produção de bile e a secreção de suco pancreático e suco entérico.
 
-FEEDBACK IMAGEM:
+FEEDBACK IMAGEM
+SEM
 
-LEGENDA DA IMAGEM DE FEEDBACK:
+LEGENDA DA IMAGEM DE FEEDBACK
+SEM
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 A secretina é um hormônio envolvido no controle da digestão e sua secreção é estimulada pela acidez do quimo presente no interior do intestino delgado. É produzida no intestino delgado, inibe a secreção de suco gástrico e estimula a produção de bile e a secreção de suco pancreático (composto por bicarbonato de sódio, reduzindo a acidez do quimo) e suco entérico.
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 94
+MODELO
+6
  
-ENUNCIADO:
+ENUNCIADO
 A colecistoquinina é um hormônio envolvido no controle da digestão e sua secreção é estimulada pela presença de peptonas e lipídios no intestino delgado. Com relação ao seu local de produção e seus efeitos, assinale a alternativa correta.
 
-ALTERNATIVAS:
+ALTERNATIVAS
 É produzida no pâncreas, inibe os movimentos peristálticos no estômago e estimula o peristaltismo no esôfago.
 É produzida no intestino delgado, estimula a secreção de bile e de enzimas do suco pancreático no duodeno.
 É produzida no fígado, estimula a secreção de ptialina e promove a digestão de lipídeos de cadeia curta na boca.
 É produzida no estômago, secretada pelas glândulas salivares e promove digestão de amido.
 
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 É produzida no intestino delgado, estimula a secreção de bile e de enzimas do suco pancreático no duodeno.
 
-FEEDBACK IMAGEM:
+FEEDBACK IMAGEM
+SEM
 
-LEGENDA DA IMAGEM DE FEEDBACK:
+LEGENDA DA IMAGEM DE FEEDBACK
+SEM
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 A colecistoquinina é um hormônio envolvido no controle da digestão e sua secreção é estimulada pela presença de peptonas e lipídios no intestino delgado. É produzida no intestino delgado, estimula a secreção de bile e de enzimas do suco pancreático no duodeno. 
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 95
+MODELO
+6
  
-ENUNCIADO:
+ENUNCIADO
 O inibidor gástrico é um hormônio envolvido no controle da digestão e sua secreção é estimulada pela presença de glicídios e lipídios no intestino delgado. Com relação ao seu local de produção e seus efeitos, assinale a alternativa correta.
 
-ALTERNATIVAS:
+ALTERNATIVAS
 Produzido no estômago, promove contrações intestinais.
 Produzido no intestino grosso, promove secreção de suco gástrico.
 Produzido no esôfago, promove a formação de quimo.
 Produzido no intestino delgado, diminui as contrações estomacais.
 
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 Produzido no intestino delgado, diminui as contrações estomacais.
 
-FEEDBACK IMAGEM:
+FEEDBACK IMAGEM
+SEM
 
-LEGENDA DA IMAGEM DE FEEDBACK:
+LEGENDA DA IMAGEM DE FEEDBACK
+SEM
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 O inibidor gástrico é um hormônio envolvido no controle da digestão e sua secreção é estimulada pela presença de glicídios e lipídios no intestino delgado. É produzido no intestino delgado, sendo responsável por diminuir as contrações estomacais (para que a transição do quimo seja mais lenta e permaneça mais tempo no duodeno para a digestão).
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 116
+MODELO
+6
  
-ENUNCIADO:
+ENUNCIADO
 Ao nos alimentarmos, os alimentos precisam da força da gravidade para serem conduzidos ao estômago ou isso é possível mesmo de cabeça para baixo? Com base em seus conhecimentos, assinale a alternativa correspondente.
 
-ALTERNATIVAS:
+ALTERNATIVAS
 Precisam da gravidade, pois o estômago se localiza na porção inferior ao esôfago.
 Não precisam da gravidade, pois o peristaltismo do esôfago conduz a comida ao estômago.
 Precisam da gravidade, pois o esôfago não realiza nenhum movimento.
 Não precisam da gravidade, pois o peristaltismo do estômago “puxa” a comida do esôfago.
 
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 Não precisam da gravidade, pois o peristaltismo do esôfago conduz a comida ao estômago.
 
-FEEDBACK IMAGEM: imgfeedback116
+FEEDBACK IMAGEM
+imgfeedback116
 
-LEGENDA DA IMAGEM DE FEEDBACK: Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 Ao nos alimentarmos, os alimentos não dependem da ação da gravidade, pois o peristaltismo do esôfago conduz a comida ao estômago. Por isso, se engolirmos um alimento de “ponta-cabeça”, ele sofrerá propulsão pelo esôfago até o estômago. 
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 117
+MODELO
+6
  
-ENUNCIADO:
+ENUNCIADO
 Sons abdominais são os ruídos produzidos no tubo digestivo: estômago, intestino delgado e intestino grosso. Esses barulhos são comuns e geralmente considerados desagradáveis por quem os sente. Sob esse aspecto, assinale a alternativa que corresponda ao principal motivo pelo qual estes sons, conhecidos como “roncos”, são emitidos.
 
-ALTERNATIVAS:
+ALTERNATIVAS
 Ocorrem devido aos movimentos peristálticos enquanto alimentos, líquidos ou gases passam pelo trato gastrointestinal.
 Somente ocorrem quando estamos com fome, para sinalizar que o corpo precisa de alimento.
 Os “roncos” significam que o estômago está em repouso, não realizando nenhum movimento ou atividade.
 Os roncos ocorrem somente durante a passagem do bolo alimentar do esôfago ao estômago.
 
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 Ocorrem devido aos movimentos peristálticos enquanto alimentos, líquidos ou gases passam pelo trato gastrointestinal.
 
-FEEDBACK IMAGEM:
+FEEDBACK IMAGEM
+SEM
 
-LEGENDA DA IMAGEM DE FEEDBACK:
+LEGENDA DA IMAGEM DE FEEDBACK
+SEM
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 Os sons abdominais (roncos) são ruídos produzidos no tubo digestivo: estômago, intestino delgado e intestino grosso. Trata-se de uma condição normal do organismo que ocorre devido aos movimentos peristálticos enquanto alimentos, líquidos ou gases passam pelo trato gastrointestinal. 
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 118
+MODELO
+6
  
-ENUNCIADO:
+ENUNCIADO
 Os distúrbios que afetam o sistema gastrintestinal são chamados distúrbios digestivos. Alguns distúrbios afetam simultaneamente várias partes do sistema digestivo, enquanto outros afetam apenas uma parte ou órgão. Sob este aspecto, assinale a alternativa que corresponda apenas a distúrbios relacionados ao sistema digestivo humano.
 
-ALTERNATIVAS:
+ALTERNATIVAS
 Cálculos renais, apendicite, hepatite.
 Apendicite, pancreatite e cálculos vesiculares.
 Diabetes, aterosclerose, pancreatite.
 Enfisema, cálculos renais e cistos ovarianos.
 
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 Apendicite, pancreatite e cálculos vesiculares.
 
-FEEDBACK IMAGEM:
+FEEDBACK IMAGEM
+SEM
 
-LEGENDA DA IMAGEM DE FEEDBACK:
+LEGENDA DA IMAGEM DE FEEDBACK
+SEM
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 Apendicite, pancreatite e cálculos vesiculares são exemplos de distúrbios/doenças do sistema digestivo. A apendicite consiste na inflamação do apêndice, estrutura vermiforme localizada no início do intestino grosso. A pancreatite é a inflamação do pâncreas (glândula endócrina e exócrina), condição que pode ser aguda ou crônica, estando diretamente relacionada com maus hábitos, como o alcoolismo e tabagismo. Os cálculos vesiculares (ou biliares) consistem em formações de “pedras” na vesícula biliar, ocasionadas principalmente pela mudança na composição da bile, decorrente de maus hábitos alimentares ou fatores genéticos, por exemplo.   
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 119
+MODELO
+6
  
-ENUNCIADO:
+ENUNCIADO
 Durante o processo de ingestão do alimento, ainda na boca ocorre a insalivação, processo importante na conversão do alimento em bolo alimentar. Com base neste contexto e em seus conhecimentos, assinale a alternativa que melhor defina o processo de insalivação.
 
-ALTERNATIVAS:
+ALTERNATIVAS
 Produção e secreção de amilase salivar.
 Movimentos da língua que “empurram” o alimento e saliva para o fundo da faringe.
 Aumento da quantidade de saliva na cavidade oral.
 Movimentos realizados pela língua durante a mastigação, misturando o alimento com a saliva.
 
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 Movimentos realizados pela língua durante a mastigação, misturando o alimento com a saliva.
 
-FEEDBACK IMAGEM:
+FEEDBACK IMAGEM
+SEM
 
-LEGENDA DA IMAGEM DE FEEDBACK:
+LEGENDA DA IMAGEM DE FEEDBACK
+SEM
 
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 A insalivação consiste em movimentos realizados pela língua durante a mastigação, misturando o alimento com a saliva.
+FIM
 
+GRUPO 
+1
 
-
-ID DA QUESTÃO: 120
+MODELO
+6
  
-ENUNCIADO:
+ENUNCIADO
 Durante a alimentação, ocorre um processo denominado deglutição, que consiste em uma função voluntária do organismo, constituindo-se de uma importante ação no sistema digestivo. Com base neste contexto e em seus conhecimentos, assinale a alternativa que melhor defina o processo de deglutição.
 
-ALTERNATIVAS:
+ALTERNATIVAS
 Produção e secreção de amilase salivar.
 Movimentos da língua que “empurram” o alimento e saliva para o fundo da faringe.
 Aumento da quantidade de saliva na cavidade oral.
 Movimentos realizados pela língua durante a mastigação, misturando o alimento com a saliva.
 
-ALTERNATIVA CORRETA:
+ALTERNATIVA CORRETA
 Movimentos da língua que “empurram” o alimento e saliva para o fundo da faringe.
 
+FEEDBACK IMAGEM
+SEM
 
-FEEDBACK IMAGEM:
+LEGENDA DA IMAGEM DE FEEDBACK
+SEM
 
-LEGENDA DA IMAGEM DE FEEDBACK:
-
-FEEDBACK TEXTO:
+FEEDBACK TEXTO
 Durante a alimentação, ocorre um processo denominado deglutição, que consiste em uma função voluntária do organismo, na qual movimentos da língua “empurram” o alimento e saliva para o fundo da faringe, caracterizando o ato de “engolir” o alimento.
-
+FIM
 
