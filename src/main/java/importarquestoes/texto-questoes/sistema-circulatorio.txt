@@ -194,7 +194,8 @@ FIM
 GRUPO 
 2
 
-MODELO 1 
+MODELO 
+1 
  
 ENUNCIADO 
 As valvas cardíacas são estruturas presentes ao final de cada câmara cardíaca, tendo como função garantir a circulação do sangue em um único sentido, evitando seu refluxo. Sob esse aspecto, analise a imagem e determine as valvas I, II e III, selecionando pares com as alternativas propostas.

@@ -1,0 +1,169 @@
+GRUPO 
+1
+
+MODELO
+4
+ 
+ENUNCIADO
+No sistema digestório, após a passagem do alimento pelo esôfago por movimentos peristálticos, o bolo alimentar entra no estômago, passa por processos digestivos e é conduzido ao duodeno. No GIF, são representadas etapas desde a entrada do bolo alimentar no estômago até sua saída. Determine os fatores representados no GIF, respectivamente, e assinale a alternativa correspondente.
+
+IMAGEM
+gif51m4sd
+ 
+LEGENDA DA IMAGEM
+Imagem: <http://cna.weebly.com/6-ano.html>
+ 
+ALTERNATIVAS
+Abertura do esfíncter pilórico, abertura da cárdia, digestão no estômago e no duodeno.
+Abertura da cárdia, peristaltismo do estômago, secreção de suco gástrico, digestão e abertura do esfíncter pilórico.
+Digestão, liberação de suco entérico, peristaltismo no estômago, secreção de bile e abertura da cárdia.
+Digestão, formação de fezes, movimentos peristálticos no esôfago e eliminação de bolo fecal.
+ 
+ALTERNATIVA CORRETA
+Abertura da cárdia, peristaltismo do estômago, secreção de suco gástrico, digestão e abertura do esfíncter pilórico.
+
+FEEDBACK IMAGEM
+imgfeedback51
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: <http://cna.weebly.com/6-ano.html>
+
+FEEDBACK TEXTO
+A animação demonstra, respectivamente, a abertura da cárdia, que consiste na região onde se localiza o esfíncter esofágico inferior, responsável por regular a passagem de bolo alimentar do esôfago para o estômago; o peristaltismo do estômago, que consiste em movimentos involuntários que auxiliam a digestão mecânica e na mistura do bolo alimentar no estômago com as substâncias secretadas por este órgão; a  secreção de suco gástrico, substância que contém enzimas (responsáveis pela digestão de proteínas) e uma secreção ácida (ácido clorídrico) capaz de amolecer e esterilizar o bolo alimentar e ativar as enzimas para que efetivem suas funções digestivas; a digestão, convertendo o bolo alimentar em quimo; e a abertura do esfíncter pilórico, que possibilita a passagem do quimo do estômago ao intestino delgado.
+FIM
+ 
+GRUPO 
+1
+
+MODELO
+4
+ 
+ENUNCIADO
+O GIF abaixo representa o bolo alimentar sendo conduzido através de um trecho no corpo do esôfago. Este tipo de condução, permite que o alimento chegue ao estômago mesmo que uma pessoa esteja de cabeça para baixo. Determine que mecanismo possibilita a condução do alimento nesta estrutura e assinale a alternativa correta. 
+
+IMAGEM
+gif52m4sd
+ 
+LEGENDA DA IMAGEM 
+Imagem: <http://bioblogcuriosidades.blogspot.com/2010_09_03_archive.html>
+ 
+ALTERNATIVAS
+Lei da gravidade.
+Contrações voluntárias no esôfago.
+Peristaltismo do esôfago.
+Refluxo gastroesofágico.
+
+ALTERNATIVA CORRETA
+Peristaltismo do esôfago.
+
+FEEDBACK IMAGEM
+imgfeedback52
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: <http://bioblogcuriosidades.blogspot.com/2010_09_03_archive.html>
+
+FEEDBACK TEXTO:
+A animação demonstra o peristaltismo do esôfago, que consiste em movimentos involuntários propulsivos no trato gastrointestinal, ou seja, que conduzem o alimento para adiante dentro do sistema digestório. 
+FIM
+
+GRUPO 
+1
+
+MODELO
+4
+ 
+ENUNCIADO
+O GIF abaixo ilustra a secreção de três substâncias no duodeno, que são produzidas regiões específicas do sistema digestório. Tais secreções estão representadas por “pontinhos” verdes, amarelos e vermelhos. Outro processo que se observa é a conversão de moléculas maiores em moléculas menores. Sob esse aspecto, determine a alternativa que corresponda aos fatores representados pelo GIF.
+
+IMAGEM
+gif53m4sd
+ 
+LEGENDA DA IMAGEM
+Imagem: <http://cnesds.blogspot.com/2015/05/>
+ 
+ALTERNATIVAS
+Secreção de suco gástrico, bile, pepsina e digestão no estômago.
+Secreção de ptialina, suco entérico e suco pancreático e digestão no intestino grosso.
+Secreção de bile, suco pancreático e suco entérico, e digestão no intestino delgado.
+Secreção de bile, suco pancreático, suco gástrico e digestão no estômago.
+
+ALTERNATIVA CORRETA
+Secreção de bile, suco pancreático e suco entérico, e digestão no intestino delgado.
+
+FEEDBACK IMAGEM
+imgfeedback53
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: <http://cnesds.blogspot.com/2015/05/>
+
+FEEDBACK TEXTO
+A animação demonstra, por meio dos “pontinhos” verdes, amarelos e vermelhos, respectivamente, a secreção de bile (produzida pelo fígado), suco pancreático (produzido pelo pâncreas) e suco entérico (produzido por células da mucosa do intestino delgado). Além disso, se evidencia na animação a digestão no intestino delgado, por meio da representação da conversão de moléculas maiores em moléculas menores.
+FIM
+
+GRUPO 
+1
+
+MODELO
+4
+ 
+ENUNCIADO
+O GIF demonstra o processo de ingestão do bolo alimentar, que passa pela boca, faringe e é conduzido para o esôfago, facilitado por uma estrutura presente no início da laringe, acima da glote. Contudo, algumas vezes, essa estrutura pode falhar por algum motivo ocasionando o engasgo, causado pela obstrução da traqueia. Sob esse aspecto, determine a estrutura mencionada e sua função, assinalando a alternativa mais adequada.
+ 
+IMAGEM
+gif54m4sd
+ 
+LEGENDA DA IMAGEM
+Imagem: <https://biopesquisa.wordpress.com/2016/08/>
+ 
+ALTERNATIVAS
+Faringe: abertura da glote, evitando entrada de ar no esôfago.
+Laringe: fechamento do esôfago, evitando a passagem do alimento no sistema respiratório.
+Esfíncter: fechamento da glote, proporcionando a passagem de ar no sistema respiratório.
+Epiglote: fechamento da glote, evitando a entrada do bolo alimentar no sistema respiratório.
+ 
+ALTERNATIVA CORRETA
+Epiglote: fechamento da glote, evitando a entrada do bolo alimentar no sistema respiratório.
+
+FEEDBACK IMAGEM
+imgfeedback54
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: <https://biopesquisa.wordpress.com/2016/08/>
+
+FEEDBACK TEXTO
+A animação demonstra o processo de ingestão do bolo alimentar, que passa pela boca, faringe e é conduzido para o esôfago, facilitado pela epiglote, cuja função é o fechamento da glote, evitando a entrada do bolo alimentar no sistema respiratório.
+FIM
+
+GRUPO 
+1
+
+MODELO
+4
+ 
+ENUNCIADO
+O GIF abaixo ilustra de forma animada a ingestão de uma rosquinha, caindo diretamente no estômago (o que não ocorre dessa forma devido ao processo de mastigação e digestão inicial na boca). Porém, ao chegar no estômago, a animação demonstra que a rosquinha é imersa em um líquido, onde é parcialmente digerida. Assim, podemos afirmar que o líquido simulado na animação é um suco digestivo. Determine qual a nomenclatura estabelecida para esta substância e assinale a alternativa correta.
+
+IMAGEM
+gif55m4sd
+ 
+LEGENDA DA IMAGEM
+Imagem: <https://wifflegif.com/gifs/477786-animation-domination-high-def-gif>
+ 
+ALTERNATIVAS
+Suco gástrico.
+Suco entérico.
+Suco pancreático.
+Suco salivar.
+ 
+ALTERNATIVA CORRETA
+Suco gástrico.
+
+FEEDBACK IMAGEM
+imgfeedback55
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: <https://wifflegif.com/gifs/477786-animation-domination-high-def-gif>
+
+FEEDBACK TEXTO:
+A animação ilustra a ingestão de uma rosquinha, caindo diretamente no estômago (o que não ocorre dessa forma devido ao processo de mastigação e digestão inicial na boca). Porém, ao chegar no estômago, a animação demonstra que a rosquinha é imersa em um líquido, onde é parcialmente digerida. Esse líquido remete ao suco gástrico, secreção liberada no estômago com fins de digestão, constituído por ácido clorídrico e enzimas.
+FIM

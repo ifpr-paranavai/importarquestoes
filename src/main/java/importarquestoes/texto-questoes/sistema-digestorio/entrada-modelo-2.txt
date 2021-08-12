@@ -1,0 +1,171 @@
+GRUPO 
+1
+
+MODELO
+2
+ 
+ENUNCIADO
+O sistema digestório é formado por diversos órgãos e estruturas que atuam juntos para conseguir retirar dos alimentos os nutrientes necessários para o nosso corpo. Contudo, cada um desses órgãos e estruturas são responsáveis por realizar funções específicas no sistema digestório. A respeito das funções desempenhadas no sistema digestório, determine todas as alternativas que julgar verdadeiras.
+ 
+ALTERNATIVAS
+Ingestão e trituração do alimento e liberação de substâncias no trato gastrointestinal.
+Digestão química e mecânica.
+Absorção de nutrientes, água e sais minerais.
+Eliminação de restos não aproveitados.
+Realização de hematose.
+Produção de anticorpos.
+ 
+ALTERNATIVAS CORRETAS
+Ingestão e trituração do alimento e liberação de substâncias no trato gastrointestinal.
+Digestão química e mecânica.
+Absorção de nutrientes, água e sais minerais.
+Eliminação de restos não aproveitados.
+
+FEEDBACK IMAGEM
+imgfeedback41
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Olek Remesz, Creative Commons BY-SA 2.5, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+Dentre as funções desempenhadas pelo sistema digestório, destacam-se:
+- Ingestão e trituração do alimento e liberação de substâncias no trato gastrointestinal.
+- Digestão química e mecânica.
+- Absorção de nutrientes, água e sais minerais.
+- Eliminação de restos não aproveitados.
+FIM
+
+GRUPO 
+1
+
+MODELO
+2
+ 
+ENUNCIADO
+Os seres humanos possuem quatro tipos de dentes. Os dentes localizados na frente da boca possuem formato que facilita cortar o alimento. Nas laterais destes, temos dentes pontiagudos que permitem com que o alimento seja “rasgado”. Os dentes localizados mais ao fundo da boca exercem uma função trituradora de alimentos. Sob esse aspecto, determine todas as alternativas corretas que correspondam à dentição humana.
+ 
+ALTERNATIVAS
+Dente Incisivo.
+Dente Canino.
+Dente Pré-molar.
+Dente Molar.
+Dente Decisivo.
+Dente Pré-canino.
+ 
+ALTERNATIVAS CORRETAS
+Dente Incisivo.
+Dente Canino.
+Dente Pré-molar.
+Dente Molar.
+
+FEEDBACK IMAGEM
+imgfeedback42
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+Os dentes localizados na frente da boca possuem formato que facilita cortar o alimento e são denominados incisivos. Nas laterais destes, temos dentes pontiagudos que permitem com que o alimento seja “rasgado”, os quais são denominados caninos. Os dentes localizados mais ao fundo da boca exercem uma função trituradora de alimentos, sendo que os dois primeiros após os dentes caninos são chamados pré-molares, enquanto os três últimos são os molares.
+FIM
+
+GRUPO 
+1
+
+MODELO
+2
+ 
+ENUNCIADO
+As glândulas salivares maiores são exócrinas e responsáveis pela produção e secreção da saliva. Com base em seus conhecimentos, determine todas as alternativas que correspondam a estas glândulas e sua respectiva localização.
+ 
+ALTERNATIVAS
+Parótida: localizada entre o ângulo da mandíbula e à base do crânio.
+Submandibular: localizada na parte inferior da mandíbula.
+Sublingual: localizada no assoalho da boca.
+Subtraqueal: localizada na parte posterior da traqueia.
+Ptialina: localizada nos palatos da cavidade bucal.
+Epimandibular: localizada na parte superior da mandíbula.
+ 
+ALTERNATIVAS CORRETAS
+Parótida: localizada entre o ângulo da mandíbula e à base do crânio.
+Submandibular: localizada na parte inferior da mandíbula.
+Sublingual: localizada no assoalho da boca.
+
+FEEDBACK IMAGEM
+imgfeedback43
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+As glândulas salivares maiores são exócrinas e responsáveis pela produção e secreção da saliva. São encontradas em três pares, sendo elas: Parótida: localizada entre o ângulo da mandíbula e à base do crânio. Submandibular: localizada na parte inferior da mandíbula. Sublingual: localizada no assoalho da boca.
+FIM
+
+GRUPO 
+1
+
+MODELO
+2
+ 
+ENUNCIADO
+A Síndrome de Sjögren é uma doença autoimune que pode afetar as glândulas salivares causando boca seca. Sabemos que a saliva desempenha funções específicas na cavidade oral, importantes para o processo digestivo. Sob esse aspecto, pacientes com esta doença poderão apresentar dificuldade na execução de que processos na cavidade oral? Assinale todas as alternativas que julgar verdadeiras.
+ 
+ALTERNATIVAS
+Umedecimento da cavidade oral e facilitação da deglutição.
+Início da digestão do amido por meio da ptialina.
+Umedecimento de alimentos secos.
+Neutralização de substâncias ácidas.
+Digerir proteínas e lipídeos.
+Produzir hormônios para o controle da digestão.
+
+ALTERNATIVAS CORRETAS
+Umedecimento da cavidade oral e facilitação da deglutição.
+Início da digestão do amido por meio da ptialina.
+Umedecimento de alimentos secos.
+Neutralização de substâncias ácidas.
+
+FEEDBACK IMAGEM
+imgfeedback44
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A Síndrome de Sjögren é uma doença autoimune que pode afetar as glândulas salivares causando boca seca, devido à baixa produção de saliva. Tendo em vista as importantes funções da saliva para o sistema digestório, pacientes com esta síndrome poderão apresentar dificuldades em processos como:
+- Umedecimento da cavidade oral e facilitação da deglutição.
+- Início da digestão do amido por meio da ptialina.
+- Umedecimento de alimentos secos.
+- Neutralização de substâncias ácidas.
+FIM
+
+GRUPO 
+1
+
+MODELO
+2
+ 
+ENUNCIADO
+Os sucos digestivos são substâncias secretadas por glândulas de vários órgãos do sistema digestivo que permitem a transformação de complexas moléculas alimentares em moléculas mais simples. Sob esse aspecto, assinale todas as alternativas que correspondam a estas substâncias.
+
+ALTERNATIVAS
+Saliva.
+Suco gástrico.
+Suco pancreático.
+Suco entérico.
+Suco hematopoiético.
+Suor.
+ 
+ALTERNATIVAS CORRETAS
+Saliva.
+Suco gástrico.
+Suco pancreático.
+Suco entérico.
+
+FEEDBACK IMAGEM
+SEM
+
+LEGENDA DA IMAGEM DE FEEDBACK
+SEM
+
+FEEDBACK TEXTO
+Os sucos digestivos são substâncias secretadas por glândulas de vários órgãos do sistema digestivo que permitem a transformação de complexas moléculas alimentares em moléculas mais simples. São eles: a saliva, secretada pelas glândulas salivares; o suco gástrico, secretado pelas glândulas gástricas da parede estomacal; o suco pancreático, secretado pelo pâncreas; e o suco entérico, produzido e secretado pelas células do duodeno.
+FIM

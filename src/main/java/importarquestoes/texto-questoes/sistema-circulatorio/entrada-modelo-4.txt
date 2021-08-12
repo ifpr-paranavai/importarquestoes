@@ -1,0 +1,169 @@
+GRUPO
+2
+
+MODELO
+4
+ 
+ENUNCIADO
+A frequência dos batimentos cardíacos é controlada por regiões especiais do coração, responsáveis por ativar impulsos elétricos que acarretam as contrações das câmaras cardíacas, e o GIF abaixo representa esse processo. Sob este aspecto, assinale a única alternativa correta a respeito do sistema de condução cardíaco.
+
+IMAGEM
+gif56m4sc
+ 
+LEGENDA DA IMAGEM
+Imagem: Blog Caderno Educação Física. Disponível aqui.
+ 
+ALTERNATIVAS
+O nodo sinoatrial se localiza na junção entre átrio direito e veia cava superior e é responsável por emitir sinal elétrico que se propaga na musculatura dos átrios, contraindo-os.
+O nodo sinoatrial se localiza na parte posterior do septo interatrial e é responsável por emitir sinal elétrico que se propaga na musculatura dos ventrículos, contraindo-os.
+O nodo atrioventricular se localiza na junção entre o átrio direito e a veia cava superior e é responsável por emitir um sinal elétrico que se propaga na musculatura dos átrios, contraindo-os.
+O nodo atrioventricular se localiza na parte posterior do septo interatrial e é responsável por emitir sinal elétrico que se propaga na musculatura dos átrios, contraindo-os.
+ 
+ALTERNATIVA CORRETA
+O nodo sinoatrial se localiza na junção entre átrio direito e veia cava superior e é responsável por emitir sinal elétrico que se propaga na musculatura dos átrios, contraindo-os.
+
+FEEDBACK IMAGEM
+gif56m4sc
+
+LEGENDA FEEDBACK IMAGEM
+Imagem: Blog Caderno Educação Física. Disponível aqui.
+
+FEEDBACK TEXTO
+A frequência dos batimentos cardíacos é controlada por regiões especiais do coração, responsáveis por ativar impulsos elétricos que acarretam as contrações das câmaras cardíacas. O nodo sinoatrial é um aglomerado de células especializadas e se localiza na junção entre o átrio direito e a veia cava superior, sendo responsável por emitir um sinal elétrico que se propaga na musculatura dos átrios, contraindo-os (sístole atrial). O nodo atrioventricular é outra região especializada do coração, localizada na porção inferior do septo interatrial, que retarda o sinal, possibilitando tempo adequado para que o sangue dos átrios passe para os ventrículos. Do nodo atrioventricular, o sinal elétrico chega ao feixe de His, que consiste na conexão elétrica entre átrios e ventrículos, que se divide nos ramos direito e esquerdo, que cruzam o septo e se ramificam em feixes terminais denominados fibras de Purkinje, que conduzem o potencial de ação para as paredes dos ventrículos, estimulando que estes entrem em sístole (após o término da sístole dos átrios).
+FIM
+
+GRUPO 
+2
+
+MODELO
+4
+ 
+ENUNCIADO
+O sistema circulatório sanguíneo é responsável por transportar o sangue para todas as partes do nosso corpo. A circulação completa permite que o sangue rico em oxigênio não se misture com o sangue pobre em oxigênio, de modo que estes percorrem caminhos distintos através do sistema cardiovascular. Com base na figura e em seus conhecimentos, assinale a alternativa que corresponda ao trajeto percorrido pelo sangue oxigenado, desde a oxigenação até a sua distribuição às células. 
+
+IMAGEM
+gif57m4sc
+ 
+LEGENDA DA IMAGEM
+Imagem: Pinterest. Disponível aqui.
+ 
+ALTERNATIVAS
+Pulmões, átrio direito, ventrículo direito, aorta, vênulas, capilares e tecidos.
+Pulmões, artéria pulmonar, átrio esquerdo, ventrículo esquerdo, artéria pulmonar, arteríolas 
+Pulmões, veias pulmonares, átrio esquerdo, ventrículo esquerdo, aorta, arteríolas, capilares e tecidos.
+Pulmões, veias pulmonares, átrio direito, ventrículo direito, veias cavas, vênulas, capilares e tecidos.
+ 
+ALTERNATIVA CORRETA
+Pulmões, veias pulmonares, átrio esquerdo, ventrículo esquerdo, aorta, arteríolas, capilares e tecidos.
+
+FEEDBACK IMAGEM
+gif57m4sc
+
+LEGENDA FEEDBACK IMAGEM
+Imagem: Pinterest. Disponível aqui.
+
+FEEDBACK TEXTO
+Na circulação sanguínea, o trajeto do sangue rico em oxigênio (representado em vermelho no GIF) pelo corpo humano se inicia nos pulmões onde é oxigenado, em seguida passa pelas veias pulmonares chegando ao átrio esquerdo, onde é bombeado para o ventrículo esquerdo que, por sua vez, bombeia o sangue para a aorta. A aorta se ramifica em vasos de calibre cada vez menores, chamados arteríolas, que se ramificam em vasos de calibre microscópicos denominados capilares, que se comunicam com os tecidos, nutrindo-os e oxigenando-os.
+FIM
+
+GRUPO 
+2
+
+MODELO
+4
+
+ENUNCIADO
+O GIF abaixo demonstra por meio de setas o trajeto do sangue no coração e a abertura e fechamento das valvas cardíacas que impedem o refluxo sanguíneo. Sob esse aspecto, analise o GIF e, com base em seus conhecimentos, assinale a alternativa que corresponda às valvas que impedem o refluxo de sangue para os átrios e as valvas que impedem o refluxo de sangue para os ventrículos, respectivamente.
+
+IMAGEM
+gif58m4sc
+ 
+LEGENDA DA IMAGEM
+Imagem: Blog Kleber Trainer. Disponível aqui.
+ 
+ALTERNATIVAS
+Valvas venosas e valvas de Purkinje. 
+Valvas atrioventriculares e valvas semilunares.
+Valvas semilunares e valvas atrioventriculares.
+Valvas sinoatriais e valvas de His.
+
+ALTERNATIVA CORRETA
+Valvas atrioventriculares e valvas semilunares.
+
+FEEDBACK IMAGEM
+gif58m4sc
+
+LEGENDA FEEDBACK IMAGEM
+Imagem: Blog Kleber Trainer. Disponível aqui.
+
+FEEDBACK TEXTO
+No coração, cada átrio se comunica com seu respectivo ventrículo por meio de um orifício contendo uma valva atrioventricular. Na porção direita do coração, esta valva denomina-se valva tricúspide, enquanto na porção direita é chamada de valva bicúspide. Assim, as valvas atrioventriculares impedem o refluxo de sangue para os átrios. Os ventrículos, por sua vez, se comunicam com artérias (aorta e artéria pulmonar) por meio de orifícios que contém as chamadas valvas semilunares, que tem como função impedir o refluxo de sangue para os ventrículos.
+FIM
+
+GRUPO
+2
+
+MODELO
+4
+ 
+ENUNCIADO
+O coração é um órgão formado por células musculares estriadas cardíacas e garante o bombeamento do sangue para todas as partes do corpo. Quando em bom funcionamento, o coração se contrai, relaxa, abre e fecha valvas de forma precisa, impulsionando um volume máximo de sangue com o menor gasto de energia possível. Em relação ao funcionamento do coração, analise o GIF e, com base em seus conhecimentos, assinale a única alternativa correta.
+
+IMAGEM
+gif59m4sc
+ 
+LEGENDA DA IMAGEM
+Imagem: Anatomia papel e caneta. Disponível aqui.
+ 
+ALTERNATIVAS
+Átrios e ventrículos entram em sístole (contração das câmaras cardíacas) simultaneamente.
+As valvas atrioventriculares permanecem fechadas quando os átrios estão em sístole.
+O sangue dos ventrículos direito e esquerdo se comunicam, havendo troca de gases no coração.
+As valvas atrioventriculares permanecem fechadas quando os ventrículos estão em sístole.
+ 
+ALTERNATIVA CORRETA
+As valvas atrioventriculares permanecem fechadas quando os ventrículos estão em sístole.
+
+FEEDBACK IMAGEM
+gif59m4sc
+
+LEGENDA FEEDBACK IMAGEM
+Imagem: Anatomia papel e caneta. Disponível aqui.
+
+FEEDBACK TEXTO
+O sangue pobre em oxigênio chega nos átrios do coração, que se comunicam com os ventrículos logo abaixo deles por um orifício contendo as valvas atrioventriculares. Quando os átrios estão entram em sístole (contração), essas valvas se abrem para que a passagem do sangue dos átrios para os ventrículos ocorra. Quando os ventrículos estão em sístole, as valvas atrioventriculares permanecem fechadas, exercendo sua função ao impedir que o sangue dos ventrículos retorne para os átrios. 
+FIM
+
+GRUPO
+2
+
+MODELO
+4
+ 
+ENUNCIADO
+Quando sofremos ferimentos onde há extravasamento sanguíneo, nosso corpo reage na tentativa de evitar a perda excessiva de sangue. Este processo é denominado coagulação sanguínea e ocorre graças a uma série de reações. O GIF abaixo demonstra brevemente esse processo. Sob esse aspecto, assinale a alternativa mais adequada sobre a formação de coágulos sanguíneos.
+
+IMAGEM
+gif60m4sc
+ 
+LEGENDA DA IMAGEM
+Imagem: Boomac2 via Makeagif. Disponível aqui.
+ 
+ALTERNATIVAS
+As plaquetas aderem no ferimento, a fibrina forma uma rede de filamentos e as hemácias se acumulam no local, levando à formação do coágulo.
+As plaquetas produzem anticorpos que se aderem ao ferimento e os monócitos se acumulam no local levando à formação do coágulo.
+Os leucócitos aderem no ferimento, as hemácias formam uma rede de filamentos e o plasma se acumula no local, cicatrizando o ferimento.
+As hemácias produzem plaquetas que se aderem no ferimento, a fibrina forma uma rede de filamentos e os leucócitos se acumulam no local, cicatrizando o ferimento.
+ 
+ALTERNATIVA CORRETA
+As plaquetas aderem no ferimento, a fibrina forma uma rede de filamentos e as hemácias se acumulam no local, levando à formação do coágulo.
+
+FEEDBACK IMAGEM
+feedback60m4sc
+
+LEGENDA FEEDBACK IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+No caso de um ferimento, as plaquetas são ativadas, vão se atraindo e aderem no local, formando um “tampão” inicial na lesão. Após uma sequência de reações químicas envolvendo fatores de coagulação (sobretudo enzimas), o resultado é o surgimento da fibrina (uma proteína fibrosa), que forma uma rede de filamentos que se entrelaçam com as plaquetas, formando um “tampão” mais compacto. As hemácias, incapazes de atravessar, acumulam-se no local juntamente com o plasma, originando o coágulo.
+FIM
