@@ -1,0 +1,174 @@
+GRUPO 
+1
+
+MODELO
+3
+ 
+ENUNCIADO
+Durante a alimentação, as três estruturas representadas e/ou destacadas por cores nas imagens abaixo realizam funções importantes no sistema digestório humano. Relacione-as com as alternativas propostas, por meio da formação de pares.
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+ALTERNATIVAS
+Produção e secreção de saliva, que desemboca na cavidade oral.
+Trituração do alimento, início da digestão por amilase salivar e deglutição.
+Fechamento da laringe permitindo a passagem do alimento para o esôfago.
+Imagem 1: img21am3sd
+Imagem 2: img21bm3sd
+Imagem 3: img21cm3sd
+
+PARES CORRETOS
+img21am3sd = Produção e secreção de saliva, que desemboca na cavidade oral. 
+img21bm3sd = Trituração do alimento, início da digestão por amilase salivar e deglutição. 
+img21cm3sd = Fechamento da laringe permitindo a passagem do alimento para o esôfago. 
+
+FEEDBACK IMAGEM
+imgfeedback21
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+As glândulas salivares são responsáveis pela produção e secreção de saliva, que desemboca na cavidade oral. Na boca, ocorre a trituração do alimento, início da digestão por amilase salivar e deglutição. A epiglote tem como função o fechamento da laringe permitindo a passagem do alimento para o esôfago (impedindo que o alimento entre no sistema respiratório).
+FIM
+
+GRUPO 
+1
+
+MODELO
+3
+ 
+ENUNCIADO
+Durante o processo de digestão, em condições normais, o alimento segue uma sequência anatômica definida: boca, faringe, esôfago, estômago, intestino delgado, intestino grosso, reto e ânus. Nas imagens, estão indicadas a faringe, esôfago e estômago. Sob esse aspecto, com base em seus conhecimentos, relacione em pares as estruturas representadas nas figuras com as informações que condizem à função de cada uma delas.
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Olek Remesz, Creative Commons BY-SA 2.5, via Wikimedia Commons. Disponíveis aqui e aqui.
+
+ALTERNATIVAS
+Peristaltismo e secreção de muco permitindo o transporte do alimento até o estômago.
+Produção de suco gástrico, digestão química e mecânica dos alimentos e conversão de bolo alimentar em quimo.
+Passagem de ar e alimentos, se comunicando com boca, cavidade nasal, esôfago e laringe.
+Imagem 1: img22am3sd
+Imagem 2: img22bm3sd
+Imagem 3: img22cm3sd
+
+PARES CORRETOS
+img22am3sd = Peristaltismo e secreção de muco permitindo o transporte do alimento até o estômago.
+img22bm3sd = Produção de suco gástrico, digestão química e mecânica dos alimentos e conversão de bolo alimentar em quimo.
+img22cm3sd = Passagem de ar e alimentos, se comunicando com boca, cavidade nasal, esôfago e laringe.
+
+FEEDBACK IMAGEM
+imgfeedback22
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Olek Remesz, Creative Commons BY-SA 2.5, via Wikimedia Commons. Disponível aqui. 
+
+FEEDBACK TEXTO
+Na faringe, ocorre a passagem de ar e alimentos, se comunicando com boca, cavidade nasal, esôfago e laringe. No esôfago, ocorre peristaltismo e secreção de muco permitindo o transporte do alimento até o estômago. No estômago, ocorre produção de suco gástrico, digestão química e mecânica dos alimentos e conversão de bolo alimentar em quimo.
+FIM
+
+GRUPO 
+1
+
+MODELO
+3
+ 
+ENUNCIADO
+Durante o processo de digestão, em condições normais, o alimento segue uma sequência anatômica definida: boca, faringe, esôfago, estômago, intestino delgado, intestino grosso, reto e ânus.  Nas imagens, estão indicados o intestino delgado, intestino grosso e ânus. Sob esse aspecto, com base em seus conhecimentos, relacione em pares as estruturas representadas nas figuras com as informações que condizem à função de cada uma delas.
+ 
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+ALTERNATIVAS
+Eliminação de fezes.
+Produção e secreção de suco entérico, digestão do quimo e absorção de nutrientes.
+Armazenamento de resíduos não aproveitados, absorção de água e sais minerais.
+Imagem 1: img23am3sd
+Imagem 2: img23bm3sd
+Imagem 3: img23cm3sd
+
+PARES CORRETOS
+img23am3sd = Eliminação de fezes.
+img23bm3sd = Produção e secreção de suco entérico, digestão do quimo e absorção de nutrientes.
+img23cm3sd = Armazenamento de resíduos não aproveitados, absorção de água e sais minerais.
+
+FEEDBACK IMAGEM
+imgfeedback23
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+O intestino delgado é responsável pela produção e secreção de suco entérico, digestão do quimo e absorção de nutrientes. O intestino grosso realiza o armazenamento de resíduos não aproveitados, absorção de água e sais minerais. O ânus tem função de eliminação de fezes.
+FIM
+
+GRUPO 
+1
+
+MODELO
+3
+ 
+ENUNCIADO
+As glândulas salivares, a língua, os dentes, o fígado, o pâncreas e a vesícula biliar são considerados órgãos/estruturas acessórios ou anexos ao sistema digestório e desempenham importantes funções em nosso organismo. Nesse sentido, relacione em pares as figuras referentes às estruturas anexas com as informações que julgar mais adequadas, em relação à função de cada uma delas.
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Macrovector, via Freepik.com. Disponíveis aqui.
+
+ALTERNATIVAS
+Produção de bile.
+Produção de suco pancreático.
+Armazenamento de bile.
+Imagem 1: img24am3sd
+Imagem 2: img24bm3sd
+Imagem 3: img24cm3sd
+ 
+PARES CORRETOS
+img24am3sd = Produção de bile.
+img24bm3sd = Produção de suco pancreático.
+img24cm3sd = Armazenamento de bile.
+
+FEEDBACK IMAGEM
+imgfeedback24
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
+
+FEEDBACK TEXTO
+O fígado é um importante órgão no corpo humano que desempenha variadas funções e, no processo de digestão, atua mediante à produção de bile, responsável pela emulsificação de lipídios. A vesícula biliar tem como função o armazenamento da bile, produzida pelo fígado. O pâncreas tem como função no sistema digestório a produção de suco pancreático, responsável pela digestão de proteínas, carboidratos, triglicerídeos e ácidos nucleicos.  
+FIM
+
+GRUPO 
+1
+
+MODELO
+3
+ 
+ENUNCIADO
+Durante os processos digestivos, o alimento inicialmente digerido na boca e deglutido passa do esôfago ao estômago pelo esfíncter esofágico inferior. Após a digestão química inicial no estômago (proteínas), o conteúdo estomacal é conduzido ao duodeno, através da abertura do esfíncter pilórico. No duodeno, ocorre a digestão química de proteínas, carboidratos e lipídios, por meio da secreção de bile, suco pancreático e suco entérico. Com base nas informações, relacione cada imagem com a informação mais adequada, formando pares com as alternativas propostas.
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+ALTERNATIVAS
+Passagem de bolo alimentar.
+Passagem do quimo.
+Digestão química duodenal.
+Imagem 1: img25am3sd
+Imagem 2: img25bm3sd
+Imagem 3: img25cm3sd
+ 
+PARES CORRETOS
+img25am3sd = Passagem de bolo alimentar.
+img25bm3sd = Passagem do quimo.
+img25cm3sd = Digestão química.
+
+FEEDBACK IMAGEM
+imgfeedback25
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+No esfíncter esofágico inferior, ocorre a passagem de bolo alimentar. No esfíncter pilórico, ocorre a passagem do quimo. No duodeno, ocorre a digestão química duodenal.
+FIM
