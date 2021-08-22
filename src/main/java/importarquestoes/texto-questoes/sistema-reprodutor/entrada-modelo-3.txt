@@ -1,0 +1,57 @@
+GRUPO
+5
+
+MODELO
+3
+
+ENUNCIADO
+O conhecimento científico sobre a reprodução humana vem garantindo às pessoas a possibilidade de controlar conscientemente sua reprodução. As alternativas abaixo remetem a diferentes métodos para se evitar uma gravidez indesejada. Com base em seus conhecimentos, analise as imagens e as informações e determine as correspondências por meio de toques nos pares.
+
+LEGENDA APÓS ENUNCIADO
+Imagens:  Adaptadas de Pikisuperstar, via Freepik.com. Disponíveis aqui.
+
+PARES CORRETOS
+img4m3arepro = DIU: ação inflamatória
+img4m3brepro = Coito interrompido: ação natural de controle
+img4m3crepro = Pílula: ação hormonal
+
+FEEDBACK IMAGEM
+imgfeedback1m3repro
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem:  Adaptada de Pikisuperstar, via Freepik.com. Disponível aqui.
+
+FEEDBACK TEXTO
+O coito interrompido consiste em uma ação natural de controle, visando interromper o coito antes do momento da ejaculação (retirar o pênis da vagina). É um método pouco eficiente pois as secreções masculinas eliminadas antes da ejaculação podem conter espermatozoides.
+O Dispositivo Intrauterino (DIU) consiste em um dispositivo implantado no útero (por um médico), que comumente causa uma inflamação na região, atraindo macrófagos que destroem embriões que tentam se implantar na mucosa.
+A pílula anticoncepcional consiste em um método contraceptivo oral de ação hormonal, contendo hormônios sintéticos (estrógeno e progesterona), que deve ser ingerido todos os dias em um período de 21 a cada ciclo menstrual, o que inibe a secreção de FSH e LH, impedindo a ovulação.
+Fim
+
+GRUPO
+5
+
+MODELO
+3
+
+ENUNCIADO
+As figuras e as alternativas abaixo remetem a algumas fases do ciclo ovariano, em que os folículos passam por estágios de desenvolvimento ao longo do ciclo, sob a ação hormonal. Com base em seus conhecimentos, analise as imagens e as alternativas e determine as correspondências, por meio de toques nos pares.
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+PARES CORRETOS
+img5m3arepro = Folículo maduro: contém o ovócito II pronto para ovulação
+img5m3brepro = Ovulação: ovócito II liberado para a tuba uterina
+img5m3crepro = Corpo-lúteo: folículo rompido que produz hormônios
+
+FEEDBACK IMAGEM
+imgfeedback2m3repro
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+Na puberdade feminina, a cada 28 dias (ciclo menstrual) um folículo primário (conjunto de ovócito primário e células foliculares) amadurece, de modo que o ovócito termina a meiose I e passa a ser chamado de ovócito secundário, constituindo o folículo maduro.
+Por volta do 14º dia do ciclo, o folículo maduro está cheio de líquido em seu interior, causando sua ruptura e a libertação do ovócito secundário, processo denominado ovulação.
+Após a ovulação, a “cicatriz” do folículo desenvolve-se, passando a ser chamada de corpo-lúteo, uma estrutura rica em luteína, um carotenoide de coloração amarela. O corpo-lúteo, então, passa a produzir hormônios, sobretudo progesterona, a fim de preparar a parede do útero para receber um possível embrião.
+Fim
