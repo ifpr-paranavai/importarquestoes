@@ -1,0 +1,126 @@
+GRUPO
+5
+
+MODELO
+2
+
+ENUNCIADO
+Os ovários são estruturas ovoides localizados na cavidade abdominal, na região das virilhas. Nos ovários, ocorre o processo de formação dos óvulos, a ovulogênese, e sua liberação, chamada ovulação. Sob este aspecto, analise as alternativas e, com base em seus conhecimentos, assinale todas as proposições que julgar como corretas.
+
+ALTERNATIVAS
+A ovulogênese tem início antes do nascimento da mulher, em sua vida intrauterina, quando as células precursoras dos gametas, as ovogônias, se transformam em ovócitos primários, que permanecem estacionados até a puberdade.
+Ao nascer, em cada um de seus ovários, a mulher possui cerca de 500 mil folículos ovarianos, contudo a maioria deles degenera antes mesmo da puberdade.
+A ovulogênese tem início na puberdade, quando as ovogônias sofrem meiose e liberam o ovócito secundário nas tubas uterinas, onde serão fecundados ou degeneração.
+Após a menarca, na puberdade, em média a cada 28 dias um dos ovócitos primários sofre maturação, produzindo duas células de tamanho diferente: uma grande, o ovócito secundário, e outra pequena, o glóbulo polar, que se degenera.
+Após a menarca, no final da fase adulta, os ovócitos primários cessam sua maturação, de modo que os óvulos passam a ser produzidos pelas ovogônias e sendo liberados no útero pelos folículos ovarianos.
+Ao ser formado, o ovócito secundário inicia a segunda divisão da meiose, mas estaciona. O acúmulo de líquido no interior do folículo causa sua ruptura e libertação do ovócito secundário, processo denominado ovulação.
+
+ALTERNATIVAS CORRETAS
+1,2,4,6
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+A ovulogênese tem início antes do nascimento da mulher, em sua vida intrauterina, quando as células precursoras dos gametas, as ovogônias, se transformam em ovócitos primários, que permanecem estacionados até a puberdade.
+Ao nascer, em cada um de seus ovários, a mulher possui cerca de 500 mil folículos ovarianos, contudo a maioria deles degenera antes mesmo da puberdade.
+Após a menarca (primeira menstruação) na puberdade, em média a cada 28 dias um dos ovócitos primários sofre maturação, produzindo duas células de tamanho diferente: uma grande, o ovócito secundário, e outra pequena, o glóbulo polar, que se degenera.
+Ao ser formado, o ovócito secundário inicia a segunda divisão da meiose, mas estaciona. O acúmulo de líquido no interior do folículo causa sua ruptura e libertação do ovócito secundário, processo denominado ovulação.
+fim
+
+GRUPO
+5
+
+MODELO
+2
+
+ENUNCIADO
+A espermatogênese é o processo de formação de gametas masculinos, os espermatozoides. Nos homens, esse processo ocorre da puberdade até o fim da vida do indivíduo. Sob este aspecto, com base em seus conhecimentos, analise as alternativas abaixo e assinale todas as proposições que julgar como corretas.
+
+ALTERNATIVAS
+A espermatogênese ocorre a partir de células precursoras denominadas espermátides, que se multiplicam ativamente, por meiose, até a puberdade, quando então desaceleram sua multiplicação.
+A espermatogênese ocorre a partir de células precursoras denominadas espermatogônias, que se multiplicam lentamente, por mitose, até a puberdade, quando passam a se multiplicar com intensidade, até o fim da vida do homem.
+Após a puberdade, enquanto algumas espermatogônias se multiplicam, outras se transformam em espermatócitos primários, que passam pela primeira divisão meiótica e origina dois espermatócitos secundários.
+Após a puberdade, enquanto alguns espermatozoides se multiplicam, outros se transformam em espermatogônias, que passam por diversas mitoses, formando um liquido viscoso secretado pelas glândulas bulbouretrais.
+Cada espermatócito secundário se divide por meiose, formando duas espermátides, que passam por um processo chamado espermiogênese, transformando-se em espermatozoides.
+Os gametas masculinos são formados por um processo denominado espermatogênese e sua liberação é chamada ovulação.
+
+ALTERNATIVAS CORRETAS
+2,3,5
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+A espermatogênese ocorre a partir de células precursoras denominadas espermatogônias, que se multiplicam lentamente, por mitose, até a puberdade, quando passam a se multiplicar com intensidade, até o fim da vida do homem.
+Após a puberdade, enquanto algumas espermatogônias se multiplicam, outras se transformam em espermatócitos primários, que passam pela primeira divisão meiótica e origina dois espermatócitos secundários.
+Cada espermatócito secundário se divide por meiose, formando duas espermátides, que passam por um processo chamado espermiogênese, transformando-se em espermatozoides.
+fim
+
+GRUPO
+5
+
+MODELO
+2
+
+ENUNCIADO
+No ciclo ovariano, após a ovulação, as células que constituem a “cicatriz” do folículo rompido se desenvolvem, formando uma estrutura amarelada denominada corpo-lúteo. Com base em seus conhecimentos sobre o corpo-lúteo, analise as alternativas propostas e assinale todas as proposições que julgar verdadeiras.
+
+ALTERNATIVAS
+O corpo-lúteo atua na produção de hormônios sexuais (pouco estrógeno e bastante progesterona), que atuam sobre o endométrio na preparação para uma eventual gravidez.
+O corpo lúteo atua no desenvolvimento do folículo, que se torna rico em nutrientes, tendo em vista armazenar o ovócito secundário novamente, variadas vezes após a ovulação.
+A presença de hormônios sexuais produzidos pelo corpo-lúteo estimula a produção de FSH e LH. Caso não haja fecundação, o LH é responsável por manter o corpo-lúteo em atividade, o que desencadeia a menstruação.
+Caso haja fecundação, é liberado o hormônio FSH, que inibe o desenvolvimento do folículo, regredindo as quantidades de estrogênio e progesterona, impedindo a menstruação e possibilitando uma nova ovulação.
+A presença de hormônios sexuais produzidos pelo corpo-lúteo inibe a produção de FSH e LH. Caso não haja fecundação, a queda do LH faz com que o corpo-lúteo degenere, o que desencadeia a menstruação.
+Caso haja fecundação, é liberado o hormônio HCG, que estimula o corpo-lúteo a continuar em atividade, mantendo elevadas as taxas hormonais, impedindo a menstruação e mantendo o endométrio durante a gravidez.
+
+ALTERNATIVAS CORRETAS
+1,5,6
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+O corpo-lúteo atua na produção de hormônios sexuais (pouco estrógeno e bastante progesterona), que atuam sobre o endométrio na preparação para uma eventual gravidez.
+A presença de hormônios sexuais produzidos pelo corpo-lúteo inibe a produção de FSH e LH. Caso não haja fecundação, a queda do LH faz com que o corpo-lúteo degenere, deixando de produzir hormônios estrógeno e progesterona, o que faz com que a mucosa uterina se desprenda e seja eliminada na menstruação.
+Caso haja fecundação, é liberado o hormônio HCG (gonadotrofina coriônica), que estimula o corpo-lúteo a continuar em atividade, mantendo elevadas as taxas hormonais de estrogênio e progesterona, impedindo a menstruação e mantendo o endométrio durante os primeiros quatro meses de gravidez. A partir de então, o corpo-lúteo degenera e a placenta se torna responsável pela manutenção dos níveis hormonais, que mantém a proliferação da mucosa uterina até o final da gravidez.
+Fim
+
+GRUPO
+5
+
+MODELO
+2
+
+ENUNCIADO
+Os métodos contraceptivos consistem em formas de se evitar uma gravidez indesejada, podendo variar entre métodos comportamentais, de barreira, dispositivos intrauterinos, hormonais, de emergência ou cirúrgicos. Os métodos de barreira, por exemplo, são aqueles que impedem que os espermatozoides cheguem até o útero. Com base em seus conhecimentos, analise as alternativas propostas abaixo e assinale todas as alternativas que consistirem em somente métodos contraceptivos de barreira.
+
+ALTERNATIVAS
+Preservativo (camisinha feminina e masculina).
+Tabelinha.
+Diafragma.
+Anel vaginal.
+Espermicida.
+Pílula de emergência.
+
+ALTERNATIVAS CORRETAS
+1,3,5
+
+FEEDBACK IMAGEM
+imgfeedback1m2repro
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Pikisuperstar, via Freepik.com. Disponível aqui.
+
+FEEDBACK TEXTO
+O preservativo (camisinha) masculino e feminino, o diafragma e os espermicidas podem ser considerados métodos contraceptivos de barreira, pois, ao formarem uma barreira física durante o ato sexual, impedem que os espermatozoides cheguem até o útero.
+Fim

@@ -13,11 +13,11 @@ import com.google.gson.JsonObject;
 public class SepararConteudoQuestoesM1 {
 	//Modelo 1
 	//(Enunciado + Imagem + Toque pares em texto)
-	public static void main(String[] args) {
+	public void ConverterModelo1() {
 		try {
 			
 			//Arquivo de texto que será lido e convertido nas questões
-			FileReader arq = new FileReader("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\texto-questoes\\sistema-reprodutor\\entrada-modelo-1.txt");
+			FileReader arq = new FileReader("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\texto-questoes\\sistema-urinario\\entrada-modelo-1.txt");
 			BufferedReader lerArq = new BufferedReader(arq);
 
 			String linha = lerArq.readLine();
@@ -130,17 +130,16 @@ public class SepararConteudoQuestoesM1 {
 	
 				questoes.add(questao);
 			}
-			
+
 			//Arquivo que será alimentado com as questões
-		    FileWriter arqSaida = new FileWriter("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\sistemas\\5-sistema-reprodutor\\saida-modelo-1.txt");
+		    FileWriter arqSaida = new FileWriter("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\sistemas\\4-sistema-urinario\\saida-modelo-1.txt");
 		    PrintWriter gravarArq = new PrintWriter(arqSaida);
 
-		    gravarArq.printf(questoes.toString());
-		    
-		  
+			System.out.println(questoes);
+
 		    gravarArq.close();
 
-		
+
 			arq.close();
 		} catch (IOException e) {
 			

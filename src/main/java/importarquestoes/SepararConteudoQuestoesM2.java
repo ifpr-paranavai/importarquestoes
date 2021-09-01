@@ -10,14 +10,14 @@ import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 
-public class SepararConteudoQuestoesM3 {
-    //Modelo 3
-    //(Enunciado + Toque nos pares (alternativas com Imagens e Texto))
-    public void ConverterModelo3() {
+public class SepararConteudoQuestoesM2 {
+    //Modelo 2
+    //(Enunciado + Várias alternativas corretas em texto)
+    public void ConverterModelo2() {
         try {
 
             //Arquivo de texto que será lido e convertido nas questões
-            FileReader arq = new FileReader("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\texto-questoes\\sistema-urinario\\entrada-modelo-3.txt");
+            FileReader arq = new FileReader("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\texto-questoes\\sistema-urinario\\entrada-modelo-2.txt");
             BufferedReader lerArq = new BufferedReader(arq);
 
             String linha = lerArq.readLine();
@@ -34,6 +34,7 @@ public class SepararConteudoQuestoesM3 {
                 linha = lerArq.readLine();
                 questao.addProperty("grupo", linha.trim());
                 linha = lerArq.readLine();
+
                 linha = lerArq.readLine();
                 linha = lerArq.readLine();
                 questao.addProperty("modelo", linha.trim());
@@ -48,49 +49,49 @@ public class SepararConteudoQuestoesM3 {
                 linha = lerArq.readLine();
                 linha = lerArq.readLine();
                 linha = lerArq.readLine();
-                questao.addProperty("legendaImagem", linha.trim());
+
+
+                String alternativa1, alternativa2, alternativa3, alternativa4, alternativa5, alternativa6;
+
+                alternativa1 = linha.trim();
+                questao.addProperty("alternativa1", alternativa1);
+                linha = lerArq.readLine();
+
+                alternativa2 = linha.trim();
+                questao.addProperty("alternativa2", alternativa2);
+                linha = lerArq.readLine();
+
+
+                alternativa3 = linha.trim();
+                questao.addProperty("alternativa3", alternativa3);
+                linha = lerArq.readLine();
+
+
+                alternativa4 = linha.trim();
+                questao.addProperty("alternativa4", alternativa4);
+                linha = lerArq.readLine();
+
+
+                alternativa5 = linha.trim();
+                questao.addProperty("alternativa5", alternativa5);
+                linha = lerArq.readLine();
+
+
+                alternativa6 = linha.trim();
+                questao.addProperty("alternativa6", alternativa6);
+                linha = lerArq.readLine();
+
+
+                String[] alternativasCorretas;
+
+                alternativasCorretas = linha.split(",");
 
 
                 linha = lerArq.readLine();
                 linha = lerArq.readLine();
+                questao.addProperty("alternativaCorreta", linha.trim());
+
                 linha = lerArq.readLine();
-
-                JsonArray arrayPares = new JsonArray();
-                Boolean temPar = true;
-                int idPar = 1;
-                while (temPar) {
-
-                    if (linha.trim().length() > 5) {
-
-                        String[] pares = linha.split("=");
-
-                        JsonObject par1 = new JsonObject();
-                        par1.addProperty("id", idPar);
-                        idPar++;
-                        par1.addProperty("corBorda", "#F0E68C");
-                        par1.addProperty("desabilitar", false);
-                        par1.addProperty("descricao", pares[0].trim());
-                        par1.addProperty("idPar", idPar);
-                        arrayPares.add(par1);
-
-                        JsonObject par2 = new JsonObject();
-                        par2.addProperty("id", idPar);
-                        idPar++;
-                        par2.addProperty("corBorda", "#F0E68C");
-                        par2.addProperty("desabilitar", false);
-                        par2.addProperty("descricao", pares[1].trim());
-                        par2.addProperty("idPar", idPar - 2);
-                        arrayPares.add(par2);
-                        linha = lerArq.readLine();
-
-                    } else {
-                        temPar = false;
-                    }
-                }
-
-                System.out.println(arrayPares);
-                questao.add("pares", arrayPares);
-
                 linha = lerArq.readLine();
                 linha = lerArq.readLine();
                 questao.addProperty("feedBackImagem", linha.trim());
@@ -124,10 +125,11 @@ public class SepararConteudoQuestoesM3 {
                 linha = lerArq.readLine();
 
                 questoes.add(questao);
+
             }
 
             //Arquivo que será alimentado com as questões
-            FileWriter arqSaida = new FileWriter("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\sistemas\\4-sistema-urinario\\saida-modelo-3.txt");
+            FileWriter arqSaida = new FileWriter("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\sistemas\\4-sistema-urinario\\saida-modelo-2.txt");
             PrintWriter gravarArq = new PrintWriter(arqSaida);
 
             System.out.println(questoes);
