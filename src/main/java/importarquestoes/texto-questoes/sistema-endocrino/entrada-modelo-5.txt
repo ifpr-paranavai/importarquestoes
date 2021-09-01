@@ -1,0 +1,176 @@
+GRUPO
+8
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo ilustra um caso grave de uma doença da glândula tireoide, que acarreta seu crescimento anormal e consequente formação de um volume no pescoço, chamado bócio. No que se refere a esta doença da glândula tireoide, analise as alternativas e selecione a que julgar como verdadeira.
+
+IMAGEM
+img6m5endo
+ 
+LEGENDA DA IMAGEM
+Imagem: Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS
+Hipertireoidismo: a glândula diminui e produz menos hormônios que o necessário, causando diminuição da temperatura corporal, ressecamento da pele, diminuição da pressão arterial e tendência a engordar.
+Hipotireoidismo: a glândula diminui e produz hormônios em excesso, causando aumento da temperatura corporal, sudorese intensa, perda de peso, irritabilidade, hipertensão e olhos arregalados.
+Hipertireoidismo: a glândula aumenta e produz hormônios em excesso, causando aumento da temperatura corporal, sudorese intensa, perda de peso, irritabilidade, hipertensão e olhos arregalados.
+Hipotireoidismo: a glândula aumenta e produz menos hormônios que o necessário, causando diminuição da temperatura corporal, ressecamento da pele, diminuição da pressão arterial e tendência a engordar.
+
+ALTERNATIVA CORRETA
+3
+
+FEEDBACK IMAGEM
+img6m5endo
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A doença indicada pela imagem consiste no hipertireoidismo, em que a glândula aumenta e produz hormônios em excesso, causando aumento da temperatura corporal, sudorese intensa, perda de peso, irritabilidade, hipertensão e olhos arregalados.
+Ao contrário, também há outra disfunção da tireoide, conhecida como hipotireoidismo, em que a glândula produz menos hormônios que o necessário, causando diminuição da temperatura corporal, ressecamento da pele, diminuição da pressão arterial e tendência a engordar.
+fim
+
+GRUPO
+8
+
+MODELO
+5
+ 
+ENUNCIADO
+A imagem abaixo ilustra duas glândulas humanas presentes no corpo da mulher, sendo uma de natureza endócrina e outra exócrina. Analise a figura e as alternativas e, com base nas informações e em seus conhecimentos, determine a alternativa que indique corretamente a relação entre as duas glândulas.
+
+IMAGEM
+img7m5endo
+ 
+LEGENDA DA IMAGEM
+Imagem: Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS
+A adenoipofise é responsável por produzir o hormônio prolactina, que estimula a secreção de leite pelas glândulas mamárias. A neuroipófise secreta o hormônio oxitocina, que promove a contração das glândulas mamárias para a expulsão do leite.
+A adenoipofise é responsável por produzir o hormônio estrógeno, que estimula o desenvolvimento das glândulas mamárias. A neuroipófise secreta o hormônio oxitocina, que promove a produção de leite pelas glândulas mamárias.
+A hipófise consiste em uma glândula exócrina, isto é, secreta hormônios em ductos ou na superfície externa do organismo, enquanto as glândulas mamárias são endócrinas, isto é, suas secreções fluem pelos líquidos corporais.
+A hipófise e as glândulas mamárias não possuem relação direta ou indireta na homeostasia do organismo, sobretudo no corpo da mulher, uma vez que a hipófise é uma glândula endócrina e as glândulas mamárias são exócrinas.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+img7m5endo
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A adenoipofise é responsável por produzir o hormônio prolactina, que estimula a secreção de leite pelas glândulas mamárias (após a estimulação prévia das glândulas mamárias por estrógeno e progesterona). A neuroipófise secreta o hormônio oxitocina, que promove a contração das glândulas mamárias para a expulsão do leite durante a amamentação. A liberação da oxitocina é estimulada pela própria sucção do peito pelo bebê.
+fim
+
+GRUPO
+8
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo ilustra o processo de regulação da taxa de glicose no sangue, destacando a relação funcional entre o pâncreas (responsável pela produção de insulina e glucagon) e o fígado. Sob este aspecto, analise a figura e as alternativas e selecione a proposição que julgar como verdadeira sobre esse processo.
+
+IMAGEM
+img8m5endo
+ 
+LEGENDA DA IMAGEM
+Imagem: Rhcastilhos, Domínio público, via Wikimedia Commons. Disponível aqui.
+
+ALTERNATIVAS
+Em altas taxas de glicose no sangue, o glucagon estimula todas as células a absorver mais glicose e o excesso é armazenado no fígado. Com baixas taxas, a insulina estimula o fígado a converter glicogênio em glicose.
+Após uma refeição, a insulina estimula todas as células a absorver mais glicose e o excesso é armazenado no fígado. Em longo período sem alimento, o glucagon estimula o fígado a converter glicogênio em glicose.
+O fígado e o pâncreas não apresentam relação funcional no que se refere ao sistema endócrino. Ambos se relacionam apenas no que concerne às suas secreções exócrinas, responsáveis pela digestão no duodeno.
+As células-beta constituem cerca de 70% de cada ilhota pancreática e são responsáveis pela produção de glucagon. As células-alfa são responsáveis pela produção de insulina pelo fígado.
+
+ALTERNATIVA CORRETA
+2
+
+FEEDBACK IMAGEM
+img8m5endo
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Rhcastilhos, Domínio público, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+Após uma refeição, a insulina estimula todas as células a absorver mais glicose e o excesso é armazenado no fígado. Em longo período sem alimento, o glucagon estimula o fígado a converter glicogênio em glicose.
+fim
+
+GRUPO
+8
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo ilustra os níveis hormonais de hormônio folículo-estimulante, hormônio luteinizante, estrógeno, progesterona de uma mulher adulta, em idade férgil, durante o ciclo menstrual. Analise a imagem e as alternativas e selecione a proposição que julgar como verdadeira acerca dos hormônios relacionados à reprodução. 
+
+IMAGEM
+img9m5endo
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de MindZiper, Domínio público, via Wikimedia Commons. Disponível aqui. 
+
+ALTERNATIVAS
+Por volta do dia 28 do ciclo, o nível de estrógeno e progesterona fica muito baixo, levando a mucosa uterina a se desprender e ser eliminada na menstruação, o que inicia um novo ciclo.
+Por volta do dia 14 do ciclo, o alto nível de FSH e LH faz com que a mucosa uterina se desprenda e seja eliminada na menstruação, o que inicia um novo ciclo.
+Entre os dias 1 e 5, o alto nível de estrógeno e progesterona estimulam o crescimento do folículo ovariano e da menstruação.
+Entre os dias 14 e 21, o alto nível de FSH e LH faz com que o corpo amarelo se desenvolva, promovendo a ovulação.  
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+img9m5endo
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de MindZiper, Domínio público, via Wikimedia Commons. Disponível aqui. 
+
+FEEDBACK TEXTO
+O início do ciclo menstrual é marcado pela menstruação. A fase folicular é marcada pelo desenvolvimento do folículo ovariano, sob estímulo do hormônio hipofisário FSH. 
+Com o desenvolvimento dos folículos, estes passam a produzir estrógeno, o que promove o espessamento da parede uterina e induz a hipófise a liberar grande quantidade de FSH e LH.
+Por volta do 14º dia, o FSH e o LH, em altas taxas, induzem a ovulação.
+Altas taxas de LH após a ovulação, induzem o folículo rompido a se transformarem no corpo lúteo e produzirem estrógeno e grande quantidade de progesterona. O corpo lúteo atinge seu desenvolvimento máximo entre 8 a 10 dias após a ovulação, caracterizando a fase lútea.
+O estrógeno e a progesterona produzidos pelo corpo lúteo, agora inibem (por feedback negativo) a produção de FSH e LH, o que promove a regressão do corpo lúteo, que deixa de produzir estrógeno e progesterona. 
+Por volta do dia 28 do ciclo, o nível de estrógeno e progesterona fica muito baixo, levando a mucosa uterina a se desprender e ser eliminada na menstruação, o que inicia um novo ciclo.
+A queda de estrógeno e progesterona faz com que a hipófise volte a produzir FSH.
+fim
+
+GRUPO
+8
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo ilustra as principais glândulas do sistema endócrino. Analise a figura e as alternativas e assinale a proposição que compreenda apenas as glândulas pertencente a este sistema do corpo humano.
+
+IMAGEM
+img10m5endo
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de MrArifnajafov, Domínio Público, via Wikimedia Commons. Disponível aqui.
+
+ALTERNATIVAS
+Hipófise, tireoide, suprarrenal, pâncreas e gônadas.
+Hipófise, tireoide, fígado, rins, ovário e testículos.
+Hipotálamo, suprarrenal, fígado, ovário e gônadas.
+Hipotálamo, hipófise, fígado, pâncreas e gônadas
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+imgfeed10m5endo
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de MrArifnajafov, Domínio Público, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+As principais glândulas do sistema endócrino são: Hipófise, tireoide, suprarrenal, pâncreas e gônadas (ovários e testículos).
+fim

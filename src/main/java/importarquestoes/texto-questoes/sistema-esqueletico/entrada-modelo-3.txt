@@ -1,0 +1,87 @@
+GRUPO
+6
+
+MODELO
+3
+ 
+ENUNCIADO
+A coluna vertebral apresenta curvaturas normais nas regiões cervical, torácica, lombar e sacral, que aumentam a resistência da coluna, ajudam manter o equilíbrio e reduzem o risco de fraturas nas vértebras. Contudo, existem condições em que essas curvaturas estão alteradas, caracterizando uma patologia da coluna vertebral. Com base nas informações, analise as imagens e as alternativas abaixo e, por meio de toque nos pares, associe as proposições correspondentes.
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+PARES CORRETOS
+img5m3aesq = Escoliose
+img5m3besq = Lordose
+img5m3cesq = Cifose
+
+FEEDBACK IMAGEM
+img5feedbackm3esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+Sem
+fim
+
+GRUPO
+6
+
+MODELO
+3
+ 
+ENUNCIADO
+As articulações no sistema esquelético consistem no local onde os ossos fazem contato, possibilitando, ou não, a movimentação. As figuras presentes nas alternativas abaixo consistem em representações de articulações do tipo estrutural sinovial e funcional diartrose. Com base nas informações e em seus conhecimentos, analise as imagens e as alternativas abaixo e, por meio de toque nos pares, associe as proposições correspondentes.
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de OpenStax College, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponíveis aqui.
+
+PARES CORRETOS
+img6m3aesq = Pivô. Ex: articulação atlantoaxial (pescoço)
+img6m3besq = Dobradiça. Ex: articulação úmero-ulnar (cotovelo)
+img6m3cesq = Sela. Ex: articulação do trapezoide carpal e metacarpo do polegar
+
+FEEDBACK IMAGEM
+img6feedbackm3esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de OpenStax College, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+As articulações representadas na questão consistiram nos tipos: pivô (representado em (a)), dobradiça (representada em (b)) e sela representada em (c)).
+
+Pivô ou trocoide: a face arredondada ou pontiaguda de um osso se articula com um anel formado parcialmente por outro osso e parcialmente por um ligamento, permitindo a rotação em torno de seu próprio eixo longitudinal. Exemplo: articulação atlantoaxial, que permite que a cabeça vire de um lado a outro (movimento uniaxial).
+Dobradiça ou gínglimo: a face convexa de um osso se encaixa na face côncava de outro osso, permitindo o movimento em torno de um único eixo, possibilitando apenas flexão e extensão (movimento uniaxial). Exemplo: articulação úmero-ulnar (cotovelo) e fêmoro-patelar (joelho).
+Sela ou de renda: a face articular de um osso tem formato de sela e a face articular do outro osso se encaixa na “sela”, permitindo movimentos de flexão-extensão e abdução-adução (biaxial). Exemplo: articulação entre o trapezoide carpal (punho) e o metacarpo do polegar.
+fim
+
+GRUPO
+6
+
+MODELO
+3
+ 
+ENUNCIADO
+As articulações no sistema esquelético consistem no local onde os ossos fazem contato, possibilitando, ou não, a movimentação. As figuras presentes nas alternativas abaixo consistem em representações de articulações do tipo estrutural sinovial e funcional diartrose. Com base nas informações e em seus conhecimentos, analise as imagens e as alternativas abaixo e, por meio de toque nos pares, associe as proposições correspondentes.
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de OpenStax College, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponíveis aqui.
+
+PARES CORRETOS
+img7m3aesq = Esferoide. Ex: articulação coxofemoral (quadril)
+img7m3besq = Condiloide. Ex: articulações radio-carpais (punho)
+img7m3cesq = Plana. Ex: articulações intercarpais e intertarsais
+
+FEEDBACK IMAGEM
+img6feedbackm3esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de OpenStax College, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+As articulações representadas na questão consistiram nos tipos: esferoide (representada em (d)), condiloide (representada em (e)) e plana (representada em (f)).
+Esferoide ou bola e soquete: superfície redonda como uma bola de um osso que se encaixa em uma depressão em forma de copo de outro osso, permitindo movimentos de flexão-extensão, abdução-adução e rotação (triaxial). Exemplo: articulação coxofemoral (quadril) e escapulo-umeral (ombro).
+Condiloide ou elipsoide: a projeção convexa oval de um osso se encaixa em uma depressão oval de outro osso, permitindo movimentos de flexão-extensão e abdução-adução (movimento biaxial). Exemplo: articulações radio-carpais (punho).
+Plana ou deslizante: as faces articulares dos ossos são planas ou discretamente curvas. Esse tipo de articulação pode possibilitar movimentos flexão-extensão e abdução-adução entre as superfícies planas dos ossos, mas também são capazes de fazer rotação umas com as outras. Se fizerem dois tipos de movimentos, são consideradas biaxiais, se fizerem três, triaxiais. Exemplo: articulações intercarpais e intertarsais.
+fim

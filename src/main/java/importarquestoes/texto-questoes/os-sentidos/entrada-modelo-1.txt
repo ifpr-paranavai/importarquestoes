@@ -1,0 +1,156 @@
+GRUPO
+10
+
+MODELO
+1
+
+ENUNCIADO
+A figura abaixo demonstra estruturas relacionadas ao sentido do paladar. Analise a imagem, as indicações e as alternativas propostas e, com base em seus conhecimentos sobre este sentido, determine as proposições que julgar correspondentes, por meio de toques nos pares.
+
+IMAGEM
+img1m1sen
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS
+I =  Papila gustativa
+II = Botão gustativo
+III = Poro gustativo
+
+FEEDBACK IMAGEM
+img1m1sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+O paladar permite-nos reconhecer o gosto dos alimentos, bem como a sua textura. As estruturas que desempenham essas funções, encontradas principalmente na língua, são as papilas gustativas (representadas em I). Nessas saliências, situam-se os botões gustativos (representados por II), constituídas principalmente por células sensoriais quimiorreceptoras, que partem de aberturas denominadas poros gustativos (representados por III).
+fim
+
+GRUPO
+10
+
+MODELO
+1
+
+ENUNCIADO
+A figura abaixo demonstra o epitélio olfativo, região responsável pela percepção de cheiro do sentido do olfato. Analise a figura e as indicações e, com base em seus conhecimentos sobre o tema, determine as proposições que julgar correspondentes, por meio de toques nos pares.
+
+IMAGEM
+img2m1sen
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS
+I =  Célula mitral
+II = Quimiorreceptor 
+III = Cílios olfatórios
+
+FEEDBACK IMAGEM
+img2m1sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A figura demonstra, respectivamente, uma célula mitral (representada em I), um quimiorreceptor (representado em II) e cílios olfatórios (representado em III).
+As moléculas dispersas no ar, ao adentrarem a cavidade nasal, difundem-se no muco e atingem os prolongamentos sensoriais (cílios olfatórios) dos neurônios receptores olfativos (quimiorreceptores), gerando impulsos nervosos que são conduzidos até o corpo celular da célula olfatória e em seguida seu axônio, que se comunica com o bulbo olfatório. 
+No bulbo olfatório, há neurônios chamados células mitrais, cujos dendritos formam um novelo esférico denominado glomérulo, que são estruturas sinápticas que recebem os impulsos das células receptoras olfativas. Após ser processada inicialmente no bulbo, a informação é enviada para diferentes regiões do cérebro. 
+fim
+
+GRUPO
+10
+
+MODELO
+1
+
+ENUNCIADO
+A figura abaixo ilustra algumas estruturas da orelha, órgão responsável pela audição e equilíbrio do corpo. Analise a figura com as indicações e as alternativas e, com base em seus conhecimentos sobre este órgão, determine as proposições que julgar correspondentes, por meio de toques nos pares. 
+
+IMAGEM
+img3m1sen
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS
+I =  Tímpano
+II = Cóclea
+III = Nervo auditivo
+
+FEEDBACK IMAGEM
+img3m1sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+As estruturas indicadas na figura são, respectivamente, o tímpano (representado em I), a cóclea (representada em II) e o nervo auditivo (representado em III). 
+Na percepção do som, o estímulo sonoro atinge a membrana do tímpano e a faz vibrar movimentando os ossículos martelo bigorna e estribo, que atuam como amplificadores e transmissores das vibrações para a orelha interna.
+Localizada na orelha interna, a cóclea é uma estrutura em forma de concha cheia de líquido e é responsável pela audição, enquanto os canais semicirculares (juntamente com duas câmaras abaixo deles) são responsáveis pelo equilíbrio.
+Por intermédio do líquido coclear, as vibrações fazem com que as células sensoriais identifiquem o estímulo sonoro, gerando impulsos nervosos que são conduzidos pelo nervo auditivo ao centro de audição do córtex cerebral
+fim
+
+GRUPO
+10
+
+MODELO
+1
+
+ENUNCIADO
+A figura abaixo ilustra parte visível de um olho humano, responsável pelo sentido da visão. Analise a figura e suas indicações juntamente com as alternativas e, com base em seus conhecimentos sobro esse órgão dos sentidos, determine as proposições que julgar correspondentes, por meio de toques nos pares. 
+
+IMAGEM
+img4m1sen
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS
+I = Pupila
+II = Íris
+III = Esclera
+
+FEEDBACK IMAGEM
+img4m1sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A figura indica, respectivamente, a pupila (representada em I), a íris (representada em II) e a esclera (representada em III).
+A esclera é a camada mais externa, formada por tecido conjuntivo resistente, possuindo cor branca. A íris consiste no disco colorido do olho, contendo um orifício central de tamanho regulável, a pupila, por onde a luz penetra no globo ocular
+fim
+
+GRUPO
+10
+
+MODELO
+1
+
+ENUNCIADO
+A figura abaixo ilustra algumas estruturas da orelha, órgão responsável pela audição e equilíbrio do corpo. Analise a figura com as indicações e as alternativas e, com base em seus conhecimentos sobre este órgão, determine as proposições que julgar correspondentes, por meio de toques nos pares. 
+
+IMAGEM
+img5m1sen
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS
+I = Pavilhão auditivo 
+II = Meato acústico externo
+III = Tuba auditiva
+
+FEEDBACK IMAGEM
+img5m1sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A figura demonstra, respectivamente as estruturas: pavilhão auditivo (representado em I), meato acústico externo (representado em II) e tuba auditiva (representada em III).
+O pavilhão auditivo, conhecido popularmente como orelha, funciona como uma concha acústica, captando os sons e direcionando para outra estrutura, o meato acústico externo, que consiste em um canal auditivo que se estende do pavilhão auricular até o tímpano. O epitélio do canal auditivo possui células secretoras de cera que retém partículas de poeira e microrganismos, protegendo as estruturas no interior da orelha.
+A tuba auditiva é um canal flexível que comunica a orelha média com a garganta, e sua função é equilibrar a pressão no interior da orelha de acordo com o meio externo. fim

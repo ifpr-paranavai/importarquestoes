@@ -1,0 +1,142 @@
+GRUPO
+10
+
+MODELO
+5
+ 
+ENUNCIADO
+A cóclea é um longo tubo em forma de concha com o interior dividido em três compartimentos cheios de líquido. A figura abaixo demonstra o órgão de Corti, região que contém as células sensoriais fonoceptoras, localizada no compartimento intermediário da cóclea. Sobre a fisiologia desta região no sentido da audição, analise as alternativas e selecione a proposição que julgar como correta.
+
+IMAGEM
+img1m5sen
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS
+Por intermédio do líquido coclear, as vibrações das ondas sonoras fazem os cílios das células sensoriais roçarem a membrana tectórica, gerando impulsos nervosos que são conduzidos ao nervo auditivo.
+Por intermédio do líquido coclear, as vibrações das ondas sonoras fazem os cílios das células mitrais roçarem a janela oval, gerando impulsos nervosos que são conduzidos à tuba auditivo.
+A membrana tectórica está localizada nos canais semicirculares e, juntamente com estruturas denominadas ampolas, são responsáveis pelo equilíbrio e pela percepção se estamos para cima ou de cabeça para baixo.
+A membrana tectórica está localizada na orelha média, sobre a membrana timpânica, onde as ondas sonoras movimentam o ar no interior da orelha e movimentam essas membranas, que desencadeiam a percepção da audição.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+img1m5sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A cóclea é um longo tubo em forma de concha com o interior dividido em três compartimentos cheios de líquido. O órgão de Corti, localizado no compartimento intermediário da cóclea, é uma região que contém as células sensoriais fonoceptoras. Essas células entram em contato com uma estrutura membranosa chamada membrana tectórica, que se apoia sobre os cílios das células sensoriais.
+Por intermédio do líquido coclear, as vibrações das ondas sonoras fazem os cílios das células sensoriais roçarem a membrana tectórica, gerando impulsos nervosos que são conduzidos ao nervo auditivo.
+fim
+
+GRUPO
+10
+
+MODELO
+5
+ 
+ENUNCIADO
+O daltonismo é uma alteração visual de origem genética caracterizada pela incapacidade de distinguir cores, sobretudo a vermelho do verde. A figura abaixo ilustra uma imagem com um teste desse tipo de daltonismo. Sobre o daltonismo, analise as alternativas e selecione a que julgar como correta.
+
+IMAGEM
+img2m5sen
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Wellcome images, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
+
+ALTERNATIVAS
+A principal causa do daltonismo consiste na deficiência ou ausência de células bastonetes, responsáveis pela percepção das cores. 
+A principal causa do daltonismo consiste na deficiência ou ausência de neurônios peseudounipolares, responsáveis por conduzir as informações sensoriais ao SNC. 
+A principal causa do daltonismo consiste na deficiência ou ausência de neurônios motores, responsáveis pela efetivação de respostas reflexas. 
+A principal causa do daltonismo consiste na deficiência ou ausência de células cones, responsáveis pela percepção das cores. 
+
+ALTERNATIVA CORRETA
+4
+
+FEEDBACK IMAGEM
+img2m5sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Wellcome images, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+O daltonismo é uma alteração visual de origem genética caracterizada pela incapacidade de distinguir cores, sobretudo a vermelho do verde. A principal causa do daltonismo consiste na deficiência ou ausência de células cones, responsáveis pela percepção das cores. 
+A figura demonstra um número 3, formado por pontos verdes, e ao seu redor, integrando o círculo, encontram-se pontos vermelhos. Essa diferenciação não é identificada por portadores de daltonismo.
+fim
+
+GRUPO
+10
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo ilustra de forma simplificada o processo de formação de imagens, na efetivação do sentido da visão. Analise as alternativas e, com base em seus conhecimentos sobre este sentido, assinale a alternativa que julgar como verdadeira.
+
+IMAGEM
+img3m5sen
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS
+A imagem formada é virtual e direita, a qual fica localizada sobre a esclera, onde por meio de uma reação química as ondas luminosas são transformadas em impulsos elétricos e enviados para interpretação ao cérebro.
+A imagem formada é virtual e invertida, a qual fica localizada sobre a retina, onde por meio de uma reação física os impulsos elétricos são transformados em ondas luminosas e enviados para interpretação ao cérebro.
+A imagem formada é real e invertida, a qual fica localizada sobre a retina, onde por meio de uma reação química as ondas luminosas são transformadas em impulsos elétricos e enviados para interpretação ao cérebro.
+A imagem formada é real e invertida, a qual fica localizada sobre a esclera, onde por meio de uma reação química as ondas sonoras são transformadas em impulsos elétricos e enviados para interpretação ao cérebro.
+
+ALTERNATIVA CORRETA
+3
+
+FEEDBACK IMAGEM
+img3m5sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A luz atravessa a córnea e chega a íris, onde a pupila controla a intensidade de luz a ser recebida pelo olho. Ao chegar na lente, esta forma uma imagem real e invertida do objeto, a qual fica localizada exatamente sobre a retina, onde existem diversas células fotorreceptoras que através de uma reação química transformam as ondas luminosas em impulsos elétricos. Esses impulsos são conduzidos pelo nervo óptico até o cérebro, que interpreta a imagem (que a fazem ficar na posição correta e enxergamos o objeto nitidamente)
+fim
+
+GRUPO
+10
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo ilustra os principais receptores sensoriais do sentido do tato. Analise a figura e as alternativas e, com base em seus conhecimentos acerca dos receptores do tato, determine a alternativa que corresponder, respectivamente, às indicações da figura.
+
+IMAGEM
+img4m5sen
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de CNX OpenStax, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponível aqui.
+
+ALTERNATIVAS
+I. Corpúsculo de Merkel. II. Terminal de Ruffini. III. Disco de Paccini. IV. Corpúsculo de Krause. e V. Corpúsculo de Meissner.
+I. Corpúsculo de Paccini. II. Terminal de Ruffini. III. Disco de Merkel. IV. Corpúsculo de Meissner. e V. Corpúsculo de Krause.
+I. Corpúsculo de Krause. II. Disco de Merkel. III. Terminal de Ruffini. IV. Corpúsculo de Meissner. e V. Corpúsculo de Krause.
+I. Disco de Merkel. II. Corpúsculo de Meissner. III. Terminal de Ruffini. IV. Corpúsculo de Krause. e V.Corpúsculo de Paccini.
+
+ALTERNATIVA CORRETA
+2
+
+FEEDBACK IMAGEM
+imgfeed4m5sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de CNX OpenStax, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+Os receptores indicados na imagem consistem em:
+Corpúsculos de Pacini: Receptores com terminação nervosa envolvida por camadas concêntricas de tecido conjuntivo, adquirindo o aspecto de uma cebola. Estão localizados abaixo da pele e nos tecidos das fáscias. O estímulo de receptor tátil ocorre apenas pela compressão local e rápida dos tecidos, captando sensações de toque e vibração.
+Terminações de Ruffini: São receptores pequenos e pouco abundantes. Estão localizados em camadas mais profundas da pele e em tecidos mais profundos bem como em cápsulas articulares. Estão relacionados com a percepção de sinais de tato e pressão prolongados e intensos, bem como sensações térmicas de calor.
+Discos de Merkel: São receptores formados por ramificações axonais com vários discos terminais. São encontrados principalmente em áreas que apresentam grandes quantidades de corpúsculos de Meissner, como nas pontas dos dedos. Esses receptores percebem o toque contínuo de objetos sobre a pele.
+Corpúsculo de Meissner: São receptores pequenos formados por um axônio mielínico. Apresenta uma grande sensibilidade e é encontrado em áreas de pele sem pelos (lábios e pontas dos dedos). São sensíveis a vibrações de baixa frequência e a movimentos de objetos na superfície da pele (estímulos passageiros).
+Corpúsculo de Krause: São estruturas formadas por uma fibra nervosa, cuja terminação tem a forma de bastão com uma das extremidades mais grossa. Estão localizados em regiões de limite da epiderme com a mucosa, como ao redor dos lábios e dos genitais. Captam sensações térmicas de frio.
+fim

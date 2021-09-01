@@ -1,0 +1,654 @@
+GRUPO
+10
+
+MODELO
+1
+
+ENUNCIADO
+A figura abaixo demonstra estruturas relacionadas ao sentido do paladar. Analise a imagem, as indicações e as alternativas propostas e, com base em seus conhecimentos sobre este sentido, determine as proposições que julgar correspondentes, por meio de toques nos pares.
+
+IMAGEM
+img1m1sen
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS
+I =  Papila gustativa
+II = Botão gustativo
+III = Poro gustativo
+
+FEEDBACK IMAGEM
+img1m1sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+O paladar permite-nos reconhecer o gosto dos alimentos, bem como a sua textura. As estruturas que desempenham essas funções, encontradas principalmente na língua, são as papilas gustativas (representadas em I). Nessas saliências, situam-se os botões gustativos (representados por II), constituídas principalmente por células sensoriais quimiorreceptoras, que partem de aberturas denominadas poros gustativos (representados por III).
+fim
+
+GRUPO
+10
+
+MODELO
+1
+
+ENUNCIADO
+A figura abaixo demonstra o epitélio olfativo, região responsável pela percepção de cheiro do sentido do olfato. Analise a figura e as indicações e, com base em seus conhecimentos sobre o tema, determine as proposições que julgar correspondentes, por meio de toques nos pares.
+
+IMAGEM
+img2m1sen
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS
+I =  Célula mitral
+II = Quimiorreceptor 
+III = Cílios olfatórios
+
+FEEDBACK IMAGEM
+img2m1sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A figura demonstra, respectivamente, uma célula mitral (representada em I), um quimiorreceptor (representado em II) e cílios olfatórios (representado em III).
+As moléculas dispersas no ar, ao adentrarem a cavidade nasal, difundem-se no muco e atingem os prolongamentos sensoriais (cílios olfatórios) dos neurônios receptores olfativos (quimiorreceptores), gerando impulsos nervosos que são conduzidos até o corpo celular da célula olfatória e em seguida seu axônio, que se comunica com o bulbo olfatório. 
+No bulbo olfatório, há neurônios chamados células mitrais, cujos dendritos formam um novelo esférico denominado glomérulo, que são estruturas sinápticas que recebem os impulsos das células receptoras olfativas. Após ser processada inicialmente no bulbo, a informação é enviada para diferentes regiões do cérebro. 
+fim
+
+GRUPO
+10
+
+MODELO
+1
+
+ENUNCIADO
+A figura abaixo ilustra algumas estruturas da orelha, órgão responsável pela audição e equilíbrio do corpo. Analise a figura com as indicações e as alternativas e, com base em seus conhecimentos sobre este órgão, determine as proposições que julgar correspondentes, por meio de toques nos pares. 
+
+IMAGEM
+img3m1sen
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS
+I =  Tímpano
+II = Cóclea
+III = Nervo auditivo
+
+FEEDBACK IMAGEM
+img3m1sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+As estruturas indicadas na figura são, respectivamente, o tímpano (representado em I), a cóclea (representada em II) e o nervo auditivo (representado em III). 
+Na percepção do som, o estímulo sonoro atinge a membrana do tímpano e a faz vibrar movimentando os ossículos martelo bigorna e estribo, que atuam como amplificadores e transmissores das vibrações para a orelha interna.
+Localizada na orelha interna, a cóclea é uma estrutura em forma de concha cheia de líquido e é responsável pela audição, enquanto os canais semicirculares (juntamente com duas câmaras abaixo deles) são responsáveis pelo equilíbrio.
+Por intermédio do líquido coclear, as vibrações fazem com que as células sensoriais identifiquem o estímulo sonoro, gerando impulsos nervosos que são conduzidos pelo nervo auditivo ao centro de audição do córtex cerebral
+fim
+
+GRUPO
+10
+
+MODELO
+1
+
+ENUNCIADO
+A figura abaixo ilustra parte visível de um olho humano, responsável pelo sentido da visão. Analise a figura e suas indicações juntamente com as alternativas e, com base em seus conhecimentos sobro esse órgão dos sentidos, determine as proposições que julgar correspondentes, por meio de toques nos pares. 
+
+IMAGEM
+img4m1sen
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS
+I = Pupila
+II = Íris
+III = Esclera
+
+FEEDBACK IMAGEM
+img4m1sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A figura indica, respectivamente, a pupila (representada em I), a íris (representada em II) e a esclera (representada em III).
+A esclera é a camada mais externa, formada por tecido conjuntivo resistente, possuindo cor branca. A íris consiste no disco colorido do olho, contendo um orifício central de tamanho regulável, a pupila, por onde a luz penetra no globo ocular
+fim
+
+GRUPO
+10
+
+MODELO
+1
+
+ENUNCIADO
+A figura abaixo ilustra algumas estruturas da orelha, órgão responsável pela audição e equilíbrio do corpo. Analise a figura com as indicações e as alternativas e, com base em seus conhecimentos sobre este órgão, determine as proposições que julgar correspondentes, por meio de toques nos pares. 
+
+IMAGEM
+img5m1sen
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS
+I = Pavilhão auditivo 
+II = Meato acústico externo
+III = Tuba auditiva
+
+FEEDBACK IMAGEM
+img5m1sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A figura demonstra, respectivamente as estruturas: pavilhão auditivo (representado em I), meato acústico externo (representado em II) e tuba auditiva (representada em III).
+O pavilhão auditivo, conhecido popularmente como orelha, funciona como uma concha acústica, captando os sons e direcionando para outra estrutura, o meato acústico externo, que consiste em um canal auditivo que se estende do pavilhão auricular até o tímpano. O epitélio do canal auditivo possui células secretoras de cera que retém partículas de poeira e microrganismos, protegendo as estruturas no interior da orelha.
+A tuba auditiva é um canal flexível que comunica a orelha média com a garganta, e sua função é equilibrar a pressão no interior da orelha de acordo com o meio externo. fim
+
+GRUPO
+10
+
+MODELO
+2
+
+ENUNCIADO
+O tato é o órgão dos sentidos que permite a percepção do mundo ao nosso redor por meio do toque. Sob este enfoque, analise as alternativas abaixo e selecione todas as que julgar como verdadeiras acerca deste sentido do corpo humano.
+
+ALTERNATIVAS
+O sentido do tato, diferentemente de outros sentidos, como o olfato e paladar, não se localiza em uma região especifica, mas em praticamente todas as regiões da pele.
+A percepção do tato é efetivada, em maior parte, por meio de células sensoriais especializadas denominadas quimiorreceptores, capazes de detectar variações no movimento dos pelos.
+Certas regiões do corpo abrigam uma quantidade maior de mecanorreceptores do tato, como é o caso dos anexos epidérmicos.
+A percepção do tato é efetivada por meio de células sensoriais especializadas denominadas mecanorreceptores, capazes de detectar variações de pressão.
+Além dos diversos receptores responsáveis pelo tato, a pele também possui células sensoriais especializadas na detecção de dor, aumento e diminuição da temperatura.
+Todos os receptores sensoriais do sentido do tato estão localizados na epiderme, região que permite maior proximidade do corpo com o objeto tocado.
+
+ALTERNATIVAS CORRETAS
+1,4,5
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+O sentido do tato, diferentemente de outros sentidos, como o olfato e paladar, não se localiza em uma região especifica, mas em praticamente todas as regiões da pele.
+A percepção do tato é efetivada por meio de células sensoriais especializadas denominadas mecanorreceptores, capazes de detectar variações de pressão.
+Além dos diversos receptores responsáveis pelo tato, a pele também possui células sensoriais especializadas na detecção de dor, aumento e diminuição da temperatura.
+fim
+
+GRUPO
+10
+
+MODELO
+2
+
+ENUNCIADO
+O tato é o órgão dos sentidos que permite a percepção do mundo ao nosso redor por meio do toque. Sob este enfoque, analise as alternativas abaixo e selecione todas as proposições que apresentarem exclusivamente receptores envolvidos no sentido do tato. 
+
+ALTERNATIVAS
+Corpúsculo de Krause e bastonetes.
+Terminações livres e corpúsculo de Meissner.
+Discos de Merkel e terminações de Ruffini.
+Órgão terminal do pelo e corpúsculo de Paccini.
+Corpúsculo de Meissner e células mitrais.
+Células cone e terminações de Paccini.
+
+ALTERNATIVAS CORRETAS
+2,3,4
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+Dentre os principais receptores do tato, encontram-se:
+Terminações nervosas livres: São terminações nervosas formadas por um axônio ramificado, capazes de detectar sensações de tato (pressão), térmicas (calor e frio) e dolorosas. Estão distribuídas por toda a nossa pele e também em outros tecidos.
+Corpúsculo de Meissner: São receptores pequenos formados por um axônio mielínico. Apresenta uma grande sensibilidade e é encontrado em áreas de pele sem pelos (lábios e pontas dos dedos). São sensíveis a vibrações de baixa frequência e a movimentos de objetos na superfície da pele (estímulos passageiros).
+Discos de Merkel: São receptores formados por ramificações axonais com vários discos terminais. São encontrados principalmente em áreas que apresentam grandes quantidades de corpúsculos de Meissner, como nas pontas dos dedos. Esses receptores percebem o toque contínuo de objetos sobre a pele.
+Órgão terminal do pelo: Na base do pelo, encontra-se uma fibra nervosa que envolve o folículo piloso, e é estimulada por qualquer movimento do pelo. Esses receptores atuam percebendo, principalmente, movimentos de objetos e o contato inicial de um objeto sobre a pele.
+Terminações de Ruffini: São receptores pequenos e pouco abundantes. Estão localizados em camadas mais profundas da pele e em tecidos mais profundos bem como em cápsulas articulares. Estão relacionados com a percepção de sinais de tato e pressão prolongados e intensos, bem como sensações térmicas de calor.
+Corpúsculos de Pacini: Receptores com terminação nervosa envolvida por camadas concêntricas de tecido conjuntivo, adquirindo o aspecto de uma cebola. Estão localizados abaixo da pele e nos tecidos das fáscias. O estímulo de receptor tátil ocorre apenas pela compressão local e rápida dos tecidos, captando sensações de toque e vibração.
+Corpúsculos de Krause: São estruturas formadas por uma fibra nervosa, cuja terminação tem a forma de bastão com uma das extremidades mais grossa. Estão localizados em regiões de limite da epiderme com a mucosa, como ao redor dos lábios e dos genitais. Captam sensações térmicas de frio.
+fim
+
+GRUPO
+10
+
+MODELO
+2
+
+ENUNCIADO
+Nos órgãos dos sentidos, os receptores são constituídos por terminações de nervos sensoriais com capacidade de receber determinado estimulo e transformá-lo em impulso nervoso, enviando as informações obtidas para o SNC, ajudando a manter a homeostasia do organismo. Analise as alternativas abaixo e selecione todas as proposições corretas acerca dos tipos de receptores sensoriais.
+
+ALTERNATIVAS
+Um tipo de receptores sensoriais são os interoceptores, responsáveis por captar estímulos do meio externo, como receptores do tato, audição, olfato, paladar e visão.
+Um tipo de receptores sensoriais são os exteroceptores, responsáveis por captar estímulos do meio externo, como receptores do tato, audição, olfato, paladar e visão.
+Um tipo de receptores sensoriais são os exteroceptores, responsáveis por captar estímulos internos (músculos, tendões, articulações e órgãos internos), informando o SNC sobre a posição dos braços, pernas e cabeça em relação ao corpo.
+Um tipo de receptores sensoriais são os proprioceptores, responsáveis por captar estímulos internos (músculos, tendões, articulações e órgãos internos), informando o SNC sobre a posição dos braços, pernas e cabeça em relação ao corpo.
+Um tipo de receptores sensoriais são os proprioceptores, responsáveis por captar estímulos internos como a composição do sangue, Ph, pressão osmótica, temperatura, etc., permitindo sentir sede, fome, frio e dor.
+Um tipo de receptores sensoriais são os interoceptores, responsáveis por captar estímulos internos como a composição do sangue, Ph, pressão osmótica, temperatura, etc., permitindo sentir sede, fome, frio e dor.
+
+ALTERNATIVAS CORRETAS
+2,4,6
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+As células sensoriais especializadas em captar estímulos podem ser classificadas em: exteroceptores, proprioceptores e interoceptores.
+São considerados exteroceptores quando captam estímulos do meio externo, como receptores do tato, audição, olfato, paladar e visão. Certos tipos de exteroceptores são os quimioceptores, que são estimulados por moléculas de substancias químicas que se encaixam em proteínas da membrana celular, como no caso do paladar e olfato.
+São proprioceptores quando captam estímulos internos (músculos, tendões, articulações e órgãos internos), informando o SNC sobre a posição dos braços, pernas e cabeça em relação ao corpo; e interoceptores, quando captam estímulos internos como a composição do sangue, Ph, pressão osmótica, temperatura, etc., permitindo sentir sede, fome, frio e dor.
+fim
+
+GRUPO
+10
+
+MODELO
+3
+ 
+ENUNCIADO
+As alternativas abaixo apresentam imagens e informações acerca de três órgãos do sentido. Analise as figuras e as alternativas e, com base em seus conhecimentos, relacione a ilustração com sua respectiva característica.
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+PARES CORRETOS
+img1m3asen = Região sensorial do paladar
+img1m3bsen = Região sensorial do olfato
+img1m3csen = Região sensorial do tato
+
+FEEDBACK IMAGEM
+imgfeed1m3sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagens: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+FEEDBACK TEXTO
+A figura demonstra, respectivamente, regiões sensoriais dos órgãos dos sentidos: paladar, olfato e tato.
+fim
+
+GRUPO
+10
+
+MODELO
+4
+  
+ENUNCIADO
+A animação abaixo demonstra o processo sensitivo do olfato. Analise a imagem e as alternativas e, com base em seus conhecimentos, determine a proposição que melhor corresponda ao mecanismo funcional do na percepção do cheiro.
+
+IMAGEM
+img1m4sen
+ 
+LEGENDA DA IMAGEM
+Imagem: SER, via Pinterest. Disponível aqui.
+ 
+ALTERNATIVAS
+As moléculas dispersas chegam ao teto da cavidade nasal, onde se dispersam e atingem quimiorreceptores que se comunicam com o bulbo olfatório. Do bulbo, os impulsos são direcionados para o cérebro.
+As moléculas dispersas chegam ao teto da faringe, onde se dispersam e atingem mecanorreceptores que se comunicam com o bulbo olfatório. Do bulbo, os impulsos são direcionados para o cérebro.
+As moléculas dispersas no ar estimulam os quimiorreceptores na cavidade nasal a produzirem substâncias que são enviadas para a hipófise, onde o olfato é processado e interpretado.
+As moléculas dispersas no ar estimulam os mecanorreceptores na faringe a produzirem substâncias que são enviadas para o córtex cerebral, onde o olfato é processado e interpretado.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+img1m4sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: SER, via Pinterest. Disponível aqui.
+
+FEEDBACK TEXTO
+As moléculas dispersas entram pelas narinas, passam pelas conchas nasais e chegam ao teto da cavidade nasal, onde está localizado o muco, que umedece a superfície da cavidade nasal. As substâncias odoríferas se dispersam e atingem quimiorreceptores que se comunicam com neurônios do bulbo olfatório. Do bulbo, os impulsos são direcionados para o cérebro.
+fim
+
+GRUPO
+10
+
+MODELO
+4
+  
+ENUNCIADO
+A animação abaixo demonstra o interior da orelho (porção média e interna), ilustrando o processo e, que essas estruturas recebem os sons e desencadeiam sua percepção, possibilitando efetivar o sentido da audição. Analise a animação e as alternativas e, acerca da audição, assinale a alternativa que julgar como verdadeira.
+
+IMAGEM
+img2m4sen
+ 
+LEGENDA DA IMAGEM
+Imagem: Blog by Biosom. Disponível aqui.
+
+ALTERNATIVAS
+As células sensoriais localizadas no tímpano enviam estímulo nervoso que passa por toda a orelha média e interna, chegando à cóclea. Na cóclea, neurônios associativos transmitem a informação ao nervo auditivo que a levará ao cérebro.
+As células sensoriais identificam o estimulo sonoro por intermédio do liquido coclear, a partir das vibrações do tímpano, ossículos e janela oval, gerando impulsos que são conduzidos pelo nervo auditivo ao cérebro.
+As células sensoriais presentes na orelha interna identificam o estímulo sonoro por meio de vibrações que adentram a tuba auditiva, onde os impulsos nervosos são encaminhados para neurônios sensitivos.
+As células sensoriais auditivas se localizam no pavilhão auditivo, onde há presença de líquido coclear. Esse líquido umedece as células nervosas do meato acústico, onde a frequência sonora é identificada e enviada para o cérebro.
+
+ALTERNATIVA CORRETA
+2
+
+FEEDBACK IMAGEM
+img2m4sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Blog by Biosom. Disponível aqui.
+
+FEEDBACK TEXTO
+As ondas sonoras atingem a membrana do tímpano e a faz vibrar movimentando o martelo bigorna e estribo, que atuam como amplificadores e transmissores das vibrações para a orelha interna. 
+As ondas sonoras, ao passarem pela orelha média chegam a orelha interna, de modo que a movimentação do estribo faz a janela oval vibrar comunicando a vibração ao líquido coclear. Por intermédio deste líquido, as vibrações fazem com que as células sensoriais identifiquem o estímulo sonoro, gerando impulsos nervosos que são conduzidos ao nervo auditivo e ao centro de audição do córtex cerebral
+fim
+
+GRUPO
+10
+
+MODELO
+4
+  
+ENUNCIADO
+A pupila consiste em um orifício de tamanho regulável, localizado no centro da íris. A figura demonstra a pupila dilatando e se contraindo, o que visualmente acarreta em um aumento ou diminuição de seu tamanho. Analise a figura e as alternativas e assinale a proposição que julgar como verdadeira, no que concerne à pupila.
+
+IMAGEM
+img3m4sen
+ 
+LEGENDA DA IMAGEM
+Imagem: Greyson Orlando, Domínio Público, via Wikimedia Commons. Disponível aqui.
+
+ALTERNATIVAS
+O diâmetro da pupila varia de acordo com a luminosidade do ambiente, no intuito de captar a quantidade adequada de luz para a formação da imagem. Assim, na luz, as pupilas se dilatam e na penumbra elas se contraem.
+O diâmetro da pupila é regulável exclusivamente de acordo com a capacidade de concentração, atenção e pensamento. Assim, quando estamos concentrados as pupilas se contraem e quando não há atividade de concentração as pupilas se dilatam. 
+O diâmetro da pupila varia de acordo com a luminosidade do ambiente, no intuito de captar a quantidade adequada de luz para a formação da imagem. Assim, na luz, as pupilas se contraem e na penumbra elas se dilatam.
+O diâmetro da pupila é regulável exclusivamente de acordo com a capacidade de concentração, atenção e pensamento. Assim, quando estamos concentrados as pupilas se dilatam e quando não há atividade de concentração as pupilas se contraem. 
+
+ALTERNATIVA CORRETA
+3
+
+FEEDBACK IMAGEM
+img3m4sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Greyson Orlando, Domínio Público, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+O diâmetro da pupila varia de acordo com a luminosidade do ambiente, no intuito de captar a quantidade adequada de luz para a formação da imagem. Assim, na luz, as pupilas se contraem e na penumbra elas se dilatam.
+fim
+
+GRUPO
+10
+
+MODELO
+4
+  
+ENUNCIADO
+A animação abaixo ilustra uma estrutura presente no processo de percepção de sabor, envolvida, portanto, com o sentido do paladar. Analise a animação e as alternativas e selecione a proposição que julgar verdadeira acerca desta estrutura.
+
+IMAGEM
+img4m4sen
+ 
+LEGENDA DA IMAGEM
+Imagem: Toppr. Disponível aqui.
+
+ALTERNATIVAS
+A animação indica uma papila gustativa do tipo filiforme, onde há agrupamento de botões gustativos que interagem com as substâncias alimentares, gerando impulsos que desencadeiam a sensação do paladar.
+A animação indica um poro gustativo, onde neurônios motores identificam moléculas das substâncias alimentares, gerando impulsos elétricos que são levados ao cérebro por meio de quimiorreceptores.
+A animação indica uma célula mitral, onde células olfatórias se conectam e transmitem impulsos nervosos ao cérebro, gerados em decorrência da identificação de proteínas presentes nos alimentos. 
+A animação indica um botão gustativo, onde as substâncias alimentares interagem com proteínas receptoras nas células sensoriais, gerando impulsos que são levados ao cérebro.
+
+ALTERNATIVA CORRETA
+4
+
+FEEDBACK IMAGEM
+img4m4sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Toppr. Disponível aqui.
+
+FEEDBACK TEXTO
+A animação indica um botão gustativo.
+Na língua, encontram-se as papilas gustativas, que são saliências onde situam-se os botões gustativos, constituídos principalmente por células sensoriais quimiorreceptoras, que partem de aberturas denominadas poros gustativos (representado na imagem).
+Durante a mastigação, substâncias componentes dos alimentos dissolvem-se na saliva e entram em contato com os agrupamentos de quimiorreceptores (botões gustativos). Nessa região, as substâncias alimentares interagem com proteínas receptoras nas células sensoriais, causando mudança elétrica na membrana plasmática.
+Os impulsos elétricos são transmitidos às terminações nervosas que estão em contato com os botões gustativos e levados a regiões especificas do cérebro, onde são interpretados produzindo a sensação de paladar.
+Fim
+
+GRUPO
+10
+
+MODELO
+5
+ 
+ENUNCIADO
+A cóclea é um longo tubo em forma de concha com o interior dividido em três compartimentos cheios de líquido. A figura abaixo demonstra o órgão de Corti, região que contém as células sensoriais fonoceptoras, localizada no compartimento intermediário da cóclea. Sobre a fisiologia desta região no sentido da audição, analise as alternativas e selecione a proposição que julgar como correta.
+
+IMAGEM
+img1m5sen
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS
+Por intermédio do líquido coclear, as vibrações das ondas sonoras fazem os cílios das células sensoriais roçarem a membrana tectórica, gerando impulsos nervosos que são conduzidos ao nervo auditivo.
+Por intermédio do líquido coclear, as vibrações das ondas sonoras fazem os cílios das células mitrais roçarem a janela oval, gerando impulsos nervosos que são conduzidos à tuba auditivo.
+A membrana tectórica está localizada nos canais semicirculares e, juntamente com estruturas denominadas ampolas, são responsáveis pelo equilíbrio e pela percepção se estamos para cima ou de cabeça para baixo.
+A membrana tectórica está localizada na orelha média, sobre a membrana timpânica, onde as ondas sonoras movimentam o ar no interior da orelha e movimentam essas membranas, que desencadeiam a percepção da audição.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+img1m5sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A cóclea é um longo tubo em forma de concha com o interior dividido em três compartimentos cheios de líquido. O órgão de Corti, localizado no compartimento intermediário da cóclea, é uma região que contém as células sensoriais fonoceptoras. Essas células entram em contato com uma estrutura membranosa chamada membrana tectórica, que se apoia sobre os cílios das células sensoriais.
+Por intermédio do líquido coclear, as vibrações das ondas sonoras fazem os cílios das células sensoriais roçarem a membrana tectórica, gerando impulsos nervosos que são conduzidos ao nervo auditivo.
+fim
+
+GRUPO
+10
+
+MODELO
+5
+ 
+ENUNCIADO
+O daltonismo é uma alteração visual de origem genética caracterizada pela incapacidade de distinguir cores, sobretudo a vermelho do verde. A figura abaixo ilustra uma imagem com um teste desse tipo de daltonismo. Sobre o daltonismo, analise as alternativas e selecione a que julgar como correta.
+
+IMAGEM
+img2m5sen
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Wellcome images, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
+
+ALTERNATIVAS
+A principal causa do daltonismo consiste na deficiência ou ausência de células bastonetes, responsáveis pela percepção das cores. 
+A principal causa do daltonismo consiste na deficiência ou ausência de neurônios peseudounipolares, responsáveis por conduzir as informações sensoriais ao SNC. 
+A principal causa do daltonismo consiste na deficiência ou ausência de neurônios motores, responsáveis pela efetivação de respostas reflexas. 
+A principal causa do daltonismo consiste na deficiência ou ausência de células cones, responsáveis pela percepção das cores. 
+
+ALTERNATIVA CORRETA
+4
+
+FEEDBACK IMAGEM
+img2m5sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Wellcome images, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+O daltonismo é uma alteração visual de origem genética caracterizada pela incapacidade de distinguir cores, sobretudo a vermelho do verde. A principal causa do daltonismo consiste na deficiência ou ausência de células cones, responsáveis pela percepção das cores. 
+A figura demonstra um número 3, formado por pontos verdes, e ao seu redor, integrando o círculo, encontram-se pontos vermelhos. Essa diferenciação não é identificada por portadores de daltonismo.
+fim
+
+GRUPO
+10
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo ilustra de forma simplificada o processo de formação de imagens, na efetivação do sentido da visão. Analise as alternativas e, com base em seus conhecimentos sobre este sentido, assinale a alternativa que julgar como verdadeira.
+
+IMAGEM
+img3m5sen
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS
+A imagem formada é virtual e direita, a qual fica localizada sobre a esclera, onde por meio de uma reação química as ondas luminosas são transformadas em impulsos elétricos e enviados para interpretação ao cérebro.
+A imagem formada é virtual e invertida, a qual fica localizada sobre a retina, onde por meio de uma reação física os impulsos elétricos são transformados em ondas luminosas e enviados para interpretação ao cérebro.
+A imagem formada é real e invertida, a qual fica localizada sobre a retina, onde por meio de uma reação química as ondas luminosas são transformadas em impulsos elétricos e enviados para interpretação ao cérebro.
+A imagem formada é real e invertida, a qual fica localizada sobre a esclera, onde por meio de uma reação química as ondas sonoras são transformadas em impulsos elétricos e enviados para interpretação ao cérebro.
+
+ALTERNATIVA CORRETA
+3
+
+FEEDBACK IMAGEM
+img3m5sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A luz atravessa a córnea e chega a íris, onde a pupila controla a intensidade de luz a ser recebida pelo olho. Ao chegar na lente, esta forma uma imagem real e invertida do objeto, a qual fica localizada exatamente sobre a retina, onde existem diversas células fotorreceptoras que através de uma reação química transformam as ondas luminosas em impulsos elétricos. Esses impulsos são conduzidos pelo nervo óptico até o cérebro, que interpreta a imagem (que a fazem ficar na posição correta e enxergamos o objeto nitidamente)
+fim
+
+GRUPO
+10
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo ilustra os principais receptores sensoriais do sentido do tato. Analise a figura e as alternativas e, com base em seus conhecimentos acerca dos receptores do tato, determine a alternativa que corresponder, respectivamente, às indicações da figura.
+
+IMAGEM
+img4m5sen
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de CNX OpenStax, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponível aqui.
+
+ALTERNATIVAS
+I. Corpúsculo de Merkel. II. Terminal de Ruffini. III. Disco de Paccini. IV. Corpúsculo de Krause. e V. Corpúsculo de Meissner.
+I. Corpúsculo de Paccini. II. Terminal de Ruffini. III. Disco de Merkel. IV. Corpúsculo de Meissner. e V. Corpúsculo de Krause.
+I. Corpúsculo de Krause. II. Disco de Merkel. III. Terminal de Ruffini. IV. Corpúsculo de Meissner. e V. Corpúsculo de Krause.
+I. Disco de Merkel. II. Corpúsculo de Meissner. III. Terminal de Ruffini. IV. Corpúsculo de Krause. e V.Corpúsculo de Paccini.
+
+ALTERNATIVA CORRETA
+2
+
+FEEDBACK IMAGEM
+imgfeed4m5sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de CNX OpenStax, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+Os receptores indicados na imagem consistem em:
+Corpúsculos de Pacini: Receptores com terminação nervosa envolvida por camadas concêntricas de tecido conjuntivo, adquirindo o aspecto de uma cebola. Estão localizados abaixo da pele e nos tecidos das fáscias. O estímulo de receptor tátil ocorre apenas pela compressão local e rápida dos tecidos, captando sensações de toque e vibração.
+Terminações de Ruffini: São receptores pequenos e pouco abundantes. Estão localizados em camadas mais profundas da pele e em tecidos mais profundos bem como em cápsulas articulares. Estão relacionados com a percepção de sinais de tato e pressão prolongados e intensos, bem como sensações térmicas de calor.
+Discos de Merkel: São receptores formados por ramificações axonais com vários discos terminais. São encontrados principalmente em áreas que apresentam grandes quantidades de corpúsculos de Meissner, como nas pontas dos dedos. Esses receptores percebem o toque contínuo de objetos sobre a pele.
+Corpúsculo de Meissner: São receptores pequenos formados por um axônio mielínico. Apresenta uma grande sensibilidade e é encontrado em áreas de pele sem pelos (lábios e pontas dos dedos). São sensíveis a vibrações de baixa frequência e a movimentos de objetos na superfície da pele (estímulos passageiros).
+Corpúsculo de Krause: São estruturas formadas por uma fibra nervosa, cuja terminação tem a forma de bastão com uma das extremidades mais grossa. Estão localizados em regiões de limite da epiderme com a mucosa, como ao redor dos lábios e dos genitais. Captam sensações térmicas de frio.
+fim
+
+GRUPO
+10
+
+MODELO
+6
+ 
+ENUNCIADO
+No sentido da audição, as ondas sonoras adentram a orelha, promovendo vibrações nas estruturas componentes da orelha, transformando-as em impulsos nervosos para serem processadas como som. No que concerne à função dos ossículos da orelha média, analise as alternativas e assinale a que julgar como correta.
+
+ALTERNATIVAS
+Transmitir as vibrações da janela oval para o tímpano
+Transmitir as vibrações da janela oval para o nervo auditivo
+Transmitir as vibrações do tímpano para a janela oval
+Transmitir as vibrações do tímpano para o nervo auditivo
+
+ALTERNATIVA CORRETA
+3
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+A função dos ossículos da orelha média é a de transmitir as vibrações do tímpano para a janela oval.
+fim
+
+GRUPO
+10
+
+MODELO
+6
+ 
+ENUNCIADO
+No sentido da visão, o estímulo luminoso atinge partes do olho e formam a imagem que é interpretada e processada pelo cérebro. Quando um raio de luz penetra o olho, qual a sequência de estruturas pelas quais ele passa até formar a imagem na retina? Analise as alternativas abaixo e selecione a proposição que julgar como correta.
+
+ALTERNATIVAS
+Córnea → humor aquoso → pupila → lente → corpo vítreo
+Córnea → pupila → humor aquoso → íris → corpo vítreo
+Pupila → córnea → humor aquoso → corpo vítreo → lente
+Pupila → córnea → corpo vítreo → lente → humor aquoso
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+Quando um raio de luz penetra o olho, a sequência de estruturas pelas quais ele passa até formar a imagem na retina consiste em:
+Córnea → humor aquoso → pupila → lente → corpo vítreo
+fim
+
+GRUPO
+10
+
+MODELO
+6
+ 
+ENUNCIADO
+Diferentes tipos de estruturas sensoriais especializadas são capazes de identificar o mundo que nos cerca por meio dos sentidos. No que se refere às estruturas capazes de perceber estímulos de pressão, analise as alternativas abaixo e selecione a que julgar como correta. 
+
+ALTERNATIVAS
+As estruturas capazes de perceber estímulos de pressão são chamadas quimiorreceptores
+As estruturas capazes de perceber estímulos de pressão são chamadas fotorreceptores
+As estruturas capazes de perceber estímulos de pressão são chamadas termorreceptores
+As estruturas capazes de perceber estímulos de pressão são chamadas mecanorreceptores
+
+ALTERNATIVA CORRETA
+4
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+As estruturas capazes de perceber estímulos de pressão são chamadas mecanorreceptores
+fim
+
+

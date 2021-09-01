@@ -1,0 +1,84 @@
+GRUPO
+10
+
+MODELO
+6
+ 
+ENUNCIADO
+No sentido da audição, as ondas sonoras adentram a orelha, promovendo vibrações nas estruturas componentes da orelha, transformando-as em impulsos nervosos para serem processadas como som. No que concerne à função dos ossículos da orelha média, analise as alternativas e assinale a que julgar como correta.
+
+ALTERNATIVAS
+Transmitir as vibrações da janela oval para o tímpano
+Transmitir as vibrações da janela oval para o nervo auditivo
+Transmitir as vibrações do tímpano para a janela oval
+Transmitir as vibrações do tímpano para o nervo auditivo
+
+ALTERNATIVA CORRETA
+3
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+A função dos ossículos da orelha média é a de transmitir as vibrações do tímpano para a janela oval.
+fim
+
+GRUPO
+10
+
+MODELO
+6
+ 
+ENUNCIADO
+No sentido da visão, o estímulo luminoso atinge partes do olho e formam a imagem que é interpretada e processada pelo cérebro. Quando um raio de luz penetra o olho, qual a sequência de estruturas pelas quais ele passa até formar a imagem na retina? Analise as alternativas abaixo e selecione a proposição que julgar como correta.
+
+ALTERNATIVAS
+Córnea → humor aquoso → pupila → lente → corpo vítreo
+Córnea → pupila → humor aquoso → íris → corpo vítreo
+Pupila → córnea → humor aquoso → corpo vítreo → lente
+Pupila → córnea → corpo vítreo → lente → humor aquoso
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+Quando um raio de luz penetra o olho, a sequência de estruturas pelas quais ele passa até formar a imagem na retina consiste em:
+Córnea → humor aquoso → pupila → lente → corpo vítreo
+fim
+
+GRUPO
+10
+
+MODELO
+6
+ 
+ENUNCIADO
+Diferentes tipos de estruturas sensoriais especializadas são capazes de identificar o mundo que nos cerca por meio dos sentidos. No que se refere às estruturas capazes de perceber estímulos de pressão, analise as alternativas abaixo e selecione a que julgar como correta. 
+
+ALTERNATIVAS
+As estruturas capazes de perceber estímulos de pressão são chamadas quimiorreceptores
+As estruturas capazes de perceber estímulos de pressão são chamadas fotorreceptores
+As estruturas capazes de perceber estímulos de pressão são chamadas termorreceptores
+As estruturas capazes de perceber estímulos de pressão são chamadas mecanorreceptores
+
+ALTERNATIVA CORRETA
+4
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+As estruturas capazes de perceber estímulos de pressão são chamadas mecanorreceptores
+fim

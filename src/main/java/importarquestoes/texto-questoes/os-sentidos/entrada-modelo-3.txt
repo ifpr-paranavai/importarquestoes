@@ -1,0 +1,26 @@
+GRUPO
+10
+
+MODELO
+3
+ 
+ENUNCIADO
+As alternativas abaixo apresentam imagens e informações acerca de três órgãos do sentido. Analise as figuras e as alternativas e, com base em seus conhecimentos, relacione a ilustração com sua respectiva característica.
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+PARES CORRETOS
+img1m3asen = Região sensorial do paladar
+img1m3bsen = Região sensorial do olfato
+img1m3csen = Região sensorial do tato
+
+FEEDBACK IMAGEM
+imgfeed1m3sen
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagens: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+FEEDBACK TEXTO
+A figura demonstra, respectivamente, regiões sensoriais dos órgãos dos sentidos: paladar, olfato e tato.
+fim

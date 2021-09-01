@@ -1,0 +1,119 @@
+GRUPO
+6
+
+MODELO
+1
+
+ENUNCIADO
+Os membros inferiores se ligam ao esqueleto axial por meio do cíngulo dos membros inferiores, também chamado de cintura pélvica, formado por um par de ossos (esquerdo e direito), cada um resultante da fusão de três ossos da região pélvica. A cintura pélvica juntamente com o osso sacro, formam a pelve, popularmente conhecida como bacia. Analise e figura abaixo e as alternativas propostas e, por meio de toque nos pares, associe as proposições correspondentes acerca do cíngulo dos membros inferiores.
+
+IMAGEM
+img1m1esq
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS
+I =  Ílio
+II = Púbis
+III = Ísquio
+
+FEEDBACK IMAGEM
+img1m1esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+Os membros inferiores se ligam ao esqueleto axial por meio do cíngulo dos membros inferiores, também chamado de cintura pélvica, formado por um par de ossos (esquerdo e direito), cada um resultante da fusão de três ossos da região pélvica: o osso ílio (representado em I), o osso púbis (representado em II) e o osso ísquio (representado em III). A cintura pélvica juntamente com o osso sacro, formam a pelve, popularmente conhecida como bacia.
+fim
+
+GRUPO
+6
+
+MODELO
+1
+
+ENUNCIADO
+A caixa torácica consiste em um conjunto de ossos (esterno, costelas e vértebras torácicas) que protegem os órgãos internos do tórax. Com auxílio dos músculos intercostais e diafragma, as costelas se movimentam e possibilitam o aumento e diminuição do volume interno da caixa torácica, auxiliando na inspiração e expiração. Sob este enfoque, analise a figura abaixo e por meio de toque nos pares, associe as proposições correspondentes acerca dos ossos da caixa torácica.
+
+IMAGEM
+img2m1esq
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS
+I =  Costelas verdadeiras
+II = Costelas falsas
+III = Costelas flutuantes
+
+FEEDBACK IMAGEM
+img2m1esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+Os seis primeiros pares de costelas, unem-se por cartilagens ao osso esterno, localizado no meio do peito, sendo chamadas de costelas verdadeiras (representadas em I). Os quatro pares seguintes são mais curtos e suas extremidades prendem-se a cartilagens que se conectam, sendo que estas costelas são denominadas costelas falsas (representadas em II). Os dois últimos pares de costelas terminam em pontas livres e, por isso, são chamadas costelas flutuantes (representadas em III).
+fim
+
+GRUPO
+6
+
+MODELO
+1
+
+ENUNCIADO
+Os ossos do crânio constituem um tipo de osso plano, sendo fino e achatado, cujas junções (articulações) são denominadas suturas, caracterizando o tipo fibrosa (ossos articulados por tecido conjuntivo fibroso) e de sinartrose (conferindo imobilidade). A figura abaixo indica três ossos planos do crânio. Analise a figura e as alternativas e, por meio de toque nos pares, associe as proposições correspondentes.
+
+IMAGEM
+img3m1esq
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS
+I =  Frontal
+II = Parietal
+III = Occiptal
+
+FEEDBACK IMAGEM
+img3feedbackm1esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+Os ossos do crânio constituem um tipo de osso plano, sendo fino e achatado, cujas junções (articulações) são denominadas suturas, caracterizando o tipo fibrosa (ossos articulados por tecido conjuntivo fibroso) e de sinartrose (conferindo imobilidade). Dentre os ossos que constituem o crânio (ossos que protegem o encéfalo), destacam-se: um osso frontal, dois parietais, dois temporais, um occipital, um esfenoide e um etmoide.
+fim
+
+GRUPO
+6
+
+MODELO
+1
+
+ENUNCIADO
+A face humana consiste na região frontal da cabeça, onde se localizam os olhos, o nariz e a boca. Os ossos que compõem essa região, são classificados como ossos da face e, compõem os ossos da cabeça, assim como os ossos do crânio (que protegem o encéfalo). A figura abaixo indica três ossos da face. Analise a figura e as alternativas e, por meio de toque nos pares, associe as proposições correspondentes.
+
+IMAGEM
+img4m1esq
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS
+I = Zigomático
+II = Maxila
+III = Mandíbula
+
+FEEDBACK IMAGEM
+img4feedbackm1esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A face humana consiste na região frontal da cabeça, onde se localizam os olhos, o nariz e a boca. Os ossos que compõem essa região, são classificados como ossos da face e, compõem os ossos da cabeça, assim como os ossos do crânio. Os ossos da face são constituídos por: dois nasais, duas maxilas, dois zigomáticos, uma mandíbula, dois lacrimais, dois palatinos, duas conchas nasais inferiores e um vômer.
+fim

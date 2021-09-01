@@ -1,0 +1,103 @@
+GRUPO
+9
+
+MODELO
+4
+  
+ENUNCIADO
+A animação abaixo demonstra dois neurônios, apresentando entre si uma diferença estrutural: um deles, à direita, apresenta neurofibra mielinizada, enquanto o outro, à esquerda, apresenta neurofibra não mielinizada. No que se refere a este aspecto, analise as alternativas abaixo e selecione a proposição que julgar como verdadeira acerca das bainhas de mielina.
+
+IMAGEM
+img1m4ner
+ 
+LEGENDA DA IMAGEM
+Imagem: Brain Support. Disponível aqui.
+ 
+ALTERNATIVAS
+As neurofibras mielinizadas conduzem os impulsos de forma mais rápida, pois tem característica saltatória, passando de um nó neurofibroso para o seguinte, diferente das não mielinizadas.
+As neurofibras não mielinizadas conduzem os impulsos de forma mais rápida, pois tem característica saltatoria, passando de um nó fibroso para o seguinte, diferente das mielinizadas.
+Nas neurofibras mielinizadas o impulso se propaga continuamente ao longo da membrana do neurônio, não possuindo nós neurofibrosos e, por isso, a propagação do impulso é mais veloz.
+Nas neurofibras não mielinizadas o impulso de propaga ao longo do axônio por meio de sinapses elétricas interneurônios, 
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+img1m4ner
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Brain Support. Disponível aqui.
+
+FEEDBACK TEXTO
+As neurofibras mielinizadas conduzem os impulsos de forma mais rápida, pois tem característica saltatória, de modo que os impulsos passam de um nó neurofibroso para o seguinte, diferente das não mielinizadas, em que o impulso se propaga continuamente ao longo da membrana do neurônio.
+fim
+
+GRUPO
+9
+
+MODELO
+4
+  
+ENUNCIADO
+A animação abaixo demonstra a condução de impulsos nervosos após o contato com um objeto quente. Os impulsos gerados são responsáveis pelos atos reflexos. Sob este aspecto, analise a animação e as alternativas abaixo e selecione a alternativa que julgar como verdadeira.
+
+IMAGEM
+img2m4ner
+ 
+LEGENDA DA IMAGEM
+Imagem: Carpe Noctum, via Gfycat. Disponível aqui. 
+
+ALTERNATIVAS
+O estímulo é detectado por um neurônio sensitivo que transmite o impulso para o encéfalo, que por meio de neurônios pseudounilaterias estimula a musculatura a se contrair.
+O estimulo é detectado pelas céulas glias que transmitem o impulso para a medula espinhal, que por meio de neurônios sensitivos estimulam a musculatura a realizar a ação reflexa.
+O estímulo é detectado por gliócitos que transmitem o impulso a um neurônio associativo que, ao se localizar na medula, promove a liberação de hormônios que estimulam a contração muscular.
+O estímulo é detectado por um neurônio sensitivo que transmite o impulso a um neurônio associativo, que transmite o impulso a um neurônio motor, estimulando a musculatura a realizar a ação reflexa.
+
+ALTERNATIVA CORRETA
+4
+
+FEEDBACK IMAGEM
+img2m4ner
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Carpe Noctum, via Gfycat. Disponível aqui. 
+
+FEEDBACK TEXTO
+O estímulo é detectado por um neurônio sensitivo que transmite o impulso a um neurônio associativo, que transmite o impulso a um neurônio motor, estimulando a musculatura a realizar a ação reflexa.
+fim
+
+GRUPO
+9
+
+MODELO
+4
+  
+ENUNCIADO
+A animação abaixo ilustra de forma simplificada a condução de impulsos nervosos entre neurônios. Sobre esse processo, analise a animação e as alternativas e assinale a proposição que julgar como verdadeira.
+
+IMAGEM
+img3m4ner
+
+LEGENDA DA IMAGEM
+Imagem: Crash Course, via Makeagif. Disponível aqui.
+
+ALTERNATIVAS
+As sinapses entre neurônios são exclusivamente do tipo elétricas.
+Nas sinapses químicas, as sinapses ocorrem de por meio de potenciais de ação e as células se comunicam diretamente.
+Há dois tipos de sinapses nervosas: a sinapse elétrica e a sinapse química.
+Nas sinapses químicas são mediadas por neurotransmissores, como, por exemplo, a insulina e o glucagon. 
+
+ALTERNATIVA CORRETA
+3
+
+FEEDBACK IMAGEM
+img3m4ner
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Crash Course, via Makeagif. Disponível aqui.
+
+FEEDBACK TEXTO
+Há dois tipos de sinapses nervosas: a sinapse elétrica e a sinapse química.
+Nas sinapses elétricas, as membranas das células unem-se por meio de junções do tipo gap, que permitem a transmissão de potencial de ação diretamente de uma célula para outra.
+Nas sinapses químicas (tipo mais comum), não há contato entre os neurônios, havendo um espaço estreito, o espaço sináptico, onde são liberados neurotransmissores (mediadores químicos) originando um novo impulso nervoso (se for entre neurônios) ou uma ação do órgão-alvo (contração da musculatura, por exemplo).
+fim
