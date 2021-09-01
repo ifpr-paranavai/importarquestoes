@@ -16,11 +16,7 @@ Todas as veias carregam sangue pobre em oxigênio.
 As artérias possuem apenas uma camada de tecido.
 
 ALTERNATIVAS CORRETAS
-Os elementos figurados do sangue estão imersos no plasma.
-O sangue leva oxigênio e nutrientes para os tecidos do corpo.
-A pequena circulação transporta sangue entre os pulmões e coração.
-A grande circulação transporta sangue entre tecidos e coração.
-
+1,2,3,4
 
 FEEDBACK IMAGEM
 SEM
@@ -51,10 +47,7 @@ Possui duas cavidades internas.
 O sangue carrega a linfa nos vasos sanguíneos.
 
 ALTERNATIVAS CORRETAS
-Possui quatro cavidades internas.
-A parede dos ventrículos é mais espessa que dos átrios.
-Os átrios bombeiam sangue para os ventrículos.
-Os ventrículos bombeiam sangue para as artérias. 
+1,2,3,4
 
 FEEDBACK IMAGEM 
 feedback1m2sc
@@ -88,9 +81,7 @@ Os capilares linfáticos convergem na artéria aorta.
 Realizam a coleta de sangue venoso que retorna aos pulmões.
  
 ALTERNATIVAS CORRETAS
-Realizam a coleta de liquido tissular retornando-o para o sangue.
-Os capilares linfáticos convergem para o ducto torácico e ducto linfático direito.
-Os linfonodos funcionam como filtros da linfa.
+1,2,3
 
 FEEDBACK IMAGEM
 feedback2m2sc
@@ -123,10 +114,7 @@ Produção de insulina.
 Armazenamento de hormônios.
  
 ALTERNATIVAS CORRETAS
-Armazenamento de linfócitos e monócitos.
-Filtragem do sangue para remoção de microrganismos.
-Destruição de hemácias envelhecidas.
-Armazenamento de sangue.
+1,2,3,4
 
 FEEDBACK IMAGEM
 feedback3m2sc
@@ -160,10 +148,7 @@ Ovários.
 Alvéolos.
  
 ALTERNATIVAS CORRETAS
-Adenoides e tonsilas.
-Linfonodos.
-Baço.
-Apêndice vermiforme e Placas de Peyer.
+1,2,3,4
 
 FEEDBACK IMAGEM
 feedback4m2sc
