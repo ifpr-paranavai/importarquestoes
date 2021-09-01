@@ -1,13 +1,13 @@
-GRUPO 
+GRUPO
 1
 
 MODELO
 1
- 
+
 ENUNCIADO
 As glândulas salivares são responsáveis por produzir a saliva, uma secreção que atua no processo de digestão e na garantia da saúde bucal. Dentre essas glândulas, algumas são maiores e outras menores. Os três principais pares de glândulas maiores estão representados na figura abaixo e sua nomenclatura remete à região em que elas se encontram na cavidade bucal. De acordo com os seus conhecimentos sobre o assunto e com base nas indicações da imagem, determine quais são estas glândulas por meio de toques nos pares.
 
-IMAGEM 
+IMAGEM
 img1m1sd
 
 LEGENDA DA IMAGEM
@@ -31,7 +31,6 @@ img1m1sd
 
 LEGENDA DA IMAGEM DE FEEDBACK 
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
-
 
 FEEDBACK TEXTO
 As glândulas salivares são responsáveis por produzir a saliva, uma secreção que atua no processo de digestão e na garantia da saúde bucal. Na imagem, encontram-se representadas as glândulas salivares maiores, que ocorrem em pares no corpo humano e são responsáveis pela maior parte da produção de saliva. São elas, as glândulas parótidas (representada em I), glândulas submandibulares (representada em II) e glândulas sublinguais (representada em III). 
@@ -71,7 +70,6 @@ img2m1sd
 LEGENDA DA IMAGEM DE FEEDBACK
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-
 FEEDBACK TEXTO
 Na boca (estrutura I), ocorre a desintegração mecânica dos alimentos (por meio da mastigação), o início da digestão química (por meio da amilase salivar) e a deglutição. Na faringe (estrutura II), ocorre a passagem do bolo alimentar para o esôfago (estrutura III), que por meio de peristaltismo (movimentos involuntários) levará o alimento ao estômago.
 FIM
@@ -109,7 +107,6 @@ img3m1sd
 
 LEGENDA DA IMAGEM DE FEEDBACK
 Imagem: Adaptada de LadyofHats, Domínio público, via Wikimedia Commons.  Disponível aqui.
-
 
 FEEDBACK TEXTO
 As estruturas representadas na imagem consistem em órgãos anexos ao sistema digestório. O fígado (estrutura I) é a maior glândula do corpo humano, cuja principal função digestiva é a produção de bile, enquanto a vesícula biliar (estrutura II) armazena esta substância. O pâncreas (estrutura III) é responsável pela produção de substâncias como o suco pancreático (auxiliador na digestão), a insulina e o glucagon (hormônios envolvidos na regulação da taxa de glicose no sangue).
@@ -225,7 +222,6 @@ img6m1sd
 LEGENDA DA IMAGEM DE FEEDBACK
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-
 FEEDBACK TEXTO
 O alimento, ao ser mastigado e misturado com a saliva, se torna o bolo alimentar, que para a deglutição (ato de engolir) é colocado e pressionado entre a parte superior da língua e o palato duro (estrutura I).  A úvula (estrutura II) serve como sinalizador da passagem de alimento e o palato mole (estrutura III) se eleva, fechando a ligação com o nariz e facilitando a passagem do bolo alimentar através da faringe para o esôfago.
 FIM
@@ -263,7 +259,6 @@ img7m1sd
 
 LEGENDA DA IMAGEM DE FEEDBACK
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
-
 
 FEEDBACK TEXTO
 A língua (estrutura I) é uma estrutura que auxilia no processo de mastigação (guiando e moldando o alimento), deglutição (direcionando o alimento para ser engolido) e está relacionada ao paladar (percepção de sabores) e à fala. As tonsilas, representadas por II são estruturas ricas em linfócitos que auxiliam na defesa do organismo contra microrganismos causadores de doenças. A epiglote (estrutura III) é constituída por cartilagem e sua principal função é evitar a entrada de alimentos do sistema digestório no aparelho respiratório, por meio de um mecanismo de “tampa” que “abre e fecha” a glote.
@@ -531,7 +526,6 @@ img14m1sd
 LEGENDA DA IMAGEM DE FEEDBACK
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-
 FEEDBACK TEXTO
 O intestino grosso é dividido anatômica e funcionalmente em três partes: ceco, cólon e reto. O cólon, por sua vez, é segmentado em quatro frações:  O cólon ascendente (representado por I), o cólon transverso (representado por II), o cólon descendente (representado por III) e o cólon sigmóide (não indicado, mas localizado entre o cólon descendente e o reto).
 FIM
@@ -740,7 +734,6 @@ img20m1sd
 
 LEGENDA DA IMAGEM
 Imagem: Adaptada de LadyofHats, Domínio público, via Wikimedia Commons.  Disponível aqui.
-
 
 ALTERNATIVAS
 I

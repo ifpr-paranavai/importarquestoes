@@ -20,7 +20,7 @@ Os macrófagos destroem o patógeno e células infectadas e originam plasmócito
 Os macrófagos fagocitam e destroem o patógeno e guardam informações de reconhecimento do patógeno, protegendo o organismo de uma nova infecção.
 
 ALTERNATIVA CORRETA 
-Os macrófagos fagocitam e digerem o patógeno e apresentam os antígenos dele em sua membrana plasmática, que é reconhecido pelo linfócito T auxiliar.
+1
 
 FEEDBACK IMAGEM
 feedback71m5sc
@@ -54,7 +54,7 @@ Os linfócitos B guardam por anos a capacidade de reconhecer antígenos dos pat�
 Os linfócitos B são especializados em reconhecer e matar células corporais alteradas, agindo na chamada imunização celular, podendo também se diferenciar em plasmócitos, que ativam os linfócitos T. 
 
 ALTERNATIVA CORRETA 
-Os linfócitos B podem se diferenciar em plasmócitos (que produzem anticorpos que favorecem a destruição dos patógenos) ou em células de memória (que guardam informações de reconhecimento do patógeno).
+1
 
 FEEDBACK IMAGEM
 feedback72m5sc
@@ -88,7 +88,7 @@ Os linfócitos T citotóxicos reconhecem os antígenos apresentados pelos macró
 Os linfócitos T citotóxicos guardam por anos a capacidade de reconhecer antígenos dos patógenos que o organismo teve contato, reagindo com maior facilidade em uma futura infecção.
 
 ALTERNATIVA CORRETA 
-Os linfócitos T citotóxicos reconhecem e destroem as células infectadas e podem se diferenciar em células de memória, que guardam informações de reconhecimento do patógeno.
+1
 
 FEEDBACK IMAGEM
 feedback73m5sc
@@ -122,7 +122,7 @@ Em I encontra-se representado um linfócito B, em II encontra-se representado um
 Em I encontra-se representado uma célula de memória, em II encontra-se representado um linfócito B e em III encontra-se representado um linfócito T auxiliar.
 
 ALTERNATIVA CORRETA 
-Em I encontra-se representado um linfócito T citotóxico, em II encontra-se representado um linfócito B e em III encontra-se representada uma célula de memória.
+1
 
 FEEDBACK IMAGEM
 feedback74m5sc
@@ -156,7 +156,7 @@ A indicação I representa a cadeia leve, que possui menor tamanho na estrutura 
 A indicação I representa a cadeia pesada, que possui menor tamanho na estrutura do anticorpo; e a indicação II representa a cadeia leve, que possui maior tamanho na estrutura do anticorpo.
 
 ALTERNATIVA CORRETA 
-A indicação I representa a porção variável, que se liga ao antígeno e muda de um anticorpo para outro; e a indicação II representa a porção constante, que apresenta uma sequência de aminoácidos muitas vezes comuns a diferentes anticorpos.
+1
 
 FEEDBACK IMAGEM
 img75m5sc
@@ -190,7 +190,7 @@ Na medula óssea os linfócitos B e T são originados a partir da diferenciaçã
 Na medula óssea os glóbulos brancos granulócitos (neutrófilo, eosinófilo e basófilo) são originados a partir de células-tronco linfoides.
 
 ALTERNATIVA CORRETA 
-Na medula óssea estão presentes células-tronco hematopoiéticas pluripotentes que podem se diferenciar em células de linhagem mielóide ou de linhagem linfoide.
+1
 
 FEEDBACK IMAGEM
 feedback76m5sc
@@ -224,7 +224,7 @@ O soro é produzido naturalmente pelos cavalos, sem que haja nenhum contato com 
 O soro é produzido de forma passiva por animais de grande porte que recebem a inoculação de antígeno e, após tratamento do sangue, o soro pode ser utilizado em humanos, promovendo a imunização ativa.
 
 ALTERNATIVA CORRETA 
-O soro é produzido a partir da inoculação do antígeno/patógeno no animal, que produz anticorpos. Esses anticorpos são extraídos posteriormente juntamente com o plasma sanguíneo do animal, caracterizando o soro imune.
+1
 
 FEEDBACK IMAGEM
 feedback77m5sc
@@ -241,24 +241,24 @@ GRUPO
 
 MODELO
 5
- 
+
 ENUNCIADO
 Certas substâncias ou patógenos têm efeitos severos no organismo podendo matar a pessoa antes mesmo da ação imune. Nessas situações, o tratamento pode ser realizado por meio do uso de uma substância chamada soro imune. A imagem abaixo representa o processo de produção deste soro. Com base nas informações e em seus conhecimentos, assinale a alternativa mais adequada a respeito da ação do soro imune no organismo de um paciente.
 
 IMAGEM
 img78m5sc
- 
+
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0) e de Pikisuperstar, via Freepik.com.  Disponível aqui e aqui.
 
-ALTERNATIVAS 
+ALTERNATIVAS
 O soro imune, ao ser utilizado como tratamento do paciente, é considerado um tipo de imunização passiva, pois não estimula a memória imunitária, tendo eficiência temporária no combate da doença.
 O soro imune, ao ser utilizado como tratamento do paciente, é considerado um tipo de imunização ativa, pois induz resposta imune e memória imunitária, tendo eficiência por anos no combate e reconhecimento da doença.
 O soro imune, ao ser utilizado como tratamento pelo paciente, consiste na aplicação de antígenos isolados que atuam no organismo impedindo que o paciente adquira a doença.
 O soro imune, ao ser utilizado como tratamento pelo paciente, promove a produção desenfreada de células de memória, que combatem diretamente os antígenos e impedem que o paciente adquira a doença novamente.
 
 ALTERNATIVA CORRETA 
-O soro imune, ao ser utilizado como tratamento do paciente, é considerado um tipo de imunização passiva, pois não estimula a memória imunitária, tendo eficiência temporária no combate da doença.
+1
 
 FEEDBACK IMAGEM
 feedback78m5sc
@@ -292,7 +292,7 @@ A vacina consiste em um tipo de imunização ativa, caracterizada pela injeção
 A vacina consiste em um tipo de imunização passiva, caracterizada pela injeção de antígenos no paciente, que conferem imunização temporária, já que não induzem resposta imunitária.
 
 ALTERNATIVA CORRETA 
-A vacina consiste em um tipo de imunização ativa, caracterizada pela injeção de antígenos no paciente, que desencadeiam uma resposta imunitária primária com produção de células de memória.
+1
 
 FEEDBACK IMAGEM
 img79m5sc
@@ -326,7 +326,7 @@ A fase 1 consiste na obtenção do antígeno (necessariamente vivo e inteiro), a
 A fase 1 consiste na obtenção do anticorpo (microrganismo ou fragmentos), a fase 2 consiste na obtenção do antígeno (que é morto ou atenuado) e a fase 3 consiste no isolamento e purificação do anticorpo (glicoproteína que guarda informações de reconhecimento do patógeno).
 
 ALTERNATIVA CORRETA 
-A fase 1 consiste na obtenção do antígeno (microrganismo ou fragmentos), a fase 2 consiste no isolamento e purificação do antígeno (que é morto ou atenuado) e a fase 3 consiste na adição do adjuvante (substância que possibilita o aumento da resposta imunológica).
+1
 
 FEEDBACK IMAGEM
 feedback80m5sc
@@ -360,7 +360,7 @@ A figura demonstra as túnicas venosas, cuja função é manter o sangue durante
 A figura demonstra as túnicas arteriais, cuja função é promover uma maior pressão nos vasos garantindo o fluxo do sangue venoso das artérias em direção ao coração.
 
 ALTERNATIVA CORRETA 
-A figura demonstra as válvulas venosas, cuja função é impedir o refluxo de sangue e garantir a circulação em um único sentido: em direção ao coração.
+1
 
 FEEDBACK IMAGEM
 feedback81m5sc
@@ -394,7 +394,7 @@ As varizes são arteríolas que foram lesadas externamente e se tornam insuficie
 As varizes são edemas que deformam e dilatam as vênulas das extremidades corporais, em decorrência de aterosclerose coronária.
 
 ALTERNATIVA CORRETA 
-As varizes são veias dilatadas, deformadas e insuficientes em decorrência de uma falha nas válvulas venosas, que causa refluxo e acúmulo de sangue em trechos das veias. 
+1
 
 FEEDBACK IMAGEM
 img82m5sc
@@ -428,7 +428,7 @@ A pequena circulação é fechada, ou seja, o sangue venoso não se mistura com 
 A pequena circulação é caracterizada pelo transporte de linfa, rica em glóbulos brancos e líquido intersticial proveniente do plasma sanguíneo. A grande circulação é responsável por transportar elementos figurados do sangue dos pulmões aos tecidos.
  
 ALTERNATIVA CORRETA 
-Na pequena circulação, o sangue pobre em oxigênio é bombeado do coração aos pulmões, onde é oxigenado e retorna ao coração. Na grande circulação, o sangue oxigenado é bombeado do coração em direção aos tecidos, retornando pobre em oxigênio ao coração.
+1
 
 FEEDBACK IMAGEM
 img83m5sc
@@ -462,7 +462,7 @@ O sangue é oxigenado nos pulmões, retorna ao coração pelas veias pulmonares,
 O sangue é oxigenado nos pulmões, retorna ao coração pelas artérias pulmonares, passa pelo átrio esquerdo e ventrículo direito, onde é bombeado para a artéria coronária, que se ramifica em vênulas e capilares, chegando até os tecidos.
 
 ALTERNATIVA CORRETA 
-O sangue é oxigenado nos pulmões, retorna ao coração pelas veias pulmonares, passa pelo átrio esquerdo e ventrículo esquerdo, onde é bombeado para a artéria aorta, que se ramifica em arteríolas e capilares, chegando até os tecidos.
+1
 
 FEEDBACK IMAGEM
 img84m5sc
@@ -496,7 +496,7 @@ O sangue pobre em oxigênio chega ao coração pelas veias pulmonares, passa pel
 O sangue pobre em oxigênio chega ao coração pelas artérias pulmonares, passa pelo átrio direito e ventrículo esquerdo, onde é bombeado para os pulmões pela artéria aorta, que se ramifica em arteríolas e vênulas, chegando até os tecidos.
 
 ALTERNATIVA CORRETA 
-Dos capilares próximos aos tecidos, o sangue pobre em oxigênio conflui para vênulas e veias de maior calibre que desembocam nas veias cavas, chegando ao átrio direito e ventrículo direito, que bombeia o sangue para os pulmões por meio das artérias pulmonares.
+1
 
 FEEDBACK IMAGEM
 img85m5sc
@@ -530,7 +530,7 @@ A estrutura I corresponde às fibras de Purkinje, II ao Feixe de His, III ao nod
 A estrutura I corresponde ao feixe de His, II ao nodo atrioventricular, III às fibras de Purkinje e IV ao nodo sinoatrial.
 
 ALTERNATIVA CORRETA 
-A estrutura I corresponde ao nodo sinoatrial, II ao nodo atrioventricular, III ao feixe de His e IV às fibras de Purkinje.
+1
 
 FEEDBACK IMAGEM
 img86m5sc
@@ -564,7 +564,7 @@ A indicação na figura representa as valvas aórticas, localizadas entre os át
 A indicação na figura representa as valvas venosas, localizadas no interior das veias e vênulas, cuja função é garantir a passagem do sangue em direção ao coração durante a sístole atrial e evitar o refluxo de sangue durante a sístole ventricular.
 
 ALTERNATIVA CORRETA 
-A indicação na figura representa as valvas atrioventriculares, localizadas entre os átrios e ventrículos, cuja função é garantir a passagem do sangue no sentido do átrio para o ventrículo durante a sístole atrial e evitar o refluxo de sangue durante a sístole ventricular.
+1
 
 FEEDBACK IMAGEM
 feedback87m5sc
@@ -598,7 +598,7 @@ A indicação na figura representa as valvas venosas, localizadas junto aos orif
 A indicação na figura representa as valvas aórticas, localizadas junto aos orifícios de abertura do miocárdio, logo após o septo interatrial, cuja função é garantir a passagem do sangue do miocárdio para o pericárdio durante a sístole ventricular e evitar o refluxo de sangue durante a diástole ventricular.
 
 ALTERNATIVA CORRETA 
-A indicação na figura representa as valvas semilunares, localizadas junto aos orifícios de abertura da aorta e artéria pulmonar, logo após os ventrículos, cuja função é garantir a passagem do sangue dos ventrículos para as artérias durante a sístole ventricular e evitar o refluxo de sangue durante a diástole ventricular.
+1
 
 FEEDBACK IMAGEM
 feedback88m5sc
@@ -632,7 +632,7 @@ A estrutura I corresponde ao miocárdio, II ao pericárdio seroso, III ao endoc�
 A estrutura I corresponde ao pericárdio fibroso, II ao pericárdio seroso, III ao endocárdio, IV ao epicárdio e V ao miocárdio.
 
 ALTERNATIVA CORRETA 
-A estrutura I corresponde ao pericárdio fibroso, II ao pericárdio seroso, III ao epicárdio, IV ao miocárdio e V ao endocárdio.
+1
 
 FEEDBACK IMAGEM
 img89m5sc
@@ -666,7 +666,7 @@ Na formação do coágulo estão envolvidas as plaquetas, fatores de coagulaçã
 Na formação do coágulo estão envolvidas as plaquetas, fatores de coagulação (principalmente colágeno), os monócitos e macrófagos.
 
 ALTERNATIVA CORRETA 
-Na formação do coágulo estão envolvidas as plaquetas, fatores de coagulação (principalmente enzimas), a fibrina e hemácias.
+1
 
 FEEDBACK IMAGEM
 img90m5sc
@@ -700,7 +700,7 @@ Os capilares linfáticos são vasos microscópicos e abertos, cuja função é r
 Os capilares linfáticos são vasos microscópicos de fundo cego, cuja função é irrigar as células dos tecidos e órgãos do corpo humano, promovendo a produção de linfócitos B e T que atuam na defesa do organismo, reconduzindo-os à circulação sanguínea.
 
 ALTERNATIVA CORRETA 
-Os capilares linfáticos são vasos microscópicos de fundo cego, cuja função é retirar o excesso de líquido tissular que extravasa dos capilares sanguíneos e banha as células (nutrindo-as e oxigenando-as), reconduzindo este líquido à circulação sanguínea.
+1
 
 FEEDBACK IMAGEM
 extra6m5sc
@@ -734,7 +734,7 @@ Os linfonodos têm como principal função armazenar a linfa que vem das extremi
 Os linfonodos têm como principal função produzir a linfa que vem das extremidades corporais, de modo que em suas estruturas internas existem segmentos hematopoiéticos capazes de originar, a partir de células totipotentes, todos os tipos de células sanguíneas, inclusive o plasma. 
 
 ALTERNATIVA CORRETA 
-Os linfonodos têm como principal função filtrar a linfa que vem das extremidades corporais, de modo que os leucócitos presentes nessas estruturas identificam e destroem corpos estranhos e demais substâncias, possivelmente nocivos ao organismo.
+1
 
 FEEDBACK IMAGEM
 extra7m5sc
@@ -768,7 +768,7 @@ A estrutura indicada por I é um linfonodo, cuja função é filtrar o plasma sa
 A estrutura indicada por I é um nódulo linfático, cuja função é produzir glóbulos brancos que constituirão a defesa do organismo, os quais são denominados leucócitos.
 
 ALTERNATIVA CORRETA 
-A estrutura indicada por I é um esfíncter pré-capilar, cuja função é regular o suprimento de sangue que flui para os tecidos, por meio de sua contração ou relaxamento.
+1
 
 FEEDBACK IMAGEM
 extra8m5sc
@@ -802,7 +802,7 @@ A irrigação sanguínea da musculatura cardíaca é realizada pelas veias cavas
 A irrigação sanguínea da musculatura cardíaca é realizada pelas artérias coronárias (representadas por I) que partem da veia cava superior, enquanto as veias coronárias (representadas por II) levam sangue rico em oxigênio do músculo cardíaco para o ventrículo esquerdo do coração.
 
 ALTERNATIVA CORRETA 
-A irrigação sanguínea da musculatura cardíaca é realizada pelas artérias coronárias (representadas por I) que partem da aorta, enquanto as veias coronárias (representadas por II) levam sangue pobre em oxigênio do músculo cardíaco para o átrio direito do coração.
+1
 
 FEEDBACK IMAGEM
 extra9m5sc
@@ -836,7 +836,7 @@ Os eletrodos e gerador, por emitirem e transportarem sinais elétricos entre os 
 Os eletrodos e gerador atuam como sensores que emitem e transportam sinais elétricos entre os vasos sanguíneos e o coração, enviando sinais elétricos ao cérebro, mesmo quando os batimentos cardíacos estão normais.
 
 ALTERNATIVA CORRETA 
-Os eletrodos atuam como sensores e identificam o funcionamento do coração, enviando sinais elétricos do coração ao gerador. Se o batimento estiver anormal, o gerador emite impulsos elétricos e os envia ao coração, estimulando e controlando os batimentos cardíacos.
+1
 
 FEEDBACK IMAGEM
 extra10m5sc
