@@ -1,0 +1,101 @@
+GRUPO
+8
+
+MODELO
+4
+  
+ENUNCIADO
+A animação abaixo ilustra uma importante função da glândula hipófise, localizada na base do encéfalo. Analise a animação e as alternativas e, com base em seus conhecimentos acerca desta importante glândula do sistema endócrino, selecione a alternativa que julgar como verdadeira.
+
+IMAGEM
+imggif1m4endo
+
+LEGENDA DA IMAGEM
+Imagem: CrashCourse, via Makeagif. Disponível aqui.
+ 
+ALTERNATIVAS
+A animação representa a função da adenoipófise em armazenar e liberar hormônios produzidos pelo hipotálamo, tais como a prolactina, o paratormônio e a melatonina.
+A animação representa a função da neuroipófise em armazenar e liberar hormônios produzidos pelo hipotálamo, tais como as enzimas digestivas, andrógenos e esteroides.
+A animação representa a função da adenoipófise em produzir hormônios tróficos, isto é, que estimulam o funcionamento de outras glândulas endócrinas.
+A animação representa a função da neuroipófise em produzir hormônios sexuais, isto é, relacionados ao desenvolvimento das características sexuais secundárias em homens e mulheres.
+
+ALTERNATIVA CORRETA
+3
+
+FEEDBACK IMAGEM
+imggif1m4endo
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: CrashCourse, via Makeagif. Disponível aqui.
+
+FEEDBACK TEXTO
+A animação representa a função da adenoipófise em produzir hormônios tróficos, isto é, que estimulam o funcionamento de outras glândulas endócrinas. Dentre os principais hormônios tróficos, encontram-se o hormônio tireotrófico (TSH) que estimula a tireoide, o hormônio adrenocorticotrófico (ACTH) que regula o córtex da glândula suprarrenal, bem como os hormônios folículo-estimulante (FSH) e luteinizante (LH) que atuam sobre as gônadas masculinas e femininas.
+fim
+
+GRUPO
+8
+
+MODELO
+4
+  
+ENUNCIADO
+A animação abaixo demonstra a relação entre o controle hormonal do hipotálamo sobre a hipófise que, por sua vez, regula o funcionamento de órgãos-alvo, tais como as gônadas femininas, conforme ilustrado. Analise a imagem e as alternativas e selecione a proposição que julgar como verdadeira.
+
+IMAGEM
+imggif2m4endo
+
+LEGENDA DA IMAGEM
+Imagem: Leshaeros, via Makeagif. Disponível aqui. 
+
+ALTERNATIVAS
+O hipotálamo, ao secretar o hormônio liberador de gonadotrofina (GnRH), estimula a neuroipófise a secretar estrógeno e progesterona, que atuam preparando a mucosa uterina para uma possível gravidez. 
+O hipotálamo, ao secretar FSH e LH, estimula a neurohipófise a secretar hormônio liberador de gonadotrofina (GnRH), que atua na regulação da atividade dos hormônios tróficos.
+O hipotálamo, ao secretar estrógeno e progesterona, estimula a adenohipófise a secretar hormônio liberador de gonadotrofina (GnRH), que atua sobre os ovários desenvolvendo os folículos ovarianos e promovendo a ovulação.
+O hipotálamo, ao secretar o hormônio liberador de gonadotrofina (GnRH), estimula a adenoipófise a secretar FSH, que atua sobre os ovários desenvolvendo os folículos ovarianos, e LH, responsável pela ovulação.
+ 
+ALTERNATIVA CORRETA
+4
+
+FEEDBACK IMAGEM
+imggif2m4endo
+
+LEGENDA DA IMAGEM DE FEEDBACK
+
+FEEDBACK TEXTO
+O hipotálamo, ao secretar o hormônio liberador de gonadotrofina (GnRH), estimula a adenoipófise a secretar hormônio folículo-estimulante (FSH), que atua sobre os ovários desenvolvendo os folículos ovarianos, e hormônio luteinizante (LH), responsável pela ovulação. 
+Além disso, os hormônios FSH e LH, por serem hormônios tróficos, influenciam na produção de outros hormônios, nas gônadas: os hormônios sexuais. No caso da mulher, os hormônios são o estrógeno e a progesterona.
+fim
+
+GRUPO
+8
+
+MODELO
+4
+  
+ENUNCIADO
+A animação abaixo demonstra uma glândula muito importante para a homeostasia no organismo humano, cuja função principal é estimular e manter os processos metabólicos em diferentes órgãos, bem como regular a taxa de água, sódio e potássio no sangue. Com base nas informações, analise a imagem e as alternativas e selecione a proposição que julgar como verdadeira.
+
+IMAGEM
+imggif3m4endo
+
+LEGENDA DA IMAGEM
+Imagem: BodyParts3D – DBCLS, Creative Commons BY-SA 2.1 JP, via Wikimedia Commons. Disponível aqui.
+
+ALTERNATIVAS
+A glândula representada na imagem consiste na tireoide, responsável pela produção de hormônios tri-iodotironina (T3), tiroxina (T4) e calcitonina. Aderidas a tireoide estão as glândulas paratireoides, que produzem o paratormônio.
+A glândula representada na imagem consiste na tireoide, responsável pela produção de hormônios tireotrófico (TSH) e calcitonina. Aderidas a tireoide estão as glândulas paratireoides, que produzem os hormônios tri-iodotironina (T3), tiroxina (T4).
+A glândula representada na imagem consiste na suprarrenal, responsável pela produção de hormônios calcitonina e mineralocorticoides. Aderidas a suprarrenal estão as glândulas chamadas ilhotas de Langerhans, que secretam insulina e glucagon.
+A glândula representada na imagem consiste na suprarrenal, responsável pela produção de hormônios adrenalina e noradrenalina. Aderidas a suprarrenal estão as glândulas pararrenais, que produzem o paratormônio.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+imggif3m4endo
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: BodyParts3D – DBCLS, Creative Commons BY-SA 2.1 JP, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+A glândula representada na imagem consiste na tireoide, responsável pela produção de hormônios tri-iodotironina (T3), tiroxina (T4) e calcitonina. Aderidas a tireoide estão as glândulas paratireoides, que produzem o paratormônio.
+fim

@@ -1,0 +1,97 @@
+GRUPO
+7
+
+MODELO
+2
+
+ENUNCIADO
+Os músculos (liso, estriado esquelético ou cardíaco), atrelados a outros sistemas e estruturas do corpo humano, são de suma importância para a homeostase do ser humano, no desempenho de variadas funções. Sobre estas funções, analise as alternativas abaixo e selecione todas que julgar como verdadeiras.
+
+ALTERNATIVAS
+Efetuação de movimentos corporais resultantes de contrações musculares, a partir do funcionamento integrado entre músculos esqueléticos, ossos e articulações.
+Efetivar a comunicação entre as células por meio de mensageiros químicos que viajam pelo sangue, conhecidos como hormônios, os quais são responsáveis por coordenar as atividades de diferentes áreas do corpo, conhecidas como locais-alvo.
+Estabilização das posições do corpo, como ficar em pé ou sentado, por exemplo, de modo que os músculos posturais se contraem de forma contínua quando estamos acordados, o que chamamos de tônus muscular.
+Armazenamento e movimentação de substâncias no corpo, como por exemplo: manutenção de alimento no estômago pelos esfíncteres, bombeamento de sangue pelo músculo cardíaco e ajuda no retorno do sangue venoso para o coração pela contração de músculos esqueléticos.
+Controlar e promover a condução de impulsos nervosos voluntários e involuntários do corpo em direção ao cérebro, interpretando as informações obtidas e elaborando respostas adequadas, enviando aos órgãos e músculos do corpo.
+Geração de calor, de modo que, com a contração muscular o músculo produz calor por meio de um processo denominado termogênese, que é utilizado para manter a temperatura normal do corpo.
+
+ALTERNATIVAS CORRETAS
+1,3,4,6
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+Dentre as principais funções dos músculos do corpo humano (tecido muscular liso, estriado esquelético e estriado cardíaco), destacam-se:
+Efetuação de movimentos corporais resultantes de contrações musculares, a partir do funcionamento integrado entre músculos esqueléticos, ossos e articulações.
+Estabilização das posições do corpo, como ficar em pé ou sentado, por exemplo, de modo que os músculos posturais se contraem de forma contínua quando estamos acordados, o que chamamos de tônus muscular.
+Armazenamento e movimentação de substâncias no corpo, como por exemplo: manutenção de alimento no estômago pelos esfíncteres, bombeamento de sangue pelo músculo cardíaco e ajuda no retorno do sangue venoso para o coração pela contração de músculos esqueléticos.
+Geração de calor, de modo que, com a contração muscular o músculo produz calor por meio de um processo denominado termogênese, que é utilizado para manter a temperatura normal do corpo.
+fim
+
+GRUPO
+7
+
+MODELO
+2
+
+ENUNCIADO
+Os músculos estriados esqueléticos consistem em músculos aderidos aos ossos que permitem os movimentos e a postura corporal, por meio de uma dinâmica de contração muscular. Sobre o processo de contração muscular, analise as alternativas abaixo e selecione todas as proposições que julgar como verdadeiras.
+
+ALTERNATIVAS
+A contração muscular ocorre quando os fascículos encurtam pelo deslizamento dos filamentos de biotina sobre os filamentos de fibra muscular. Esse processo necessita de energia (ATP) e íons de Cobre.
+A contração muscular é um processo que demanda energia, que é obtida pela quebra da molécula de ADP. As células podem produzir ADP realizando respiração anaeróbia nas mitocôndrias.
+A contração muscular ocorre quando os sarcômeros encurtam pelo deslizamento dos filamentos de actina sobre os filamentos de miosina. Esse processo necessita de energia (ATP) e íons de Cálcio.
+A contração muscular é um processo que demanda energia, que é obtida pela quebra da molécula de ATP. As células podem produzir ATP realizando respiração aeróbia nas mitocôndrias.
+Durante um exercício físico muito intenso, as células podem produzir ATP (de forma alternativa) por meio da fermentação láctica, em situações em que o organismo não realiza respiração aeróbia em decorrência da quantidade insuficiente de oxigênio que chega aos músculos.
+Durante um exercício físico muito intenso, as células produzem ATP por meio da fermentação láctica, sendo esta a primeira alternativa de produção de energia, passando a realizar a respiração aeróbia apenas em situações em que há quantidade insuficiente de oxigênio chegando aos músculos.
+
+ALTERNATIVAS CORRETAS
+3,4,5
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+A contração muscular ocorre quando os sarcômeros encurtam pelo deslizamento dos filamentos de actina sobre os filamentos de miosina. Esse processo necessita de energia (ATP) e íons de Cálcio.
+A contração muscular é um processo que demanda energia, que é obtida pela quebra da molécula de ATP. As células podem produzir ATP realizando respiração aeróbia nas mitocôndrias. (De forma simplificada, a respiração aeróbia é um processo no qual as células utilizam da glicose e oxigênio para produzir energia).
+Durante um exercício físico muito intenso, as células podem produzir ATP (de forma alternativa) por meio da fermentação láctica, em situações em que o organismo não realiza respiração aeróbia em decorrência da quantidade insuficiente de oxigênio que chega aos músculos.
+fim
+
+GRUPO
+7
+
+MODELO
+2
+
+ENUNCIADO
+O sistema muscular humano e os movimentos desempenhados pelos músculos apresentam muitas propriedades que caracterizam este sistema e, dentre elas, é possível citar o antagonismo muscular, o grau de contração e as contrações isotônicas e isométricas. No que se refere às características da fisiologia muscular, analise as alternativas abaixo e assinale todas as que julgar como verdadeiras.
+
+ALTERNATIVAS
+Os músculos esqueléticos atuam geralmente em duplas, com movimentos antagônicos: o músculo principal que realiza um movimento específico é chamado de agonista, enquanto o músculo que se opõe à ação do agonista, realizando movimento contrário, é denominado músculo antagonista. 
+Os músculos esqueléticos atuam geralmente sozinhos, com movimentos duplicados: quando se contrai e realiza um movimento específico é chamado de agonista, já quando relaxa e empurra o osso, realizando movimento contrário, passa a ser chamado de músculo antagonista. 
+O grau de contração de um músculo depende da quantidade de fibras submetidas a estímulos nervosos. Quando o estímulo é fraco, só algumas fibras são estimuladas acarretando uma contração fraca, se o estímulo for forte, muitas fibras são estimuladas resultando uma contração intensa.
+O grau de contração de um músculo independe da quantidade de fibras submetidas a estímulos nervosos. Toda a musculatura se contrai integralmente, independentemente do estímulo, seguindo a “lei de tudo ou nada”, onde todas as fibras se contraem, ou nenhuma.
+A contração muscular pode ser isométrica, quando o músculo encurta durante a contração, como no caso dos músculos dos membros inferiores, ou isotônica, quando o músculo não sofre encurtamento durante a contração, como no caso dos músculos que mantém a postura.
+A contração muscular pode ser isotônica, quando o músculo encurta durante a contração, como no caso dos músculos dos membros inferiores, ou isométrica, quando o músculo não sofre encurtamento durante a contração, como no caso dos músculos que mantém a postura.
+
+ALTERNATIVAS CORRETAS
+1,3,6
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+Os músculos esqueléticos atuam geralmente em duplas, com movimentos antagônicos: o músculo principal que realiza um movimento específico é chamado de agonista, enquanto o músculo que se opõe à ação do agonista, realizando movimento contrário, é denominado músculo antagonista. Assim, quando um músculo agonista se contrai e sofre encurtamento, seu antagonista se alonga, resultando um movimento coordenado. Um exemplo é a flexão do antebraço, onde o bíceps atua como agonista enquanto o tríceps como antagonista.
+Vale lembrar que a contração muscular segue a “lei do tudo ou nada”, em que a fibra se contrai totalmente, ou não se contrai. No entanto, o grau de contração de um músculo depende da quantidade de fibras submetidas a estímulos nervosos. Quando o estímulo é fraco, só algumas fibras são estimuladas acarretando uma contração fraca, se o estímulo for forte, muitas fibras são estimuladas resultando uma contração intensa. 
+A contração muscular pode ser isotônica, quando o músculo encurta durante a contração, como no caso dos músculos dos membros inferiores, ou isométrica, quando o músculo não sofre encurtamento durante a contração, como no caso dos músculos que mantém a postura.
+fim

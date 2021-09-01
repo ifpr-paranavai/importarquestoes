@@ -1,0 +1,96 @@
+GRUPO
+6
+
+MODELO
+2
+
+ENUNCIADO
+Na anatomia, articulações são as junções ou superfícies de contato entre dois ossos, que podem permitir movimentos ou serem imóveis. O sistema articular esquelético pode ser classificado de acordo com a estrutura e com as funções que exercem. Sob este aspecto, com base em seus conhecimentos sobre as articulações, analise as alternativas e selecione todas as proposições que julgar como corretas.
+
+ALTERNATIVAS
+Nas articulações fibrosas, os ossos são unidos firmemente por tecido conjuntivo denso não modelado e rico em fibras de colágeno. Geralmente não permitem mobilidade, sendo do tipo sinartrose, como no caso dos ossos do crânio.
+Nas articulações fibrosas, os ossos são unidos firmemente por tecido conjuntivo denso não modelado e rico em fibras de colágeno. Geralmente as articulações fibrosas permitem mobilidade ampla, caracterizando-se como diartrose, como no caso das articulações dos membros inferiores e superiores.
+Nas articulações cartilaginosas, há cavidade articular e os ossos se comunicam por meio de cartilagem. Geralmente não permitem mobilidade, sendo do tipo sinartrose, como no caso dos ossos do crânio.
+Nas articulações cartilaginosas, há cavidade articular e os ossos se comunicam por meio de cartilagem. Geralmente, esse tipo de articulação possibilita mobilidade reduzida, caracterizando-se funcionalmente como anfiartrose, como no caso da coluna vertebral.
+Nas articulações sinoviais, há cavidade articular e os ossos são articulados pelo tecido conjuntivo denso não modelado de uma cápsula articular com líquido viscoso. Geralmente, esse tipo de articulação possibilita mobilidade reduzida, caracterizando-se funcionalmente como anfiartrose, como no caso da coluna vertebral.
+Nas articulações sinoviais, há cavidade articular e os ossos são articulados pelo tecido conjuntivo denso não modelado de uma cápsula articular com líquido viscoso. Todas as articulações sinoviais permitem mobilidade ampla, caracterizando-se como diartrose, como no caso das articulações dos membros inferiores e superiores.
+
+ALTERNATIVAS CORRETAS
+1,4,6
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+Nas articulações fibrosas, os ossos são unidos firmemente por tecido conjuntivo denso não modelado e rico em fibras de colágeno. Geralmente não permitem mobilidade, sendo do tipo sinartrose, como no caso dos ossos do crânio.
+Nas articulações cartilaginosas, há cavidade articular e os ossos se comunicam por meio de cartilagem. Geralmente, esse tipo de articulação possibilita mobilidade reduzida, caracterizando-se funcionalmente como anfiartrose, como no caso da coluna vertebral.
+Nas articulações sinoviais, há cavidade articular e os ossos são articulados pelo tecido conjuntivo denso não modelado de uma cápsula articular com líquido viscoso. Todas as articulações sinoviais permitem mobilidade ampla, caracterizando-se como diartrose, como no caso das articulações dos membros inferiores e superiores.
+fim
+
+GRUPO
+6
+
+MODELO
+2
+
+ENUNCIADO
+O esqueleto humano é composto por 206 ossos, constituindo cerca de 14% da massa corporal, tendo funções muito importantes para a vida e a homeostase do ser humano. Sobre as funções principais do sistema esquelético, analise as alternativas a seguir e selecione todas as que julgar como verdadeiras.
+
+ALTERNATIVAS
+Uma das funções do sistema esquelético consiste em garantir a comunicação nervosa entre o sistema nervoso central e os órgãos efetores de sensibilidade (músculos e glândulas).
+Uma das funções do sistema esquelético consiste na produção de células sanguíneas (hematopoiese), como hemácias, leucócitos e plaquetas, que ocorre no interior de alguns ossos, na medula óssea vermelha. 
+Uma das funções do sistema esquelético consiste em fornecer suporte corporal, sustentando tecidos moles, e assistência ao movimento, sendo ponto de apoio para a ação da maioria dos tendões e músculos esqueléticos.
+Uma das funções do sistema esquelético consiste em produzir e secretar hormônios diretamente na corrente sanguínea, que atuam em órgãos algo controlando e coordenando as atividades em todo o corpo.
+Uma das funções do sistema esquelético consiste em proteger os órgãos internos contra possíveis lesões, como ossos do crânio e caixa torácica.
+Uma das funções do sistema esquelético consiste na manutenção da homeostasia mineral no organismo, uma vez os ossos armazenam minerais como cálcio e fósforo e, conforme a necessidade, liberam na corrente sanguínea, mantendo o equilíbrio mineral essencial. 
+
+ALTERNATIVAS CORRETAS
+2,3,5,6
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+Dentre as principais funções do sistema esquelético, destacam-se:
+- Produção de células sanguíneas (hematopoiese), como hemácias, leucócitos e plaquetas, que ocorre no interior de alguns ossos, na medula óssea vermelha. 
+- Fornecer suporte corporal, sustentando tecidos moles, e assistência ao movimento, sendo ponto de apoio para a ação da maioria dos tendões e músculos esqueléticos.
+- Proteger os órgãos internos contra possíveis lesões, como ossos do crânio e caixa torácica.
+- Manutenção da homeostasia mineral no organismo, uma vez os ossos armazenam minerais como cálcio e fósforo e, conforme a necessidade, liberam na corrente sanguínea, mantendo o equilíbrio mineral essencial. 
+fim
+
+GRUPO
+6
+
+MODELO
+2
+
+ENUNCIADO
+O tecido ósseo se forma durante a vida embrionária, mas se renova durante a vida adulta, processo o qual chama-se remodelamento ósseo. Sobre o tecido ósseo, analise as alternativas abaixo e selecione todas as que julgar como verdadeiras.
+
+ALTERNATIVAS
+A formação do tecido ósseo é feita por células ósseas chamadas osteoblastos. Essas células produzem a matriz extracelular, que possui a proteína colágeno, conferindo certa flexibilidade ao osso.
+A formação do tecido ósseo é feita por células ósseas chamadas osteoclastos. Essas células produzem a matriz extracelular, que possui a proteína peptina, conferindo muita flexibilidade ao osso.
+Os osteoblastos se movem na superfície óssea e destroem áreas lesadas ou envelhecidas, digerindo e reabsorvendo partes do osso, abrindo caminho para a regeneração pelos osteócitos.
+Os osteoclastos se movem na superfície óssea e destroem áreas lesadas ou envelhecidas, digerindo e reabsorvendo partes do osso, abrindo caminho para a regeneração pelos osteoblastos.
+A osteoporose é uma doença que afeta os ossos, em decorrência de vários fatores, sendo mais comum em pessoas acima de 50 anos. Assim, as pessoas acometidas apresentam descalcificação dos ossos, tornando-os frágeis e quebradiços.
+A osteoporose é uma doença que afeta as articulações, em decorrência de vários fatores, sendo mais comum em pessoas acima de 50 anos. Assim, as pessoas acometidas apresentam dor e inflamação nas articulações, afetando também ligamentos, tendões e músculos.
+
+ALTERNATIVAS CORRETAS
+1,4,5
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+A formação do tecido ósseo é feita por células ósseas chamadas osteoblastos. Essas células produzem a matriz extracelular, que possui a proteína colágeno, conferindo certa flexibilidade ao osso.
+Os osteoclastos se movem na superfície óssea e destroem áreas lesadas ou envelhecidas, digerindo e reabsorvendo partes do osso, abrindo caminho para a regeneração pelos osteoblastos.
+A osteoporose é uma doença que afeta os ossos, em decorrência de vários fatores, sendo mais comum em pessoas acima de 50 anos. Assim, as pessoas acometidas apresentam descalcificação dos ossos, tornando-os frágeis e quebradiços.
+fim

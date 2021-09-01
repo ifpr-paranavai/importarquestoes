@@ -1,0 +1,100 @@
+GRUPO
+10
+
+MODELO
+2
+
+ENUNCIADO
+O tato é o órgão dos sentidos que permite a percepção do mundo ao nosso redor por meio do toque. Sob este enfoque, analise as alternativas abaixo e selecione todas as que julgar como verdadeiras acerca deste sentido do corpo humano.
+
+ALTERNATIVAS
+O sentido do tato, diferentemente de outros sentidos, como o olfato e paladar, não se localiza em uma região especifica, mas em praticamente todas as regiões da pele.
+A percepção do tato é efetivada, em maior parte, por meio de células sensoriais especializadas denominadas quimiorreceptores, capazes de detectar variações no movimento dos pelos.
+Certas regiões do corpo abrigam uma quantidade maior de mecanorreceptores do tato, como é o caso dos anexos epidérmicos.
+A percepção do tato é efetivada por meio de células sensoriais especializadas denominadas mecanorreceptores, capazes de detectar variações de pressão.
+Além dos diversos receptores responsáveis pelo tato, a pele também possui células sensoriais especializadas na detecção de dor, aumento e diminuição da temperatura.
+Todos os receptores sensoriais do sentido do tato estão localizados na epiderme, região que permite maior proximidade do corpo com o objeto tocado.
+
+ALTERNATIVAS CORRETAS
+1,4,5
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+O sentido do tato, diferentemente de outros sentidos, como o olfato e paladar, não se localiza em uma região especifica, mas em praticamente todas as regiões da pele.
+A percepção do tato é efetivada por meio de células sensoriais especializadas denominadas mecanorreceptores, capazes de detectar variações de pressão.
+Além dos diversos receptores responsáveis pelo tato, a pele também possui células sensoriais especializadas na detecção de dor, aumento e diminuição da temperatura.
+fim
+
+GRUPO
+10
+
+MODELO
+2
+
+ENUNCIADO
+O tato é o órgão dos sentidos que permite a percepção do mundo ao nosso redor por meio do toque. Sob este enfoque, analise as alternativas abaixo e selecione todas as proposições que apresentarem exclusivamente receptores envolvidos no sentido do tato. 
+
+ALTERNATIVAS
+Corpúsculo de Krause e bastonetes.
+Terminações livres e corpúsculo de Meissner.
+Discos de Merkel e terminações de Ruffini.
+Órgão terminal do pelo e corpúsculo de Paccini.
+Corpúsculo de Meissner e células mitrais.
+Células cone e terminações de Paccini.
+
+ALTERNATIVAS CORRETAS
+2,3,4
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+Dentre os principais receptores do tato, encontram-se:
+Terminações nervosas livres: São terminações nervosas formadas por um axônio ramificado, capazes de detectar sensações de tato (pressão), térmicas (calor e frio) e dolorosas. Estão distribuídas por toda a nossa pele e também em outros tecidos.
+Corpúsculo de Meissner: São receptores pequenos formados por um axônio mielínico. Apresenta uma grande sensibilidade e é encontrado em áreas de pele sem pelos (lábios e pontas dos dedos). São sensíveis a vibrações de baixa frequência e a movimentos de objetos na superfície da pele (estímulos passageiros).
+Discos de Merkel: São receptores formados por ramificações axonais com vários discos terminais. São encontrados principalmente em áreas que apresentam grandes quantidades de corpúsculos de Meissner, como nas pontas dos dedos. Esses receptores percebem o toque contínuo de objetos sobre a pele.
+Órgão terminal do pelo: Na base do pelo, encontra-se uma fibra nervosa que envolve o folículo piloso, e é estimulada por qualquer movimento do pelo. Esses receptores atuam percebendo, principalmente, movimentos de objetos e o contato inicial de um objeto sobre a pele.
+Terminações de Ruffini: São receptores pequenos e pouco abundantes. Estão localizados em camadas mais profundas da pele e em tecidos mais profundos bem como em cápsulas articulares. Estão relacionados com a percepção de sinais de tato e pressão prolongados e intensos, bem como sensações térmicas de calor.
+Corpúsculos de Pacini: Receptores com terminação nervosa envolvida por camadas concêntricas de tecido conjuntivo, adquirindo o aspecto de uma cebola. Estão localizados abaixo da pele e nos tecidos das fáscias. O estímulo de receptor tátil ocorre apenas pela compressão local e rápida dos tecidos, captando sensações de toque e vibração.
+Corpúsculos de Krause: São estruturas formadas por uma fibra nervosa, cuja terminação tem a forma de bastão com uma das extremidades mais grossa. Estão localizados em regiões de limite da epiderme com a mucosa, como ao redor dos lábios e dos genitais. Captam sensações térmicas de frio.
+fim
+
+GRUPO
+10
+
+MODELO
+2
+
+ENUNCIADO
+Nos órgãos dos sentidos, os receptores são constituídos por terminações de nervos sensoriais com capacidade de receber determinado estimulo e transformá-lo em impulso nervoso, enviando as informações obtidas para o SNC, ajudando a manter a homeostasia do organismo. Analise as alternativas abaixo e selecione todas as proposições corretas acerca dos tipos de receptores sensoriais.
+
+ALTERNATIVAS
+Um tipo de receptores sensoriais são os interoceptores, responsáveis por captar estímulos do meio externo, como receptores do tato, audição, olfato, paladar e visão.
+Um tipo de receptores sensoriais são os exteroceptores, responsáveis por captar estímulos do meio externo, como receptores do tato, audição, olfato, paladar e visão.
+Um tipo de receptores sensoriais são os exteroceptores, responsáveis por captar estímulos internos (músculos, tendões, articulações e órgãos internos), informando o SNC sobre a posição dos braços, pernas e cabeça em relação ao corpo.
+Um tipo de receptores sensoriais são os proprioceptores, responsáveis por captar estímulos internos (músculos, tendões, articulações e órgãos internos), informando o SNC sobre a posição dos braços, pernas e cabeça em relação ao corpo.
+Um tipo de receptores sensoriais são os proprioceptores, responsáveis por captar estímulos internos como a composição do sangue, Ph, pressão osmótica, temperatura, etc., permitindo sentir sede, fome, frio e dor.
+Um tipo de receptores sensoriais são os interoceptores, responsáveis por captar estímulos internos como a composição do sangue, Ph, pressão osmótica, temperatura, etc., permitindo sentir sede, fome, frio e dor.
+
+ALTERNATIVAS CORRETAS
+2,4,6
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+As células sensoriais especializadas em captar estímulos podem ser classificadas em: exteroceptores, proprioceptores e interoceptores.
+São considerados exteroceptores quando captam estímulos do meio externo, como receptores do tato, audição, olfato, paladar e visão. Certos tipos de exteroceptores são os quimioceptores, que são estimulados por moléculas de substancias químicas que se encaixam em proteínas da membrana celular, como no caso do paladar e olfato.
+São proprioceptores quando captam estímulos internos (músculos, tendões, articulações e órgãos internos), informando o SNC sobre a posição dos braços, pernas e cabeça em relação ao corpo; e interoceptores, quando captam estímulos internos como a composição do sangue, Ph, pressão osmótica, temperatura, etc., permitindo sentir sede, fome, frio e dor.
+fim

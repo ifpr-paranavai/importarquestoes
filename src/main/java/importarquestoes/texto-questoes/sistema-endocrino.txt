@@ -1,0 +1,657 @@
+GRUPO
+8
+
+MODELO
+1
+
+ENUNCIADO
+As glândulas endócrinas são responsáveis por produzir hormônios que atuam contribuindo para a homeostasia do organismo, regulando a atividade e o crescimento de células-alvo no corpo, bem como o metabolismo. A figura abaixo demonstra as principais glândulas do sistema endócrino e três delas encontram-se indicadas. Analise a imagem e as alternativas e, por meio de toque nos pares, associe as proposições que julgar como correspondentes.
+
+IMAGEM
+img1m1endo
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de MrArifnajafov, Domínio Público, via Wikimedia Commons. Disponível aqui.
+
+PARES CORRETOS
+I =  Regula o funcionamento de outras glândulas endócrinas
+II = Estimula e mantém os processos metabólicos 
+III = Regula os níveis de sódio, potássio e água no organismo 
+
+FEEDBACK IMAGEM
+img1m1endo
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de MrArifnajafov, Domínio Público, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+As glândulas endócrinas indicadas na figura consistem, respectivamente:
+Glândula hipófise (representada em I), conhecida como “glândula-mestra” por apresentar como uma de suas funções a regulação do funcionamento de outras glândulas endócrinas, por meio da liberação de hormônios tróficos como o TSH, ACTH, FSH e LH. Essa função é exercida por sua porção anterior, denominada adenoipófise.
+Glândula tireoide (representada em II), na qual os principais hormônios produzidos são a tri-iodotironina (T3) e a tiroxina (T4), cuja função fundamental consiste em estimular e manter os processos metabólicos. Além destes, outro importante hormônio da tireoide é a calcitonina, responsável por reduzir a concentração de cálcio no sangue.
+Glândula suprarrenal (representada em III), formada pelo córtex, cuja função inclui a regulação dos níveis de sódio, potássio e água no organismo e auxiliar na manutenção da glicemia; e pela medula, cuja função principal é produzir adrenalina (hormônio que promove reações de alerta em situações de estresse) e noradrenalina (hormônio que regula a pressão arterial).
+fim
+
+GRUPO
+8
+
+MODELO
+1
+
+ENUNCIADO
+As glândulas endócrinas são responsáveis por produzir hormônios que atuam contribuindo para a homeostasia do organismo, regulando a atividade e o crescimento de células-alvo no corpo, bem como o metabolismo. A figura abaixo demonstra as principais glândulas do sistema endócrino e três delas encontram-se indicadas. Analise a imagem e as alternativas e, por meio de toque nos pares, associe as proposições que julgar como correspondentes.
+
+IMAGEM
+img2m1endo
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de MrArifnajafov, Domínio Público, via Wikimedia Commons. Disponível aqui.
+
+PARES CORRETOS
+I =  Regula os níveis de glicose no sangue
+II = Estimula a espermatogênese
+III = Estimula o crescimento da mucosa uterina
+
+FEEDBACK IMAGEM
+img2m1endo
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de MrArifnajafov, Domínio Público, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+As glândulas endócrinas indicadas na figura consistem, respectivamente:
+Pâncreas (representado em I), consiste em uma glândula mista (endócrina e exócrina). Em sua função endócrina, produz os hormônios insulina (responsável por reduzir a quantidade de glicose no sangue) e glucagon (responsável por aumentar a quantidade de glicose no sangue).
+Testículo (representado em II), consiste na gônada masculina. Produz o hormônio testosterona, responsável por estimular a espermatogênese (produção de espermatozoides) e pelo desenvolvimento e manutenção das características sexuais secundárias masculinas.
+Ovário (representado em III), consiste na gônada feminina. Produz os hormônios estrógeno, que promove a maturação dos órgãos reprodutores, estimula o crescimento da mucosa uterina e desenvolve e mantem as características sexuais secundárias femininas; e o hormônio progesterona, que completa a preparação da mucosa uterina, preparando-a para uma possível gravidez, além de estimular o desenvolvimento das glândulas mamárias.
+fim
+
+GRUPO
+8
+
+MODELO
+1
+
+ENUNCIADO
+A figura abaixo ilustra uma região do corpo de suma importância na regulação endócrina do organismo. Sob este enfoque, analise a figura e as alternativas e, por meio de toque nos pares, associe as proposições que julgar como correspondentes.
+
+IMAGEM
+img3m1endo
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS
+I =  Hipotálamo
+II = Adenoipófise
+III = Neuroipófise
+
+FEEDBACK IMAGEM
+img3m1endo
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+O hipotálamo (representado em I), consiste em uma região do encéfalo que desempenha um importante papel na integração entre os sistemas nervoso e endócrino. Ao receber informações trazidas dos nervos, secreta hormônios que atuam sobre a hipófise.
+A hipófise, por sua vez, é uma glândula constituída por duas porções: 
+Adenoipófise (representada em II), localizada na porção anterior, produz e libera no sangue diversos hormônios, inclusive os chamados hormônios tróficos, que estimulam o funcionamento de outras glândulas endócrinas. Contudo, a liberação dos hormônios da adenoipófise é estimulada por hormônios liberadores e suprimida por hormônios inibidores do hipotálamo.
+Neuroipófise (representada em III), localizada na porção posterior, armazena e libera hormônios produzidos no hipotálamo.
+fim
+
+GRUPO
+8
+
+MODELO
+2
+
+ENUNCIADO
+As glândulas suprarrenais são constituídas por dois tipos de tecido distintos estruturalmente e funcionalmente: o córtex e a medula. No que concerne aos aspectos funcionais de cada uma das regiões desta glândula, analise as alternativas abaixo e selecione todas as que julgar como verdadeiras.
+
+ALTERNATIVAS
+O córtex da glândula suprarrenal produz hormônios do tipo esteroides, sendo os principais deles os glicocorticoides e os mineralocorticoides.
+A medula da glândula suprarrenal produz hormônios do tipo catecolaminas, sendo os principais deles a adrenalina e noradrenalina.
+Os mineralocorticoides são hormônios produzidos pelo córtex da glândula suprarrenal e atuam promovendo a reabsorção de sódio e a excreção de potássio pelos rins.
+Os glicocorticoides são hormônios produzidos pelo córtex da glândula suprarrenal e atuam na produção de glicose a partir de proteínas e gorduras, aumentando os níveis de glicose no sangue.
+A adrenalina é um hormônio produzido pela medula da glândula suprarrenal e promove ações no organismo em reações de alerta.
+A noradrenalina é um hormônio produzido pela medula da glândula suprarrenal e é liberada somente quando hormônios como a adrenalina e os esteroides estão em concentrações acima do normal.
+
+ALTERNATIVAS CORRETAS
+1,2,3,4,5
+
+FEEDBACK IMAGEM
+imgfeedbackm2 
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+O córtex da glândula suprarrenal produz hormônios do tipo esteroides, sendo os principais deles os glicocorticoides e os mineralocorticoides.
+A medula da glândula suprarrenal produz hormônios do tipo catecolaminas, sendo os principais deles a adrenalina e noradrenalina.
+Os mineralocorticoides são hormônios produzidos pelo córtex da glândula suprarrenal e atuam promovendo a reabsorção de sódio e a excreção de potássio pelos rins.
+Os glicocorticoides são hormônios produzidos pelo córtex da glândula suprarrenal e atuam na produção de glicose a partir de proteínas e gorduras, aumentando os níveis de glicose no sangue.
+A adrenalina é um hormônio produzido pela medula da glândula suprarrenal e promove ações no organismo em reações de alerta.
+A noradrenalina é um hormônio produzido pela medula da glândula suprarrenal e é liberada em doses mais ou menos constantes pela medula da glândula suprarrenal, independentemente da liberação de adrenalina, tendo como função manter a pressão sanguínea em níveis adequados.
+fim
+
+GRUPO
+8
+
+MODELO
+2
+
+ENUNCIADO
+O pâncreas consiste em uma glândula que apresenta importantes funções na homeostasia do organismo. Sobre essa glândula, analise as alternativas abaixo e selecione todas aquelas que julgar como verdadeiras.
+
+ALTERNATIVAS
+O pâncreas é considerado uma glândula mista, uma vez que desempenha tanto função endócrina, na liberação de hormônios, bem como função exócrina, na secreção de enzimas digestivas.
+Os hormônios produzidos pelo pâncreas são os glicocorticoides, que atuam no controle da glicemia, e os mineralocorticoides, que atuam na regulação de água e sais no organismo.
+Os hormônios produzidos pelo pâncreas são a insulina, que visa reduzir a quantidade de glicose do sangue, e o glucagon, que visa a quebra de glicogênio no fígado, aumentando a taxa de glicose no sangue.
+A diabetes é um distúrbio hormonal relacionada ao pâncreas, em que a pessoa acometida apresenta alta taxa de glicose no sangue, que pode ser do tipo I (juvenil) ou tipo II (tardio).
+ O hipertiroidismo é uma doença relacionada ao funcionamento do pâncreas, em que há excesso de hormônios produzidos pela glândula, elevando a temperatura corporal, sudorese, irritabilidade, pressão sanguínea e perda de peso.
+A deficiência imunitária é consequência direta do excesso de produção de hormônios no pâncreas, principalmente do cortisol, causando a diminuição da permeabilidade dos capilares sanguíneos e suscetibilidade à infecções. 
+
+ALTERNATIVAS CORRETAS
+1,3,4
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+O pâncreas é considerado uma glândula mista, uma vez que desempenha tanto função endócrina, na liberação de hormônios, bem como função exócrina, na secreção de enzimas digestivas.
+Os hormônios produzidos pelo pâncreas são a insulina, que visa reduzir a quantidade de glicose do sangue, e o glucagon, que visa a quebra de glicogênio no fígado, aumentando a taxa de glicose no sangue.
+A diabetes é um distúrbio hormonal relacionada ao pâncreas, em que a pessoa acometida apresenta alta taxa de glicose no sangue, que pode ser do tipo I (juvenil) ou tipo II (tardio).
+fim
+
+GRUPO
+8
+
+MODELO
+2
+
+ENUNCIADO
+Os hormônios relacionados à reprodução são produzidos por diferentes glândulas do sistema endócrino, culminando em diferentes ações nos respectivos órgãos-alvo, sejam estruturais ou funcionais. No que se refere aos hormônios relacionados à reprodução humana, analise as alternativas abaixo e selecione todas as alternativas que julgar como corretas.
+
+ALTERNATIVAS
+O hormônio folículo-estimulante (FSH) é um hormônio relacionado à reprodução produzido pela adenoipófise e atua, nas mulheres, estimulando os folículos ovarianos e, nos homens, a espermatogênese.
+O hormônio luteinizante (LH) é um hormônio relacionado à reprodução produzido pela adenoipófise e atua, nas mulheres, estimulando a ovulação e o corpo lúteo e, nos homens, as células intersticiais.
+A prolactina é um hormônio masculino relacionado à reprodução produzido pela hipófise e atua estimulando a espermatogênese e o desenvolvimento de características sexuais secundárias.
+O estrógeno é um hormônio feminino relacionado à reprodução produzido pelo ovário e tem como função a maturação dos órgãos reprodutores, estimular o desenvolvimento das características sexuais secundárias e preparar o útero para a gravidez.
+A progesterona é um hormônio feminino relacionado à reprodução produzido no ovário e tem como função a preparação da mucosa uterina e sua manutenção para a gravidez, bem como o desenvolvimento das glândulas mamárias.
+A testosterona é um hormônio masculino relacionado à reprodução produzido pelos testículos e tem como função estimular a espermatogênese e desenvolver as características sexuais secundárias masculinas.
+
+ALTERNATIVAS CORRETAS
+1,2,4,5,6
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+O hormônio folículo-estimulante (FSH) é um hormônio relacionado à reprodução produzido pela adenoipófise e atua, nas mulheres, estimulando os folículos ovarianos e, nos homens, a espermatogênese.
+O hormônio luteinizante (LH) é um hormônio relacionado à reprodução produzido pela adenoipófise e atua, nas mulheres, estimulando a ovulação e o corpo lúteo e, nos homens, as células intersticiais.
+O estrógeno é um hormônio feminino relacionado à reprodução produzido pelo ovário e tem como função a maturação dos órgãos reprodutores, estimular o desenvolvimento das características sexuais secundárias e preparar o útero para a gravidez.
+A progesterona é um hormônio feminino relacionado à reprodução produzido no ovário e tem como função a preparação da mucosa uterina e sua manutenção para a gravidez, bem como o desenvolvimento das glândulas mamárias.
+A testosterona é um hormônio masculino relacionado à reprodução produzido pelos testículos e tem como função estimular a espermatogênese e desenvolver as características sexuais secundárias masculinas.
+A prolactina é um hormônio relacionado à reprodução que estimula a produção de leite nas glândulas mamárias, após a estimulação prévia pelo estrógeno e progesterona.
+fim
+
+GRUPO
+8
+
+MODELO
+2
+
+ENUNCIADO
+Na espécie humana há diversas glândulas endócrinas, sendo que algumas delas são responsáveis pela produção de mais de um tipo de hormônio. Analise as alternativas abaixo e, sobre as principais glândulas do sistema endócrino, selecione todas as alternativas que julgar como verdadeiras.
+
+ALTERNATIVAS
+As principais glândulas endócrinas humanas são: a hipófise, a tireoide, as paratireoides, o pâncreas, as suprarrenais e as gônadas.
+As principais glândulas endócrinas humanas são: o hipotálamo, a tireoide, as paratireoides, o fígado, a faringe e os rins.
+O tecido gorduroso também apresenta atividade endócrina, produzindo o hormônio leptina, que atua sobre o hipotálamo diminuindo o apetite.
+A glândula pineal (pequena região do encéfalo) sintetiza o hormônio melatonina, que envolve o controle das respostas corpóreas ligadas aos ciclos de claro-escuro.
+A adenoipófise é responsável por armazenar hormônios produzidos pelo hipotálamo, os quais podem ser citados o hormônio antidiurético, a aldosterona, os glicocorticoides e o glucagon.
+As gonadotrofinas (FSH e LH) são hormônios relacionados à reprodução, sendo ambos produzidos e secretados pelos ovários e testículos.
+
+ALTERNATIVAS CORRETAS
+1,3,4
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+As principais glândulas endócrinas humanas são: a hipófise, a tireoide, as paratireoides, o pâncreas, as suprarrenais e as gônadas.
+O tecido gorduroso também apresenta atividade endócrina, produzindo o hormônio leptina, que atua sobre o hipotálamo diminuindo o apetite.
+A glândula pineal (pequena região do encéfalo) sintetiza o hormônio melatonina, que envolve o controle das respostas corpóreas ligadas aos ciclos de claro-escuro.
+Fim
+
+GRUPO
+8
+
+MODELO
+3
+ 
+ENUNCIADO
+As figuras e as alternativas abaixo caracterizam três das principais glândulas endócrinas do corpo humano. Analise as imagens e as alternativas em texto e, acerca do sistema endócrino, forme pares com as alternativas propostas, estabelecendo correspondência entre a figura e sua respectiva caraterística.
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+PARES CORRETOS
+img4m3aendo = Produz hormônios tróficos que estimulam outras glândulas
+img4m3bendo = Estimula e mantém os processos metabólicos
+img4m3cendo = Regula a taxa de glicose na corrente sanguínea
+
+FEEDBACK IMAGEM
+imgfeedback1m3
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+Glândula hipófise, conhecida como “glândula-mestra” por apresentar como uma de suas funções a regulação do funcionamento de outras glândulas endócrinas, por meio da liberação de hormônios tróficos como o TSH, ACTH, FSH e LH. Essa função é exercida por sua porção anterior, denominada adenoipófise.
+Glândula tireoide, na qual os principais hormônios produzidos são a tri-iodotironina (T3) e a tiroxina (T4), cuja função fundamental consiste em estimular e manter os processos metabólicos. Além destes, outro importante hormônio da tireoide é a calcitonina, responsável por reduzir a concentração de cálcio no sangue.
+Pâncreas, consiste em uma glândula mista (endócrina e exócrina). Em sua função endócrina, produz os hormônios insulina (responsável por reduzir a quantidade de glicose no sangue) e glucagon (responsável por aumentar a quantidade de glicose no sangue).
+fim
+
+GRUPO
+8
+
+MODELO
+3
+ 
+ENUNCIADO
+As figuras e as alternativas abaixo caracterizam três das principais glândulas endócrinas do corpo humano. Analise as imagens e as alternativas em texto e, acerca do sistema endócrino, forme pares com as alternativas propostas, estabelecendo correspondência entre a figura e sua respectiva caraterística.
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+PARES CORRETOS
+img5m3aendo = Produz catecolaminas, glicocorticoides e mineralocorticoides
+img5m3bendo = Produz estrógeno e progesterona
+img5m3cendo = Produz andrógenos
+
+FEEDBACK IMAGEM
+imgfeedback2m3
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+Glândula suprarrenal, formada pelo córtex, que produz hormônios cuja função inclui a regulação dos níveis de sódio, potássio e água no organismo (mineralocorticoides) e hormônios que auxiliam na manutenção da glicemia (glicocorticoides); e pela medula, cuja função principal é produzir hormônios do tipo catecolaminas, como a adrenalina (hormônio que promove reações de alerta em situações de estresse) e noradrenalina (hormônio que regula a pressão arterial).
+Ovário, consiste na gônada feminina. Produz o hormônio estrógeno, que promove a maturação dos órgãos reprodutores, estimula o crescimento da mucosa uterina e desenvolve e mantem as características sexuais secundárias femininas; e o hormônio progesterona, que completa a preparação da mucosa uterina, preparando-a para uma possível gravidez, além de estimular o desenvolvimento das glândulas mamárias.
+Testículo, consiste na gônada masculina. Produz hormônios andrógenos (testosterona), responsável por estimular a espermatogênese (produção de espermatozoides) e pelo desenvolvimento e manutenção das características sexuais secundárias masculinas.
+fim
+
+GRUPO
+8
+
+MODELO
+4
+  
+ENUNCIADO
+A animação abaixo ilustra uma importante função da glândula hipófise, localizada na base do encéfalo. Analise a animação e as alternativas e, com base em seus conhecimentos acerca desta importante glândula do sistema endócrino, selecione a alternativa que julgar como verdadeira.
+
+IMAGEM
+imggif1m4endo
+
+LEGENDA DA IMAGEM
+Imagem: CrashCourse, via Makeagif. Disponível aqui.
+ 
+ALTERNATIVAS
+A animação representa a função da adenoipófise em armazenar e liberar hormônios produzidos pelo hipotálamo, tais como a prolactina, o paratormônio e a melatonina.
+A animação representa a função da neuroipófise em armazenar e liberar hormônios produzidos pelo hipotálamo, tais como as enzimas digestivas, andrógenos e esteroides.
+A animação representa a função da adenoipófise em produzir hormônios tróficos, isto é, que estimulam o funcionamento de outras glândulas endócrinas.
+A animação representa a função da neuroipófise em produzir hormônios sexuais, isto é, relacionados ao desenvolvimento das características sexuais secundárias em homens e mulheres.
+
+ALTERNATIVA CORRETA
+3
+
+FEEDBACK IMAGEM
+imggif1m4endo
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: CrashCourse, via Makeagif. Disponível aqui.
+
+FEEDBACK TEXTO
+A animação representa a função da adenoipófise em produzir hormônios tróficos, isto é, que estimulam o funcionamento de outras glândulas endócrinas. Dentre os principais hormônios tróficos, encontram-se o hormônio tireotrófico (TSH) que estimula a tireoide, o hormônio adrenocorticotrófico (ACTH) que regula o córtex da glândula suprarrenal, bem como os hormônios folículo-estimulante (FSH) e luteinizante (LH) que atuam sobre as gônadas masculinas e femininas.
+fim
+
+GRUPO
+8
+
+MODELO
+4
+  
+ENUNCIADO
+A animação abaixo demonstra a relação entre o controle hormonal do hipotálamo sobre a hipófise que, por sua vez, regula o funcionamento de órgãos-alvo, tais como as gônadas femininas, conforme ilustrado. Analise a imagem e as alternativas e selecione a proposição que julgar como verdadeira.
+
+IMAGEM
+imggif2m4endo
+
+LEGENDA DA IMAGEM
+Imagem: Leshaeros, via Makeagif. Disponível aqui. 
+
+ALTERNATIVAS
+O hipotálamo, ao secretar o hormônio liberador de gonadotrofina (GnRH), estimula a neuroipófise a secretar estrógeno e progesterona, que atuam preparando a mucosa uterina para uma possível gravidez. 
+O hipotálamo, ao secretar FSH e LH, estimula a neurohipófise a secretar hormônio liberador de gonadotrofina (GnRH), que atua na regulação da atividade dos hormônios tróficos.
+O hipotálamo, ao secretar estrógeno e progesterona, estimula a adenohipófise a secretar hormônio liberador de gonadotrofina (GnRH), que atua sobre os ovários desenvolvendo os folículos ovarianos e promovendo a ovulação.
+O hipotálamo, ao secretar o hormônio liberador de gonadotrofina (GnRH), estimula a adenoipófise a secretar FSH, que atua sobre os ovários desenvolvendo os folículos ovarianos, e LH, responsável pela ovulação.
+ 
+ALTERNATIVA CORRETA
+4
+
+FEEDBACK IMAGEM
+imggif2m4endo
+
+LEGENDA DA IMAGEM DE FEEDBACK
+
+FEEDBACK TEXTO
+O hipotálamo, ao secretar o hormônio liberador de gonadotrofina (GnRH), estimula a adenoipófise a secretar hormônio folículo-estimulante (FSH), que atua sobre os ovários desenvolvendo os folículos ovarianos, e hormônio luteinizante (LH), responsável pela ovulação. 
+Além disso, os hormônios FSH e LH, por serem hormônios tróficos, influenciam na produção de outros hormônios, nas gônadas: os hormônios sexuais. No caso da mulher, os hormônios são o estrógeno e a progesterona.
+fim
+
+GRUPO
+8
+
+MODELO
+4
+  
+ENUNCIADO
+A animação abaixo demonstra uma glândula muito importante para a homeostasia no organismo humano, cuja função principal é estimular e manter os processos metabólicos em diferentes órgãos, bem como regular a taxa de água, sódio e potássio no sangue. Com base nas informações, analise a imagem e as alternativas e selecione a proposição que julgar como verdadeira.
+
+IMAGEM
+imggif3m4endo
+
+LEGENDA DA IMAGEM
+Imagem: BodyParts3D – DBCLS, Creative Commons BY-SA 2.1 JP, via Wikimedia Commons. Disponível aqui.
+
+ALTERNATIVAS
+A glândula representada na imagem consiste na tireoide, responsável pela produção de hormônios tri-iodotironina (T3), tiroxina (T4) e calcitonina. Aderidas a tireoide estão as glândulas paratireoides, que produzem o paratormônio.
+A glândula representada na imagem consiste na tireoide, responsável pela produção de hormônios tireotrófico (TSH) e calcitonina. Aderidas a tireoide estão as glândulas paratireoides, que produzem os hormônios tri-iodotironina (T3), tiroxina (T4).
+A glândula representada na imagem consiste na suprarrenal, responsável pela produção de hormônios calcitonina e mineralocorticoides. Aderidas a suprarrenal estão as glândulas chamadas ilhotas de Langerhans, que secretam insulina e glucagon.
+A glândula representada na imagem consiste na suprarrenal, responsável pela produção de hormônios adrenalina e noradrenalina. Aderidas a suprarrenal estão as glândulas pararrenais, que produzem o paratormônio.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+imggif3m4endo
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: BodyParts3D – DBCLS, Creative Commons BY-SA 2.1 JP, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+A glândula representada na imagem consiste na tireoide, responsável pela produção de hormônios tri-iodotironina (T3), tiroxina (T4) e calcitonina. Aderidas a tireoide estão as glândulas paratireoides, que produzem o paratormônio.
+fim
+
+GRUPO
+8
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo ilustra um caso grave de uma doença da glândula tireoide, que acarreta seu crescimento anormal e consequente formação de um volume no pescoço, chamado bócio. No que se refere a esta doença da glândula tireoide, analise as alternativas e selecione a que julgar como verdadeira.
+
+IMAGEM
+img6m5endo
+ 
+LEGENDA DA IMAGEM
+Imagem: Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS
+Hipertireoidismo: a glândula diminui e produz menos hormônios que o necessário, causando diminuição da temperatura corporal, ressecamento da pele, diminuição da pressão arterial e tendência a engordar.
+Hipotireoidismo: a glândula diminui e produz hormônios em excesso, causando aumento da temperatura corporal, sudorese intensa, perda de peso, irritabilidade, hipertensão e olhos arregalados.
+Hipertireoidismo: a glândula aumenta e produz hormônios em excesso, causando aumento da temperatura corporal, sudorese intensa, perda de peso, irritabilidade, hipertensão e olhos arregalados.
+Hipotireoidismo: a glândula aumenta e produz menos hormônios que o necessário, causando diminuição da temperatura corporal, ressecamento da pele, diminuição da pressão arterial e tendência a engordar.
+
+ALTERNATIVA CORRETA
+3
+
+FEEDBACK IMAGEM
+img6m5endo
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A doença indicada pela imagem consiste no hipertireoidismo, em que a glândula aumenta e produz hormônios em excesso, causando aumento da temperatura corporal, sudorese intensa, perda de peso, irritabilidade, hipertensão e olhos arregalados.
+Ao contrário, também há outra disfunção da tireoide, conhecida como hipotireoidismo, em que a glândula produz menos hormônios que o necessário, causando diminuição da temperatura corporal, ressecamento da pele, diminuição da pressão arterial e tendência a engordar.
+fim
+
+GRUPO
+8
+
+MODELO
+5
+ 
+ENUNCIADO
+A imagem abaixo ilustra duas glândulas humanas presentes no corpo da mulher, sendo uma de natureza endócrina e outra exócrina. Analise a figura e as alternativas e, com base nas informações e em seus conhecimentos, determine a alternativa que indique corretamente a relação entre as duas glândulas.
+
+IMAGEM
+img7m5endo
+ 
+LEGENDA DA IMAGEM
+Imagem: Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS
+A adenoipofise é responsável por produzir o hormônio prolactina, que estimula a secreção de leite pelas glândulas mamárias. A neuroipófise secreta o hormônio oxitocina, que promove a contração das glândulas mamárias para a expulsão do leite.
+A adenoipofise é responsável por produzir o hormônio estrógeno, que estimula o desenvolvimento das glândulas mamárias. A neuroipófise secreta o hormônio oxitocina, que promove a produção de leite pelas glândulas mamárias.
+A hipófise consiste em uma glândula exócrina, isto é, secreta hormônios em ductos ou na superfície externa do organismo, enquanto as glândulas mamárias são endócrinas, isto é, suas secreções fluem pelos líquidos corporais.
+A hipófise e as glândulas mamárias não possuem relação direta ou indireta na homeostasia do organismo, sobretudo no corpo da mulher, uma vez que a hipófise é uma glândula endócrina e as glândulas mamárias são exócrinas.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+img7m5endo
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A adenoipofise é responsável por produzir o hormônio prolactina, que estimula a secreção de leite pelas glândulas mamárias (após a estimulação prévia das glândulas mamárias por estrógeno e progesterona). A neuroipófise secreta o hormônio oxitocina, que promove a contração das glândulas mamárias para a expulsão do leite durante a amamentação. A liberação da oxitocina é estimulada pela própria sucção do peito pelo bebê.
+fim
+
+GRUPO
+8
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo ilustra o processo de regulação da taxa de glicose no sangue, destacando a relação funcional entre o pâncreas (responsável pela produção de insulina e glucagon) e o fígado. Sob este aspecto, analise a figura e as alternativas e selecione a proposição que julgar como verdadeira sobre esse processo.
+
+IMAGEM
+img8m5endo
+ 
+LEGENDA DA IMAGEM
+Imagem: Rhcastilhos, Domínio público, via Wikimedia Commons. Disponível aqui.
+
+ALTERNATIVAS
+Em altas taxas de glicose no sangue, o glucagon estimula todas as células a absorver mais glicose e o excesso é armazenado no fígado. Com baixas taxas, a insulina estimula o fígado a converter glicogênio em glicose.
+Após uma refeição, a insulina estimula todas as células a absorver mais glicose e o excesso é armazenado no fígado. Em longo período sem alimento, o glucagon estimula o fígado a converter glicogênio em glicose.
+O fígado e o pâncreas não apresentam relação funcional no que se refere ao sistema endócrino. Ambos se relacionam apenas no que concerne às suas secreções exócrinas, responsáveis pela digestão no duodeno.
+As células-beta constituem cerca de 70% de cada ilhota pancreática e são responsáveis pela produção de glucagon. As células-alfa são responsáveis pela produção de insulina pelo fígado.
+
+ALTERNATIVA CORRETA
+2
+
+FEEDBACK IMAGEM
+img8m5endo
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Rhcastilhos, Domínio público, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+Após uma refeição, a insulina estimula todas as células a absorver mais glicose e o excesso é armazenado no fígado. Em longo período sem alimento, o glucagon estimula o fígado a converter glicogênio em glicose.
+fim
+
+GRUPO
+8
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo ilustra os níveis hormonais de hormônio folículo-estimulante, hormônio luteinizante, estrógeno, progesterona de uma mulher adulta, em idade férgil, durante o ciclo menstrual. Analise a imagem e as alternativas e selecione a proposição que julgar como verdadeira acerca dos hormônios relacionados à reprodução. 
+
+IMAGEM
+img9m5endo
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de MindZiper, Domínio público, via Wikimedia Commons. Disponível aqui. 
+
+ALTERNATIVAS
+Por volta do dia 28 do ciclo, o nível de estrógeno e progesterona fica muito baixo, levando a mucosa uterina a se desprender e ser eliminada na menstruação, o que inicia um novo ciclo.
+Por volta do dia 14 do ciclo, o alto nível de FSH e LH faz com que a mucosa uterina se desprenda e seja eliminada na menstruação, o que inicia um novo ciclo.
+Entre os dias 1 e 5, o alto nível de estrógeno e progesterona estimulam o crescimento do folículo ovariano e da menstruação.
+Entre os dias 14 e 21, o alto nível de FSH e LH faz com que o corpo amarelo se desenvolva, promovendo a ovulação.  
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+img9m5endo
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de MindZiper, Domínio público, via Wikimedia Commons. Disponível aqui. 
+
+FEEDBACK TEXTO
+O início do ciclo menstrual é marcado pela menstruação. A fase folicular é marcada pelo desenvolvimento do folículo ovariano, sob estímulo do hormônio hipofisário FSH. 
+Com o desenvolvimento dos folículos, estes passam a produzir estrógeno, o que promove o espessamento da parede uterina e induz a hipófise a liberar grande quantidade de FSH e LH.
+Por volta do 14º dia, o FSH e o LH, em altas taxas, induzem a ovulação.
+Altas taxas de LH após a ovulação, induzem o folículo rompido a se transformarem no corpo lúteo e produzirem estrógeno e grande quantidade de progesterona. O corpo lúteo atinge seu desenvolvimento máximo entre 8 a 10 dias após a ovulação, caracterizando a fase lútea.
+O estrógeno e a progesterona produzidos pelo corpo lúteo, agora inibem (por feedback negativo) a produção de FSH e LH, o que promove a regressão do corpo lúteo, que deixa de produzir estrógeno e progesterona. 
+Por volta do dia 28 do ciclo, o nível de estrógeno e progesterona fica muito baixo, levando a mucosa uterina a se desprender e ser eliminada na menstruação, o que inicia um novo ciclo.
+A queda de estrógeno e progesterona faz com que a hipófise volte a produzir FSH.
+fim
+
+GRUPO
+8
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo ilustra as principais glândulas do sistema endócrino. Analise a figura e as alternativas e assinale a proposição que compreenda apenas as glândulas pertencente a este sistema do corpo humano.
+
+IMAGEM
+img10m5endo
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de MrArifnajafov, Domínio Público, via Wikimedia Commons. Disponível aqui.
+
+ALTERNATIVAS
+Hipófise, tireoide, suprarrenal, pâncreas e gônadas.
+Hipófise, tireoide, fígado, rins, ovário e testículos.
+Hipotálamo, suprarrenal, fígado, ovário e gônadas.
+Hipotálamo, hipófise, fígado, pâncreas e gônadas
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+imgfeed10m5endo
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de MrArifnajafov, Domínio Público, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+As principais glândulas do sistema endócrino são: Hipófise, tireoide, suprarrenal, pâncreas e gônadas (ovários e testículos).
+fim
+
+GRUPO
+8
+
+MODELO
+6
+ 
+ENUNCIADO
+O diabetes melito é um distúrbio hormonal relacionado ao controle da taxa de glicose no sangue. Há dois tipos de diabetes, o tipo I ou juvenil e o tipo II ou tardio. No que se refere o diabetes do tipo I, analise as alternativas abaixo e selecione a que julgar como verdadeira.
+
+ALTERNATIVAS
+No diabetes do tipo I a pessoa acometida é insulino-dependente, pois há redução acentuada de células-beta no pâncreas, causando deficiência na produção de insulina.
+No diabetes do tipo I a pessoa acometida apresenta níveis praticamente normais de insulina no sangue, mas sofre redução do número de receptores de insulina nas membranas de algumas células, diminuindo a capacidade absorver glicose do sangue.
+No diabetes do tipo I a pessoa acometida é dependente do hormônio glucagon, pois há redução acentuada de células-alfa no pâncreas, causando deficiência na produção de deste hormônio.
+No diabetes do tipo I a pessoa acometida apresenta níveis praticamente normais de glucagon no sangue, mas sofre redução do número de receptores de insulina nas membranas de algumas células, diminuindo a capacidade absorver cálcio do sangue.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+No diabetes do tipo I a pessoa acometida é insulino-dependente, pois há redução acentuada de células-beta no pâncreas, causando deficiência na produção de insulina. Esse tipo de diabetes desenvolve-se antes dos 40 anos de idade e afeta cerca de 10% dos diabéticos, que necessitam receber injeções de insulina diariamente, a fim de manter normais os níveis de glicose no sangue. 
+fim
+
+GRUPO
+8
+
+MODELO
+6
+ 
+ENUNCIADO
+O diabetes melito é um distúrbio hormonal relacionado ao controle da taxa de glicose no sangue. Há dois tipos de diabetes, o tipo I ou juvenil e o tipo II ou tardio. No que se refere o diabetes do tipo II, analise as alternativas abaixo e selecione a que julgar como verdadeira.
+
+ALTERNATIVAS
+No diabetes do tipo II a pessoa acometida é insulino-dependente, pois há redução acentuada de células-beta no pâncreas, causando deficiência na produção de insulina.
+No diabetes do tipo II a pessoa acometida apresenta níveis praticamente normais de insulina no sangue, mas sofre redução do número de receptores de insulina nas membranas de algumas células, diminuindo a capacidade absorver glicose do sangue.
+No diabetes do tipo II a pessoa acometida é dependente do hormônio glucagon, pois há redução acentuada de células-alfa no pâncreas, causando deficiência na produção de deste hormônio.
+No diabetes do tipo II a pessoa acometida apresenta níveis praticamente normais de glucagon no sangue, mas sofre redução do número de receptores de insulina nas membranas de algumas células, diminuindo a capacidade absorver cálcio do sangue.
+
+ALTERNATIVA CORRETA
+2
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+No diabetes do tipo II a pessoa acometida apresenta níveis praticamente normais de insulina no sangue, mas sofre redução do número de receptores de insulina nas membranas de células musculares e adiposas, diminuindo a capacidade absorver glicose do sangue. Esse tipo de diabetes geralmente acomete pessoas após os 30 anos de idade. 
+O tratamento costuma ser realizado com medicamentos antidiabéticos, que agem podendo aumentar a produção de insulina, aumentando a sensibilidade à insulina, diminuindo a produção de glicose pelo organismo ou diminuindo a taxa de absorção de glicose durante a alimentação. 
+fim
+
+GRUPO
+8
+
+MODELO
+6
+ 
+ENUNCIADO
+O mecanismo de feedback ou retroalimentação é um conjunto de respostas do organismo frente a um desequilíbrio, visando manter sua homeostase. Esse mecanismo pode ser de dois tipos: feedback negativo e feedback positivo. Sobre esse processo, analise as alternativas abaixo e assinale a que julgar como verdadeira.
+
+ALTERNATIVAS
+O controle hormonal no sistema endócrino é realizado principalmente por feedback positivo, ou seja, quando a concentração de um hormônio limita sua própria produção.
+O controle hormonal no sistema endócrino é realizado principalmente por feedback negativo, ou seja, quando a concentração de um hormônio promove a sua degradação por linfócitos.
+O controle hormonal no sistema endócrino é realizado principalmente por feedback positivo, ou seja, quando a concentração de um hormônio desativa os receptores hormonais.
+O controle hormonal no sistema endócrino é realizado principalmente por feedback negativo, ou seja, quando a concentração de um hormônio limita sua própria produção.
+
+ALTERNATIVA CORRETA
+4
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+O controle hormonal no sistema endócrino é realizado principalmente por feedback negativo, ou seja, quando a concentração de um hormônio limita sua própria produção. 
+Exemplo: sob estimulo do hipotálamo, a adenoipofise secreta TSH (hormônio tireotrófico) em resposta a uma baixa concentração dos hormônios T3 e T4. Como consequência, o TSH promove liberação de T3 e T4 para o sangue. O aumento da concentração desses hormônios provoca a inibição do hipotálamo e da adenoipofise, diminuindo a secreção de TSH, pois não há mais necessidade de secreção de T3 e T4 pela tireoide.
+fim
+
+

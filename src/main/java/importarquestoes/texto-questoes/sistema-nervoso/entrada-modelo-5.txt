@@ -1,0 +1,170 @@
+GRUPO
+9
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo ilustra o sistema nervoso periférico autônomo simpático. Analise a figura e as alternativas e, com base em seus conhecimentos sobre este ramo do SNPA, assinale a alternativa que julgar como correta.
+
+IMAGEM
+img7m5ner
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS
+De modo geral, estimula principalmente atividades relaxantes e digestórias, geralmente liberando acetilcolina.
+De modo geral, estimula ações que mobilizam energia, geralmente liberando adrenalina, permitindo o organismo responder a situações de estresse.
+É constituído por nervos cranianos que partem do encéfalo e nervos raquidianos que partem da região sacral, sendo que os gânglios são mais próximos do órgão controlado.
+É constituído por nervos cranianos que partem do encéfalo e nervos raquidianos que partem da região sacral, sendo que os gânglios são mais próximos da medula.
+
+ALTERNATIVA CORRETA
+2
+
+FEEDBACK IMAGEM
+img7feedm5ner
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+O SNPA simpático é constituído por nervos raquidianos que partem da região torácica e lombar, com gânglios próximos da medula. De modo geral, estimula ações que mobilizam energia, geralmente liberando adrenalina, permitindo o organismo responder a situações de estresse, como por exemplo: acelerar os batimentos cardíacos, aumentar a pressão arterial, aumentar a concentração de açúcar no sangue e ativar o metabolismo geral do corpo.
+fim
+
+GRUPO
+9
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo ilustra o sistema nervoso periférico autônomo parassimpático. Analise a figura e as alternativas e, com base em seus conhecimentos sobre este ramo do SNPA, assinale a alternativa que julgar como correta.
+
+IMAGEM
+img8m5ner
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS
+De modo geral, estimula principalmente atividades relaxantes e digestórias, geralmente liberando acetilcolina.
+De modo geral, estimula ações que mobilizam energia, geralmente liberando adrenalina, permitindo o organismo responder a situações de estresse.
+É constituído por nervos raquidianos que partem da região torácica e lombar, com gânglios próximos da medula
+É constituído por nervos raquidianos que partem da região cervical e torácica, com gânglios próximos dos órgãos controlados.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+img8feedm5ner
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+O SNPA parassimpático, é constituído por nervos cranianos que partem do encéfalo e nervos raquidianos que partem da região sacral, sendo que os gânglios são mais próximos do órgão controlado. De modo geral, estimula principalmente atividades relaxantes e digestórias, geralmente liberando acetilcolina, como a redução do ritmo cardíaco e da pressão sanguínea, aumento das secreções estomacais e intestinais, etc.
+fim
+
+GRUPO
+9
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo demonstra uma sinapse química neuromuscular, onde as extremidades axônicas dos neurônios são dilatadas e seu citoplasma apresenta vesículas membranosas repletas de neurotransmissores, que são lançados sobre a musculatura esquelética. Sobre esse processo, analise a figura e as alternativas propostas e selecione a proposição que julgar como verdadeira.
+
+IMAGEM
+img9m5ner
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS
+Os neurotransmissores ligam-se a proteínas receptoras de membrana da célula pós-sinaptica (fibra muscular), gerando um potencial de ação que desencadeia o processo de contração.
+Os neurotransmissores ligam-se a hormônios receptores de membrana da célula pré-sináptica (fibra muscular), gerando um potencial de ação que desencadeia um novo impulso nervoso.
+Os neurotransmissores liberados pelos neurônios permanecem por horas estimulando a célula pós-sináptica, até serem produzidos novos neurotransmissores.
+Os neurotransmissores liberados pelos neurônios em sinapses neuromusculares consistem em enzimas, tais como a adrenalina, peptina e gastrina.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+img9m5ner
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A figura demonstra uma sinapse química neuromuscular, onde as extremidades axônicas dos neurônios são dilatadas e seu citoplasma apresenta vesículas membranosas repletas de neurotransmissores, que são lançados sobre a musculatura esquelética.
+Os neurotransmissores ligam-se a proteínas receptoras de membrana da célula pós-sinaptica (fibra muscular), gerando um potencial de ação que desencadeia o processo de contração. O neurotransmissor mediador das sinapses químicas neuromusculares consiste na acetilcolina.
+fim
+
+GRUPO
+9
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo ilustra o encéfalo e a medula espinhal em corte, demonstrando que ambos possuem uma camada de cor acinzentada e outra esbranquiçada. Contudo, enquanto a camada cinzenta é mais externa no cérebro, ela encontra-se localizada mais internamente na medula. Sobre a substância cinzenta e branca, analise a figura e as alternativas e assinale a alternativa que julgar como verdadeira.
+
+IMAGEM
+img10m5ner
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS
+Na substância branca estão localizados os gliócitos do tipo astrócitos, ologodendrócitos, células de Schwann e micróglias, enquanto na substância cinzenta estão localizados as neurofibras.
+Na substância cinzenta estão localizados os gliócitos do tipo astrócitos, ologodendrócitos, células de Schwann e micróglias, enquanto na substância cinzenta estão localizados os dendrócitos.
+Na substância branca, localizam-se os corpos celulares dos neurônios e certos tipos de gliócitos, enquanto na substância cinzenta, localizam-se principalmente as neurofibras revestidas por mielina.
+Na substância cinzenta, localizam-se os corpos celulares dos neurônios e certos tipos de gliócitos, enquanto na substância branca, localizam-se principalmente as neurofibras revestidas por mielina.
+
+ALTERNATIVA CORRETA
+4
+
+FEEDBACK IMAGEM
+img10m5ner
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+Na substância cinzenta, localizam-se os corpos celulares dos neurônios e certos tipos de gliócitos, enquanto na substância branca, localizam-se principalmente as neurofibras revestidas por mielina.
+fim
+
+GRUPO
+9
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo demonstra, em I, o maior nervo do corpo humano e que em determinadas condições pode causar dor, formigamento no membro e pontadas, por exemplo. Analise a figura e as alternativas propostas e, com base em seus conhecimentos, selecione a proposição que julgar como correta.
+
+IMAGEM
+img11m5ner
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS
+A figura indica o nervo plexo braquial, formado pelos ramos ventrais das raízes dos nervos cervicais inferiores e do primeiro torácico. Quando a imunidade está baixa, o nervo inflama, causando a dor plexo braquial.
+A figura indica o nervo musculocutâneo que surge do fascículo no nervo plexo braquial, sendo formado por fibras oriundas da região cervical. Quando o nervo comprime, causa a dor muscular.
+A figura indica o nervo ciático, formado por raízes nervosas provenientes da coluna vertebral. Caso haja compressão do nervo, este inflama, causando a conhecida dor ciática.
+A figura indica o nervo plexo lombar, formado por ramos ventrais dos nervos espinhais. Quando a imunidade está baixa, o nervo inflama, causando dor na região torácica e nos músculos do quadril.
+
+ALTERNATIVA CORRETA
+3
+
+FEEDBACK IMAGEM
+img11feedm5ner
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+
+fim

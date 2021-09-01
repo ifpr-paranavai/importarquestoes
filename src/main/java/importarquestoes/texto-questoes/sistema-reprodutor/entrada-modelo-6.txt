@@ -1,0 +1,55 @@
+GRUPO
+5
+
+MODELO
+6
+ 
+ENUNCIADO
+Os métodos contraceptivos atuam para evitar uma gravidez indesejada, podendo atuar de diversas formas e em diferentes etapas do processo reprodutivo. Contudo, são poucos os métodos que, além de evitar a concepção, previnem de Doenças Sexualmente Transmissíveis (DSTs). Sob este aspecto, analise as alternativas abaixo e determine a única proposição cujos métodos previnam contra as DSTs.
+
+ALTERNATIVAS
+A camisinha feminina ou masculina previne das DSTs por consistirem em métodos de barreira que impedem o contato direto e a troca de fluidos entre as regiões íntimas.
+O espermicida, por consistir em um método de barreira que evita que os espermatozoides cheguem ao óvulo, também protege contra DSTs.
+A pílula anticoncepcional, por atual mantendo os níveis de hormônios em taxas que impedem a ovulação, também protegem contra a transmissão de DSTs.
+O DIU, ao criar um processo inflamatório no útero impedindo a implantação de embriões no útero, impede a transmissão de DSTs.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+A camisinha feminina ou masculina, ou preservativo, é um protetor de látex que previne das DSTs por consistirem em métodos de barreira que impedem o contato direto e a troca de fluidos entre as regiões íntimas durante o ato sexual.
+fim
+
+GRUPO
+5
+
+MODELO
+6
+ 
+ENUNCIADO
+A camisinha (masculina e feminina) é um dos métodos contraceptivos mais indicados durante o ato sexual, uma vez que, além de evitar a gravidez, protege de possíveis contaminações por Doenças Sexualmente Transmissíveis (DST). Sob este aspecto, no que se refere à camisinha masculina, assinale a alternativa correta.
+
+ALTERNATIVAS
+A camisinha deve ser colocada no pênis anteriormente de que o órgão esteja ereto, preferencialmente após a penetração.
+A camisinha permite o contato entre fluidos genitais de parceiros durante o ato sexual, por isso, ela não protege contra DSTs.
+Ao retirar a camisinha masculina do pênis, é necessário que o órgão não esteja mais ereto.
+Ao inserir a camisinha no pênis, é necessário segurar sua ponta para retirar o ar, evitando que estoure durante a ejaculação.
+
+ALTERNATIVA CORRETA
+4
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO:
+Ao inserir a camisinha no pênis, é necessário segurar sua ponta para retirar o ar, evitando que estoure durante a ejaculação. 
+fim
