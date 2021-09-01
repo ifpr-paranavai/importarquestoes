@@ -14,7 +14,7 @@ Os órgãos imunitários primários são aqueles onde há produção de anticorp
 Os órgãos imunitários primários são aqueles onde há destruição de macrófagos e monócitos. Os órgãos imunitários secundários são aqueles onde há produção de antígenos e outras substâncias patógenas.
 
 ALTERNATIVA CORRETA
-Os órgãos imunitários primários são aqueles onde os linfócitos se originam e se diferenciam. Os órgãos imunitários secundários são aqueles onde os linfócitos se multiplicam e exercem importantes funções na defesa do organismo.
+1
 
 FEEDBACK IMAGEM
 feedback1m6sc
@@ -42,7 +42,7 @@ A aterosclerose consiste no refluxo sanguíneo de um dos ventrículos do coraç�
 A aterosclerose consiste na deficiência de células vermelhas do sangue (hemácias), tendo como consequência a redução de hemoglobina no sangue, que acarreta na dificuldade de abastecimento dos tecidos com oxigênio. 
 
 ALTERNATIVA CORRETA
-A aterosclerose consiste na deposição de placas de gordura na superfície interior das artérias, ocasionando estreitamento e enrijecimento, comprometendo a elasticidade da artéria acometida e causando aumento da pressão arterial sistólica.
+1
 
 FEEDBACK IMAGEM
 feedback2m6sc
@@ -70,7 +70,7 @@ O infarto do miocárdio consiste no refluxo sanguíneo das artérias (aorta e ar
 O infarto do miocárdio consiste na deficiência de células vermelhas do sangue (hemácias), tendo como consequência a redução de hemoglobina no sangue, que acarreta na dificuldade de abastecimento dos tecidos com oxigênio.
 
 ALTERNATIVA CORRETA
-O infarto do miocárdio é causado pela interrupção do fluxo sanguíneo ao músculo cardíaco, provocada pela obstrução de uma artéria coronária ou suas ramificações, levando à necrose (morte tecidual) da região sem irrigação, devido à falta de oxigênio.
+1
 
 FEEDBACK IMAGEM
 feedback3m6sc
@@ -98,7 +98,7 @@ A hipertensão arterial ocorre quando a pessoa sente dores fortes no peito ao me
 A hipertensão arterial ocorre quando a pessoa sente dores fortes no peito, em decorrência da necrose total ou parcial do músculo cardíaco, pela falta de oxigenação do tecido.
 
 ALTERNATIVA CORRETA
-A hipertensão arterial ocorre quando a força ou pressão que o sangue exerce sobre a parede interna das artérias encontra-se acima do normal.
+1
 
 FEEDBACK IMAGEM
 feedback4m6sc
@@ -126,7 +126,7 @@ A imunidade humoral consiste no processo de defesa do organismo realizado por pr
 A imunidade humoral consiste no processo de defesa do organismo realizado diretamente por células denominadas totipotentes, que por meio de liberação de substâncias digestivas, digerem o patógeno, eliminando-o do organismo.
 
 ALTERNATIVA CORRETA
-A imunidade humoral consiste no processo de defesa do organismo realizado por proteínas especiais produzidas por linfócitos B maduros, ou plasmócitos, denominadas anticorpos. Esses anticorpos se ligam ao antígeno, tornando-o inativo e favorecendo a sua destruição.
+1
 
 FEEDBACK IMAGEM
 feedback5m6sc
@@ -154,7 +154,7 @@ A imunidade celular consiste no processo de defesa do organismo realizado por pr
 A imunidade celular consiste no processo de defesa do organismo realizado diretamente por células denominadas totipotentes, que por meio de liberação de substâncias digestivas, digerem o patógeno, eliminando-o do organismo.
 
 ALTERNATIVA CORRETA
-A imunidade celular consiste no processo de defesa do organismo realizado diretamente por células denominadas linfócitos T citotóxicos, que reconhecem células anormais ou infectadas e, por meio de liberação de substâncias, perfuram a membrana plasmática dessas células, destruindo-as.
+1
 
 FEEDBACK IMAGEM
 feedback6m6sc
@@ -182,7 +182,7 @@ As exceções são as veias cavas, que transportam sangue rico em oxigênio dos 
 As exceções são as artérias coronárias, que transportam sangue pobre em oxigênio do ventrículo direito aos pulmões; e as veias coronárias, que transportam sangue rico em oxigênio dos tecidos ao átrio direito.
 
 ALTERNATIVA CORRETA
-As exceções são as artérias pulmonares, que transportam sangue pobre em oxigênio do ventrículo direito aos pulmões; e as veias pulmonares, que transportam sangue rico em oxigênio dos pulmões ao átrio esquerdo.
+1
 
 FEEDBACK IMAGEM
 feedback7m6sc
@@ -210,7 +210,7 @@ Hipertensão arterial, esclerose múltipla e diverticulite.
 Esclerose múltipla, derrame cerebral e síndrome do pânico.
 
 ALTERNATIVA CORRETA
-Infarto do miocárdio, aterosclerose e hipertensão arterial.
+1
 
 FEEDBACK IMAGEM
 SEM
@@ -238,7 +238,7 @@ As células de memória, surgem da diferenciação de linfócitos T (auxiliares 
 As células de memória, surgem da diferenciação de linfócitos T (plasmócitos e auxiliares) e linfócitos B, e são responsáveis por liberar substâncias denominadas interleucinas que ativam e estimulam a produção dos antígenos, aumentando sua capacidade de reconhecimento.
 
 ALTERNATIVA CORRETA
-As células de memória, surgem da diferenciação de linfócitos T (auxiliares e citotóxicos) e B, e são responsáveis por guardar informações de reconhecimento do patógeno/antígeno, respondendo rapidamente no caso de um novo contato (resposta secundária).
+1
 
 FEEDBACK IMAGEM
 feedback9m6sc
@@ -266,7 +266,7 @@ Na imunização ativa, o organismo não desenvolve memória imunitária e, por i
 Na imunização ativa, os linfócitos B não se diferenciam em plasmócitos e, dessa forma, não ocorre a produção de anticorpos. Na imunização passiva, os linfócitos T são ativados e se multiplicam, podendo se diferenciar em células de memória.
 
 ALTERNATIVA CORRETA
-Na imunização ativa, o próprio organismo é estimulado a produzir anticorpos protetores, como, por exemplo, na vacinação. Na imunização passiva, os anticorpos gerados em outro organismo são retirados, purificados e inoculados no ser que se deseja imunizar, a exemplo do soro imune.
+1
 
 FEEDBACK IMAGEM
 SEM

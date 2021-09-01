@@ -20,7 +20,7 @@ O nodo atrioventricular se localiza na junção entre o átrio direito e a veia 
 O nodo atrioventricular se localiza na parte posterior do septo interatrial e é responsável por emitir sinal elétrico que se propaga na musculatura dos átrios, contraindo-os.
  
 ALTERNATIVA CORRETA
-O nodo sinoatrial se localiza na junção entre átrio direito e veia cava superior e é responsável por emitir sinal elétrico que se propaga na musculatura dos átrios, contraindo-os.
+1
 
 FEEDBACK IMAGEM
 gif56m4sc
@@ -54,7 +54,7 @@ Pulmões, veias pulmonares, átrio esquerdo, ventrículo esquerdo, aorta, arter�
 Pulmões, veias pulmonares, átrio direito, ventrículo direito, veias cavas, vênulas, capilares e tecidos.
  
 ALTERNATIVA CORRETA
-Pulmões, veias pulmonares, átrio esquerdo, ventrículo esquerdo, aorta, arteríolas, capilares e tecidos.
+3
 
 FEEDBACK IMAGEM
 gif57m4sc
@@ -88,7 +88,7 @@ Valvas semilunares e valvas atrioventriculares.
 Valvas sinoatriais e valvas de His.
 
 ALTERNATIVA CORRETA
-Valvas atrioventriculares e valvas semilunares.
+2
 
 FEEDBACK IMAGEM
 gif58m4sc
@@ -122,7 +122,7 @@ O sangue dos ventrículos direito e esquerdo se comunicam, havendo troca de gase
 As valvas atrioventriculares permanecem fechadas quando os ventrículos estão em sístole.
  
 ALTERNATIVA CORRETA
-As valvas atrioventriculares permanecem fechadas quando os ventrículos estão em sístole.
+4
 
 FEEDBACK IMAGEM
 gif59m4sc
@@ -156,7 +156,7 @@ Os leucócitos aderem no ferimento, as hemácias formam uma rede de filamentos e
 As hemácias produzem plaquetas que se aderem no ferimento, a fibrina forma uma rede de filamentos e os leucócitos se acumulam no local, cicatrizando o ferimento.
  
 ALTERNATIVA CORRETA
-As plaquetas aderem no ferimento, a fibrina forma uma rede de filamentos e as hemácias se acumulam no local, levando à formação do coágulo.
+1
 
 FEEDBACK IMAGEM
 feedback60m4sc

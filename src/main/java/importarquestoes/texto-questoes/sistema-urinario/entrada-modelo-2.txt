@@ -24,6 +24,7 @@ Sem
 
 FEEDBACK TEXTO
 O conjunto de órgãos e estruturas responsáveis pela filtração do sangue, produção, armazenamento e eliminação de substâncias potencialmente tóxicas do organismo por meio da urina, constitui o sistema urinário. Esse sistema é composto por dois rins, dois ureteres, uma bexiga urinária e uma uretra.
+fim
 
 GRUPO
 4
@@ -31,7 +32,7 @@ GRUPO
 MODELO
 2
 
-ENUNCIADO 
+ENUNCIADO
 Dentre as principais funções do sistema urinário, encontra-se a produção, armazenamento e eliminação de urina. Sobre a fisiologia do sistema urinário, com base em seus conhecimentos, assinale todas as alternativas que julgar corretas.
 
 ALTERNATIVAS
@@ -42,12 +43,11 @@ A urina é armazenada na bexiga graças ao esfíncter uretral, localizado na uni
 O sangue chega aos néfrons por meio das arteríolas eferentes, proveniente da veia renal, passando pelo túbulo néfrico, onde é filtrado.
 Ao passar pelo glomérulo, o filtrado glomerular é reabsorvido, de modo que a formação da urina se dá na porção proximal do túbulo néfrico, contendo glicose, ureia, proteínas e sais.
 
-
 ALTERNATIVAS CORRETAS
 1,2,3,4
 
 FEEDBACK IMAGEM
-Sem 
+Sem
 
 LEGENDA DA IMAGEM DE FEEDBACK
 Sem
