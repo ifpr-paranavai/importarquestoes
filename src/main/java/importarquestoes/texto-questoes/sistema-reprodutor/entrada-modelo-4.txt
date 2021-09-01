@@ -1,0 +1,105 @@
+GRUPO
+5
+
+MODELO
+4
+  
+ENUNCIADO
+A animação abaixo demonstra um importante processo para a reprodução humana, nos órgãos internos do sistema genital feminino. Analise a animação e as alternativas abaixo e, com base em seus conhecimentos, determine a alternativa que julgar como correta, acerca do processo demonstrado.
+
+IMAGEM
+imggif1m4repro
+ 
+LEGENDA DA IMAGEM
+Imagem: Via GIFER. Disponível aqui.
+ 
+ALTERNATIVAS
+O ovócito secundário é liberado do folículo ovariano (ovulação) e recolhido pelas fimbrias, para ser encaminhado para as tubas uterinas.
+O espermatozoide é produzido no testículo (espermatogênese) e resgatado pelo epidídimo, para ser encaminhado para as tubas uterinas.
+O óvocito primária é liberado do óvulo (ovulação) e capturado pelos alvéolos, para ser encaminhado para as tubas uterinas.
+O zigoto é liberado do folículo ovariano (ovulação) e capturado pelo epidídimo, para ser encaminhado para as tubas uterinas.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+imggif1m4repro
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Via GIFER. Disponível aqui.
+
+FEEDBACK TEXTO
+A animação demonstra a liberação do ovócito secundário do folículo ovariano, processo denominado ovulação. Ao ser liberado, o ovócito é “recolhido” pelas fimbrias, que são finas terminações das tubas uterinas, que direcionam o ovócito para o interior de uma das tubas, onde os espermatozoides o encontram para uma possível fecundação.
+fim
+
+GRUPO
+5
+
+MODELO
+4
+  
+ENUNCIADO
+A animação abaixo demonstra o calendário do ciclo menstrual, durante o período médio de 28 dias. As fases do ciclo uterino consistem em: menstruação (1º ao 5º dia), fase proliferativa (5º ao 13º dia), ovulação (13º ao 16º dia) e a fase luteínica (16º ao 28º dia). Com base na animação, nas informações e em seus conhecimentos, determine os processos ocorridos na fase de 1. menstruação, 2. fase proliferativa, 3. ovulação e 4. fase luteínica, respectivamente.
+
+IMAGEM
+imggif2m4repro
+
+LEGENDA DA IMAGEM
+Imagem: Malucia1003, via Tenor. Disponível aqui.
+ 
+ALTERNATIVAS
+1. manutenção e crescimento do revestimento do endométrio; 2. Eliminação do revestimento uterino; 3. formação do corpo lúteo; 4. liberação do ovócito secundário.
+1. liberação do ovócito secundário; 2. formação do corpo lúteo e manutenção do endométrio; 3. eliminação do revestimento do endométrio; 4. Crescimento do revestimento uterino.
+1. eliminação do revestimento do endométrio; 2. crescimento do revestimento uterino; 3. liberação do ovócito secundário; 4. formação do corpo lúteo e manutenção do endométrio.
+1. crescimento do revestimento uterino; 2. liberação do ovócito secundário; 3. eliminação do revestimento do endométrio; 4. formação do corpo lúteo e manutenção do endométrio.
+
+ALTERNATIVA CORRETA
+3
+
+FEEDBACK IMAGEM
+imggif2m4repro
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Malucia1003, via Tenor. Disponível aqui.
+
+FEEDBACK TEXTO
+A primeira fase do ciclo menstrual, a menstruação, ocorre entre os dias 1 e 5, e consiste na eliminação do revestimento do endométrio. A segunda fase, a fase proliferativa, ocorre entre os dias 5 e 13, e consiste no crescimento do revestimento uterino. Durante essas duas fases, ocorre o desenvolvimento e maturação do folículo ovariano, que passa a abrigar o ovócito secundário. 
+A terceira fase, a ovulação, ocorre geralmente no 14º dia do ciclo, podendo variar, conforme mostrado no GIF, entre os dias 13 e 16, aproximadamente. Essa fase consiste na liberação do ovócito secundário, que é direcionado para o interior das tubas uterinas.
+A quarta fase, denominada fase luteínica, ocorre após a ovulação, por volta dos dias 16 a 28, conforme demonstrado no GIF. Nessa fase, ocorre formação do corpo lúteo no ovário, produção de progesterona e a manutenção e preparação do endométrio uterino para uma possível nidação. 
+Se não houver fecundação, o ciclo se reinicia com uma nova menstruação. Se houver, inicia-se a gravidez. 
+fim
+
+GRUPO
+5
+
+MODELO
+4
+  
+ENUNCIADO
+Os conhecimentos científicos sobre a reprodução humana têm possibilitado a solução para algumas dificuldades para procriar. A animação abaixo demonstra uma técnica de reprodução denominada fecundação ou fertilização in vitro. Analise a animação e as alternativas e, com base em seus conhecimentos, determine a alternativa correta sobre essa técnica. 
+
+IMAGEM
+imggif3m4repro
+
+LEGENDA DA IMAGEM
+Imagem: Via Gfycat. Disponível aqui.
+
+ALTERNATIVAS
+Neste tipo de fertilização, hormônios são sintetizados em laboratório e indicados para uso oral ou injetável para a mulher, que passa a ovular com maior frequência, aumentando as chances de uma possível gravidez.
+São coletados e escolhidos os melhores espermatozoides do progenitor paterno e, após análise em laboratório, esses gametas são inseridos diretamente no útero da mulher, próximo do dia da ovulação.
+Neste tipo de fertilização, o casal ou a mulher interessada na gravidez que não possa gerar um embrião próprio, recorrem a materiais biológicos (gametas) doados por doadores anônimos para prosseguir com um processo de gravidez.
+São coletados os gametas femininos e masculinos dos progenitores e, em laboratório, o óvulo é fecundado pelo espermatozoide. Após a formação do embrião em meio nutritivo em incubadora, ocorre sua implantação no útero materno.
+
+ALTERNATIVA CORRETA
+4
+
+FEEDBACK IMAGEM
+imggif3m4repro
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Via Gfycat. Disponível aqui.
+
+FEEDBACK TEXTO
+Há variados métodos para auxiliar pessoas que tem o intuito de procriar, mas que, possuem dificuldade de gerar, naturalmente, o próprio embrião. Dentre eles, destaca-se a fecundação in vitro. 
+Nesse processo, primeiramente a mulher será estimulada hormonalmente para o desenvolvimento dos próprios folículo ovarianos. A partir de então, são coletados os gametas femininos e masculinos dos progenitores e, em laboratório, o óvulo é fecundado pelo espermatozoide. Após a formação do embrião em meio nutritivo em incubadora, ocorre sua implantação no útero materno.
+fim

@@ -1,0 +1,105 @@
+GRUPO
+6
+
+MODELO
+4
+  
+ENUNCIADO
+A animação abaixo demonstra uma radiografia em movimento de uma articulação de estrutura do tipo sinovial e mobilidade do tipo diartrose. Analise a figura e as alternativas e, com base em seus conhecimentos sobre as articulações ósseas, determine a alternativa que julgar como correta.
+
+IMAGEM
+imggif1m4esq
+ 
+LEGENDA DA IMAGEM
+Imagem: Eneo Lage, via Inspi. Disponível aqui.
+ 
+ALTERNATIVAS
+A animação demonstra a articulação úmero-ulnar (cotovelo) do tipo plana, que apresenta movimento triaxial (de extensão, flexão, abdução, adução e rotação), permitindo o movimento em torno de três eixos.
+A animação demonstra a articulação úmero-ulnar (cotovelo) do tipo dobradiça, que apresenta movimento uniaxial (de extensão e flexão), permitindo o movimento em torno de um único eixo.
+A animação demonstra a articulação fêmoro-patelar (joelho) do tipo esferoide, que apresenta movimento uniaxial (de extensão, flexão, abdução e adução), permitindo o movimento em torno de dois eixos.
+A animação demonstra a articulação coxofemoral, do tipo sela, que apresenta movimento uniaxial (de rotação), permitindo o movimento em torno de um único eixo.
+
+ALTERNATIVA CORRETA
+2
+
+FEEDBACK IMAGEM
+imggif1m4esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Eneo Lage, via Inspi. Disponível aqui.
+
+FEEDBACK TEXTO
+A animação demonstra a articulação úmero-ulnar (cotovelo) do tipo dobradiça, que apresenta movimento uniaxial (de extensão e flexão), permitindo o movimento em torno de um único eixo.
+fim
+
+GRUPO
+6
+
+MODELO
+4
+  
+ENUNCIADO
+Os pés desempenham uma importante função, auxiliando no deslocamento do indivíduo. A estrutura óssea do pé é composta por 26 ossos, que se subdividem em grupos. A animação abaixo, demonstra um grupo de ossos dos pés do ser humano. Analise a animação e as alternativas e, com base em seus conhecimentos sobre as articulações ósseas, determine a alternativa que julgar como correta.
+
+IMAGEM
+imggif2m4esq
+
+LEGENDA DA IMAGEM
+Imagem: BodyParts3D – DBCLS, Creative Commons BY-SA 2.1 JP, via Wikimedia Commons. Disponível aqui. 
+ 
+ALTERNATIVAS
+A animação destaca em cores os ossos denominados falanges, que são divididas em falanges distal, média e proximal, com exceção do hálux (maior dedo) que possui apenas falanges proximal e distal.
+A animação destaca em cores os ossos denominados metatarso, que consiste em uma região formada por cinco ossos longos, que podem ser numerados de 1 a 5, iniciando-se pelo primeiro metatarso, o hálux (maior dedo).
+A animação destaca em cores os ossos do carpo, os quais consistem no trapezoide, trapézio, escafoide, semilunar, piramidal, pisiforme, hamato e capitato, totalizando oito pequenos ossos.
+A animação destaca em cores os ossos do tarso, dividido em tarso proximal, que engloba os ossos tálus (lilás) e calcâneo (amarelo), e em tarso distal, que engloba os ossos navicular (vermelho), cuneiformes (verde) e cuboide (azul).
+
+ALTERNATIVA CORRETA
+4
+
+FEEDBACK IMAGEM
+imggif2m4esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: BodyParts3D – DBCLS, Creative Commons BY-SA 2.1 JP, via Wikimedia Commons. Disponível aqui. 
+
+FEEDBACK TEXTO
+A estrutura óssea do pé é composta por 26 ossos, que se subdividem em três grupos: tarso, metatarso e falanges.
+A animação destaca em cores os ossos do tarso, dividido em tarso proximal, que engloba os ossos tálus (lilás) e calcâneo (amarelo), e em tarso distal, que engloba os ossos navicular (vermelho), cuneiformes (verde) e cuboide (azul).
+O metatarso, que consiste na região mediana do pé, abrange cinco ossos alongados que se ligam com os ossos do tarso e das falanges, e são nomeados de 1 a 5, iniciando pelo hálux (dedo maior dos pés).
+As falanges, por sua vez, são ossos que constituem os dedos e podem ser divididas em falanges distais, mediais e proximais, uma para cada dedo, com exceção do hálux, que possui apenas falanges distal e proximal.
+fim
+
+GRUPO
+6
+
+MODELO
+4
+  
+ENUNCIADO
+A animação abaixo demonstra uma radiografia dos ossos e articulações da mão em ação que, em conjunto com outras estruturas, possibilitam o movimento de abrir e fechar a mão. Sob este aspecto, analise a figura e as alternativas e assinale a proposição que julgar correta acerca dos ossos da mão.
+
+IMAGEM
+imggif3m4esq
+
+LEGENDA DA IMAGEM
+Imagem: Gabriela Mateos, via Hypescience. Disponível aqui. 
+
+ALTERNATIVAS
+A mão possui ao todo 25 ossos, que são divididos em três grupos: tarso (5 pequenos ossos do tornozelo), metatarso (5 ossos alongados entre o punho e os dedos) e falanges (15 ossos dos dedos).
+A mão possui ao todo 26 ossos, que são divididos em três grupos: hálux (maior dedo da mão, com 3 pequenos ossos), metatarso (15 ossos alongados que formam a palma da mão), e falanges (8 ossos dos dedos).
+A mão possui ao todo 27 ossos, que são divididos em três grupos: carpo (8 pequenos ossos do punho), metacarpo (5 ossos alongados entre o punho e os dedos) e falanges (14 ossos dos dedos).
+A mão possui ao todo 28 ossos, que são divididos em três grupos: tarso (8 pequenos ossos do punho), carpo (6 ossos alongados que formam a palma da mão) e falanges (14 ossos entre o punho e os dedos).
+
+ALTERNATIVA CORRETA
+3
+
+FEEDBACK IMAGEM
+imggif3m4esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Gabriela Mateos, via Hypescience. Disponível aqui. 
+
+FEEDBACK TEXTO
+A mão possui ao todo 27 ossos, que são divididos em três grupos: carpo (8 pequenos ossos do punho), metacarpo (5 ossos alongados entre o punho e os dedos) e falanges (14 ossos dos dedos).
+Os ossos do carpo são: trapézio, trapezoide, capitato, hamato, pisiforme, piramidal, semilunar e escafoides. Os ossos do metacarpo são denominados de I a V a partir do polegar. As falanges são os ossos dos dedos, podendo ser agrupadas em falanges distais, mediais e proximais, com exceção do polegar, que apresenta apenas as falanges distal e proximal.
+fim

@@ -1,0 +1,28 @@
+GRUPO
+7
+
+MODELO
+3
+ 
+ENUNCIADO
+Os músculos constituem cerca de 40% da massa corporal do corpo humano, havendo cerca de 700 músculos que podem ser classificados em três tipos. As figuras abaixo ilustram uma estrutura correspondente a cada tipo de tecido muscular. Analise as figuras e as alternativas e selecione os pares correspondentes que julgar como corretos. 
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+PARES CORRETOS
+img7m3amus = Musculatura lisa: movimentos involuntários
+img7m3bmus = Musculatura estriada cardíaca: movimentos involuntários
+img7m3cmus = Musculatura estriada esquelética: movimentos voluntários
+
+FEEDBACK IMAGEM
+imgfeedback7mus
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+FEEDBACK TEXTO
+O músculo liso é encontrado em órgãos viscerais, como estômago, intestino e o útero, por exemplo. Esse tipo de musculatura não apresenta estrias transversais e seus movimentos são involuntários, como, por exemplo, os movimentos peristálticos.
+O músculo estriado cardíaco é encontrado apenas no coração, sendo responsável pelos batimentos cardíacos. As fibras musculares cardíacas assemelham-se às fibras esqueléticas por apresentarem estrias transversais, contudo, esse tipo de músculo se diferencia, sobretudo, por apresentar contração involuntária, ou seja, independentemente da nossa vontade.
+O músculo estriado esquelético constitui a maior parte da musculatura do corpo e se caracteriza por estar associada aos ossos permitindo os movimentos e a postura corporal. O termo estriado deve-se ao fato de conter fibras que apresentam estrias transversais, dispostas ao longo de seu comprimento. Esse tipo de musculatura pode se contrair voluntariamente, ou seja, é possível contraí-los quando queremos.
+fim

@@ -1,0 +1,31 @@
+GRUPO
+9
+
+MODELO
+3
+ 
+ENUNCIADO
+Os neurônios podem ser classificados em diferentes tipos estruturais básicos, de acordo com o arranjo de suas neurofibras. As figuras nas alternativas abaixo representam três deles. Analise as alternativas e, com base em seus conhecimentos sobre as células do sistema nervoso, relacione as figuras com a nomenclatura do tipo de neurônio que julgar como correto.
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Holly Fischer, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponíveis aqui. 
+
+PARES CORRETOS
+img6m3aner = Neurônio pseudounipolar
+img6m3bner = Neurônio bipolar
+img6m3cner = Neurônio multipolar
+
+FEEDBACK IMAGEM
+imgfeedbackm3ner
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptadas de Holly Fischer, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponível aqui. 
+
+FEEDBACK TEXTO
+Os neurônios podem ser classificados estruturalmente em quatro tipos: unipolar, pseudounipolar, bipolar e multipolar. Essa classificação está diretamente relacionada ao número de prolongamentos celulares (neurofibras).
+O neurônio unipolar, possui apenas um axônio.
+O neurônio pseudounipolar, apresenta apenas uma neurofibra, porém esta se divide em duas: uma correspondente aos dendritos e outra ao axônio.
+O neurônio bipolar, apresenta apenas um dendrito e um axônio, em posições opostas.
+O neurônio multipolar, apresenta vários prolongamentos, sendo um deles o axônio e múltiplos dendritos, geralmente ramificados.
+Dentre estes, o tipo mais comum consiste no neurônio multipolar, presentes no encéfalo e medula espinhal. Os neurônios bipolares são responsáveis pela transmissão das informações sensoriais, enquanto os neurônios pseudounipolares estão presentes em gânglios nervosos e levam informações de sensores da pele ao SNC.
+fim

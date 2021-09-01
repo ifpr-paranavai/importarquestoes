@@ -1,0 +1,133 @@
+GRUPO
+8
+
+MODELO
+2
+
+ENUNCIADO
+As glândulas suprarrenais são constituídas por dois tipos de tecido distintos estruturalmente e funcionalmente: o córtex e a medula. No que concerne aos aspectos funcionais de cada uma das regiões desta glândula, analise as alternativas abaixo e selecione todas as que julgar como verdadeiras.
+
+ALTERNATIVAS
+O córtex da glândula suprarrenal produz hormônios do tipo esteroides, sendo os principais deles os glicocorticoides e os mineralocorticoides.
+A medula da glândula suprarrenal produz hormônios do tipo catecolaminas, sendo os principais deles a adrenalina e noradrenalina.
+Os mineralocorticoides são hormônios produzidos pelo córtex da glândula suprarrenal e atuam promovendo a reabsorção de sódio e a excreção de potássio pelos rins.
+Os glicocorticoides são hormônios produzidos pelo córtex da glândula suprarrenal e atuam na produção de glicose a partir de proteínas e gorduras, aumentando os níveis de glicose no sangue.
+A adrenalina é um hormônio produzido pela medula da glândula suprarrenal e promove ações no organismo em reações de alerta.
+A noradrenalina é um hormônio produzido pela medula da glândula suprarrenal e é liberada somente quando hormônios como a adrenalina e os esteroides estão em concentrações acima do normal.
+
+ALTERNATIVAS CORRETAS
+1,2,3,4,5
+
+FEEDBACK IMAGEM
+imgfeedbackm2 
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+O córtex da glândula suprarrenal produz hormônios do tipo esteroides, sendo os principais deles os glicocorticoides e os mineralocorticoides.
+A medula da glândula suprarrenal produz hormônios do tipo catecolaminas, sendo os principais deles a adrenalina e noradrenalina.
+Os mineralocorticoides são hormônios produzidos pelo córtex da glândula suprarrenal e atuam promovendo a reabsorção de sódio e a excreção de potássio pelos rins.
+Os glicocorticoides são hormônios produzidos pelo córtex da glândula suprarrenal e atuam na produção de glicose a partir de proteínas e gorduras, aumentando os níveis de glicose no sangue.
+A adrenalina é um hormônio produzido pela medula da glândula suprarrenal e promove ações no organismo em reações de alerta.
+A noradrenalina é um hormônio produzido pela medula da glândula suprarrenal e é liberada em doses mais ou menos constantes pela medula da glândula suprarrenal, independentemente da liberação de adrenalina, tendo como função manter a pressão sanguínea em níveis adequados.
+fim
+
+GRUPO
+8
+
+MODELO
+2
+
+ENUNCIADO
+O pâncreas consiste em uma glândula que apresenta importantes funções na homeostasia do organismo. Sobre essa glândula, analise as alternativas abaixo e selecione todas aquelas que julgar como verdadeiras.
+
+ALTERNATIVAS
+O pâncreas é considerado uma glândula mista, uma vez que desempenha tanto função endócrina, na liberação de hormônios, bem como função exócrina, na secreção de enzimas digestivas.
+Os hormônios produzidos pelo pâncreas são os glicocorticoides, que atuam no controle da glicemia, e os mineralocorticoides, que atuam na regulação de água e sais no organismo.
+Os hormônios produzidos pelo pâncreas são a insulina, que visa reduzir a quantidade de glicose do sangue, e o glucagon, que visa a quebra de glicogênio no fígado, aumentando a taxa de glicose no sangue.
+A diabetes é um distúrbio hormonal relacionada ao pâncreas, em que a pessoa acometida apresenta alta taxa de glicose no sangue, que pode ser do tipo I (juvenil) ou tipo II (tardio).
+ O hipertiroidismo é uma doença relacionada ao funcionamento do pâncreas, em que há excesso de hormônios produzidos pela glândula, elevando a temperatura corporal, sudorese, irritabilidade, pressão sanguínea e perda de peso.
+A deficiência imunitária é consequência direta do excesso de produção de hormônios no pâncreas, principalmente do cortisol, causando a diminuição da permeabilidade dos capilares sanguíneos e suscetibilidade à infecções. 
+
+ALTERNATIVAS CORRETAS
+1,3,4
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+O pâncreas é considerado uma glândula mista, uma vez que desempenha tanto função endócrina, na liberação de hormônios, bem como função exócrina, na secreção de enzimas digestivas.
+Os hormônios produzidos pelo pâncreas são a insulina, que visa reduzir a quantidade de glicose do sangue, e o glucagon, que visa a quebra de glicogênio no fígado, aumentando a taxa de glicose no sangue.
+A diabetes é um distúrbio hormonal relacionada ao pâncreas, em que a pessoa acometida apresenta alta taxa de glicose no sangue, que pode ser do tipo I (juvenil) ou tipo II (tardio).
+fim
+
+GRUPO
+8
+
+MODELO
+2
+
+ENUNCIADO
+Os hormônios relacionados à reprodução são produzidos por diferentes glândulas do sistema endócrino, culminando em diferentes ações nos respectivos órgãos-alvo, sejam estruturais ou funcionais. No que se refere aos hormônios relacionados à reprodução humana, analise as alternativas abaixo e selecione todas as alternativas que julgar como corretas.
+
+ALTERNATIVAS
+O hormônio folículo-estimulante (FSH) é um hormônio relacionado à reprodução produzido pela adenoipófise e atua, nas mulheres, estimulando os folículos ovarianos e, nos homens, a espermatogênese.
+O hormônio luteinizante (LH) é um hormônio relacionado à reprodução produzido pela adenoipófise e atua, nas mulheres, estimulando a ovulação e o corpo lúteo e, nos homens, as células intersticiais.
+A prolactina é um hormônio masculino relacionado à reprodução produzido pela hipófise e atua estimulando a espermatogênese e o desenvolvimento de características sexuais secundárias.
+O estrógeno é um hormônio feminino relacionado à reprodução produzido pelo ovário e tem como função a maturação dos órgãos reprodutores, estimular o desenvolvimento das características sexuais secundárias e preparar o útero para a gravidez.
+A progesterona é um hormônio feminino relacionado à reprodução produzido no ovário e tem como função a preparação da mucosa uterina e sua manutenção para a gravidez, bem como o desenvolvimento das glândulas mamárias.
+A testosterona é um hormônio masculino relacionado à reprodução produzido pelos testículos e tem como função estimular a espermatogênese e desenvolver as características sexuais secundárias masculinas.
+
+ALTERNATIVAS CORRETAS
+1,2,4,5,6
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+O hormônio folículo-estimulante (FSH) é um hormônio relacionado à reprodução produzido pela adenoipófise e atua, nas mulheres, estimulando os folículos ovarianos e, nos homens, a espermatogênese.
+O hormônio luteinizante (LH) é um hormônio relacionado à reprodução produzido pela adenoipófise e atua, nas mulheres, estimulando a ovulação e o corpo lúteo e, nos homens, as células intersticiais.
+O estrógeno é um hormônio feminino relacionado à reprodução produzido pelo ovário e tem como função a maturação dos órgãos reprodutores, estimular o desenvolvimento das características sexuais secundárias e preparar o útero para a gravidez.
+A progesterona é um hormônio feminino relacionado à reprodução produzido no ovário e tem como função a preparação da mucosa uterina e sua manutenção para a gravidez, bem como o desenvolvimento das glândulas mamárias.
+A testosterona é um hormônio masculino relacionado à reprodução produzido pelos testículos e tem como função estimular a espermatogênese e desenvolver as características sexuais secundárias masculinas.
+A prolactina é um hormônio relacionado à reprodução que estimula a produção de leite nas glândulas mamárias, após a estimulação prévia pelo estrógeno e progesterona.
+fim
+
+GRUPO
+8
+
+MODELO
+2
+
+ENUNCIADO
+Na espécie humana há diversas glândulas endócrinas, sendo que algumas delas são responsáveis pela produção de mais de um tipo de hormônio. Analise as alternativas abaixo e, sobre as principais glândulas do sistema endócrino, selecione todas as alternativas que julgar como verdadeiras.
+
+ALTERNATIVAS
+As principais glândulas endócrinas humanas são: a hipófise, a tireoide, as paratireoides, o pâncreas, as suprarrenais e as gônadas.
+As principais glândulas endócrinas humanas são: o hipotálamo, a tireoide, as paratireoides, o fígado, a faringe e os rins.
+O tecido gorduroso também apresenta atividade endócrina, produzindo o hormônio leptina, que atua sobre o hipotálamo diminuindo o apetite.
+A glândula pineal (pequena região do encéfalo) sintetiza o hormônio melatonina, que envolve o controle das respostas corpóreas ligadas aos ciclos de claro-escuro.
+A adenoipófise é responsável por armazenar hormônios produzidos pelo hipotálamo, os quais podem ser citados o hormônio antidiurético, a aldosterona, os glicocorticoides e o glucagon.
+As gonadotrofinas (FSH e LH) são hormônios relacionados à reprodução, sendo ambos produzidos e secretados pelos ovários e testículos.
+
+ALTERNATIVAS CORRETAS
+1,3,4
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+As principais glândulas endócrinas humanas são: a hipófise, a tireoide, as paratireoides, o pâncreas, as suprarrenais e as gônadas.
+O tecido gorduroso também apresenta atividade endócrina, produzindo o hormônio leptina, que atua sobre o hipotálamo diminuindo o apetite.
+A glândula pineal (pequena região do encéfalo) sintetiza o hormônio melatonina, que envolve o controle das respostas corpóreas ligadas aos ciclos de claro-escuro.
+Fim

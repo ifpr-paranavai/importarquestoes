@@ -1,0 +1,103 @@
+GRUPO
+7
+
+MODELO
+5
+ 
+ENUNCIADO
+A musculação consiste em um tipo de atividade física que possibilita o crescimento dos músculos estriados esqueléticos a partir de treinamento de resistência. Sobre o crescimento muscular a partir de atividades de musculação, analise as alternativas abaixo e determine a que julgar como verdadeira.
+
+IMAGEM
+img12m5mus
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
+
+ALTERNATIVAS
+Esse tipo de crescimento muscular é denominado hipertrofia muscular e consiste na produção mais intensa de miofibrilas, mitocôndrias, retículo sarcoplasmático e outras organelas em resposta à atividade muscular repetitiva e bastante forçada.
+Esse tipo de crescimento muscular é denominado atrofia muscular e consiste na produção mais intensa de miofibrilas, mitocôndrias, retículo sarcoplasmático e outras organelas em resposta à atividade muscular repetitiva e bastante forçada.
+Esse tipo de crescimento muscular é denominado hipertrofia muscular e consiste na diminuição de tamanho das fibras musculares individuais consequente à perda progressiva de miofibrilas, em resposta à atividade muscular repetitiva e bastante forçada.
+Esse tipo de crescimento muscular é denominado atrofia muscular e consiste na diminuição de tamanho das fibras musculares individuais consequente à perda progressiva de miofibrilas, em resposta à atividade muscular repetitiva e bastante forçada.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+img12m5mus
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
+
+FEEDBACK TEXTO
+A musculação consiste em um tipo de atividade física que possibilita o crescimento dos músculos estriados esqueléticos a partir de treinamento de resistência. Esse tipo de crescimento muscular é denominado hipertrofia muscular e consiste na produção mais intensa de miofibrilas, mitocôndrias, retículo sarcoplasmático e outras organelas em resposta à atividade muscular repetitiva e bastante forçada. Uma vez que músculos hipertrofiados contêm mais miofibrilas, eles são capazes de contrações mais vigorosas.
+fim
+
+GRUPO
+7
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo demonstra um músculo em condições normais (à esquerda) e outro em estado de atrofia (à direita). Analise a imagem e as alternativas e, com base em seus conhecimentos, selecione a alternativa que julgar como verdadeira acerca do processo de atrofia muscular.
+
+IMAGEM
+img13m5mus
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de OpenStax, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
+
+ALTERNATIVAS
+A atrofia muscular é o aumento de tamanho das fibras musculares individuais consequente do ganho progressivo de miofibrilas, e pode acontecer por uso excessivo (musculação, por exemplo) ou devido à desnervação (interrupção da inervação muscular).
+A atrofia muscular é a diminuição de tamanho das fibras musculares individuais consequente à perda progressiva de tendões, e pode acontecer por lesões (acidentes, por exemplo) ou devido à degeneração (doenças genéticas).
+A atrofia muscular é a diminuição de tamanho das fibras musculares individuais consequente à perda progressiva de miofibrilas, e pode acontecer por desuso (sedentarismo, por exemplo) ou devido à desnervação (interrupção da inervação muscular).
+A atrofia muscular é o aumento de tamanho das fibras musculares individuais consequente ao ganho progressivo de tecido esponjoso, e pode acontecer por desuso (sedentarismo, por exemplo) ou devido ao uso contínuo (atividades físicas).
+
+ALTERNATIVA CORRETA
+3
+
+FEEDBACK IMAGEM
+img13m5mus
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de OpenStax, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+A atrofia muscular é a diminuição de tamanho das fibras musculares individuais consequente à perda progressiva de miofibrilas. A atrofia pode acontecer por duas causas principais: 
+Desuso (sedentarismo, por exemplo) quando os músculos não são usados suficientemente. A atrofia por desuso ocorre geralmente em indivíduos acamados ou engessados, porque o fluxo de impulsos nervosos para o músculo esquelético inativo é bastante reduzido, porém a condição é reversível.
+Desnervação, quando a inervação do músculo é interrompida. Nesses casos, ao longo de um período de 6 meses a 2 anos, o músculo diminui para cerca de ¼ do seu tamanho original e suas fibras são irreversivelmente substituídas por tecido conjuntivo fibroso. 
+fim
+
+GRUPO
+7
+
+MODELO
+5
+ 
+ENUNCIADO
+A dinâmica da contração muscular ocorre, basicamente, por meio do deslizamento dos filamentos de actina sobre os filamentos de miosina, encurtando os sarcômeros, o que demanda uso de energia e a presença de cálcio no citosol. Contudo, após os estímulos nervosos que desencadeiam a contração muscular, o músculo volta ao seu estado de relaxamento. Com base nas informações e na figura abaixo, analise as alternativas e selecione a que julgar como verdadeira.
+
+IMAGEM
+img14m5mus
+ 
+LEGENDA DA IMAGEM
+Imagem: Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS
+Ao cessar a estimulação nervosa, também é estimulada a saída de íons de Cálcio das bolsas do retículo endoplasmático e os íons livres mantém a musculatura relaxada até se deteriorarem e serem absorvidos pelo organismo.
+Ao cessar a estimulação nervosa, também cessa a liberação de íons de Cálcio. Na ausência de íons Cálcio, a miosina se separa da actina e os sarcômeros distendem-se, relaxando a musculatura novamente.
+Ao cessar a estimulação nervosa, também cessa a saída de íons de Sódio das bolsas do retículo endoplasmático e os íons livres retornam para o interior das bolsas, acarretando a contração isométrica e relaxando a musculatura.
+Ao cessar a estimulação nervosa, os íons de Sódio são liberados. Na presença de íons Sódio, a miosina se liga fortemente com a actina e os sarcômeros contraem-se, relaxando a musculatura novamente.
+
+ALTERNATIVA CORRETA
+2
+
+FEEDBACK IMAGEM
+img14m5mus
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+Ao cessar a estimulação nervosa, também cessa a saída de íons de Cálcio das bolsas do retículo endoplasmático e os íons livres retornam para o interior das bolsas. Na ausência de íons Cálcio, a miosina se separa da actina e os sarcômeros distendem-se, relaxando a musculatura novamente.
+fim

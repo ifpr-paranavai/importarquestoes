@@ -1,0 +1,645 @@
+GRUPO
+6
+
+MODELO
+1
+
+ENUNCIADO
+Os membros inferiores se ligam ao esqueleto axial por meio do cíngulo dos membros inferiores, também chamado de cintura pélvica, formado por um par de ossos (esquerdo e direito), cada um resultante da fusão de três ossos da região pélvica. A cintura pélvica juntamente com o osso sacro, formam a pelve, popularmente conhecida como bacia. Analise e figura abaixo e as alternativas propostas e, por meio de toque nos pares, associe as proposições correspondentes acerca do cíngulo dos membros inferiores.
+
+IMAGEM
+img1m1esq
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS
+I =  Ílio
+II = Púbis
+III = Ísquio
+
+FEEDBACK IMAGEM
+img1m1esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+Os membros inferiores se ligam ao esqueleto axial por meio do cíngulo dos membros inferiores, também chamado de cintura pélvica, formado por um par de ossos (esquerdo e direito), cada um resultante da fusão de três ossos da região pélvica: o osso ílio (representado em I), o osso púbis (representado em II) e o osso ísquio (representado em III). A cintura pélvica juntamente com o osso sacro, formam a pelve, popularmente conhecida como bacia.
+fim
+
+GRUPO
+6
+
+MODELO
+1
+
+ENUNCIADO
+A caixa torácica consiste em um conjunto de ossos (esterno, costelas e vértebras torácicas) que protegem os órgãos internos do tórax. Com auxílio dos músculos intercostais e diafragma, as costelas se movimentam e possibilitam o aumento e diminuição do volume interno da caixa torácica, auxiliando na inspiração e expiração. Sob este enfoque, analise a figura abaixo e por meio de toque nos pares, associe as proposições correspondentes acerca dos ossos da caixa torácica.
+
+IMAGEM
+img2m1esq
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS
+I =  Costelas verdadeiras
+II = Costelas falsas
+III = Costelas flutuantes
+
+FEEDBACK IMAGEM
+img2m1esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+Os seis primeiros pares de costelas, unem-se por cartilagens ao osso esterno, localizado no meio do peito, sendo chamadas de costelas verdadeiras (representadas em I). Os quatro pares seguintes são mais curtos e suas extremidades prendem-se a cartilagens que se conectam, sendo que estas costelas são denominadas costelas falsas (representadas em II). Os dois últimos pares de costelas terminam em pontas livres e, por isso, são chamadas costelas flutuantes (representadas em III).
+fim
+
+GRUPO
+6
+
+MODELO
+1
+
+ENUNCIADO
+Os ossos do crânio constituem um tipo de osso plano, sendo fino e achatado, cujas junções (articulações) são denominadas suturas, caracterizando o tipo fibrosa (ossos articulados por tecido conjuntivo fibroso) e de sinartrose (conferindo imobilidade). A figura abaixo indica três ossos planos do crânio. Analise a figura e as alternativas e, por meio de toque nos pares, associe as proposições correspondentes.
+
+IMAGEM
+img3m1esq
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS
+I =  Frontal
+II = Parietal
+III = Occiptal
+
+FEEDBACK IMAGEM
+img3feedbackm1esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+Os ossos do crânio constituem um tipo de osso plano, sendo fino e achatado, cujas junções (articulações) são denominadas suturas, caracterizando o tipo fibrosa (ossos articulados por tecido conjuntivo fibroso) e de sinartrose (conferindo imobilidade). Dentre os ossos que constituem o crânio (ossos que protegem o encéfalo), destacam-se: um osso frontal, dois parietais, dois temporais, um occipital, um esfenoide e um etmoide.
+fim
+
+GRUPO
+6
+
+MODELO
+1
+
+ENUNCIADO
+A face humana consiste na região frontal da cabeça, onde se localizam os olhos, o nariz e a boca. Os ossos que compõem essa região, são classificados como ossos da face e, compõem os ossos da cabeça, assim como os ossos do crânio (que protegem o encéfalo). A figura abaixo indica três ossos da face. Analise a figura e as alternativas e, por meio de toque nos pares, associe as proposições correspondentes.
+
+IMAGEM
+img4m1esq
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS
+I = Zigomático
+II = Maxila
+III = Mandíbula
+
+FEEDBACK IMAGEM
+img4feedbackm1esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A face humana consiste na região frontal da cabeça, onde se localizam os olhos, o nariz e a boca. Os ossos que compõem essa região, são classificados como ossos da face e, compõem os ossos da cabeça, assim como os ossos do crânio. Os ossos da face são constituídos por: dois nasais, duas maxilas, dois zigomáticos, uma mandíbula, dois lacrimais, dois palatinos, duas conchas nasais inferiores e um vômer.
+fim
+
+GRUPO
+6
+
+MODELO
+2
+
+ENUNCIADO
+Na anatomia, articulações são as junções ou superfícies de contato entre dois ossos, que podem permitir movimentos ou serem imóveis. O sistema articular esquelético pode ser classificado de acordo com a estrutura e com as funções que exercem. Sob este aspecto, com base em seus conhecimentos sobre as articulações, analise as alternativas e selecione todas as proposições que julgar como corretas.
+
+ALTERNATIVAS
+Nas articulações fibrosas, os ossos são unidos firmemente por tecido conjuntivo denso não modelado e rico em fibras de colágeno. Geralmente não permitem mobilidade, sendo do tipo sinartrose, como no caso dos ossos do crânio.
+Nas articulações fibrosas, os ossos são unidos firmemente por tecido conjuntivo denso não modelado e rico em fibras de colágeno. Geralmente as articulações fibrosas permitem mobilidade ampla, caracterizando-se como diartrose, como no caso das articulações dos membros inferiores e superiores.
+Nas articulações cartilaginosas, há cavidade articular e os ossos se comunicam por meio de cartilagem. Geralmente não permitem mobilidade, sendo do tipo sinartrose, como no caso dos ossos do crânio.
+Nas articulações cartilaginosas, há cavidade articular e os ossos se comunicam por meio de cartilagem. Geralmente, esse tipo de articulação possibilita mobilidade reduzida, caracterizando-se funcionalmente como anfiartrose, como no caso da coluna vertebral.
+Nas articulações sinoviais, há cavidade articular e os ossos são articulados pelo tecido conjuntivo denso não modelado de uma cápsula articular com líquido viscoso. Geralmente, esse tipo de articulação possibilita mobilidade reduzida, caracterizando-se funcionalmente como anfiartrose, como no caso da coluna vertebral.
+Nas articulações sinoviais, há cavidade articular e os ossos são articulados pelo tecido conjuntivo denso não modelado de uma cápsula articular com líquido viscoso. Todas as articulações sinoviais permitem mobilidade ampla, caracterizando-se como diartrose, como no caso das articulações dos membros inferiores e superiores.
+
+ALTERNATIVAS CORRETAS
+1,4,6
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+Nas articulações fibrosas, os ossos são unidos firmemente por tecido conjuntivo denso não modelado e rico em fibras de colágeno. Geralmente não permitem mobilidade, sendo do tipo sinartrose, como no caso dos ossos do crânio.
+Nas articulações cartilaginosas, há cavidade articular e os ossos se comunicam por meio de cartilagem. Geralmente, esse tipo de articulação possibilita mobilidade reduzida, caracterizando-se funcionalmente como anfiartrose, como no caso da coluna vertebral.
+Nas articulações sinoviais, há cavidade articular e os ossos são articulados pelo tecido conjuntivo denso não modelado de uma cápsula articular com líquido viscoso. Todas as articulações sinoviais permitem mobilidade ampla, caracterizando-se como diartrose, como no caso das articulações dos membros inferiores e superiores.
+fim
+
+GRUPO
+6
+
+MODELO
+2
+
+ENUNCIADO
+O esqueleto humano é composto por 206 ossos, constituindo cerca de 14% da massa corporal, tendo funções muito importantes para a vida e a homeostase do ser humano. Sobre as funções principais do sistema esquelético, analise as alternativas a seguir e selecione todas as que julgar como verdadeiras.
+
+ALTERNATIVAS
+Uma das funções do sistema esquelético consiste em garantir a comunicação nervosa entre o sistema nervoso central e os órgãos efetores de sensibilidade (músculos e glândulas).
+Uma das funções do sistema esquelético consiste na produção de células sanguíneas (hematopoiese), como hemácias, leucócitos e plaquetas, que ocorre no interior de alguns ossos, na medula óssea vermelha. 
+Uma das funções do sistema esquelético consiste em fornecer suporte corporal, sustentando tecidos moles, e assistência ao movimento, sendo ponto de apoio para a ação da maioria dos tendões e músculos esqueléticos.
+Uma das funções do sistema esquelético consiste em produzir e secretar hormônios diretamente na corrente sanguínea, que atuam em órgãos algo controlando e coordenando as atividades em todo o corpo.
+Uma das funções do sistema esquelético consiste em proteger os órgãos internos contra possíveis lesões, como ossos do crânio e caixa torácica.
+Uma das funções do sistema esquelético consiste na manutenção da homeostasia mineral no organismo, uma vez os ossos armazenam minerais como cálcio e fósforo e, conforme a necessidade, liberam na corrente sanguínea, mantendo o equilíbrio mineral essencial. 
+
+ALTERNATIVAS CORRETAS
+2,3,5,6
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+Dentre as principais funções do sistema esquelético, destacam-se:
+- Produção de células sanguíneas (hematopoiese), como hemácias, leucócitos e plaquetas, que ocorre no interior de alguns ossos, na medula óssea vermelha. 
+- Fornecer suporte corporal, sustentando tecidos moles, e assistência ao movimento, sendo ponto de apoio para a ação da maioria dos tendões e músculos esqueléticos.
+- Proteger os órgãos internos contra possíveis lesões, como ossos do crânio e caixa torácica.
+- Manutenção da homeostasia mineral no organismo, uma vez os ossos armazenam minerais como cálcio e fósforo e, conforme a necessidade, liberam na corrente sanguínea, mantendo o equilíbrio mineral essencial. 
+fim
+
+GRUPO
+6
+
+MODELO
+2
+
+ENUNCIADO
+O tecido ósseo se forma durante a vida embrionária, mas se renova durante a vida adulta, processo o qual chama-se remodelamento ósseo. Sobre o tecido ósseo, analise as alternativas abaixo e selecione todas as que julgar como verdadeiras.
+
+ALTERNATIVAS
+A formação do tecido ósseo é feita por células ósseas chamadas osteoblastos. Essas células produzem a matriz extracelular, que possui a proteína colágeno, conferindo certa flexibilidade ao osso.
+A formação do tecido ósseo é feita por células ósseas chamadas osteoclastos. Essas células produzem a matriz extracelular, que possui a proteína peptina, conferindo muita flexibilidade ao osso.
+Os osteoblastos se movem na superfície óssea e destroem áreas lesadas ou envelhecidas, digerindo e reabsorvendo partes do osso, abrindo caminho para a regeneração pelos osteócitos.
+Os osteoclastos se movem na superfície óssea e destroem áreas lesadas ou envelhecidas, digerindo e reabsorvendo partes do osso, abrindo caminho para a regeneração pelos osteoblastos.
+A osteoporose é uma doença que afeta os ossos, em decorrência de vários fatores, sendo mais comum em pessoas acima de 50 anos. Assim, as pessoas acometidas apresentam descalcificação dos ossos, tornando-os frágeis e quebradiços.
+A osteoporose é uma doença que afeta as articulações, em decorrência de vários fatores, sendo mais comum em pessoas acima de 50 anos. Assim, as pessoas acometidas apresentam dor e inflamação nas articulações, afetando também ligamentos, tendões e músculos.
+
+ALTERNATIVAS CORRETAS
+1,4,5
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+A formação do tecido ósseo é feita por células ósseas chamadas osteoblastos. Essas células produzem a matriz extracelular, que possui a proteína colágeno, conferindo certa flexibilidade ao osso.
+Os osteoclastos se movem na superfície óssea e destroem áreas lesadas ou envelhecidas, digerindo e reabsorvendo partes do osso, abrindo caminho para a regeneração pelos osteoblastos.
+A osteoporose é uma doença que afeta os ossos, em decorrência de vários fatores, sendo mais comum em pessoas acima de 50 anos. Assim, as pessoas acometidas apresentam descalcificação dos ossos, tornando-os frágeis e quebradiços.
+fim
+
+GRUPO
+6
+
+MODELO
+3
+ 
+ENUNCIADO
+A coluna vertebral apresenta curvaturas normais nas regiões cervical, torácica, lombar e sacral, que aumentam a resistência da coluna, ajudam manter o equilíbrio e reduzem o risco de fraturas nas vértebras. Contudo, existem condições em que essas curvaturas estão alteradas, caracterizando uma patologia da coluna vertebral. Com base nas informações, analise as imagens e as alternativas abaixo e, por meio de toque nos pares, associe as proposições correspondentes.
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+PARES CORRETOS
+img5m3aesq = Escoliose
+img5m3besq = Lordose
+img5m3cesq = Cifose
+
+FEEDBACK IMAGEM
+img5feedbackm3esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+Sem
+fim
+
+GRUPO
+6
+
+MODELO
+3
+ 
+ENUNCIADO
+As articulações no sistema esquelético consistem no local onde os ossos fazem contato, possibilitando, ou não, a movimentação. As figuras presentes nas alternativas abaixo consistem em representações de articulações do tipo estrutural sinovial e funcional diartrose. Com base nas informações e em seus conhecimentos, analise as imagens e as alternativas abaixo e, por meio de toque nos pares, associe as proposições correspondentes.
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de OpenStax College, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponíveis aqui.
+
+PARES CORRETOS
+img6m3aesq = Pivô. Ex: articulação atlantoaxial (pescoço)
+img6m3besq = Dobradiça. Ex: articulação úmero-ulnar (cotovelo)
+img6m3cesq = Sela. Ex: articulação do trapezoide carpal e metacarpo do polegar
+
+FEEDBACK IMAGEM
+img6feedbackm3esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de OpenStax College, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+As articulações representadas na questão consistiram nos tipos: pivô (representado em (a)), dobradiça (representada em (b)) e sela representada em (c)).
+
+Pivô ou trocoide: a face arredondada ou pontiaguda de um osso se articula com um anel formado parcialmente por outro osso e parcialmente por um ligamento, permitindo a rotação em torno de seu próprio eixo longitudinal. Exemplo: articulação atlantoaxial, que permite que a cabeça vire de um lado a outro (movimento uniaxial).
+Dobradiça ou gínglimo: a face convexa de um osso se encaixa na face côncava de outro osso, permitindo o movimento em torno de um único eixo, possibilitando apenas flexão e extensão (movimento uniaxial). Exemplo: articulação úmero-ulnar (cotovelo) e fêmoro-patelar (joelho).
+Sela ou de renda: a face articular de um osso tem formato de sela e a face articular do outro osso se encaixa na “sela”, permitindo movimentos de flexão-extensão e abdução-adução (biaxial). Exemplo: articulação entre o trapezoide carpal (punho) e o metacarpo do polegar.
+fim
+
+GRUPO
+6
+
+MODELO
+3
+ 
+ENUNCIADO
+As articulações no sistema esquelético consistem no local onde os ossos fazem contato, possibilitando, ou não, a movimentação. As figuras presentes nas alternativas abaixo consistem em representações de articulações do tipo estrutural sinovial e funcional diartrose. Com base nas informações e em seus conhecimentos, analise as imagens e as alternativas abaixo e, por meio de toque nos pares, associe as proposições correspondentes.
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de OpenStax College, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponíveis aqui.
+
+PARES CORRETOS
+img7m3aesq = Esferoide. Ex: articulação coxofemoral (quadril)
+img7m3besq = Condiloide. Ex: articulações radio-carpais (punho)
+img7m3cesq = Plana. Ex: articulações intercarpais e intertarsais
+
+FEEDBACK IMAGEM
+img6feedbackm3esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de OpenStax College, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+As articulações representadas na questão consistiram nos tipos: esferoide (representada em (d)), condiloide (representada em (e)) e plana (representada em (f)).
+Esferoide ou bola e soquete: superfície redonda como uma bola de um osso que se encaixa em uma depressão em forma de copo de outro osso, permitindo movimentos de flexão-extensão, abdução-adução e rotação (triaxial). Exemplo: articulação coxofemoral (quadril) e escapulo-umeral (ombro).
+Condiloide ou elipsoide: a projeção convexa oval de um osso se encaixa em uma depressão oval de outro osso, permitindo movimentos de flexão-extensão e abdução-adução (movimento biaxial). Exemplo: articulações radio-carpais (punho).
+Plana ou deslizante: as faces articulares dos ossos são planas ou discretamente curvas. Esse tipo de articulação pode possibilitar movimentos flexão-extensão e abdução-adução entre as superfícies planas dos ossos, mas também são capazes de fazer rotação umas com as outras. Se fizerem dois tipos de movimentos, são consideradas biaxiais, se fizerem três, triaxiais. Exemplo: articulações intercarpais e intertarsais.
+fim
+
+
+
+
+GRUPO
+6
+
+MODELO
+4
+  
+ENUNCIADO
+A animação abaixo demonstra uma radiografia em movimento de uma articulação de estrutura do tipo sinovial e mobilidade do tipo diartrose. Analise a figura e as alternativas e, com base em seus conhecimentos sobre as articulações ósseas, determine a alternativa que julgar como correta.
+
+IMAGEM
+imggif1m4esq
+ 
+LEGENDA DA IMAGEM
+Imagem: Eneo Lage, via Inspi. Disponível aqui.
+ 
+ALTERNATIVAS
+A animação demonstra a articulação úmero-ulnar (cotovelo) do tipo plana, que apresenta movimento triaxial (de extensão, flexão, abdução, adução e rotação), permitindo o movimento em torno de três eixos.
+A animação demonstra a articulação úmero-ulnar (cotovelo) do tipo dobradiça, que apresenta movimento uniaxial (de extensão e flexão), permitindo o movimento em torno de um único eixo.
+A animação demonstra a articulação fêmoro-patelar (joelho) do tipo esferoide, que apresenta movimento uniaxial (de extensão, flexão, abdução e adução), permitindo o movimento em torno de dois eixos.
+A animação demonstra a articulação coxofemoral, do tipo sela, que apresenta movimento uniaxial (de rotação), permitindo o movimento em torno de um único eixo.
+
+ALTERNATIVA CORRETA
+2
+
+FEEDBACK IMAGEM
+imggif1m4esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Eneo Lage, via Inspi. Disponível aqui.
+
+FEEDBACK TEXTO
+A animação demonstra a articulação úmero-ulnar (cotovelo) do tipo dobradiça, que apresenta movimento uniaxial (de extensão e flexão), permitindo o movimento em torno de um único eixo.
+fim
+
+GRUPO
+6
+
+MODELO
+4
+  
+ENUNCIADO
+Os pés desempenham uma importante função, auxiliando no deslocamento do indivíduo. A estrutura óssea do pé é composta por 26 ossos, que se subdividem em grupos. A animação abaixo, demonstra um grupo de ossos dos pés do ser humano. Analise a animação e as alternativas e, com base em seus conhecimentos sobre as articulações ósseas, determine a alternativa que julgar como correta.
+
+IMAGEM
+imggif2m4esq
+
+LEGENDA DA IMAGEM
+Imagem: BodyParts3D – DBCLS, Creative Commons BY-SA 2.1 JP, via Wikimedia Commons. Disponível aqui. 
+ 
+ALTERNATIVAS
+A animação destaca em cores os ossos denominados falanges, que são divididas em falanges distal, média e proximal, com exceção do hálux (maior dedo) que possui apenas falanges proximal e distal.
+A animação destaca em cores os ossos denominados metatarso, que consiste em uma região formada por cinco ossos longos, que podem ser numerados de 1 a 5, iniciando-se pelo primeiro metatarso, o hálux (maior dedo).
+A animação destaca em cores os ossos do carpo, os quais consistem no trapezoide, trapézio, escafoide, semilunar, piramidal, pisiforme, hamato e capitato, totalizando oito pequenos ossos.
+A animação destaca em cores os ossos do tarso, dividido em tarso proximal, que engloba os ossos tálus (lilás) e calcâneo (amarelo), e em tarso distal, que engloba os ossos navicular (vermelho), cuneiformes (verde) e cuboide (azul).
+
+ALTERNATIVA CORRETA
+4
+
+FEEDBACK IMAGEM
+imggif2m4esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: BodyParts3D – DBCLS, Creative Commons BY-SA 2.1 JP, via Wikimedia Commons. Disponível aqui. 
+
+FEEDBACK TEXTO
+A estrutura óssea do pé é composta por 26 ossos, que se subdividem em três grupos: tarso, metatarso e falanges.
+A animação destaca em cores os ossos do tarso, dividido em tarso proximal, que engloba os ossos tálus (lilás) e calcâneo (amarelo), e em tarso distal, que engloba os ossos navicular (vermelho), cuneiformes (verde) e cuboide (azul).
+O metatarso, que consiste na região mediana do pé, abrange cinco ossos alongados que se ligam com os ossos do tarso e das falanges, e são nomeados de 1 a 5, iniciando pelo hálux (dedo maior dos pés).
+As falanges, por sua vez, são ossos que constituem os dedos e podem ser divididas em falanges distais, mediais e proximais, uma para cada dedo, com exceção do hálux, que possui apenas falanges distal e proximal.
+fim
+
+GRUPO
+6
+
+MODELO
+4
+  
+ENUNCIADO
+A animação abaixo demonstra uma radiografia dos ossos e articulações da mão em ação que, em conjunto com outras estruturas, possibilitam o movimento de abrir e fechar a mão. Sob este aspecto, analise a figura e as alternativas e assinale a proposição que julgar correta acerca dos ossos da mão.
+
+IMAGEM
+imggif3m4esq
+
+LEGENDA DA IMAGEM
+Imagem: Gabriela Mateos, via Hypescience. Disponível aqui. 
+
+ALTERNATIVAS
+A mão possui ao todo 25 ossos, que são divididos em três grupos: tarso (5 pequenos ossos do tornozelo), metatarso (5 ossos alongados entre o punho e os dedos) e falanges (15 ossos dos dedos).
+A mão possui ao todo 26 ossos, que são divididos em três grupos: hálux (maior dedo da mão, com 3 pequenos ossos), metatarso (15 ossos alongados que formam a palma da mão), e falanges (8 ossos dos dedos).
+A mão possui ao todo 27 ossos, que são divididos em três grupos: carpo (8 pequenos ossos do punho), metacarpo (5 ossos alongados entre o punho e os dedos) e falanges (14 ossos dos dedos).
+A mão possui ao todo 28 ossos, que são divididos em três grupos: tarso (8 pequenos ossos do punho), carpo (6 ossos alongados que formam a palma da mão) e falanges (14 ossos entre o punho e os dedos).
+
+ALTERNATIVA CORRETA
+3
+
+FEEDBACK IMAGEM
+imggif3m4esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Gabriela Mateos, via Hypescience. Disponível aqui. 
+
+FEEDBACK TEXTO
+A mão possui ao todo 27 ossos, que são divididos em três grupos: carpo (8 pequenos ossos do punho), metacarpo (5 ossos alongados entre o punho e os dedos) e falanges (14 ossos dos dedos).
+Os ossos do carpo são: trapézio, trapezoide, capitato, hamato, pisiforme, piramidal, semilunar e escafoides. Os ossos do metacarpo são denominados de I a V a partir do polegar. As falanges são os ossos dos dedos, podendo ser agrupadas em falanges distais, mediais e proximais, com exceção do polegar, que apresenta apenas as falanges distal e proximal.
+fim
+
+GRUPO
+6
+
+MODELO
+5
+ 
+ENUNCIADO
+O esqueleto humano pode ser agrupado em axial (crânio, coluna vertebral e caixa torácica) e apendicular (membros). O membro superior, é formado por três regiões: braços, antebraços e mãos. Com base nas informações e na figura abaixo, analise as alternativas e selecione a que julgar como correta acerca dos ossos pertencentes aos membros superiores.
+
+IMAGEM
+img8m5esq
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS
+O braço é composto pelo osso úmero, o antebraço pelo rádio e ulna, e as mãos por ossos do carpo, metacarpo e falanges.
+O braço é composto pelo osso úmero, o antebraço pelo rádio e ulna, e as mãos por ossos do tarso, metatarso e falanges.
+O braço é composto pelo osso fêmur, o antebraço pela tíbia e fíbula, e as mãos por ossos do carpo, metacarpo e falanges.
+O braço é composto pelo osso esterno, o antebraço pelo rádio e tíbia, e as mãos por ossos do tarso, metatarso e vértebras.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+img8feedbackm5esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+O esqueleto humano pode ser agrupado em axial (crânio, coluna vertebral e caixa torácica) e apendicular (membros). O membro superior, é formado por três regiões: braços, antebraços e mãos. O braço é composto pelo osso úmero, o antebraço pelo rádio e ulna, e as mãos por ossos do carpo, metacarpo e falanges.
+fim
+
+GRUPO
+6
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo representa a estrutura interna de um osso longo, de modo que cada parte possibilita desempenha diversas funções como sustentação, proteção, movimentação, armazenamento de minerais e formação de células sanguíneas. Analise a figura e as alternativas e selecione a proposição que considerar verdadeira sobre a estrutura dos ossos.
+
+IMAGEM
+img9m5esq
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS
+Formado por tecido ósseo esponjoso (I), pelo osso compacto que contém medula óssea vermelha (II) e no interior dos ossos há uma matriz rígida onde se forma a medula óssea amarela (III). São revestidos por tecido conjuntivo denominado epiderme (IV) e em suas extremidades geralmente há colágeno (V).
+Formado por tecido ósseo compacto (I), por uma matriz rígida onde se forma a medula óssea amarela (II) e por um tecido esponjoso onde há a presença de cartilagem (III). São revestidos por tecido cartilaginoso denominado periósteo (IV) e em suas extremidades geralmente há queratina (V).
+Formado pelo osso esponjoso que contém medula óssea vermelha (I), tecido ósseo compacto (II) e no interior dos ossos há uma matriz rígida onde se forma a coluna vertebral (III). São revestidos por tecido rígido denominado tutano (IV) e em suas extremidades geralmente há células adiposas (V).
+Formado por tecido ósseo compacto (I), pelo osso esponjoso que contém medula óssea vermelha (II) e no interior dos ossos há uma matriz rígida onde se forma a medula óssea amarela (III). São revestidos por tecido conjuntivo denominado periósteo (IV) e em suas extremidades geralmente há cartilagem (V).
+
+ALTERNATIVA CORRETA
+4
+
+FEEDBACK IMAGEM
+img9feedbackm5esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A figura demonstra um osso longo, formado por tecido ósseo compacto (I), pelo osso esponjoso que contém medula óssea vermelha (II) e no interior dos ossos há uma matriz rígida onde se forma a medula óssea amarela (III). São revestidos por tecido conjuntivo denominado periósteo (IV) e em suas extremidades geralmente há cartilagem (V).
+Vale lembrar que não são todos os ossos que apresentam, por exemplo, a medula óssea vermelha, de modo que nos adultos, está geralmente presente apenas os ossos pélvicos, esterno, costelas, clavícula, escápula, ossos cranianos e nas extremidades do fêmur e úmero. 
+fim
+
+GRUPO
+6
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo ilustra a coluna vertebral, que é constituída por 33 ossos denominados vértebras. Nos adultos, algumas vértebras se fundem, reduzindo seu número a 26. As vértebras formam um eixo ósseo firme e flexível e, em seu interior há um tubo interno onde se localiza a medula espinal. Analise a figura e as alternativas e selecione a alternativa que julgar como correta, acerca da coluna vertebral.
+
+IMAGEM
+img10m5esq
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS
+A coluna vertebral é formada pela porção escapular (12 vértebras), torácica (7 vértebras), lombar (4 vértebras) e pubiana (fusão de 4 vértebras que formam o osso ílio) e cocciana (fusão de 2 vértebras que formam o cóccix).
+A coluna vertebral é formada pela porção cervical (7 vértebras), torácica (12 vértebras), lombar (5 vértebras) e sacral (fusão de 5 vértebras que formam o osso sacro) e cocciana (fusão de 4 vértebras que formam o cóccix).
+A coluna vertebral é formada pela porção pulmonar (5 vértebras), falângea (12 vértebras), lombar (7 vértebras) e sacramental (fusão de 4 vértebras que formam o osso púbis) e cocciana (fusão de 5 vértebras que formam o sacro).
+A coluna vertebral é formada pela porção cervical (7 vértebras), pulmonar (5 vértebras), lombar (12 vértebras) e faríngea (fusão de 5 vértebras que formam o osso faríngeo) e cocciana (fusão de 4 vértebras que formam o cóccix).
+
+ALTERNATIVA CORRETA
+2
+
+FEEDBACK IMAGEM
+img10feedbackm5esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A coluna vertebral é formada por 7 vértebras cervicais (primeiras vértebras que constituem o pescoço), 12 vértebras torácicas (ligadas às costelas, formando a caixa torácica), 5 vértebras lombares (maiores vértebras, suportam o peso da parte superior do corpo quando estamos em pé), 5 vértebras sacrais (que fundidas na fase adulta formam o osso sacro) e 4 vértebras coccianas (que fundidas na fase adulta formam o osso cóccix).
+fim
+
+GRUPO
+6
+
+MODELO
+5
+ 
+ENUNCIADO
+O tecido ósseo se forma durante o desenvolvimento embrionário, mas se renova continuamente na vida adulta. Esse processo é chamado remodelamento ósseo e a figura abaixo demonstra as células envolvidas nesse processo. Analise a figura e as alternativas e, com base em seus conhecimentos, assinale a alternativa que julgar verdadeira.
+
+IMAGEM
+img11m5esq
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS
+As células que destroem áreas lesadas ou envelhecidas são chamadas medula óssea vermelha, originadas a partir da fusão de osso esponjoso. As células que produzem o tecido ósseo são chamadas osteoclastos. As células que mantem a atividade do tecido ósseo (maduro) são chamadas macrófagos. 
+As células que destroem áreas lesadas ou envelhecidas são chamadas osteoclastos, originadas a partir da fusão de monócitos. As células que produzem o tecido ósseo são chamadas osteoblastos. As células que mantem a atividade do tecido ósseo (maduro) são chamadas osteócitos. 
+As células que destroem áreas lesadas ou envelhecidas são chamadas osteoblastos, originadas a partir da fusão de linfócitos. As células que produzem o tecido ósseo são chamadas osteócitos. As células que mantem a atividade do tecido ósseo (maduro) são chamadas osteoblastos. 
+As células que destroem áreas lesadas ou envelhecidas são chamadas osteócitos, originadas a partir da fusão de hemácias. As células que produzem o tecido ósseo são chamadas hematopoieticas. As células que mantem a atividade do tecido ósseo (maduro) são chamadas osteoclastos. 
+
+ALTERNATIVA CORRETA
+2
+
+FEEDBACK IMAGEM
+img11m5esq
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+O tecido ósseo se forma durante o desenvolvimento embrionário, mas se renova continuamente na vida adulta. Esse processo é chamado remodelamento ósseo. As células que produzem o tecido ósseo são chamadas osteoblastos. Elas produzem a matriz extracelular, que possui colágeno, e também iniciam o processo de calcificação do osso, que é a deposição de sais minerais na matriz, como o cálcio 
+As células que mantem a atividade do tecido ósseo (maduro) são chamadas osteócitos. Além dessas células, o tecido ósseo também possui os osteoclastos, células importantes originadas pela fusão de monócitos, que se movem na superfície óssea e destroem áreas lesadas ou envelhecidas do osso, abrindo caminho para sua regeneração, pelos osteoblastos.
+fim
+
+
+
+GRUPO
+6
+
+MODELO
+6
+ 
+ENUNCIADO
+Os membros superiores e inferiores se prendem ao esqueleto axial por meio de um conjunto de ossos denominado cíngulo (superior ou inferior). Analise as alternativas abaixo e determine a alternativa correta acerta dos cíngulos dos membros superiores e inferiores.
+
+ALTERNATIVAS
+O cíngulo dos membros superiores é denominado cintura pélvica e é formado pelos ossos escápula e clavícula. O cíngulo dos membros inferiores é denominado cintura escapular e é formado pela fusão dos ossos ílio, ísquio e púbis.
+O cíngulo dos membros superiores é denominado cintura superior e é formado pelos ossos esterno e costelas. O cíngulo dos membros inferiores é denominado bacia e é formado pela fusão dos ossos esterno, ílio, ísquio e púbis.
+O cíngulo dos membros superiores é denominado cintura escapular e é formado pelos ossos esterno, costelas e clavícula. O cíngulo dos membros inferiores é denominado cintura pélvica e é formado pela fusão dos ossos fêmur, pelve e sacro.
+O cíngulo dos membros superiores é denominado cintura escapular e é formado pelos ossos escápula e clavícula. O cíngulo dos membros inferiores é denominado cintura pélvica e é formado pela fusão dos ossos ílio, ísquio e púbis.
+
+ALTERNATIVA CORRETA
+4
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+Os membros superiores e inferiores se prendem ao esqueleto axial por meio de um conjunto de ossos denominado cíngulo (superior ou inferior). O cíngulo dos membros superiores é denominado cintura escapular e é formado pelos ossos escápula e clavícula. O cíngulo dos membros inferiores é denominado cintura pélvica e é formado pela fusão dos ossos ílio, ísquio e púbis.
+fim
+
+GRUPO
+6
+
+MODELO
+6
+ 
+ENUNCIADO
+Existem algumas doenças que afetam os ossos e as articulações, provocando dor, fragilidade dos ossos, deformidades entre outros. Analise as alternativas abaixo e, com base em seus conhecimentos, determine a proposição que julgar como correta.
+
+ALTERNATIVAS
+São exemplos de patologias do sistema esquelético: osteoporose, artrite reumatoide, artrose, cifose, escoliose e lordose.
+São exemplos de patologias do sistema esquelético: cálculo renal, faringite, artrose, candidíase, escoliose e meningite.
+São exemplos de patologias do sistema esquelético: meningite, artrite reumatoide, artrose, cálculo renal, escoliose e trombose.
+São exemplos de patologias do sistema esquelético: osteoporose, cálculos renais, artrose, AVC, doença de chagas e lordose.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+São exemplos de patologias do sistema esquelético: osteoporose, artrite reumatoide, artrose, cifose, escoliose e lordose.
+A osteoporose é uma doença que acarreta a perda da massa óssea, tornando os ossos mais fracos e com maior propensão à fraturas.
+A artrite reumatoide é uma doença inflamatória que acomete as articulações, acarretando inchaço e dor, que em casos contínuos pode acarretar na deformidade das regiões das articulações.
+A artrose consiste no desgaste dos tecidos de proteção das extremidades ósseas (cartilagem) que, apesar de ser um processo natural e não, de fato, uma doença, comete as articulações, causando dor e desconforto.
+A cifose consiste na curvatura excessiva da coluna vertebral torácica para frente, formando a curvatura conhecida como “corcunda”.
+A escoliose consiste em um desvio anormal da coluna vertebral, em forma de C ou S.
+A lordose consiste na curvatura anormal da região lombar, acima dos glúteos.
+fim
+
+GRUPO
+6
+
+MODELO
+6
+ 
+ENUNCIADO
+É sabido que os ossos têm função na locomoção humana. Contudo, por si só, apesar de apresentar estruturas articulares, os ossos não realizam sozinhos o movimento corporal. Com base nessa afirmação, analise as alternativas abaixo e selecione a proposição que julgar como correta acerca do sistema esquelético e da locomoção.
+
+ALTERNATIVAS
+Músculos esqueléticos ligam-se aos ossos por tendões e, quando os músculos se contraem, puxam os ossos em que estão ligados. Assim, os ossos atuam como pontos de apoio para que, em conjunto com músculos e tendões, possibilitem a locomoção.
+Músculos lisos ligam-se aos tendões e, quando os músculos relaxam, empurram os ossos em que estão ligados. Assim, os ossos puxam a musculatura para que haja o movimento e possibilite a locomoção.
+Músculos cardíacos ligam-se aos ossos por tendões e, quando os músculos se contraem, empurram os ossos em que estão ligados. Assim, os músculos atuam como pontos de apoio para que os ossos realizem, em totalidade, o processo da locomoção.
+Músculos variados ligam-se aos ossos curtos por vasos sanguíneos e, quando os músculos se contraem, puxam os ossos em que estão ligados. Assim, os ossos atuam como pontos de apoio para que, a musculatura involuntária possibilite a locomoção.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+É sabido que os ossos têm função na locomoção humana. Contudo, por si só, apesar de apresentar estruturas articulares, os ossos não realizam sozinhos o movimento corporal. Músculos esqueléticos ligam-se aos ossos por tendões e, quando os músculos se contraem, puxam os ossos em que estão ligados. Assim, os ossos atuam como pontos de apoio para que, em conjunto com músculos e tendões, possibilitem a locomoção.
+fim
+
+

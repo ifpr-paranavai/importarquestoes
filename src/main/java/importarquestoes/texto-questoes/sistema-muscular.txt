@@ -1,0 +1,650 @@
+GRUPO
+7
+
+MODELO
+1
+
+ENUNCIADO
+Os músculos estriados esqueléticos possuem três tipos de camadas de tecidos conjuntivos, responsáveis por manter o músculo firme, unindo as estruturas que formam o músculo, permitindo que a força da contração atue sobre a musculatura como um todo. Analise a figura e as alternativas abaixo e determine as proposições correspondentes, selecionando os pares.
+
+IMAGEM
+img1m1mus
+
+LEGENDA DA IMAGEM
+Imagem: Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS
+I =  Epimísio: camada externa que envolve todo o músculo.
+II = Perimísio: camada que circunda grupos de fibras musculares, separando-as em fascículos.
+III = Endomísio: camada que separa as fibras musculares individualmente.
+
+FEEDBACK IMAGEM
+img1m1mus
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+Os músculos estriados esqueléticos possuem três tipos de camadas de tecidos conjuntivos, responsáveis por manter o músculo firme, unindo as estruturas que formam o músculo, permitindo que a força da contração atue sobre a musculatura como um todo. São elas: o epimísio (representada em I), que consiste na camada externa que envolve todo o músculo, o perimísio (representada em II), que consiste na camada que circunda grupos de fibras musculares, separando-as em fascículos, e o endomísio (representado em III), que consiste na camada que separa as fibras musculares individualmente.
+fim
+
+GRUPO
+7
+
+MODELO
+1
+
+ENUNCIADO
+Os músculos estriados esqueléticos são assim chamados pois, em sua maioria, movimentam os ossos do esqueleto, efetivando a locomoção. A figura abaixo representa a organização deste tipo de músculo. Analise a figura e as alternativas abaixo e determine as proposições correspondentes, selecionando os pares.
+
+IMAGEM
+img2m1mus
+
+LEGENDA DA IMAGEM
+Imagem: Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+PARES CORRETOS
+I = Tendão: cordão fibroso que liga o músculo aos ossos.
+II = Fascículo: conjunto de fibras musculares.
+III = Fibra: célula muscular contendo muitos filamentos, as miofibrilas. 
+
+FEEDBACK IMAGEM
+img2m1mus
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+A figura representa um músculo estriado esquelético, de modo que as estruturas indicadas em sua organização consistem em: 
+Tendão (representado em I), que consiste em um cordão fibroso altamente resistente, formado por tecido cartilaginoso, cuja função é prender os músculos aos ossos, possibilitando o movimento; 
+Fascículo (representado em II), que consiste em um conjunto de 10 a 100 (ou mais) fibras musculares organizadas em grandes feixes (os fascículos); 
+Fibra muscular (representada em III), que consiste na unidade fundamental do músculo, correspondente à célula muscular, que é bastante alongada, contém numerosos núcleos e mitocôndrias e, internamente apresenta muitos filamentos – as miofibrilas – que percorre toda a fibra no sentido longitudinal, as quais apresentam um padrão de estrias (sarcômero) que constituem as unidades contráteis básicas dos músculos.
+fim
+
+GRUPO
+7
+
+MODELO
+1
+
+ENUNCIADO
+Os músculos do tronco são aqueles que se situam em regiões do corpo que englobam o tórax, dorso, nuca, abdome, pelve e períneo. A figura abaixo apresenta indicações de alguns dos principais músculos da região do tronco. Analise a figura e as alternativas abaixo e determine as proposições correspondentes, selecionando os pares.
+ 
+IMAGEM
+img3m1mus
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de OpenStax, Tomáš Kebert e umimeto.org, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
+
+PARES CORRETOS
+I = Peitoral maior
+II = Reto abdominal
+III = Oblíquo externo
+
+FEEDBACK IMAGEM
+img3m1mus
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de OpenStax, Tomáš Kebert e umimeto.org, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+A figura destaca alguns dos músculos do tronco em sua porção frontal. 
+O músculo peitoral maior (representado em I) situa-se na região ântero-superior do tórax e tem como função a rotação medial, flexão e adução do braço. 
+O músculo reto abdominal (representado em II) situa-se verticalmente em cada lado da face anterior do abdome, e é “dividido” por faixas fibrotendinosas, que variam de número de pessoa para pessoa, formando os “gominhos” do abdome. Esse tipo de músculo tem como função a flexão do tronco, comprimir o abdome e auxiliar a expiração forçada.
+O músculo oblíquo externo (representado em III) situa-se na face lateral do abdome e tem como função comprimir o abdome, rotacionar o tronco para o lado oposto e auxiliar a expiração forçada.
+fim
+
+GRUPO
+7
+
+MODELO
+1
+
+ENUNCIADO
+A figura abaixo apresenta os músculos da face posterior do corpo humano, contendo indicações em três deles. Analise a imagem e as alternativas abaixo e determine as proposições correspondentes, selecionando os pares.
+
+IMAGEM
+img4m1mus
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de OpenStax, Tomáš Kebert e umimeto.org, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
+
+PARES CORRETOS
+I = Trapézio
+II = Deltoide
+III = Grande dorsal
+
+FEEDBACK IMAGEM
+img4m1mus
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de OpenStax, Tomáš Kebert e umimeto.org, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+A figura indica os ossos:
+Trapézio (representado em I), cujo nome se dá pelo seu formato, situado na parte posterior do tronco, abrangendo a parte posterior do pescoço, superior e dorsal dos ombros e parte superior do dorso. Sua função consiste na elevação e adução (movimento de afastamento em relação a linha média corporal) da escápula.
+Deltoide (representado em II), situado na região do ombro, logo acima da cabeça do úmero. Sua função consiste em realizar abdução (até 90º), adução, rotação medial e lateral do braço.
+Grande dorsal (representado em III), situado na parte posterior do tronco, abrangendo a porção inferior ao tórax e a região lombar, em direção ao úmero. Sua função consiste em realizar a abdução, adução, rotação medial e lateral do braço.
+fim
+
+GRUPO
+7
+
+MODELO
+1
+
+ENUNCIADO
+Os músculos dos membros inferiores são muito importantes na locomoção e manutenção da postura. A figura abaixo apresenta os principais músculos da face posterior do corpo humano, contendo indicações de três deles. Sob este enfoque, analise a figura e as alternativas abaixo e determine as proposições correspondentes, selecionando os pares.
+
+IMAGEM
+img5m1mus
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de OpenStax, Tomáš Kebert e umimeto.org, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
+
+PARES CORRETOS
+I = Glúteo máximo
+II = Bíceps femoral
+III = Gastrocnêmio
+
+FEEDBACK IMAGEM
+img5m1mus
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de OpenStax, Tomáš Kebert e umimeto.org, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+A figura indica três dos principais músculos da face posterior membros inferiores:
+Glúteo máximo (representado em I), situa-se na região glútea (acima da coxa e abaixo da cintura). Sua função consiste em suportar a massa corporal e participar ativamente da locomoção na extensão, rotação lateral e abdução no quadril e auxiliar na extensão do joelho.
+Bíceps femoral (representado em II) é um músculo alongado situado na região posterior da coxa, e sua função consiste em possibilitar movimentos de extensão, adução e rotação lateral da coxa e flexão e rotação lateral da perna.
+Gastrocnêmio (representado em III) consiste em um músculo disposto em pares: dois músculos situados na face posterior de cada perna (lateral e medial), abaixo dos joelhos. Sua função consiste em possibilitar a flexão e supinação plantar e dos joelhos (quando a perna não estiver suportando o peso). Juntamente com o músculo sóleo e plantar, os músculos gastrocnêmios formam a panturrilha.
+fim
+
+GRUPO
+7
+
+MODELO
+1
+
+ENUNCIADO
+Os músculos dos membros inferiores são muito importantes na locomoção e manutenção da postura. A figura abaixo apresenta os principais músculos da face anterior (frontal) do corpo humano, contendo indicações de três deles. Sob este enfoque, analise a figura e as alternativas abaixo e determine as proposições correspondentes, selecionando os pares.
+
+IMAGEM
+img6m1mus
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de OpenStax, Tomáš Kebert e umimeto.org, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
+
+PARES CORRETOS
+I = Sartório
+II = Reto femoral
+III = Tibial anterior
+
+FEEDBACK IMAGEM
+img6m1mus
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de OpenStax, Tomáš Kebert e umimeto.org, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+A figura demonstra três músculos dos membros inferiores, sendo eles:
+Sartório (representado em I), que consiste no músculo mais longo do corpo humano, situado transversalmente na região frontal da coxa. Sua função engloba a flexão, rotação lateral e abdução do quadril, flexão e rotação medial do joelho.
+Reto femoral (representado em II), localizado na porção central da face anterior da coxa e sua função inclui a adução e flexão do quadril, atuando também na extensão do joelho. O conjunto dos músculos reto femoral, vasto medial (à esquerda), vasto lateral (à direita) e vasto intermediário (atrás do reto femoral) compõem os músculos do quadríceps femoral.
+Tibial anterior (representado em III), situado lateralmente ao osso tíbia, apresenta como função a flexão dorsal e supinação do pé.
+fim
+
+GRUPO
+7
+
+MODELO
+2
+
+ENUNCIADO
+Os músculos (liso, estriado esquelético ou cardíaco), atrelados a outros sistemas e estruturas do corpo humano, são de suma importância para a homeostase do ser humano, no desempenho de variadas funções. Sobre estas funções, analise as alternativas abaixo e selecione todas que julgar como verdadeiras.
+
+ALTERNATIVAS
+Efetuação de movimentos corporais resultantes de contrações musculares, a partir do funcionamento integrado entre músculos esqueléticos, ossos e articulações.
+Efetivar a comunicação entre as células por meio de mensageiros químicos que viajam pelo sangue, conhecidos como hormônios, os quais são responsáveis por coordenar as atividades de diferentes áreas do corpo, conhecidas como locais-alvo.
+Estabilização das posições do corpo, como ficar em pé ou sentado, por exemplo, de modo que os músculos posturais se contraem de forma contínua quando estamos acordados, o que chamamos de tônus muscular.
+Armazenamento e movimentação de substâncias no corpo, como por exemplo: manutenção de alimento no estômago pelos esfíncteres, bombeamento de sangue pelo músculo cardíaco e ajuda no retorno do sangue venoso para o coração pela contração de músculos esqueléticos.
+Controlar e promover a condução de impulsos nervosos voluntários e involuntários do corpo em direção ao cérebro, interpretando as informações obtidas e elaborando respostas adequadas, enviando aos órgãos e músculos do corpo.
+Geração de calor, de modo que, com a contração muscular o músculo produz calor por meio de um processo denominado termogênese, que é utilizado para manter a temperatura normal do corpo.
+
+ALTERNATIVAS CORRETAS
+1,3,4,6
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+Dentre as principais funções dos músculos do corpo humano (tecido muscular liso, estriado esquelético e estriado cardíaco), destacam-se:
+Efetuação de movimentos corporais resultantes de contrações musculares, a partir do funcionamento integrado entre músculos esqueléticos, ossos e articulações.
+Estabilização das posições do corpo, como ficar em pé ou sentado, por exemplo, de modo que os músculos posturais se contraem de forma contínua quando estamos acordados, o que chamamos de tônus muscular.
+Armazenamento e movimentação de substâncias no corpo, como por exemplo: manutenção de alimento no estômago pelos esfíncteres, bombeamento de sangue pelo músculo cardíaco e ajuda no retorno do sangue venoso para o coração pela contração de músculos esqueléticos.
+Geração de calor, de modo que, com a contração muscular o músculo produz calor por meio de um processo denominado termogênese, que é utilizado para manter a temperatura normal do corpo.
+fim
+
+GRUPO
+7
+
+MODELO
+2
+
+ENUNCIADO
+Os músculos estriados esqueléticos consistem em músculos aderidos aos ossos que permitem os movimentos e a postura corporal, por meio de uma dinâmica de contração muscular. Sobre o processo de contração muscular, analise as alternativas abaixo e selecione todas as proposições que julgar como verdadeiras.
+
+ALTERNATIVAS
+A contração muscular ocorre quando os fascículos encurtam pelo deslizamento dos filamentos de biotina sobre os filamentos de fibra muscular. Esse processo necessita de energia (ATP) e íons de Cobre.
+A contração muscular é um processo que demanda energia, que é obtida pela quebra da molécula de ADP. As células podem produzir ADP realizando respiração anaeróbia nas mitocôndrias.
+A contração muscular ocorre quando os sarcômeros encurtam pelo deslizamento dos filamentos de actina sobre os filamentos de miosina. Esse processo necessita de energia (ATP) e íons de Cálcio.
+A contração muscular é um processo que demanda energia, que é obtida pela quebra da molécula de ATP. As células podem produzir ATP realizando respiração aeróbia nas mitocôndrias.
+Durante um exercício físico muito intenso, as células podem produzir ATP (de forma alternativa) por meio da fermentação láctica, em situações em que o organismo não realiza respiração aeróbia em decorrência da quantidade insuficiente de oxigênio que chega aos músculos.
+Durante um exercício físico muito intenso, as células produzem ATP por meio da fermentação láctica, sendo esta a primeira alternativa de produção de energia, passando a realizar a respiração aeróbia apenas em situações em que há quantidade insuficiente de oxigênio chegando aos músculos.
+
+ALTERNATIVAS CORRETAS
+3,4,5
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+A contração muscular ocorre quando os sarcômeros encurtam pelo deslizamento dos filamentos de actina sobre os filamentos de miosina. Esse processo necessita de energia (ATP) e íons de Cálcio.
+A contração muscular é um processo que demanda energia, que é obtida pela quebra da molécula de ATP. As células podem produzir ATP realizando respiração aeróbia nas mitocôndrias. (De forma simplificada, a respiração aeróbia é um processo no qual as células utilizam da glicose e oxigênio para produzir energia).
+Durante um exercício físico muito intenso, as células podem produzir ATP (de forma alternativa) por meio da fermentação láctica, em situações em que o organismo não realiza respiração aeróbia em decorrência da quantidade insuficiente de oxigênio que chega aos músculos.
+fim
+
+GRUPO
+7
+
+MODELO
+2
+
+ENUNCIADO
+O sistema muscular humano e os movimentos desempenhados pelos músculos apresentam muitas propriedades que caracterizam este sistema e, dentre elas, é possível citar o antagonismo muscular, o grau de contração e as contrações isotônicas e isométricas. No que se refere às características da fisiologia muscular, analise as alternativas abaixo e assinale todas as que julgar como verdadeiras.
+
+ALTERNATIVAS
+Os músculos esqueléticos atuam geralmente em duplas, com movimentos antagônicos: o músculo principal que realiza um movimento específico é chamado de agonista, enquanto o músculo que se opõe à ação do agonista, realizando movimento contrário, é denominado músculo antagonista. 
+Os músculos esqueléticos atuam geralmente sozinhos, com movimentos duplicados: quando se contrai e realiza um movimento específico é chamado de agonista, já quando relaxa e empurra o osso, realizando movimento contrário, passa a ser chamado de músculo antagonista. 
+O grau de contração de um músculo depende da quantidade de fibras submetidas a estímulos nervosos. Quando o estímulo é fraco, só algumas fibras são estimuladas acarretando uma contração fraca, se o estímulo for forte, muitas fibras são estimuladas resultando uma contração intensa.
+O grau de contração de um músculo independe da quantidade de fibras submetidas a estímulos nervosos. Toda a musculatura se contrai integralmente, independentemente do estímulo, seguindo a “lei de tudo ou nada”, onde todas as fibras se contraem, ou nenhuma.
+A contração muscular pode ser isométrica, quando o músculo encurta durante a contração, como no caso dos músculos dos membros inferiores, ou isotônica, quando o músculo não sofre encurtamento durante a contração, como no caso dos músculos que mantém a postura.
+A contração muscular pode ser isotônica, quando o músculo encurta durante a contração, como no caso dos músculos dos membros inferiores, ou isométrica, quando o músculo não sofre encurtamento durante a contração, como no caso dos músculos que mantém a postura.
+
+ALTERNATIVAS CORRETAS
+1,3,6
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+Os músculos esqueléticos atuam geralmente em duplas, com movimentos antagônicos: o músculo principal que realiza um movimento específico é chamado de agonista, enquanto o músculo que se opõe à ação do agonista, realizando movimento contrário, é denominado músculo antagonista. Assim, quando um músculo agonista se contrai e sofre encurtamento, seu antagonista se alonga, resultando um movimento coordenado. Um exemplo é a flexão do antebraço, onde o bíceps atua como agonista enquanto o tríceps como antagonista.
+Vale lembrar que a contração muscular segue a “lei do tudo ou nada”, em que a fibra se contrai totalmente, ou não se contrai. No entanto, o grau de contração de um músculo depende da quantidade de fibras submetidas a estímulos nervosos. Quando o estímulo é fraco, só algumas fibras são estimuladas acarretando uma contração fraca, se o estímulo for forte, muitas fibras são estimuladas resultando uma contração intensa. 
+A contração muscular pode ser isotônica, quando o músculo encurta durante a contração, como no caso dos músculos dos membros inferiores, ou isométrica, quando o músculo não sofre encurtamento durante a contração, como no caso dos músculos que mantém a postura.
+fim
+
+GRUPO
+7
+
+MODELO
+3
+ 
+ENUNCIADO
+Os músculos constituem cerca de 40% da massa corporal do corpo humano, havendo cerca de 700 músculos que podem ser classificados em três tipos. As figuras abaixo ilustram uma estrutura correspondente a cada tipo de tecido muscular. Analise as figuras e as alternativas e selecione os pares correspondentes que julgar como corretos. 
+
+LEGENDA APÓS ENUNCIADO
+Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+PARES CORRETOS
+img7m3amus = Musculatura lisa: movimentos involuntários
+img7m3bmus = Musculatura estriada cardíaca: movimentos involuntários
+img7m3cmus = Musculatura estriada esquelética: movimentos voluntários
+
+FEEDBACK IMAGEM
+imgfeedback7mus
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
+
+FEEDBACK TEXTO
+O músculo liso é encontrado em órgãos viscerais, como estômago, intestino e o útero, por exemplo. Esse tipo de musculatura não apresenta estrias transversais e seus movimentos são involuntários, como, por exemplo, os movimentos peristálticos.
+O músculo estriado cardíaco é encontrado apenas no coração, sendo responsável pelos batimentos cardíacos. As fibras musculares cardíacas assemelham-se às fibras esqueléticas por apresentarem estrias transversais, contudo, esse tipo de músculo se diferencia, sobretudo, por apresentar contração involuntária, ou seja, independentemente da nossa vontade.
+O músculo estriado esquelético constitui a maior parte da musculatura do corpo e se caracteriza por estar associada aos ossos permitindo os movimentos e a postura corporal. O termo estriado deve-se ao fato de conter fibras que apresentam estrias transversais, dispostas ao longo de seu comprimento. Esse tipo de musculatura pode se contrair voluntariamente, ou seja, é possível contraí-los quando queremos.
+fim
+
+GRUPO
+7
+
+MODELO
+4
+  
+ENUNCIADO
+A animação abaixo ilustra um músculo do pescoço que se estende por sua face anterolateral, com duas porções inferiores, uma presa à clavícula e outra ao osso esterno, e uma porção superior ligada ao crânio. Analise a animação e as alternativas e, com base em seus conhecimentos, selecione a alternativa que julgar como correta.
+
+IMAGEM
+imggif8mus
+
+LEGENDA DA IMAGEM
+Imagem: Anatomografia, Creative Commons BY-SA 2.1 JP, via Wikimedia Commons. Disponível aqui.
+
+ALTERNATIVAS
+O músculo representado consiste no latíssimo do dorso, que apresenta ação de auxiliar na inspiração, inclinação lateral e rotação (virando pescoço para lado oposto) e flexão da cabeça.
+O músculo representado consiste no esternocleidomastóideo, que apresenta ação de auxiliar na inspiração, inclinação lateral e rotação (virando pescoço para lado oposto) e flexão da cabeça.
+O músculo representado consiste no escaleno anterior, que apresenta ação de elevar a primeira costela durante a inspiração e flexão lateral da coluna vertebral torácica.
+O músculo representado consiste no músculo deltoide, que apresenta ação de adução, abdução até 90º, rotação medial e rotação lateral dos membros superiores e do pescoço.
+
+ALTERNATIVA CORRETA
+2
+
+FEEDBACK IMAGEM
+imggif8mus
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Anatomografia, Creative Commons BY-SA 2.1 JP, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+A animação ilustra um músculo do pescoço que se estende por sua face anterolateral, com duas porções inferiores, uma presa à clavícula e outra ao osso esterno, e uma porção superior ligada ao crânio. O músculo representado consiste no esternocleidomastóideo, que apresenta ação de auxiliar na inspiração, inclinação lateral e rotação (virando pescoço para lado oposto) e flexão da cabeça.
+fim
+
+GRUPO
+7
+
+MODELO
+4
+  
+ENUNCIADO
+Os músculos podem ser classificados por distintos fatores, dentre eles de acordo com a ação que desempenham no movimento, podendo ser flexores, extensores, adutores, abdutores, rotadores, supinadores e/ou pronadores. A animação abaixo demonstra dois movimentos, realizados por dois músculos principais do braço. Analise a animação e as alternativas, selecionando a proposição que julgar como verdadeira.
+
+IMAGEM
+imggif9mus
+ 
+LEGENDA DA IMAGEM
+Imagem: Niwadare, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
+
+ALTERNATIVAS
+O bíceps é responsável pelo movimento de adução (aproximar do plano medial) e o tríceps pelo movimento de abdução (distanciar do plano medial). Ambos consistem em músculos antagônicos: quando o bíceps relaxa e encurta, o tríceps contrai e se alonga, e vice-versa.
+O bíceps é responsável pelo movimento de flexão (dobrar) e o tríceps pelo movimento de extensão (esticar). Ambos consistem em músculos antagônicos: quando o bíceps se contrai e encurta, o tríceps se alonga, e vice-versa.
+O bíceps é responsável pelo movimento de adução (aproximar do plano medial) e o tríceps pelo movimento de abdução (distanciar do plano medial). Ambos consistem em músculos de contração isotônica, em que a contração não demanda gasto de energia.
+O bíceps é responsável pelo movimento de extensão (esticar) e o tríceps pelo movimento de flexão (dobrar). Ambos consistem em músculos de contração isométrica, assim como os músculos posturais.
+
+ALTERNATIVA CORRETA
+2
+
+FEEDBACK IMAGEM
+imggif9mus
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Niwadare, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+O bíceps é responsável pelo movimento de flexão (dobrar) e o tríceps pelo movimento de extensão (esticar). Ambos consistem em músculos antagônicos: quando o bíceps se contrai e encurta, o tríceps se alonga, e vice-versa.
+fim
+
+GRUPO
+7
+
+MODELO
+4
+  
+ENUNCIADO
+A animação abaixo ilustra um músculo disposto em pares na face posterior de cada perna, importantes na flexão e supinação dos pés e dos joelhos (quando a perna não estiver suportando o peso). Sob este enfoque, analise a animação e as alternativas e selecione a proposição que julgar como verdadeira.
+
+IMAGEM
+imggif10mus 
+
+LEGENDA DA IMAGEM
+Imagem: Database Center for Life Science, Creative Commons BY-SA 2.1 JP, via Wikimedia Commons. Disponível aqui.
+
+ALTERNATIVAS
+Os músculos em destaque na animação consistem nos fibulares longos que, juntos com os músculos sóleo e plantar, formam os músculos da panturrilha.
+Os músculos em destaque na animação consistem nos músculos tibial anterior que, juntos com os músculos sóleo e plantar, formam os músculos da panturrilha.
+Os músculos em destaque na animação consistem nos músculos grácil que, juntos com os músculos sóleo e plantar, formam os músculos da panturrilha.
+Os músculos em destaque na animação consistem nos gastroctnêmios que, juntos com os músculos sóleo e plantar, formam os músculos da panturrilha.
+
+ALTERNATIVA CORRETA
+4
+
+FEEDBACK IMAGEM
+imggif10mus 
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Database Center for Life Science, Creative Commons BY-SA 2.1 JP, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+Os músculos em destaque na animação consistem nos gastroctnêmios que, juntos com os músculos sóleo e plantar, formam os músculos da panturrilha.
+fim
+
+GRUPO
+7
+
+MODELO
+4
+  
+ENUNCIADO
+A animação abaixo demonstra de forma simplificada a dinâmica da contração muscular, a partir da visualização dos filamentos de actina e miosina. Analise a animação e as alternativas e, com base em seus conhecimentos, selecione a proposição que julgar como verdadeira.
+
+IMAGEM
+imggif11mus
+
+LEGENDA DA IMAGEM
+Imagem: Mcgraw animations, via Make a Gif. Disponível aqui.
+
+ALTERNATIVAS
+O estímulo endócrino provoca a liberação de cálcio no citosol e, a partir de reações sem gasto de ATP, os filamentos de miosina deslizam-se sobre os filamentos de actina, encurtando os sarcômeros e possibilitando a contração muscular.
+O estímulo nervoso provoca a liberação de sódio no citosol e, a partir de reações envolvendo gasto de ATP, os filamentos de actina deslizam-se sobre os filamentos de miosina, encurtando os sarcômeros e possibilitando o relaxamento muscular.
+O estímulo nervoso provoca a liberação de cálcio no citosol e, a partir de reações envolvendo gasto de ATP, os filamentos de actina deslizam-se sobre os filamentos de miosina, encurtando os sarcômeros e possibilitando a contração muscular.
+O estímulo endócrino provoca a liberação de hormônios no citosol e, a partir de reações sem gasto de ATP, os filamentos de miosina deslizam-se sobre os filamentos de actina, alongando os sarcômeros e possibilitando a contração muscular.
+
+ALTERNATIVA CORRETA
+3
+
+FEEDBACK IMAGEM
+imggif11mus
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Mcgraw animations, via Make a Gif. Disponível aqui.
+
+FEEDBACK TEXTO
+A contração muscular ocorre quando os sarcômeros encurtam pelo deslizamento dos filamentos de actina sobre os filamentos de miosina. Esse processo necessita de energia e de íons de cálcio, que ficam armazenados em uma organela da fibra muscular chamada retículo sarcoplasmático.
+Resumidamente, por meio de estimulação nervosa, os íons de cálcio espalham-se pelo citosol e entram em contato direto com as miofibrilas, acarretando o deslizamento dos filamentos de actina sobre as extremidades da miosina e possibilitando a contração muscular.
+fim
+
+GRUPO
+7
+
+MODELO
+5
+ 
+ENUNCIADO
+A musculação consiste em um tipo de atividade física que possibilita o crescimento dos músculos estriados esqueléticos a partir de treinamento de resistência. Sobre o crescimento muscular a partir de atividades de musculação, analise as alternativas abaixo e determine a que julgar como verdadeira.
+
+IMAGEM
+img12m5mus
+
+LEGENDA DA IMAGEM
+Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
+
+ALTERNATIVAS
+Esse tipo de crescimento muscular é denominado hipertrofia muscular e consiste na produção mais intensa de miofibrilas, mitocôndrias, retículo sarcoplasmático e outras organelas em resposta à atividade muscular repetitiva e bastante forçada.
+Esse tipo de crescimento muscular é denominado atrofia muscular e consiste na produção mais intensa de miofibrilas, mitocôndrias, retículo sarcoplasmático e outras organelas em resposta à atividade muscular repetitiva e bastante forçada.
+Esse tipo de crescimento muscular é denominado hipertrofia muscular e consiste na diminuição de tamanho das fibras musculares individuais consequente à perda progressiva de miofibrilas, em resposta à atividade muscular repetitiva e bastante forçada.
+Esse tipo de crescimento muscular é denominado atrofia muscular e consiste na diminuição de tamanho das fibras musculares individuais consequente à perda progressiva de miofibrilas, em resposta à atividade muscular repetitiva e bastante forçada.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+img12m5mus
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
+
+FEEDBACK TEXTO
+A musculação consiste em um tipo de atividade física que possibilita o crescimento dos músculos estriados esqueléticos a partir de treinamento de resistência. Esse tipo de crescimento muscular é denominado hipertrofia muscular e consiste na produção mais intensa de miofibrilas, mitocôndrias, retículo sarcoplasmático e outras organelas em resposta à atividade muscular repetitiva e bastante forçada. Uma vez que músculos hipertrofiados contêm mais miofibrilas, eles são capazes de contrações mais vigorosas.
+fim
+
+GRUPO
+7
+
+MODELO
+5
+ 
+ENUNCIADO
+A figura abaixo demonstra um músculo em condições normais (à esquerda) e outro em estado de atrofia (à direita). Analise a imagem e as alternativas e, com base em seus conhecimentos, selecione a alternativa que julgar como verdadeira acerca do processo de atrofia muscular.
+
+IMAGEM
+img13m5mus
+ 
+LEGENDA DA IMAGEM
+Imagem: Adaptada de OpenStax, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
+
+ALTERNATIVAS
+A atrofia muscular é o aumento de tamanho das fibras musculares individuais consequente do ganho progressivo de miofibrilas, e pode acontecer por uso excessivo (musculação, por exemplo) ou devido à desnervação (interrupção da inervação muscular).
+A atrofia muscular é a diminuição de tamanho das fibras musculares individuais consequente à perda progressiva de tendões, e pode acontecer por lesões (acidentes, por exemplo) ou devido à degeneração (doenças genéticas).
+A atrofia muscular é a diminuição de tamanho das fibras musculares individuais consequente à perda progressiva de miofibrilas, e pode acontecer por desuso (sedentarismo, por exemplo) ou devido à desnervação (interrupção da inervação muscular).
+A atrofia muscular é o aumento de tamanho das fibras musculares individuais consequente ao ganho progressivo de tecido esponjoso, e pode acontecer por desuso (sedentarismo, por exemplo) ou devido ao uso contínuo (atividades físicas).
+
+ALTERNATIVA CORRETA
+3
+
+FEEDBACK IMAGEM
+img13m5mus
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Adaptada de OpenStax, Creative Commons BY-SA 4.0, via Wikimedia Commons. Disponível aqui.
+
+FEEDBACK TEXTO
+A atrofia muscular é a diminuição de tamanho das fibras musculares individuais consequente à perda progressiva de miofibrilas. A atrofia pode acontecer por duas causas principais: 
+Desuso (sedentarismo, por exemplo) quando os músculos não são usados suficientemente. A atrofia por desuso ocorre geralmente em indivíduos acamados ou engessados, porque o fluxo de impulsos nervosos para o músculo esquelético inativo é bastante reduzido, porém a condição é reversível.
+Desnervação, quando a inervação do músculo é interrompida. Nesses casos, ao longo de um período de 6 meses a 2 anos, o músculo diminui para cerca de ¼ do seu tamanho original e suas fibras são irreversivelmente substituídas por tecido conjuntivo fibroso. 
+fim
+
+GRUPO
+7
+
+MODELO
+5
+ 
+ENUNCIADO
+A dinâmica da contração muscular ocorre, basicamente, por meio do deslizamento dos filamentos de actina sobre os filamentos de miosina, encurtando os sarcômeros, o que demanda uso de energia e a presença de cálcio no citosol. Contudo, após os estímulos nervosos que desencadeiam a contração muscular, o músculo volta ao seu estado de relaxamento. Com base nas informações e na figura abaixo, analise as alternativas e selecione a que julgar como verdadeira.
+
+IMAGEM
+img14m5mus
+ 
+LEGENDA DA IMAGEM
+Imagem: Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+ALTERNATIVAS
+Ao cessar a estimulação nervosa, também é estimulada a saída de íons de Cálcio das bolsas do retículo endoplasmático e os íons livres mantém a musculatura relaxada até se deteriorarem e serem absorvidos pelo organismo.
+Ao cessar a estimulação nervosa, também cessa a liberação de íons de Cálcio. Na ausência de íons Cálcio, a miosina se separa da actina e os sarcômeros distendem-se, relaxando a musculatura novamente.
+Ao cessar a estimulação nervosa, também cessa a saída de íons de Sódio das bolsas do retículo endoplasmático e os íons livres retornam para o interior das bolsas, acarretando a contração isométrica e relaxando a musculatura.
+Ao cessar a estimulação nervosa, os íons de Sódio são liberados. Na presença de íons Sódio, a miosina se liga fortemente com a actina e os sarcômeros contraem-se, relaxando a musculatura novamente.
+
+ALTERNATIVA CORRETA
+2
+
+FEEDBACK IMAGEM
+img14m5mus
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Imagem: Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
+
+FEEDBACK TEXTO
+Ao cessar a estimulação nervosa, também cessa a saída de íons de Cálcio das bolsas do retículo endoplasmático e os íons livres retornam para o interior das bolsas. Na ausência de íons Cálcio, a miosina se separa da actina e os sarcômeros distendem-se, relaxando a musculatura novamente.
+fim
+
+GRUPO
+7
+
+MODELO
+6
+ 
+ENUNCIADO
+Durante a flexão do antebraço, por exemplo, a musculatura não se contrai sozinha, ela necessita ser estimulada por um sinal eletroquímico proveniente do sistema nervoso. Acerca desse processo, analise as alternativas abaixo e selecione a proposição que julgar como verdadeira.
+
+ALTERNATIVAS
+A contração muscular ocorre por meio da liberação de íons de Cálcio no citosol, que ao serem processados, induzem a efetivação de estímulo nervoso na musculatura. Para que haja o relaxamento muscular, os nervos liberam acetilcolina.
+A contração muscular ocorre quando as terminações axônicas de um nervo motor, que chegam ao cérebro e lançam uma substância neurotransmissora no encéfalo, a metilalanina, que desencadeia o processo de contração.
+A contração muscular ocorre por meio da liberação de hormônios como o glucagon no citosol das células musculares, que por meio de mecanismo de feedback induzem a liberação de acetilcolina que realiza, diretamente, a contração muscular.
+A contração muscular ocorre quando as terminações axônicas de um nervo motor, que chegam às fibras musculares e lançam uma substância neurotransmissora, a acetilcolina, que desencadeia o processo de contração.
+
+ALTERNATIVA CORRETA
+4
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+A contração muscular ocorre quando as terminações axônicas de um nervo motor, que chegam às fibras musculares e lançam uma substância neurotransmissora, a acetilcolina, em espaços estreitos entre as terminações axônicas do nervo motor e as membranas celulares das fibras musculares. 
+Essa substância promove alteração no interior das fibras musculares, gerando um potencial de ação envolvendo a liberação de íons de Cálcio e gasto de energia, que acarreta o processo de contração muscular.
+fim
+
+GRUPO
+7
+
+MODELO
+6
+ 
+ENUNCIADO
+Durante um esforço muscular intenso, os músculos geralmente ficam doloridos e enrijecidos por alguns dias. Esse processo se dá pelo fato de que a produção de energia ocorreu de forma alternativa e não mediante à respiração aeróbia, em decorrência da quantidade insuficiente de oxigênio que chega ao músculo. Sob este aspecto, analise as informações e as alternativas abaixo e selecione a alternativa que julgar verdadeira.
+
+ALTERNATIVAS
+Durante um exercício físico intenso, a produção de energia pode ser realizada de forma alternativa por fermentação láctica, na carência de oxigênio. Contudo, esse processo libera ácido lático, cujo acúmulo causa dor e intoxicação das fibras musculares.
+Durante um exercício físico intenso, a produção de energia pode ser realizada de forma alternativa por respiração aeróbia, na carência de oxigênio. Contudo, esse processo libera ácido lático, cujo acúmulo causa dor e intoxicação das fibras musculares.
+Durante um exercício físico intenso, a produção de energia não pode ser realizada de forma alternativa, necessitando da abundância de oxigênio. Esse processo acarreta dor e enrijecimento da musculatura, a fim de que o indivíduo cesse a atividade.
+Durante um exercício físico intenso, a produção de energia não pode ser realizada de forma alternativa por fermentação láctica, que é exclusivo de microrganismos. Contudo, a produção de energia via respiração aeróbia causa dor e intoxicação das fibras musculares.
+
+ALTERNATIVA CORRETA
+1
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+Durante um exercício físico intenso, a produção de energia pode ser realizada de forma alternativa por fermentação láctica, na carência de oxigênio. Contudo, esse processo libera ácido lático, cujo acúmulo causa dor e intoxicação das fibras musculares.
+fim
+
+GRUPO
+7
+
+MODELO
+6
+ 
+ENUNCIADO
+Durante a contração muscular, uma fibra muscular estriada consegue se manter contraída por milésimos de segundos. Contudo, sabe-se que um músculo pode se manter contraído por um longo período de tempo, como quando seguramos um objeto pesado, por exemplo. Como isso pode ser explicado? Analise as alternativas abaixo e determine a que julgar como verdadeira.
+
+ALTERNATIVAS
+A musculatura se mantém contraída porque quando há necessidade de manutenção de contração por um longo período, os íons de Cálcio estimulam todas as fibras do músculo, que se contraem de uma única vez, porém com menor intensidade.
+Em casos que demandam um longo período de contração ou um grande esforço físico, a fermentação láctica possibilita que todas as fibras musculares se contraiam em intensidade máxima, gastando maior energia e mantendo um estado permanente de tensão muscular.
+Enquanto houver estimulação nervosa, haverá alternância entre as fibras contraídas e relaxadas. Assim, quando as fibras se relaxam, outras se contraem em seu lugar, mantendo um estado permanente de atividade ou tensão muscular.
+Quando os músculos se contraem por um longo período de tempo, todas as fibras são estimuladas por ácido lático, o que enrijece a musculatura possibilitando que fique contraída por um longo período de tempo.
+
+ALTERNATIVA CORRETA
+3
+
+FEEDBACK IMAGEM
+Sem
+
+LEGENDA DA IMAGEM DE FEEDBACK
+Sem
+
+FEEDBACK TEXTO
+Durante a contração muscular, uma fibra muscular estriada consegue se manter contraída por milésimos de segundos. Contudo, sabe-se que um músculo pode se manter contraído por um longo período de tempo, como quando seguramos um objeto pesado, por exemplo.
+Isso ocorre porque: enquanto houver estimulação nervosa, haverá alternância entre as fibras contraídas e relaxadas. Assim, quando as fibras se relaxam, outras se contraem em seu lugar, mantendo um estado permanente de atividade ou tensão muscular.
+fim
+
+
