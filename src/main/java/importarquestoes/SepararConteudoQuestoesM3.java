@@ -1,14 +1,9 @@
 package importarquestoes;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
-
-import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
+
+import java.io.*;
 
 public class SepararConteudoQuestoesM3 {
     //Modelo 3
@@ -17,7 +12,7 @@ public class SepararConteudoQuestoesM3 {
         try {
 
             //Arquivo de texto que será lido e convertido nas questões
-            FileReader arq = new FileReader("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\texto-questoes\\sistema-urinario\\entrada-modelo-3.txt");
+            FileReader arq = new FileReader("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\texto-questoes\\sistema-digestorio\\entrada-modelo-3.txt");
             BufferedReader lerArq = new BufferedReader(arq);
 
             String linha = lerArq.readLine();
@@ -106,14 +101,10 @@ public class SepararConteudoQuestoesM3 {
                 Boolean contFeedback = true;
                 String feedback = "";
                 while (contFeedback) {
-                    if (!linha.trim().equals("fim")) {
-                        if (!linha.trim().equals("Fim")) {
-                            if (!linha.trim().equals("FIM")) {
+                    if (!linha.trim().equalsIgnoreCase("fim")) {
                                 feedback += feedback.equals("") ? linha.trim() : "<br/>" + linha.trim();
 
                                 linha = lerArq.readLine();
-                            }
-                        }
                     } else {
                         contFeedback = false;
                     }
@@ -127,10 +118,12 @@ public class SepararConteudoQuestoesM3 {
             }
 
             //Arquivo que será alimentado com as questões
-            FileWriter arqSaida = new FileWriter("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\sistemas\\4-sistema-urinario\\saida-modelo-3.txt");
+            FileWriter arqSaida = new FileWriter("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\sistemas\\1-sistema-digestorio\\saida-modelo-3.txt");
             PrintWriter gravarArq = new PrintWriter(arqSaida);
 
-            System.out.println(questoes);
+            gravarArq.printf(questoes.toString());
+
+            gravarArq.printf("fim!!");
 
             gravarArq.close();
 

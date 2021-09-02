@@ -14,7 +14,7 @@ Colecistoquinina, Inibidor Gástrico, FSH e Testosterona.
 Gastrina, Inibidor Gástrico, Secretina e Estrógeno.
 
 ALTERNATIVA CORRETA
-Gastrina, Secretina, Colecistoquinina e Inibidor Gástrico.
+1
 
 FEEDBACK IMAGEM
 SEM
@@ -42,7 +42,7 @@ ALTERNATIVAS
 É produzida no pâncreas, estimula a secreção de ptialina e inibe a secreção de bile.
 
 ALTERNATIVA CORRETA
-É produzida no estômago, estimula a secreção de suco gástrico, contrai o esfíncter esofágico inferior e relaxa o esfíncter pilórico.
+3
 
 FEEDBACK IMAGEM
 SEM
@@ -70,7 +70,7 @@ ALTERNATIVAS
 É produzida no intestino grosso, estimula a secreção de suco gástrico e inibe a formação do quimo.
 
 ALTERNATIVA CORRETA
-É produzida no intestino delgado, inibe a secreção de suco gástrico e estimula a produção de bile e a secreção de suco pancreático e suco entérico.
+1
 
 FEEDBACK IMAGEM
 SEM
@@ -98,7 +98,7 @@ ALTERNATIVAS
 É produzida no estômago, secretada pelas glândulas salivares e promove digestão de amido.
 
 ALTERNATIVA CORRETA
-É produzida no intestino delgado, estimula a secreção de bile e de enzimas do suco pancreático no duodeno.
+2
 
 FEEDBACK IMAGEM
 SEM
@@ -126,7 +126,7 @@ Produzido no esôfago, promove a formação de quimo.
 Produzido no intestino delgado, diminui as contrações estomacais.
 
 ALTERNATIVA CORRETA
-Produzido no intestino delgado, diminui as contrações estomacais.
+4
 
 FEEDBACK IMAGEM
 SEM
@@ -154,7 +154,7 @@ Precisam da gravidade, pois o esôfago não realiza nenhum movimento.
 Não precisam da gravidade, pois o peristaltismo do estômago “puxa” a comida do esôfago.
 
 ALTERNATIVA CORRETA
-Não precisam da gravidade, pois o peristaltismo do esôfago conduz a comida ao estômago.
+2
 
 FEEDBACK IMAGEM
 imgfeedback116
@@ -182,7 +182,7 @@ Os “roncos” significam que o estômago está em repouso, não realizando nen
 Os roncos ocorrem somente durante a passagem do bolo alimentar do esôfago ao estômago.
 
 ALTERNATIVA CORRETA
-Ocorrem devido aos movimentos peristálticos enquanto alimentos, líquidos ou gases passam pelo trato gastrointestinal.
+1
 
 FEEDBACK IMAGEM
 SEM
@@ -210,7 +210,7 @@ Diabetes, aterosclerose, pancreatite.
 Enfisema, cálculos renais e cistos ovarianos.
 
 ALTERNATIVA CORRETA
-Apendicite, pancreatite e cálculos vesiculares.
+2
 
 FEEDBACK IMAGEM
 SEM
@@ -238,7 +238,7 @@ Aumento da quantidade de saliva na cavidade oral.
 Movimentos realizados pela língua durante a mastigação, misturando o alimento com a saliva.
 
 ALTERNATIVA CORRETA
-Movimentos realizados pela língua durante a mastigação, misturando o alimento com a saliva.
+4
 
 FEEDBACK IMAGEM
 SEM
@@ -266,7 +266,7 @@ Aumento da quantidade de saliva na cavidade oral.
 Movimentos realizados pela língua durante a mastigação, misturando o alimento com a saliva.
 
 ALTERNATIVA CORRETA
-Movimentos da língua que “empurram” o alimento e saliva para o fundo da faringe.
+2
 
 FEEDBACK IMAGEM
 SEM

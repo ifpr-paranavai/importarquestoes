@@ -10,14 +10,6 @@ Durante a alimentação, as três estruturas representadas e/ou destacadas por c
 LEGENDA APÓS ENUNCIADO
 Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
 
-ALTERNATIVAS
-Produção e secreção de saliva, que desemboca na cavidade oral.
-Trituração do alimento, início da digestão por amilase salivar e deglutição.
-Fechamento da laringe permitindo a passagem do alimento para o esôfago.
-Imagem 1: img21am3sd
-Imagem 2: img21bm3sd
-Imagem 3: img21cm3sd
-
 PARES CORRETOS
 img21am3sd = Produção e secreção de saliva, que desemboca na cavidade oral. 
 img21bm3sd = Trituração do alimento, início da digestão por amilase salivar e deglutição. 
@@ -44,14 +36,6 @@ Durante o processo de digestão, em condições normais, o alimento segue uma se
 
 LEGENDA APÓS ENUNCIADO
 Imagens: Adaptadas de Olek Remesz, Creative Commons BY-SA 2.5, via Wikimedia Commons. Disponíveis aqui e aqui.
-
-ALTERNATIVAS
-Peristaltismo e secreção de muco permitindo o transporte do alimento até o estômago.
-Produção de suco gástrico, digestão química e mecânica dos alimentos e conversão de bolo alimentar em quimo.
-Passagem de ar e alimentos, se comunicando com boca, cavidade nasal, esôfago e laringe.
-Imagem 1: img22am3sd
-Imagem 2: img22bm3sd
-Imagem 3: img22cm3sd
 
 PARES CORRETOS
 img22am3sd = Peristaltismo e secreção de muco permitindo o transporte do alimento até o estômago.
@@ -80,14 +64,6 @@ Durante o processo de digestão, em condições normais, o alimento segue uma se
 LEGENDA APÓS ENUNCIADO
 Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
 
-ALTERNATIVAS
-Eliminação de fezes.
-Produção e secreção de suco entérico, digestão do quimo e absorção de nutrientes.
-Armazenamento de resíduos não aproveitados, absorção de água e sais minerais.
-Imagem 1: img23am3sd
-Imagem 2: img23bm3sd
-Imagem 3: img23cm3sd
-
 PARES CORRETOS
 img23am3sd = Eliminação de fezes.
 img23bm3sd = Produção e secreção de suco entérico, digestão do quimo e absorção de nutrientes.
@@ -114,14 +90,6 @@ As glândulas salivares, a língua, os dentes, o fígado, o pâncreas e a vesíc
 
 LEGENDA APÓS ENUNCIADO
 Imagens: Adaptadas de Macrovector, via Freepik.com. Disponíveis aqui.
-
-ALTERNATIVAS
-Produção de bile.
-Produção de suco pancreático.
-Armazenamento de bile.
-Imagem 1: img24am3sd
-Imagem 2: img24bm3sd
-Imagem 3: img24cm3sd
  
 PARES CORRETOS
 img24am3sd = Produção de bile.
@@ -149,14 +117,6 @@ Durante os processos digestivos, o alimento inicialmente digerido na boca e degl
 
 LEGENDA APÓS ENUNCIADO
 Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
-
-ALTERNATIVAS
-Passagem de bolo alimentar.
-Passagem do quimo.
-Digestão química duodenal.
-Imagem 1: img25am3sd
-Imagem 2: img25bm3sd
-Imagem 3: img25cm3sd
  
 PARES CORRETOS
 img25am3sd = Passagem de bolo alimentar.

@@ -1,14 +1,9 @@
 package importarquestoes;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
-
-import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
+
+import java.io.*;
 
 public class SepararConteudoQuestoesM1 {
 	//Modelo 1
@@ -17,7 +12,7 @@ public class SepararConteudoQuestoesM1 {
 		try {
 			
 			//Arquivo de texto que será lido e convertido nas questões
-			FileReader arq = new FileReader("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\texto-questoes\\sistema-urinario\\entrada-modelo-1.txt");
+			FileReader arq = new FileReader("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\texto-questoes\\sistema-digestorio\\entrada-modelo-1.txt");
 			BufferedReader lerArq = new BufferedReader(arq);
 
 			String linha = lerArq.readLine();
@@ -115,7 +110,7 @@ public class SepararConteudoQuestoesM1 {
 				Boolean contFeedback = true;
 				String feedback = "";
 				while (contFeedback) {
-					if (!linha.trim().equals("fim")) {
+					if (!linha.trim().equalsIgnoreCase("fim")) {
 						feedback += feedback.equals("") ? linha.trim() : "<br/>" + linha.trim();
 
 						linha = lerArq.readLine();
@@ -132,13 +127,14 @@ public class SepararConteudoQuestoesM1 {
 			}
 
 			//Arquivo que será alimentado com as questões
-		    FileWriter arqSaida = new FileWriter("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\sistemas\\4-sistema-urinario\\saida-modelo-1.txt");
+		    FileWriter arqSaida = new FileWriter("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\sistemas\\1-sistema-digestorio\\saida-modelo-1.txt");
 		    PrintWriter gravarArq = new PrintWriter(arqSaida);
 
-			System.out.println(questoes);
+			gravarArq.printf(questoes.toString());
+
+			gravarArq.printf("fim!!");
 
 		    gravarArq.close();
-
 
 			arq.close();
 		} catch (IOException e) {
