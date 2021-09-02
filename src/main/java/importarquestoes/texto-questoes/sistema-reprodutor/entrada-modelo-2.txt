@@ -13,7 +13,7 @@ Ao nascer, em cada um de seus ovários, a mulher possui cerca de 500 mil folícu
 A ovulogênese tem início na puberdade, quando as ovogônias sofrem meiose e liberam o ovócito secundário nas tubas uterinas, onde serão fecundados ou degeneração.
 Após a menarca, na puberdade, em média a cada 28 dias um dos ovócitos primários sofre maturação, produzindo duas células de tamanho diferente: uma grande, o ovócito secundário, e outra pequena, o glóbulo polar, que se degenera.
 Após a menarca, no final da fase adulta, os ovócitos primários cessam sua maturação, de modo que os óvulos passam a ser produzidos pelas ovogônias e sendo liberados no útero pelos folículos ovarianos.
-Ao ser formado, o ovócito secundário inicia a segunda divisão da meiose, mas estaciona. O acúmulo de líquido no interior do folículo causa sua ruptura e libertação do ovócito secundário, processo denominado ovulação. 
+Ao ser formado, o ovócito secundário inicia a segunda divisão da meiose, mas estaciona. O acúmulo de líquido no interior do folículo causa sua ruptura e libertação do ovócito secundário, processo denominado ovulação.
 
 ALTERNATIVAS CORRETAS
 1,2,4,6
@@ -28,7 +28,7 @@ FEEDBACK TEXTO
 A ovulogênese tem início antes do nascimento da mulher, em sua vida intrauterina, quando as células precursoras dos gametas, as ovogônias, se transformam em ovócitos primários, que permanecem estacionados até a puberdade.
 Ao nascer, em cada um de seus ovários, a mulher possui cerca de 500 mil folículos ovarianos, contudo a maioria deles degenera antes mesmo da puberdade.
 Após a menarca (primeira menstruação) na puberdade, em média a cada 28 dias um dos ovócitos primários sofre maturação, produzindo duas células de tamanho diferente: uma grande, o ovócito secundário, e outra pequena, o glóbulo polar, que se degenera.
-Ao ser formado, o ovócito secundário inicia a segunda divisão da meiose, mas estaciona. O acúmulo de líquido no interior do folículo causa sua ruptura e libertação do ovócito secundário, processo denominado ovulação. 
+Ao ser formado, o ovócito secundário inicia a segunda divisão da meiose, mas estaciona. O acúmulo de líquido no interior do folículo causa sua ruptura e libertação do ovócito secundário, processo denominado ovulação.
 fim
 
 GRUPO
@@ -70,7 +70,7 @@ MODELO
 2
 
 ENUNCIADO
-No ciclo ovariano, após a ovulação, as células que constituem a “cicatriz” do folículo rompido se desenvolvem, formando uma estrutura amarelada denominada corpo-lúteo. Com base em seus conhecimentos sobre o corpo-lúteo, analise as alternativas propostas e assinale todas as proposições que julgar verdadeiras. 
+No ciclo ovariano, após a ovulação, as células que constituem a “cicatriz” do folículo rompido se desenvolvem, formando uma estrutura amarelada denominada corpo-lúteo. Com base em seus conhecimentos sobre o corpo-lúteo, analise as alternativas propostas e assinale todas as proposições que julgar verdadeiras.
 
 ALTERNATIVAS
 O corpo-lúteo atua na produção de hormônios sexuais (pouco estrógeno e bastante progesterona), que atuam sobre o endométrio na preparação para uma eventual gravidez.
@@ -102,7 +102,7 @@ MODELO
 2
 
 ENUNCIADO
-Os métodos contraceptivos consistem em formas de se evitar uma gravidez indesejada, podendo variar entre métodos comportamentais, de barreira, dispositivos intrauterinos, hormonais, de emergência ou cirúrgicos. Os métodos de barreira, por exemplo, são aqueles que impedem que os espermatozoides cheguem até o útero. Com base em seus conhecimentos, analise as alternativas propostas abaixo e assinale todas as alternativas que consistirem em somente métodos contraceptivos de barreira. 
+Os métodos contraceptivos consistem em formas de se evitar uma gravidez indesejada, podendo variar entre métodos comportamentais, de barreira, dispositivos intrauterinos, hormonais, de emergência ou cirúrgicos. Os métodos de barreira, por exemplo, são aqueles que impedem que os espermatozoides cheguem até o útero. Com base em seus conhecimentos, analise as alternativas propostas abaixo e assinale todas as alternativas que consistirem em somente métodos contraceptivos de barreira.
 
 ALTERNATIVAS
 Preservativo (camisinha feminina e masculina).

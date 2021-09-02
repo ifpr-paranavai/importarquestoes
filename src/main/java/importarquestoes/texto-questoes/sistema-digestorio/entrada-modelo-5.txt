@@ -20,7 +20,7 @@ Substância produzida pelo pâncreas, armazenada no fígado e secretada no duode
 Substância produzida pelo duodeno, armazenada no estômago e secretada no fígado para a emulsificação de lipídios.
 
 ALTERNATIVA CORRETA
-Substância produzida pelo fígado, armazenada na vesícula biliar e secretada no duodeno para a emulsificação de lipídios.
+1
 
 FEEDBACK IMAGEM
 img61m5sd
@@ -53,7 +53,7 @@ A secreção exócrina desta estrutura tem como função a digestão de proteín
 Pacientes com disfunção desta estrutura geralmente apresentam icterícia e hepatite.
  
 ALTERNATIVA CORRETA
-A secreção exócrina desta estrutura tem como função a digestão de proteínas, carboidratos, triglicerídeos e ácidos nucléicos.
+3
 
 FEEDBACK IMAGEM
 img62m5sd
@@ -87,7 +87,7 @@ Produz as substâncias digestivas: ácido clorídrico, lipase e ptialina.
 Produz as substâncias digestivas: amilase, protease e pepsina.
 
 ALTERNATIVA CORRETA
-Produz as substâncias digestivas: pepsina, renina e ácido clorídrico.
+2
 
 FEEDBACK IMAGEM
 img63m5sd
@@ -121,7 +121,7 @@ Produz as substâncias digestivas: pepsina, renina, sacarase e peptidase.
 Produz as substâncias digestivas: amilase pancreática, lipase, proteases e nucleases.
 
 ALTERNATIVA CORRETA
-Produz as substâncias digestivas: amilase pancreática, lipase, proteases e nucleases.
+4
 
 FEEDBACK IMAGEM
 img64m5sd
@@ -155,7 +155,7 @@ Produz as substâncias digestivas: maltase, amilase, renina e ácido clorídrico
 Produz as substâncias digestivas: ptialina, pepsina e sacarase.
  
 ALTERNATIVA CORRETA
-Produz as substâncias digestivas: maltase, lactase, sacarase, peptidases e nucleotidases.
+1
 
 FEEDBACK IMAGEM
 img65m5sd
@@ -189,7 +189,7 @@ Absorção de água e sais minerais, produção de muco e presença de bactéria
 Armazenamento de fezes, ausência de bactérias e produção de ptialina.
  
 ALTERNATIVA CORRETA
-Absorção de água e sais minerais, produção de muco e presença de bactérias.
+1
 
 FEEDBACK IMAGEM
 img66m5sd
@@ -223,7 +223,7 @@ Essas projeções são vilosidades e átomos capazes de diminuir a superfície d
 Essas projeções são pregas estomacais macroscópicas e microscópicas responsáveis pela liberação amilase salivar, diminuindo a eficiência da digestão.
  
 ALTERNATIVA CORRETA
-Essas projeções são chamadas vilosidades e microvilosidades, e são capazes de aumentar a superfície de contato intestinal, ampliando a eficiência da absorção.
+1
 
 FEEDBACK IMAGEM
 img67m5sd
@@ -257,7 +257,7 @@ Básico, neutro e ácido.
 Neutro, básico e ácido.
 
 ALTERNATIVA CORRETA
-Neutro, ácido e básico.
+2
 
 FEEDBACK IMAGEM
 img68m5sd
@@ -291,7 +291,7 @@ Produz os hormônios: secretina, colecistoquinina e inibidor gástrico.
 Produz os hormônios: gastrina, colecistoquinina e insulina.
  
 ALTERNATIVA CORRETA
-Produz os hormônios: secretina, colecistoquinina e inibidor gástrico.
+3
 
 FEEDBACK IMAGEM
 img69m5sd
@@ -325,7 +325,7 @@ Em condições anormais, como no caso do alcoolismo, o pâncreas pode sofrer com
 Em condições anormais, como no caso do alcoolismo, o pâncreas pode sofrer com a deposição de substâncias insolúveis e minerais que se depositam nos ductos pancreáticos, que formam cristais conhecidos como cálculos, causando a pancreatite.
 
 ALTERNATIVA CORRETA
-As enzimas digestivas pancreáticas são produzidas em uma forma inativa, sendo ativadas apenas no intestino. Contudo, em condições anormais, o pâncreas retém o suco pancreático, cujas enzimas podem lesionar e inflamar o órgão, causando a pancreatite.
+1
 
 FEEDBACK IMAGEM
 img70m5sd
@@ -359,7 +359,7 @@ ALTERNATIVAS
 20 metros
  
 ALTERNATIVA CORRETA
-7 metros
+2
 
 FEEDBACK IMAGEM
 extra1m5sd
@@ -393,7 +393,7 @@ Fluido esverdeado e viscoso de pH entre 10,0 a 12,2 que é produzido pelas glân
 Fluido aquoso e transparente de pH entre 1,0 e 2,4 que é produzido pela glândula suprarrenal, mantendo a boca umedecida. Contém ácido clorídrico, um tipo de enzima que inicia a digestão de carboidratos simples.
 
 ALTERNATIVA CORRETA
-Fluido transparente e viscoso de pH entre 6,8 e 7,2 que é produzido pelas glândulas salivares, mantendo a boca e os lábios constantemente umedecidos. Contém ptialina, um tipo de enzima que inicia a digestão de amido e glicogênio.
+1
 
 FEEDBACK IMAGEM
 extra2m5sd
@@ -427,7 +427,7 @@ Quando o esfíncter esofágico superior não se fecha corretamente, o conteúdo 
 Quando o esfíncter pilórico não se fecha corretamente, o conteúdo estomacal pode retornar para o estômago.
  
 ALTERNATIVA CORRETA
-Quando o esfíncter esofágico inferior não se fecha corretamente, o conteúdo estomacal pode retornar para o esôfago.
+1
 
 FEEDBACK IMAGEM
 extra3m5sd
@@ -461,7 +461,7 @@ Ocorre quando o alimento entra na nasofaringe e tossimos voluntariamente para qu
 Ocorre quando o esfíncter esofágico inferior não se abre e a tosse retorna o alimento ao esôfago.
 
 ALTERNATIVA CORRETA
-Ocorre quando o alimento entra nas vias respiratórias e a tosse é um reflexo para expulsar o alimento.
+2
 
 FEEDBACK IMAGEM
 extra4m5sd
@@ -495,7 +495,7 @@ Dentina, polpa e esmalte.
 Esmalte, polpa e dentina.
  
 ALTERNATIVA CORRETA
-Esmalte, dentina e polpa.
+1
 
 FEEDBACK IMAGEM
 extra5m5sd

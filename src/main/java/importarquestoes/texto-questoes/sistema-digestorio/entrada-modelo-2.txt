@@ -16,10 +16,7 @@ Realização de hematose.
 Produção de anticorpos.
 
 ALTERNATIVAS CORRETAS
-Ingestão e trituração do alimento e liberação de substâncias no trato gastrointestinal.
-Digestão química e mecânica.
-Absorção de nutrientes, água e sais minerais.
-Eliminação de restos não aproveitados.
+1,2,3,4
 
 FEEDBACK IMAGEM
 imgfeedback41
@@ -53,10 +50,7 @@ Dente Decisivo.
 Dente Pré-canino.
 
 ALTERNATIVAS CORRETAS
-Dente Incisivo.
-Dente Canino.
-Dente Pré-molar.
-Dente Molar.
+1,2,3,4
 
 FEEDBACK IMAGEM
 imgfeedback42
@@ -86,9 +80,7 @@ Ptialina: localizada nos palatos da cavidade bucal.
 Epimandibular: localizada na parte superior da mandíbula.
 
 ALTERNATIVAS CORRETAS
-Parótida: localizada entre o ângulo da mandíbula e à base do crânio.
-Submandibular: localizada na parte inferior da mandíbula.
-Sublingual: localizada no assoalho da boca.
+1,2,3
 
 FEEDBACK IMAGEM
 imgfeedback43
@@ -118,10 +110,7 @@ Digerir proteínas e lipídeos.
 Produzir hormônios para o controle da digestão.
 
 ALTERNATIVAS CORRETAS
-Umedecimento da cavidade oral e facilitação da deglutição.
-Início da digestão do amido por meio da ptialina.
-Umedecimento de alimentos secos.
-Neutralização de substâncias ácidas.
+1,2,3,4
 
 FEEDBACK IMAGEM
 imgfeedback44
@@ -155,10 +144,7 @@ Suco hematopoiético.
 Suor.
 
 ALTERNATIVAS CORRETAS
-Saliva.
-Suco gástrico.
-Suco pancreático.
-Suco entérico.
+1,2,3,4
 
 FEEDBACK IMAGEM
 SEM

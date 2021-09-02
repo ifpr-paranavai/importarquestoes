@@ -20,7 +20,7 @@ Digestão, liberação de suco entérico, peristaltismo no estômago, secreção
 Digestão, formação de fezes, movimentos peristálticos no esôfago e eliminação de bolo fecal.
  
 ALTERNATIVA CORRETA
-Abertura da cárdia, peristaltismo do estômago, secreção de suco gástrico, digestão e abertura do esfíncter pilórico.
+2
 
 FEEDBACK IMAGEM
 imgfeedback51
@@ -54,7 +54,7 @@ Peristaltismo do esôfago.
 Refluxo gastroesofágico.
 
 ALTERNATIVA CORRETA
-Peristaltismo do esôfago.
+3
 
 FEEDBACK IMAGEM
 imgfeedback52
@@ -88,7 +88,7 @@ Secreção de bile, suco pancreático e suco entérico, e digestão no intestino
 Secreção de bile, suco pancreático, suco gástrico e digestão no estômago.
 
 ALTERNATIVA CORRETA
-Secreção de bile, suco pancreático e suco entérico, e digestão no intestino delgado.
+3
 
 FEEDBACK IMAGEM
 imgfeedback53
@@ -122,7 +122,7 @@ Esfíncter: fechamento da glote, proporcionando a passagem de ar no sistema resp
 Epiglote: fechamento da glote, evitando a entrada do bolo alimentar no sistema respiratório.
  
 ALTERNATIVA CORRETA
-Epiglote: fechamento da glote, evitando a entrada do bolo alimentar no sistema respiratório.
+4
 
 FEEDBACK IMAGEM
 imgfeedback54
@@ -156,7 +156,7 @@ Suco pancreático.
 Suco salivar.
  
 ALTERNATIVA CORRETA
-Suco gástrico.
+1
 
 FEEDBACK IMAGEM
 imgfeedback55

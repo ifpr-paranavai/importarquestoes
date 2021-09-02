@@ -1,13 +1,13 @@
-GRUPO
+GRUPO 
 1
 
 MODELO
 1
-
+ 
 ENUNCIADO
 As glândulas salivares são responsáveis por produzir a saliva, uma secreção que atua no processo de digestão e na garantia da saúde bucal. Dentre essas glândulas, algumas são maiores e outras menores. Os três principais pares de glândulas maiores estão representados na figura abaixo e sua nomenclatura remete à região em que elas se encontram na cavidade bucal. De acordo com os seus conhecimentos sobre o assunto e com base nas indicações da imagem, determine quais são estas glândulas por meio de toques nos pares.
 
-IMAGEM
+IMAGEM 
 img1m1sd
 
 LEGENDA DA IMAGEM
