@@ -13,14 +13,6 @@ img1m1sd
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-ALTERNATIVAS
-I
-II
-III
-Glândula Parótida.
-Glândula Submandibular.
-Glândula Sublingual.
-
 PARES CORRETOS
 I = Glândula Parótida.
 II = Glândula Submandibular.
@@ -50,14 +42,6 @@ img2m1sd
 
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
-
-ALTERNATIVAS
-I
-II
-III
-Boca. 
-Faringe.
-Esôfago. 
 
 PARES CORRETOS
 I = Boca.
@@ -89,14 +73,6 @@ img3m1sd
 LEGENDA DA IMAGEM
 Imagem: Adaptada de LadyofHats, Domínio público, via Wikimedia Commons.  Disponível aqui.
 
-ALTERNATIVAS
-I
-II
-III
-Fígado.
-Vesícula Biliar.
-Pâncreas.
-
 PARES CORRETOS
 I = Fígado.
 II = Vesícula Biliar.
@@ -126,14 +102,6 @@ img4m1sd
 
 LEGENDA DA IMAGEM
 Imagem: Adaptada de LadyofHats, Domínio público, via Wikimedia Commons.  Disponível aqui.
-
-ALTERNATIVAS
-I
-II
-III
-Estômago.
-Intestino Delgado.
-Intestino Grosso.
 
 PARES CORRETOS
 I = Estômago.
@@ -165,14 +133,6 @@ img5m1sd
 LEGENDA DA IMAGEM
 Imagem: Adaptada de LadyofHats, Domínio público, via Wikimedia Commons.  Disponível aqui.
 
-ALTERNATIVAS
-I
-II
-III
-Ânus.
-Pâncreas.
-Estômago.
-
 PARES CORRETOS
 I = Ânus.
 II = Pâncreas.
@@ -202,14 +162,6 @@ img6m1sd
 
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
-
-ALTERNATIVAS
-I
-II
-III
-Palato duro.
-Úvula.
-Palato mole.
 
 PARES CORRETOS
 I = Palato duro.
@@ -241,14 +193,6 @@ img7m1sd
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-ALTERNATIVAS
-I
-II
-III
-Língua.
-Tonsilas.
-Epiglote.
-
 PARES CORRETOS
 I = Língua.
 II = Tonsilas.
@@ -278,14 +222,6 @@ img8m1sd
 
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
-
-ALTERNATIVAS
-I
-II
-III
-Dentes incisivos.
-Dentes molares.
-Dentes pré-molares.
 
 PARES CORRETOS
 I = Dentes incisivos.
@@ -317,14 +253,6 @@ img9m1sd
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Patrick J. Lynch, ilustrador médico, Creative Commons BY 2.5, via Wikimedia Commons. Disponível aqui.
 
-ALTERNATIVAS
-I
-II
-III
-Nasofaringe.
-Orofaringe.
-Hipofaringe.
-
 PARES CORRETOS
 I = Nasofaringe.
 II = Orofaringe.
@@ -354,14 +282,6 @@ img10m1sd
 
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Olek Remesz, Creative Commons BY-SA 2.5, via Wikimedia Commons. Disponível aqui.
- 
-ALTERNATIVAS
-I
-II
-III
-Esfíncter esofágico inferior.
-Corpo do esôfago.
-Esfíncter esofágico superior.
 
 PARES CORRETOS
 I = Esfíncter esofágico inferior.
@@ -393,14 +313,6 @@ img11m1sd
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui.
 
-ALTERNATIVAS
-I
-II
-III
-Fundo.
-Corpo.
-Antro.
-
 PARES CORRETOS
 I = Fundo.
 II = Corpo.
@@ -430,14 +342,6 @@ img12m1sd
 
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
-
-ALTERNATIVAS
-I
-II
-III
-Esfíncter esofágico inferior.
-Estômago.
-Esfíncter pilórico.
 
 PARES CORRETOS
 I = Esfíncter esofágico inferior.
@@ -469,14 +373,6 @@ img13m1sd
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-ALTERNATIVAS
-I
-II
-III
-Duodeno.
-Jejuno.
-Íleo.
-
 PARES CORRETOS
 I = Duodeno.
 II = Jejuno.
@@ -506,14 +402,6 @@ img14m1sd
 
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
-
-ALTERNATIVAS
-I
-II
-III
-Cólon ascendente.
-Cólon transverso.
-Cólon descendente.
 
 PARES CORRETOS
 I = Cólon ascendente.
@@ -545,14 +433,6 @@ img15m1sd
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-ALTERNATIVAS
-I
-II
-III
-Apêndice.
-Ceco.
-Cólon sigmóide.
-
 PARES CORRETOS
 I = Apêndice.
 II = Ceco.
@@ -582,14 +462,6 @@ img16m1sd
 
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
-
-ALTERNATIVAS
-I
-II
-III
-Reto.
-Cólon transverso.
-Cólon sigmóide.
 
 PARES CORRETOS
 I = Reto.
@@ -621,14 +493,6 @@ img17m1sd
 LEGENDA DA IMAGEM
 Imagem: Adaptada de LukesAnatomy, Creative Commons BY-SA 3.0, via Wikimedia Commons. Disponível aqui.
 
-ALTERNATIVAS
-I
-II
-III
-Ductos hepáticos.
-Colédoco.
-Vesícula.
-
 PARES CORRETOS
 I = Ductos hepáticos.
 II = Colédoco.
@@ -658,14 +522,6 @@ img18m1sd
 
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Macrovector, via Freepik.com. Disponível aqui e aqui.
-
-ALTERNATIVAS
-I
-II
-III
-Pâncreas.
-Ductos pancreáticos.
-Duodeno.
 
 PARES CORRETOS
 I = Pâncreas.
@@ -697,14 +553,6 @@ img19m1sd
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-ALTERNATIVAS
-I
-II
-III
-Papila gustativa.
-Botão gustativo.
-Poro gustativo.
-
 PARES CORRETOS
 I = Papila gustativa.
 II = Botão gustativo.
@@ -734,14 +582,6 @@ img20m1sd
 
 LEGENDA DA IMAGEM
 Imagem: Adaptada de LadyofHats, Domínio público, via Wikimedia Commons.  Disponível aqui.
-
-ALTERNATIVAS
-I
-II
-III
-Bile.
-Suco pancreático.
-Suco entérico.
 
 PARES CORRETOS
 I = Bile.

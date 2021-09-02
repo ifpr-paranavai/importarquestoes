@@ -11,15 +11,7 @@ IMAGEM
 img26m1sc
 
 LEGENDA DA IMAGEM
-Imagem: Adaptada de Brgfx, via Freepik.com. Disponível aqui. 
-
-ALTERNATIVAS	
-I
-II
-III
-Hemácia
-Glóbulo Branco
-Plaqueta
+Imagem: Adaptada de Brgfx, via Freepik.com. Disponível aqui.
 
 PARES CORRETOS
 I = Hemácia
@@ -50,15 +42,7 @@ IMAGEM
 img27m1sc
 
 LEGENDA DA IMAGEM
-Imagem: Adaptada de Brgfx, via Freepik.com. Disponível aqui. 
-
-ALTERNATIVAS
-Plasma
-Glóbulos brancos e Plaquetas
-Glóbulos vermelhos
-55%
-4%
-41%
+Imagem: Adaptada de Brgfx, via Freepik.com. Disponível aqui.
 
 PARES CORRETOS
 Plasma = 55%
@@ -91,14 +75,6 @@ img28m1sc
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-ALTERNATIVAS
-I
-II
-III
-Artéria
-Veia
-Capilar
-
 PARES CORRETOS
 I = Artéria
 II = Veia
@@ -130,14 +106,6 @@ img29m1sc
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-ALTERNATIVAS
-I
-II
-III
-Túnica íntima
-Túnica média
-Túnica adventícia
-
 PARES CORRETOS
 I = Túnica íntima
 II = Túnica média
@@ -167,14 +135,6 @@ img30m1sc
 
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
-
-ALTERNATIVAS
-I
-II
-III
-Aorta
-Veias cavas
-Artéria pulmonar
 
 PARES CORRETOS
 I = Aorta
@@ -206,14 +166,6 @@ img31m1sc
 LEGENDA DA IMAGEM 
 Imagem: Adaptada de Zoofari, (Creative Commons BY-SA 3.0), via Wikimedia Commons. Disponível aqui.
 
-ALTERNATIVAS
-I
-II
-III
-Semilunares
-Tricúspide
-Bicúspide
-
 PARES CORRETOS
 I = Semilulares
 II = Tricúspide
@@ -244,14 +196,6 @@ img32m1sc
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Zoofari, (Creative Commons BY-SA 3.0), via Wikimedia Commons. Disponível aqui.
 
-ALTERNATIVAS
-I
-II
-III
-Veias cavas
-Artérias pulmonares
-Veias pulmonares
-
 PARES CORRETOS:
 I = Veias cavas
 II = Artérias pulmonares
@@ -279,14 +223,6 @@ img33m1sc
 
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
-
-ALTERNATIVAS
-I
-II
-III
-Vênulas
-Arteríolas
-Capilares
 
 PARES CORRETOS
 I = Vênulas
@@ -318,14 +254,6 @@ img34m1sc
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-ALTERNATIVAS
-I
-II
-III
-Diástole geral
-Sístole atrial
-Sístole ventricular
-
 PARES CORRETOS
 I = Diástole geral
 II = Sístole atrial
@@ -355,14 +283,6 @@ img35m1sd
 
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
-
-ALTERNATIVAS
-I
-II
-III
-Linfonodos
-Vasos linfáticos
-Capilares linfáticos
 
 PARES CORRETOS
 I = Linfonodos
