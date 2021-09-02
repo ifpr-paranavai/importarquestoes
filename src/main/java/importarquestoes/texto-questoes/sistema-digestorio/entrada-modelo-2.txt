@@ -62,7 +62,7 @@ FEEDBACK TEXTO
 Os dentes localizados na frente da boca possuem formato que facilita cortar o alimento e são denominados incisivos. Nas laterais destes, temos dentes pontiagudos que permitem com que o alimento seja “rasgado”, os quais são denominados caninos. Os dentes localizados mais ao fundo da boca exercem uma função trituradora de alimentos, sendo que os dois primeiros após os dentes caninos são chamados pré-molares, enquanto os três últimos são os molares.
 FIM
 
-GRUPO 
+GRUPO
 1
 
 MODELO
@@ -92,7 +92,7 @@ FEEDBACK TEXTO
 As glândulas salivares maiores são exócrinas e responsáveis pela produção e secreção da saliva. São encontradas em três pares, sendo elas: Parótida: localizada entre o ângulo da mandíbula e à base do crânio. Submandibular: localizada na parte inferior da mandíbula. Sublingual: localizada no assoalho da boca.
 FIM
 
-GRUPO 
+GRUPO
 1
 
 MODELO
@@ -126,7 +126,7 @@ A Síndrome de Sjögren é uma doença autoimune que pode afetar as glândulas s
 - Neutralização de substâncias ácidas.
 FIM
 
-GRUPO 
+GRUPO
 1
 
 MODELO
