@@ -90,7 +90,7 @@ As glândulas salivares, a língua, os dentes, o fígado, o pâncreas e a vesíc
 
 LEGENDA APÓS ENUNCIADO
 Imagens: Adaptadas de Macrovector, via Freepik.com. Disponíveis aqui.
- 
+
 PARES CORRETOS
 img24am3sd = Produção de bile.
 img24bm3sd = Produção de suco pancreático.
@@ -117,7 +117,7 @@ Durante os processos digestivos, o alimento inicialmente digerido na boca e degl
 
 LEGENDA APÓS ENUNCIADO
 Imagens: Adaptadas de Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
- 
+
 PARES CORRETOS
 img25am3sd = Passagem de bolo alimentar.
 img25bm3sd = Passagem do quimo.
