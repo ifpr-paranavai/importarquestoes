@@ -6,6 +6,8 @@ public class Main {
         SepararConteudoQuestoesM1 modelo1 = new SepararConteudoQuestoesM1();
         SepararConteudoQuestoesM2 modelo2 = new SepararConteudoQuestoesM2();
         SepararConteudoQuestoesM3 modelo3 = new SepararConteudoQuestoesM3();
+        SepararConteudoQuestoesM4 modelo4 = new SepararConteudoQuestoesM4();
+
 
         System.out.printf("\n\n");
         System.out.printf("QUESTOES MODELO 1\n\n");
@@ -18,5 +20,9 @@ public class Main {
         System.out.printf("\n\n");
         System.out.printf("QUESTOES MODELO 3\n\n");
         modelo3.ConverterModelo3();
+
+        System.out.printf("\n\n");
+        System.out.printf("QUESTOES MODELO 4\n\n");
+        modelo4.ConverterModelo4();
     }
 }
