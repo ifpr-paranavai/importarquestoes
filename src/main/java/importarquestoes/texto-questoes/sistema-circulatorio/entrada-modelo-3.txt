@@ -10,14 +10,6 @@ Os órgãos linfoides são um conjunto de órgãos onde ocorre a formação, a m
 LEGENDA APÓS ENUNCIADO
 Imagens: Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
 
-ALTERNATIVAS
-Órgão linfoide primário, origina os linfócitos B e T e é o local de maturação dos linfócitos B.
-Órgão linfoide primário, onde ocorre a maturação dos linfócitos T.
-Órgão linfoide secundário, onde há a ação dos leucócitos para remoção de microrganismos.
-Imagem 1: img36am3sc
-Imagem 2: img36bm3sc
-Imagem 3: img36cm3sc
-
 PARES CORRETOS
 img36am3sc = Órgão linfoide primário, origina os linfócitos B e T e é o local de maturação dos linfócitos B
 img36bm3sc = Órgão linfoide primário, onde ocorre a maturação dos linfócitos T
@@ -44,14 +36,6 @@ Os leucócitos (glóbulos brancos) podem ser classificados de acordo com a prese
 
 LEGENDA APÓS ENUNCIADO
 Imagens: Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
-
-ALTERNATIVAS
-Neutrófilo: núcleo trilobado
-Eosinófilo: núcleo bilobado
-Basófilo: núcleo irregular
-Imagem 1: img37am3sc
-Imagem 2: img37bm3sc
-Imagem 3: img37cm3sc
 
 PARES CORRETOS
 img37am3sc = Neutrófilo: núcleo trilobado
@@ -80,14 +64,6 @@ O sangue é composto por uma parte líquida denominada plasma e por elementos fi
 LEGENDA APÓS ENUNCIADO
 Imagens: Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
 
-ALTERNATIVAS
-Célula bicôncava, anucleada, contendo hemoglobina com ferro permitindo o transporte de oxigênio.
-Célula esférica e incolor, podendo ser granulócita ou agranulócita, cuja função é a defesa do organismo.
-Fragmentos anucleados de células que participam do processo de coagulação sanguínea.
-Imagem 1: img38am3sc
-Imagem 2: img38bm3sc
-Imagem 3: img38cm3sc
-
 PARES CORRETOS
 img38am3sc = Célula bicôncava, anucleada, contendo hemoglobina com ferro permitindo o transporte de oxigênio.
 img38bm3sc = Célula esférica e incolor, podendo ser granulócita ou agranulócita, cuja função é a defesa do organismo.
@@ -115,14 +91,6 @@ As imagens das alternativas a seguir ilustram três tipos de vasos sanguíneos (
 LEGENDA APÓS ENUNCIADO
 Imagens: Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
 
-ALTERNATIVAS
-Artéria
-Veia
-Capilar
-Imagem 1: img39am3sc
-Imagem 2: img39bm3sc
-Imagem 3: img39cm3sc
-
 PARES CORRETOS
 img39am3sc = Artéria
 img39bm3sc = Veia
@@ -149,14 +117,6 @@ O ciclo cardíaco é caracterizado por momentos de contração e relaxamento das
 
 LEGENDA APÓS ENUNCIADO
 Imagens: Servier Medical Art, (Creative Commons 3.0).  Disponíveis aqui.
-
-ALTERNATIVAS
-Diástole geral: átrios e ventrículos relaxados.
-Sístole atrial: átrios contraídos e ventrículos relaxados. 
-Sístole ventricular: átrios relaxados e ventrículos contraídos.
-Imagem 1: img40am3sc
-Imagem 2: img40bm3sc
-Imagem 3: img40cm3sc
 
 PARES CORRETOS
 img40am3sc = Diástole geral: átrios e ventrículos relaxados.

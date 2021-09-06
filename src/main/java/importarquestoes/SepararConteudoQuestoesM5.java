@@ -15,16 +15,17 @@ public class SepararConteudoQuestoesM5 {
     //Modelo 5
     //(Enunciado + Imagem + 4 alternativas texto)
     public void ConverterModelo5() {
+        Separador separador = new Separador();
         try {
 
             //Arquivo de texto que será lido e convertido nas questões
-            FileReader arq = new FileReader("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\texto-questoes\\sistema-circulatorio\\entrada-modelo-5.txt");
+            FileReader arq = new FileReader("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\texto-questoes\\" + separador.sistemas[separador.i] + "\\entrada-modelo-5.txt");
             BufferedReader lerArq = new BufferedReader(arq);
 
             String linha = lerArq.readLine();
 
             JsonArray questoes = new JsonArray();
-            int id = 1;
+            int id = separador.getId();
             while (linha != null) {
 
                 JsonObject questao = new JsonObject();
@@ -123,15 +124,16 @@ public class SepararConteudoQuestoesM5 {
 
                 questoes.add(questao);
 
+                separador.setId(id);
             }
 
             //Arquivo que será alimentado com as questões
-            FileWriter arqSaida2 = new FileWriter("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\sistemas\\2-sistema-circulatorio\\saida-modelo-5.txt");
+            FileWriter arqSaida2 = new FileWriter("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\sistemas\\" + (separador.i + 1) + "-" + separador.sistemas[separador.i] + "\\saida-modelo-5.txt");
             PrintWriter gravarArq = new PrintWriter(arqSaida2);
 
             gravarArq.printf(questoes.toString());
 
-            gravarArq.printf("fim!!");
+
 
             gravarArq.close();
 

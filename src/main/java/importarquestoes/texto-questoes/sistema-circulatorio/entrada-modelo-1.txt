@@ -11,15 +11,7 @@ IMAGEM
 img26m1sc
 
 LEGENDA DA IMAGEM
-Imagem: Adaptada de Brgfx, via Freepik.com. Disponível aqui. 
-
-ALTERNATIVAS	
-I
-II
-III
-Hemácia
-Glóbulo Branco
-Plaqueta
+Imagem: Adaptada de Brgfx, via Freepik.com. Disponível aqui.
 
 PARES CORRETOS
 I = Hemácia
@@ -30,8 +22,7 @@ FEEDBACK IMAGEM
 img26m1sc
 
 LEGENDA DA IMAGEM DE FEEDBACK
-Imagem: Adaptada de Brgfx, via Freepik.com. Disponível aqui. 
-
+Imagem: Adaptada de Brgfx, via Freepik.com. Disponível aqui.
 
 FEEDBACK TEXTO
 O sangue é considerado um tipo de tecido conjuntivo de consistência fluida, constituído pelo plasma e por elementos figurados. Os elementos figurados são constituídos por células, que são as hemácias (representada em I) e os glóbulos brancos (representado em II) e fragmentos celulares, como as plaquetas (representada em III).
@@ -52,14 +43,6 @@ img27m1sc
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Brgfx, via Freepik.com. Disponível aqui. 
 
-ALTERNATIVAS
-Plasma
-Glóbulos brancos e Plaquetas
-Glóbulos vermelhos
-55%
-4%
-41%
-
 PARES CORRETOS
 Plasma = 55%
 Glóbulos brancos e Plaquetas = 4%
@@ -69,8 +52,7 @@ FEEDBACK IMAGEM
 img27m1sc
 
 LEGENDA DA IMAGEM DE FEEDBACK
-Imagem: Adaptada de Brgfx, via Freepik.com. Disponível aqui. 
-
+Imagem: Adaptada de Brgfx, via Freepik.com. Disponível aqui.
 
 FEEDBACK TEXTO
 O plasma corresponde a cerca de 55% do sangue, sendo constituído por 90% de água e o restante inclui proteínas, sais minerais, hormônios, nutrientes, gases e excreções. As hemácias (glóbulos vermelhos) correspondem a 41% do sangue, e são células com forma discoidal, sem núcleo e repletas de hemoglobina. Os glóbulos brancos (leucócitos) e as plaquetas, juntos, compõem cerca de 4% do sangue, de modo que os glóbulos brancos são células esféricas e nucleadas e as plaquetas são fragmentos do citoplasmáticos anucleados, contendo forma irregular ou oval, envoltas por membrana plasmática e glicoproteínas.
@@ -91,14 +73,6 @@ img28m1sc
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-ALTERNATIVAS
-I
-II
-III
-Artéria
-Veia
-Capilar
-
 PARES CORRETOS
 I = Artéria
 II = Veia
@@ -109,7 +83,6 @@ img28m1sc
 
 LEGENDA DA IMAGEM DE FEEDBACK
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
-
 
 FEEDBACK TEXTO
 Em I, encontra-se representada uma artéria, caracterizada por possuir uma parede espessa rica em musculatura lisa e podendo apresentar fibras elásticas, sendo o tipo de vaso que leva sangue do coração em direção aos órgãos e tecidos corporais. Em II, encontra-se representada uma veia, caracterizada por possuir paredes menos espessas em relação às artérias e possuir válvulas venosas, sendo o tipo de vaso que leva sangue dos tecidos corporais ao coração. Em III, encontra-se representado um capilar, que é um tipo de vaso finíssimo, de tamanho microscópico, que se comunica entre uma arteríola e uma vênula, e é constituído por apenas uma camada de células endoteliais.
@@ -129,14 +102,6 @@ img29m1sc
 
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
-
-ALTERNATIVAS
-I
-II
-III
-Túnica íntima
-Túnica média
-Túnica adventícia
 
 PARES CORRETOS
 I = Túnica íntima
@@ -168,14 +133,6 @@ img30m1sc
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-ALTERNATIVAS
-I
-II
-III
-Aorta
-Veias cavas
-Artéria pulmonar
-
 PARES CORRETOS
 I = Aorta
 II = Veias cavas
@@ -205,14 +162,6 @@ img31m1sc
 
 LEGENDA DA IMAGEM 
 Imagem: Adaptada de Zoofari, (Creative Commons BY-SA 3.0), via Wikimedia Commons. Disponível aqui.
-
-ALTERNATIVAS
-I
-II
-III
-Semilunares
-Tricúspide
-Bicúspide
 
 PARES CORRETOS
 I = Semilulares
@@ -244,14 +193,6 @@ img32m1sc
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Zoofari, (Creative Commons BY-SA 3.0), via Wikimedia Commons. Disponível aqui.
 
-ALTERNATIVAS
-I
-II
-III
-Veias cavas
-Artérias pulmonares
-Veias pulmonares
-
 PARES CORRETOS:
 I = Veias cavas
 II = Artérias pulmonares
@@ -279,14 +220,6 @@ img33m1sc
 
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
-
-ALTERNATIVAS
-I
-II
-III
-Vênulas
-Arteríolas
-Capilares
 
 PARES CORRETOS
 I = Vênulas
@@ -318,14 +251,6 @@ img34m1sc
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
 
-ALTERNATIVAS
-I
-II
-III
-Diástole geral
-Sístole atrial
-Sístole ventricular
-
 PARES CORRETOS
 I = Diástole geral
 II = Sístole atrial
@@ -355,14 +280,6 @@ img35m1sd
 
 LEGENDA DA IMAGEM
 Imagem: Adaptada de Servier Medical Art, (Creative Commons 3.0).  Disponível aqui.
-
-ALTERNATIVAS
-I
-II
-III
-Linfonodos
-Vasos linfáticos
-Capilares linfáticos
 
 PARES CORRETOS
 I = Linfonodos

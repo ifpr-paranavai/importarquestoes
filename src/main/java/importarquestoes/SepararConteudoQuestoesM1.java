@@ -9,20 +9,21 @@ public class SepararConteudoQuestoesM1 {
 	//Modelo 1
 	//(Enunciado + Imagem + Toque pares em texto)
 	public void ConverterModelo1() {
+		Separador separador = new Separador();
 		try {
-			
+
 			//Arquivo de texto que será lido e convertido nas questões
-			FileReader arq = new FileReader("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\texto-questoes\\sistema-digestorio\\entrada-modelo-1.txt");
+			FileReader arq = new FileReader("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\texto-questoes\\"+ separador.sistemas[separador.i] +"\\entrada-modelo-1.txt");
 			BufferedReader lerArq = new BufferedReader(arq);
 
 			String linha = lerArq.readLine();
 
 			JsonArray questoes = new JsonArray();
-			int id = 1;
+			int id = separador.getId();
 			while (linha != null) {
 
 				JsonObject questao = new JsonObject();
-				
+
 				questao.addProperty("id", id);
 				id++;
 				questao.addProperty("escolhida", "não");
@@ -34,25 +35,25 @@ public class SepararConteudoQuestoesM1 {
 				linha = lerArq.readLine();
 				questao.addProperty("modelo", linha.trim());
 
-	
+
 				linha = lerArq.readLine();
 				linha = lerArq.readLine();
 				linha = lerArq.readLine();
 				questao.addProperty("enunciado", linha.trim());
 
-				
+
 				linha = lerArq.readLine();
 				linha = lerArq.readLine();
 				linha = lerArq.readLine();
 				questao.addProperty("imagem", linha.trim());
 
-			
+
 				linha = lerArq.readLine();
 				linha = lerArq.readLine();
 				linha = lerArq.readLine();
 				questao.addProperty("legendaImagem", linha.trim());
 
-			
+
 				linha = lerArq.readLine();
 				linha = lerArq.readLine();
 				linha = lerArq.readLine();
@@ -60,12 +61,12 @@ public class SepararConteudoQuestoesM1 {
 				JsonArray arrayPares = new JsonArray();
 				Boolean temPar = true;
 				int idPar = 1;
-				while (temPar) {			
-					
+				while (temPar) {
+
 					if (linha.trim().length() > 5) {
-					
+
 						String[] pares = linha.split("=");
-					
+
 						JsonObject par1 = new JsonObject();
 						par1.addProperty("id", idPar);
 						idPar++;
@@ -91,10 +92,10 @@ public class SepararConteudoQuestoesM1 {
 						temPar = false;
 					}
 				}
-				
+
 				System.out.println(arrayPares);
 				questao.add("pares", arrayPares);
-			
+
 				linha = lerArq.readLine();
 				linha = lerArq.readLine();
 				questao.addProperty("feedBackImagem", linha.trim());
@@ -117,31 +118,34 @@ public class SepararConteudoQuestoesM1 {
 					}else {
 						contFeedback=false;
 					}
-					
+
 				}
 				questao.addProperty("feedBackTexto", feedback);
 				linha = lerArq.readLine();
 				linha = lerArq.readLine();
-	
+
+
 				questoes.add(questao);
+				separador.setId(id);
 			}
 
 			//Arquivo que será alimentado com as questões
-		    FileWriter arqSaida = new FileWriter("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\sistemas\\1-sistema-digestorio\\saida-modelo-1.txt");
+		    FileWriter arqSaida = new FileWriter("C:\\Users\\User\\eclipse-workspace\\importarquestoes\\src\\main\\java\\importarquestoes\\sistemas\\" + (separador.i + 1) + "-" + separador.sistemas[separador.i] + "\\saida-modelo-1.txt");
 		    PrintWriter gravarArq = new PrintWriter(arqSaida);
 
 			gravarArq.printf(questoes.toString());
 
-			gravarArq.printf("fim!!");
+
 
 		    gravarArq.close();
 
 			arq.close();
 		} catch (IOException e) {
-			
+
 			System.err.printf("Erro na abertura do arquivo: %s.\n", e.getMessage());
 		}
 
 		System.out.println();
 	}
+
 }
