@@ -23,7 +23,7 @@ LEGENDA DA IMAGEM DE FEEDBACK
 Sem
 
 FEEDBACK TEXTO
-No diabetes do tipo I a pessoa acometida é insulino-dependente, pois há redução acentuada de células-beta no pâncreas, causando deficiência na produção de insulina. Esse tipo de diabetes desenvolve-se antes dos 40 anos de idade e afeta cerca de 10% dos diabéticos, que necessitam receber injeções de insulina diariamente, a fim de manter normais os níveis de glicose no sangue. 
+No diabetes do tipo I a pessoa acometida é insulino-dependente, pois há redução acentuada de células-beta no pâncreas, causando deficiência na produção de insulina. Esse tipo de diabetes desenvolve-se antes dos 40 anos de idade e afeta cerca de 10 por cento dos diabéticos, que necessitam receber injeções de insulina diariamente, a fim de manter normais os níveis de glicose no sangue.
 fim
 
 GRUPO

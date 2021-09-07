@@ -154,3 +154,4 @@ FEEDBACK TEXTO
 A figura demonstra, respectivamente as estruturas: pavilhão auditivo (representado em I), meato acústico externo (representado em II) e tuba auditiva (representada em III).
 O pavilhão auditivo, conhecido popularmente como orelha, funciona como uma concha acústica, captando os sons e direcionando para outra estrutura, o meato acústico externo, que consiste em um canal auditivo que se estende do pavilhão auricular até o tímpano. O epitélio do canal auditivo possui células secretoras de cera que retém partículas de poeira e microrganismos, protegendo as estruturas no interior da orelha.
 A tuba auditiva é um canal flexível que comunica a orelha média com a garganta, e sua função é equilibrar a pressão no interior da orelha de acordo com o meio externo. fim
+fim

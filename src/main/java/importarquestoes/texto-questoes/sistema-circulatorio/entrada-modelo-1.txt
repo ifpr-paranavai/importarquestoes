@@ -28,25 +28,25 @@ FEEDBACK TEXTO
 O sangue é considerado um tipo de tecido conjuntivo de consistência fluida, constituído pelo plasma e por elementos figurados. Os elementos figurados são constituídos por células, que são as hemácias (representada em I) e os glóbulos brancos (representado em II) e fragmentos celulares, como as plaquetas (representada em III).
 FIM
 
-GRUPO 
+GRUPO
 2
 
 MODELO
-1 
- 
-ENUNCIADO 
-O sangue é um fluido que, a olho nu, apresenta-se como um líquido homogêneo, formado por plasma e elementos figurados. Ao passar por uma centrífuga, o sangue se torna um fluido heterogêneo, pois se separa em fases de acordo com seus componentes. Na imagem, é possível observar a proporção média da constituição sanguínea ilustrada por seus respectivos componentes. Nesse contexto, analise a figura e determine as proporções dos componentes representados por I, II e III. 
+1
 
-IMAGEM 
+ENUNCIADO
+O sangue é um fluido que, a olho nu, apresenta-se como um líquido homogêneo, formado por plasma e elementos figurados. Ao passar por uma centrífuga, o sangue se torna um fluido heterogêneo, pois se separa em fases de acordo com seus componentes. Na imagem, é possível observar a proporção média da constituição sanguínea ilustrada por seus respectivos componentes. Nesse contexto, analise a figura e determine as proporções dos componentes representados por I, II e III.
+
+IMAGEM
 img27m1sc
 
 LEGENDA DA IMAGEM
-Imagem: Adaptada de Brgfx, via Freepik.com. Disponível aqui. 
+Imagem: Adaptada de Brgfx, via Freepik.com. Disponível aqui.
 
 PARES CORRETOS
-Plasma = 55%
-Glóbulos brancos e Plaquetas = 4%
-Glóbulos vermelhos = 41%
+I = Plasma
+II = Glóbulos brancos e Plaquetas
+III = Glóbulos vermelhos
 
 FEEDBACK IMAGEM
 img27m1sc
@@ -55,7 +55,7 @@ LEGENDA DA IMAGEM DE FEEDBACK
 Imagem: Adaptada de Brgfx, via Freepik.com. Disponível aqui.
 
 FEEDBACK TEXTO
-O plasma corresponde a cerca de 55% do sangue, sendo constituído por 90% de água e o restante inclui proteínas, sais minerais, hormônios, nutrientes, gases e excreções. As hemácias (glóbulos vermelhos) correspondem a 41% do sangue, e são células com forma discoidal, sem núcleo e repletas de hemoglobina. Os glóbulos brancos (leucócitos) e as plaquetas, juntos, compõem cerca de 4% do sangue, de modo que os glóbulos brancos são células esféricas e nucleadas e as plaquetas são fragmentos do citoplasmáticos anucleados, contendo forma irregular ou oval, envoltas por membrana plasmática e glicoproteínas.
+O plasma corresponde a cerca de 55 do sangue, sendo constituído por 90 por cento de água e o restante inclui proteínas, sais minerais, hormônios, nutrientes, gases e excreções. As hemácias (glóbulos vermelhos) correspondem a 41 por cento do sangue, e são células com forma discoidal, sem núcleo e repletas de hemoglobina. Os glóbulos brancos (leucócitos) e as plaquetas, juntos, compõem cerca de 4 por cento do sangue, de modo que os glóbulos brancos são células esféricas e nucleadas e as plaquetas são fragmentos do citoplasmáticos anucleados, contendo forma irregular ou oval, envoltas por membrana plasmática e glicoproteínas.
 FIM
 
 GRUPO

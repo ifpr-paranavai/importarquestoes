@@ -54,7 +54,7 @@ Sem
 
 FEEDBACK TEXTO
 O sangue chega aos néfrons por meio das arteríolas aferentes, proveniente da artéria renal, passando pelos capilares do glomérulo, sob alta pressão, onde é filtrado, forçando a saída de líquido sanguíneo para a cápsula renal.
-Ao passar pelo túbulo néfrico, o filtrado glomerular passa por um processo de reabsorção e secreção de substâncias, e ao final do túbulo transforma-se em urina, que em condições normais é composta de água (cerca de 95%), ureia, e menores quantidades de amônia, ácido úrico e sais.
+Ao passar pelo túbulo néfrico, o filtrado glomerular passa por um processo de reabsorção e secreção de substâncias, e ao final do túbulo transforma-se em urina, que em condições normais é composta de água (cerca de 95 por cento), ureia, e menores quantidades de amônia, ácido úrico e sais.
 A urina produzida nos rins é encaminhada para os ureteres que desembocam na bexiga, onde é armazenada até ser eliminada pela uretra.
 A urina é armazenada na bexiga graças ao esfíncter uretral, localizado na união entre a bexiga e a uretra, e de músculos na parede da uretra que se mantém contraídos impedindo sua saída.
 fim

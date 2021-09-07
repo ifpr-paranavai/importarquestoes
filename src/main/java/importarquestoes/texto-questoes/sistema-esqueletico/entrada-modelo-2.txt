@@ -37,7 +37,7 @@ MODELO
 2
 
 ENUNCIADO
-O esqueleto humano é composto por 206 ossos, constituindo cerca de 14% da massa corporal, tendo funções muito importantes para a vida e a homeostase do ser humano. Sobre as funções principais do sistema esquelético, analise as alternativas a seguir e selecione todas as que julgar como verdadeiras.
+O esqueleto humano é composto por 206 ossos, constituindo cerca de 14 por cento da massa corporal, tendo funções muito importantes para a vida e a homeostase do ser humano. Sobre as funções principais do sistema esquelético, analise as alternativas a seguir e selecione todas as que julgar como verdadeiras.
 
 ALTERNATIVAS
 Uma das funções do sistema esquelético consiste em garantir a comunicação nervosa entre o sistema nervoso central e os órgãos efetores de sensibilidade (músculos e glândulas).
